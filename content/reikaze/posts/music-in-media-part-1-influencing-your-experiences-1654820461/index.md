@@ -1,0 +1,155 @@
+---
+{
+title: "Music in Media: Influencing your Experiences",
+tags: ["Music in Media", "Rockmandash Rambles", "Tay-Classic", "Music", "Games", "Soundtrack", "Discussion", "Influence", "Experience", "Part 1"],
+authors: ['reikaze'],
+published: '2014-11-11T03:45:00-05:00',
+attached: [],
+license: 'cc-by-4',
+oldArticle: true
+}
+---
+
+<div><p class="sc-77igqf-0 bOfvBY"> I believe that there is an inherent flaw in the way we typically talk about music in
+  Video Games, Anime or media in general. In reviews or discussions, people tend to gloss over the sound, and on the
+  occasion they discuss it, that discussion is usually composed about if it sounds good or not. The issue is that music
+  in media is more than that. Music in a media or a narrative is fundamentally different than standalone music, and the
+  elements and intricacies that being in a media add are typically glossed over when discussing about them.</p>
+<img alt src="./975874723417177233.jpg"/>
+<div class="bxm4mm-2 hKBnez js_video-sticky__top-limit"></div>
+<div class="bxm4mm-4 fQqUFt">
+
+<div class="bxm4mm-1 gKeXmA js_video-sticky-trigger"></div>
+<div class="bxm4mm-0 jRTmst instream-native-video instream-permalink js_video-sticky-target instream-native-video--mobile"></div>
+</div>
+<div class="bxm4mm-3 eCMXYG js_video-sticky__bottom-limit"></div><p class="sc-77igqf-0 bOfvBY">Also, I'm just going to
+  throw a disclaimer so this doesn't become an issue in the future: I spend most of my time watching <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/",{"metric25":1}]]' href="http://anitay.kinja.com/" rel="noopener noreferrer" target="_blank">Anime</a></span> and playing<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://tay.kotaku.com/the-beginners-guide-to-visual-novels-1541975662",{"metric25":1}]]' href="http://tay.kotaku.com/the-beginners-guide-to-visual-novels-1541975662"> Visual Novels</a></span>. Most of my
+  examples will be from those medias, but I'll try to throw in more familiar music <strike>and will probably
+    fail</strike>. Also, everything in this article is my opinion, so feel free to disagree. I'm not trying to discuss
+  facts, I'm trying to encourage discussion.</p>
+<aside class="sc-1rh3ayr-6 jfFNjl inset--story branded-item branded-item--kinja" data-commerce-source="inset"><a class="sc-1out364-0 hMndXN sc-1rh3ayr-2 lcMGRt inset--story__thumb js_link" data-ga='[["Permalink page click","Permalink page click - inset photo"]]' href="http://anitay.kinja.com/" rel="noopener noreferrer" target="_blank">
+<img alt src="./q5ycshrmzzlhsbww3rec.png"/>
+</a>
+<div class="sc-1rh3ayr-5 lXdYy"><a class="sc-1out364-0 hMndXN js_link" data-ga='[["Permalink page click","Permalink page click - inset headline"]]' href="http://anitay.kinja.com/" rel="noopener noreferrer" target="_blank"><h6 class="sc-1rh3ayr-3 jRIPES">AniTAY | Everything Anime and Beyond</h6></a>
+<p class="sc-1rh3ayr-4 eSxSit">Everything Anime and Beyond</p><a class="sc-1out364-0 hMndXN sc-1rh3ayr-0 kOvmIi js_readmore inset--story__readmore js_link" data-ga='[["Permalink page click","Permalink page click - inset read more link"]]' href="http://anitay.kinja.com/" rel="noopener noreferrer" target="_blank">Read more</a></div>
+</aside>
+<h3 class="sc-1bwb26k-1 fvCjqJ" id="h11947"><a class="js_header-anchor" id=""></a>Getting Absorbed into the World
+  - Creating an Atmosphere </h3>
+<div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/_zJBSNM77rQ" width="560"></iframe><span class="js_recommend" data-chomp-id="_zJBSNM77rQ" data-recommend-id="youtube://_zJBSNM77rQ" data-recommended="false" id="youtube-_zJBSNM77rQ"></span></span></div><p class="sc-77igqf-0 bOfvBY"> When we experience a game or movie, we are inherently detached from the experience. Unlike
+  events in our real life, the events that take place inside a movie or a game have a very minimal effect on our own
+  lives. Due to this, these works have to try absorbing us into the world by creating an atmosphere that is engaging and
+  a mood that interests the viewer. In medias like TV shows and Video Games, one of the tools that that creators can
+  utilize to absorb us into the world is our senses, thus Visuals and Music are usually used to appease them. They are a
+  crucial element or removing the barriers of a media and making the world feel believable. Through music, these works
+  of art can create an environment in which we can experience, and give a sense of what the scene is like. Through the
+  composition of the songs, you get sensory information the tone of the scene, while acquiring knowledge on the scope of
+  the world. In the track I selected above, Stranger from <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-reviews-fate-hollow-ataraxia-visual-novel-1612260148?rev=1414624834220",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-reviews-fate-hollow-ataraxia-visual-novel-1612260148?rev=1414624834220" rel="noopener noreferrer" target="_blank"><em>Fate/hollow ataraxia</em></a></span> is a tranquil, serene track. Just
+  listening to this, it creates a calming atmosphere which helps you to imagine a calm and tranquil environment which a
+  track like this would play in, and it creates a feeling of existence. Music like this makes you feel like you are in
+  this serine world that this music plays in, and this is an important part of music in media.</p>
+<div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/ZHZhRMzfH1Y" width="560"></iframe><span class="js_recommend" data-chomp-id="ZHZhRMzfH1Y" data-recommend-id="youtube://ZHZhRMzfH1Y" data-recommended="false" id="youtube-ZHZhRMzfH1Y"></span></span></div><p class="sc-77igqf-0 bOfvBY"> This atmosphere is especially important to make in Video Games, where there are long
+  expanses of time where there is little going on screen that involves writing, thus the other tools need to pick up the
+  slack. Some games like platformers don't really have a plot at all, so they rely on the visuals, sound and gameplay to
+  engage the player in an experience. One example I can think of in a game that creates a really solid atmosphere via
+  music is in <em>Sonic Unleashed</em>'s Night stages. Many people would say that these stages are absolutely horrible;
+  they are too long, the gameplay is repetitive, and they really shouldn't be there. The biggest reason that I kept
+  playing was the absolutely amazing soundtrack that would play when there wasn't battles; the variety of instruments
+  made me feel like I was playing as a character in that part of the world (because<em> Unleashed</em> took place in
+  many parts of the world), and the solid execution with pleasing to the ear composure and smoothness is one that I fell
+  in love with.</p>
+<div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/ndnraBW0uJw" width="560"></iframe><span class="js_recommend" data-chomp-id="ndnraBW0uJw" data-recommend-id="youtube://ndnraBW0uJw" data-recommended="false" id="youtube-ndnraBW0uJw"></span></span></div><p class="sc-77igqf-0 bOfvBY">Also, this is incredibly important to make for works that do not occur in modern times, in
+  our world, or just any setting we are not familiar with. Creating this atmosphere is essential to how you experience
+  said work, and it will directly influence the your enjoyment of the game. It can be the difference between getting
+  attached to a story, or not. Due to the fact that the person experiencing a work is unfamiliar with the world, music
+  usually acts as a supplement to the world building, as it helps to create a culture and feel for the world. Via the
+  use of genres, specific instruments and play style, Music can heavily influence your perceived notion of the world: it
+  can create a feeling of age, it can create a feeling of fantasy, it can create a feeling of alienation, etc. A great
+  example is the <strong>not </strong><em>Final Fantasy</em> game, <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://kotaku.com/the-last-story-the-kotaku-review-5889812",{"metric25":1}]]' href="http://kotaku.com/the-last-story-the-kotaku-review-5889812"><em>The Last Story</em></a></span>. If you just
+  had the writing and the world, it may just feel like another high fantasy, but with Nobuo Uematsu's beautiful
+  soundtrack, it creates a rich world, one with its own history and past. It builds a very distinct tone and feel using
+  instruments like the violin that is not typically found in fantasies, and it helps to create a tone for what the game
+  will feel like. The world feels older than our modern times, but it has a lot of character, and this soundtrack makes
+  the world feel very alive. It gives you a good feel for what the world is like, and is a huge part of the world
+  building in The Last Story.</p>
+<h3 class="sc-1bwb26k-1 fvCjqJ" id="h11948"><a class="js_header-anchor" id=""></a>Enhancing the Meaning - Using a
+  Soundtrack Well</h3><p class="sc-77igqf-0 bOfvBY"> It's one thing to have a track that portrays an atmosphere, but
+  it's another to use it well. For a soundtrack to be really effective, it has to utilize its music to coincide with
+  what is happening on screen, and accompany the narrative or experience the work is trying to execute. A soundtrack
+  that is used well will capture the themes, make important scenes stand out from the rest, with a well-timed track that
+  matches with what the visuals and writing is doing, but used well enough to make sure that it the track itself leaves
+  impact on the viewer. Sometimes using a track too much may dull the impact, but repetition manages to enforce the
+  meaning of the song.</p>
+<div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/vg8_U8ybMwI" width="560"></iframe><span class="js_recommend" data-chomp-id="vg8_U8ybMwI" data-recommend-id="youtube://vg8_U8ybMwI" data-recommended="false" id="youtube-vg8_U8ybMwI"></span></span></div><p class="sc-77igqf-0 bOfvBY"> I think a great example of a well-used soundtrack would be <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://kotaku.com/heavy-rain-review-no-wrong-conclusion-452580385",{"metric25":1}]]' href="http://kotaku.com/heavy-rain-review-no-wrong-conclusion-452580385"><em>Heavy Rain</em></a></span>; the
+  depressing, slow tracks emphasize the bleak and oppressive mood, which heavily compliments the story and shows exactly
+  what you should expect out of this game, putting it's themes front and center. The music is extremely well, to put the
+  player in the world, to make it feel real… and then put the impact of the scene in. It has a wide variety of tension
+  tracks to keep it fresh like Coundown and The Chase, which all keep the songs fresh and sounding appealing to the ear,
+  even though there aren't a lot of tracks in the soundtrack.</p>
+<div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/eFah8TCWOro" width="560"></iframe><span class="js_recommend" data-chomp-id="eFah8TCWOro" data-recommend-id="youtube://eFah8TCWOro" data-recommended="false" id="youtube-eFah8TCWOro"></span></span></div><p class="sc-77igqf-0 bOfvBY"> It'll be nearly impossible to show you in this text article about what a well-executed
+  soundtrack is like, but I'll try my best by giving examples of shows with similar soundtracks but very different
+  execution (sorry if you are lost by my examples). If you've been watching anime as of late, you have probably heard
+  some of Hiroyuki Sawano and Mika Kobayashi's work, in works like <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","https://kotaku.com/attack-on-titan-is-good-so-far-but-doesnt-live-up-to-643242311",{"metric25":1}]]' href="https://kotaku.com/attack-on-titan-is-good-so-far-but-doesnt-live-up-to-643242311"><em>Attack on </em></a></span><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://tay.kotaku.com/dexs-review-attack-on-titan-1464030190",{"metric25":1}]]' href="http://tay.kotaku.com/dexs-review-attack-on-titan-1464030190"><em>Titan</em></a></span>, <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://kotaku.com/kill-la-kills-first-half-is-just-pure-unfiltered-fun-1486930532",{"metric25":1}]]' href="http://kotaku.com/kill-la-kills-first-half-is-just-pure-unfiltered-fun-1486930532"><em>Kill la</em></a></span><em> </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://tay.kotaku.com/kill-la-kill-the-ani-tay-review-1554090665",{"metric25":1}]]' href="http://tay.kotaku.com/kill-la-kill-the-ani-tay-review-1554090665"><em>Kill</em></a></span>, and <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://kotaku.com/aldnoah-zero-is-a-dark-twist-on-gundam-1654366568",{"metric25":1}]]' href="http://kotaku.com/aldnoah-zero-is-a-dark-twist-on-gundam-1654366568"><em>Aldnoah.</em></a></span><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/aldnoah-zero-the-ani-tay-review-1637330529",{"metric25":1}]]' href="http://anitay.kinja.com/aldnoah-zero-the-ani-tay-review-1637330529" rel="noopener noreferrer" target="_blank"><em>Zero</em></a></span>.
+  They make absolutely amazing soundtracks, which all enhance the pacing, tone and mood of the show dramatically. These
+  are shows where the soundtrack is dramatic and bombastic, thus they have a large impact. In these shows, I'd say that
+  the style and quality in the soundtracks are about the same, but <em>Aldnoah.Zero</em>'s is nowhere near as
+  entertaining due to the usage. Every time <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://www.youtube.com/watch?v=9nvp4kzUoww",{"metric25":1}]]' href="https://www.youtube.com/watch?v=9nvp4kzUoww" rel="noopener noreferrer" target="_blank">Don't lose your way</a></span> is used in
+  <em>Kill la Kill</em>, it's used because Ryoko <strong>is losing her way</strong>, and due to the circumstantial usage
+  of it, the track stands out from the soundtrack and you know something's going down. In Attack on Titan, Reluctant
+  Heroes was used whenever characters are determined yet reluctant, thus fitting with the song. In <em>Aldnoah.Zero</em>,
+  when <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://www.youtube.com/watch?v=UApRJwaqBEI",{"metric25":1}]]' href="https://www.youtube.com/watch?v=UApRJwaqBEI" rel="noopener noreferrer" target="_blank">BRE@TH//LESS</a></span>
+  is used, it's used during tension, but used haphazardly and not for a specific type of tension, thus dulling the
+  strength of the song. By the end of Season 1, BRE@TH//LESS felt like it was disconnected with what was happening with
+  the show, and it seemed like it was used only to sound cool.</p>
+
+<aside class="sc-1rh3ayr-6 jfFNjl inset--story branded-item branded-item--kotaku" data-commerce-source="inset"><a class="sc-1out364-0 hMndXN sc-1rh3ayr-2 lnnjIC inset--story__thumb js_link" data-ga='[["Permalink page click","Permalink page click - inset photo"]]' href="https://kotaku.com/attack-on-titan-is-good-so-far-but-doesnt-live-up-to-643242311" rel="noopener noreferrer" target="_blank">
+<video autoplay="" loop="" muted=""><source src="./18slrg0rc6h9ogif.mp4" type="video/mp4"/></video>
+<span class="ynl58c-0 kuYOrG"><svg aria-label="Kotaku avatar" height="64" viewbox="0 0 64 64" width="64" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h64v64H0z" fill="#FBC000"></path><path d="M16.8 49.62l3.67-.14c4.05-.15 7.76-3.2 8.35-6.78l4.13-24.65-10.3-.3-5.84 31.87zM43.19 29.1c3.57.02 4.95 1.29 5.93 3.27l6.84 16.84c-1.73 1.54-9.79 1-12.08-5.04l-2.5-6.72h-1.15c-3.8.06-9.2-2.78-8.03-8.4l11 .05zm-22.2-11.38l-5.59-.16c-7.78-.22-9.93 5.3-9.28 8.88l13.26.13 1.6-8.85zm31.55 7.69c2.62-1.66 3.74-7.65 1.9-9.4l-13.51 3.4c-2.3 1.28-4.94 5.01-2.33 9.15l13.94-3.15z" fill="#FFF"></path></g></svg></span></a>
+<div class="sc-1rh3ayr-5 lXdYy"><a class="sc-1out364-0 hMndXN js_link" data-ga='[["Permalink page click","Permalink page click - inset headline"]]' href="https://kotaku.com/attack-on-titan-is-good-so-far-but-doesnt-live-up-to-643242311" rel="noopener noreferrer" target="_blank"><h6 class="sc-1rh3ayr-3 jRIPES"><em>Attack
+    on Titan</em> is Good So Far, But Doesn't Live Up to Its Potential</h6></a>
+<p class="sc-1rh3ayr-4 eSxSit">Thanks to an amazing title sequence and an imagination-capturing low fantasy world,
+      Attack on Titan </p><a class="sc-1out364-0 hMndXN sc-1rh3ayr-0 kmFqkp js_readmore inset--story__readmore js_link" data-ga='[["Permalink page click","Permalink page click - inset read more link"]]' href="https://kotaku.com/attack-on-titan-is-good-so-far-but-doesnt-live-up-to-643242311" rel="noopener noreferrer" target="_blank">Read more</a></div>
+</aside><h3 class="sc-1bwb26k-1 fvCjqJ" id="h11949"><a class="js_header-anchor" id=""></a>Controlling How You Feel -
+  Dictating Mood</h3>
+<div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/vdk_76z38bA" width="560"></iframe><span class="js_recommend" data-chomp-id="vdk_76z38bA" data-recommend-id="youtube://vdk_76z38bA" data-recommended="false" id="youtube-vdk_76z38bA"></span></span></div><p class="sc-77igqf-0 bOfvBY"> Why is the execution important? Mood. Music is what dictates the mood of the story, and by
+  doing this, directly influences how you the viewer/player feels. One can say that music is emotion itself, and I'd
+  have to agree with thatWhen you have a good soundtrack, the music will attach you to the characters, and the music
+  will mess with you. When you engage a story, you come into it with your own mindset: It is the music's job to snap you
+  into the mindset that the scene intends you to be in, and when it does this, it usually elicits emotions. When you and
+  the music are in the same mindset, it can really memorable moments, and those are the moments when they flood gates
+  open, the emotions start impacting. My example for this is <em>Clannad, </em>as the track Roaring Tides does an
+  absolutely fantastic job moving you, and it certainly did a number on me when I first heard it... I was pouring tears.
+</p>
+<p class="sc-77igqf-0 bOfvBY"> Most important music in games and film are made to do this. Music is a powerful
+  tool that heavily influences how you feel. Without solid music playing, events mean nothing. Music is what makes a
+  scene memorable, and is probably the most powerful at evoking emotions. While Visuals and Writing can influence your
+  mood to be sad, that influence pales to comparison the influence that playing sad music will do. Music is the aspect
+  of media that strikes straight into your heart, and it's the one that will influence how you feel the most. I'm sure
+  you've all experienced a movie or game where they have a really sad or actiony song to sway your emotions, and it
+  works exceptionally well.</p>
+<div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/WlXb8P21kws" width="560"></iframe><span class="js_recommend" data-chomp-id="WlXb8P21kws" data-recommend-id="youtube://WlXb8P21kws" data-recommended="false" id="youtube-WlXb8P21kws"></span></span></div><p class="sc-77igqf-0 bOfvBY"> To me, the ideal soundtrack is one that takes that feeling of existence I mentioned
+  earlier and connects you with the characters, and makes you feel what they feel. When you start to think like the
+  protagonist, and feel like your actions would be exactly the same as the protagonist, the soundtrack is doing it's job
+  in creating an amazing atmosphere and getting you to feel. When this combination appears, there is nothing more
+  emotional and impactful that I can think of; you feel the consequences, you feel in the mood, and the music influences
+  you to no end. If you've been on Ani-TAY for an extended period of time, You've probably heard this before,
+  but<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://rockmandash12.kinja.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967",{"metric25":1}]]' href="https://rockmandash12.kinja.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967" rel="noopener noreferrer" target="_blank"><em>Muv-Luv</em></a></span> does this extremely well. It was the
+  <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://tay.kotaku.com/rockmandash-rambles-why-i-loved-muv-luv-but-you-might-1566859006",{"metric25":1}]]' href="http://tay.kotaku.com/rockmandash-rambles-why-i-loved-muv-luv-but-you-might-1566859006">collimation of everything</a></span>
+  I've been talking about in the article: Amazing atmosphere due to the music, excellent execution that <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://dexomega.kinja.com/why-muv-luv-was-a-defining-entry-in-modern-science-fict-1656724699",{"metric25":1}]]' href="https://dexomega.kinja.com/why-muv-luv-was-a-defining-entry-in-modern-science-fict-1656724699" rel="noopener noreferrer" target="_blank">enhances the purpose of the plot</a></span> and making you feel. They utilize the music to
+  make you despair, and after experiencing this moment, you probably will be bauling up just like the main character
+  Takeru did. It's a great example of music in a media done right.</p>
+
+<aside class="sc-1rh3ayr-6 jfFNjl inset--story branded-item branded-item--kinja" data-commerce-source="inset"><a class="sc-1out364-0 hMndXN sc-1rh3ayr-2 lcMGRt inset--story__thumb js_link" data-ga='[["Permalink page click","Permalink page click - inset photo"]]' href="https://rockmandash12.kinja.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967" rel="noopener noreferrer" target="_blank">
+<img alt src="./dawudqmpimngnkpxt2zq.png"/>
+</a>
+<div class="sc-1rh3ayr-5 lXdYy"><a class="sc-1out364-0 hMndXN js_link" data-ga='[["Permalink page click","Permalink page click - inset headline"]]' href="https://rockmandash12.kinja.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967" rel="noopener noreferrer" target="_blank"><h6 class="sc-1rh3ayr-3 jRIPES">
+    Rockmandash Reviews: <i>Muv-Luv &amp; Alternative</i> [Visual Novel]</h6></a>
+<p class="sc-1rh3ayr-4 eSxSit"> Welcome to Rockmandash Reviews, and this is my review of the highly regarded Muv-Luv
+      Visual Novels </p><a class="sc-1out364-0 hMndXN sc-1rh3ayr-0 kOvmIi js_readmore inset--story__readmore js_link" data-ga='[["Permalink page click","Permalink page click - inset read more link"]]' href="https://rockmandash12.kinja.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967" rel="noopener noreferrer" target="_blank">Read more</a></div>
+</aside><h3 class="sc-1bwb26k-1 fvCjqJ" id="h11950"><a class="js_header-anchor" id=""></a>Conclusion</h3><p class="sc-77igqf-0 bOfvBY"> Music is an aspect of media that is underrepresented in discussions, and I hope this
+  article makes you think and appreciate the influences it has. The next time you are watching a show or playing a game,
+  try to think of the music and it's influences. The next time you discuss your favorite show or game with someone,
+  bring up the soundtrack, as it's rarely discussed... and for those reviewers or analyzers of media reading this:
+  <strong>PLEASE MENTION THE SOUNDTRACK</strong>. It's a crucial element of the experience, and it pains me to see so
+  many people gloss over it. Music dramatically influences a person's experience, so not mentioning it is leaving out an
+  important aspect unmentioned, and it really should be mentioned to spur discussion.</p>
+</div>
