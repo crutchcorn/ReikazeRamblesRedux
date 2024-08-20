@@ -17,9 +17,9 @@
 
 According to [Fuwanovel’s Document of Lexicon](https://docs.google.com/document/d/1yfMIKXtfCFnZgcgRN_-34B8CdSTRE2FwDrvT4gCPP-s/edit) (well, loosely copied, I edited it a bit for flow in this article):
 
-***Visual Novels* **(**VN** for Short) is a subgenre of adventure games and are interactive storytelling games, usually structured around choose your own adventure books where the player is presented with choices that may or may not alter the course of the story. They are commonly illustrated in an anime/manga art style and are primarily text focused. Character sprites, original soundtracks, voice acting are common occurrences in more modern games.
+***Visual Novels*** (**VN** for Short) is a subgenre of adventure games and are interactive storytelling games, usually structured around choose your own adventure books where the player is presented with choices that may or may not alter the course of the story. They are commonly illustrated in an anime/manga art style and are primarily text focused. Character sprites, original soundtracks, voice acting are common occurrences in more modern games.
 
-**Dating Sims **are technically different genres, being a sub-genre of sim (simulation) games based on romantic relationships. Dating sims include a gameplay element and often a skill set** **which allows you to raise specific stats to win over the different heroines.
+**Dating Sims** are technically different genres, being a sub-genre of sim (simulation) games based on romantic relationships. Dating sims include a gameplay element and often a skill set which allows you to raise specific stats to win over the different heroines.
 
 ![](./miqrq3c13swsxbdccqwx.jpg)
 
