@@ -17,11 +17,17 @@ Death. It’s a concept imposed on us that we cannot avoid, the defining conflic
 
 ***DISCLAIMER - this post will contain spoilers on the Show Grimgar, primarily discussing the events after episode 3, my thoughts on it and how it effects the show itself. For those who have not seen Grimgar,***
 
-### []()***DO NOT READ ON. SERIOUSLY. DON’T. GO BACK AND WATCH THE SHOW, OR LEAVE.***
+***DO NOT READ ON. SERIOUSLY. DON’T. GO BACK AND WATCH THE SHOW, OR LEAVE.***
 
 ***Get it? Got it? Good. After you stare at these pictures which serve as buffer for those who dare to scroll even though they haven’t seen the show, we’re moving on.***
 
-![](x0yztlnuypla0ognvqex.jpg) [](tbi5hwfsniyr5owgwydw.mp4) [](./ipdrugd9caspooepwruj.mp4) [](./izc6fjxjetgs9tsl7wj3.mp4)
+![](x0yztlnuypla0ognvqex.jpg) 
+
+<video src="tbi5hwfsniyr5owgwydw.mp4"></video> 
+
+<video src="./ipdrugd9caspooepwruj.mp4"></video> 
+
+<video src="./izc6fjxjetgs9tsl7wj3.mp4"></video>
 
 *Grimgar of Fantasy and Ash* is a fantasy drama show made by A-1 pictures that does not hold anything back, a show based around the experiences and promises it holds about the premise and the world it is based upon. It’s a show that runs with a rather tried and true premise of dropping and trapping people into a fantasy world that we’ve been seeing lately after the explosion that is *Sword Art Online*, but then deconstructs (as much as you may dislike the word, it is descriptive of *Grimgar*) it to show how such a premise could work in the real world, with a darker and more dramatic twist. While it’s definitely not the first or arguably the best deconstruction in anime, (see *Now and Then, Here and There* for that IMO) it is definitely what it says it is, A grim work that focuses on the reality of the fantasy world, but also the promises of a future that comes with a new world.
 
@@ -33,7 +39,7 @@ You see, the characters it focuses on are young teenagers were ripped out of a w
 
 Enter Episode 4 of *Grimgar*. The past few episodes have been all good for our little team of volunteer soldiers, finally killing their first goblin and making money in an abandoned city, but the world of Grimgar isn’t a walk in the park and hands the squad a casualty of it’s own after the death of many goblins: the death of their leader Manato, who was essentially running the show. He was a big brother to our MC, the team’s healer that essentially kept the team alive, he was a manager that organized everything, but he was a control freak who had a bad habit of going **LEROY JENKINS** on the cast, essentially dooming his fate and explaining the Ash in the title.
 
-[](pmrarksqugu0l6c03hbb.mp4)
+<video src="./pmrarksqugu0l6c03hbb.mp4"></video>
 
 As a drama that focuses on reality, the death of Manato was all that much harder than death on other works, and it was brilliant yet horrifying at the same time. Due to the deconstructive nature of the work, it wasn’t just a cheap death that means nothing ala *Akame ga Kill*: it got us to think of death in the context of a real death, and it’s a works that is able to bring so much more, to get you to think about all sorts of elements - the loss of potential, the loss of a good friend, etc. It was a strong and effective move for the show to kill him off, and in no way was it meaningless, shaping the show to be the way it has to be but like death itself and in the show, there are positives and negatives to everything.
 
