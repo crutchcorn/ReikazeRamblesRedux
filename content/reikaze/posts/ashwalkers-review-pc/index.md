@@ -2,13 +2,13 @@
 {
   title: "Ashwalkers Review – Retreading The Path Already Taken",
   published: "2021-04-15T07:59:59-07:00",
-  ogLink: "https://noisypixel.net/ashwalkers-review-pc/",
+  originalLink: "https://noisypixel.net/ashwalkers-review-pc/",
 }
 ---
 
 You often run into games that stake their whole structure and appeals on a singular mechanic, but sadly, those mechanics aren’t always fun. Developed by the studio founded by the co-creator of _Life is Strange_, _Ashwalkers_ is an atmospheric narrative-driven adventure that is intriguing in its early moments but the game gets repetitive and dull, very quickly.
 
-[YouTube video player](https://www.youtube.com/embed/B7IITfz0bNU)
+<iframe src="https://www.youtube.com/embed/B7IITfz0bNU"></iframe>
 
 Given its name and setting, _Ashwalkers_ made the decision to be entirely grayscale. At times this decision pays off as it sets the mood for a distinct post-apocalyptic atmosphere. On the other hand, it often makes the game look flat and dull, and at times it can make things hard to see – like there wasn’t enough contrast. The music is a few tracks of forgettable atmospheric pieces, working to set the mood, but nothing that will stick with you when you’re done.
 
