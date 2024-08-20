@@ -6,11 +6,11 @@
 }
 ---
 
-In anime, the sports genre is fascinating based on the way the story is presented, typically taking on a more over-the-top shonen approach, but without death. It makes for some unique moments of action with what would otherwise be a boring subject. Still, rarely does it mesh with other genres, most notably, romance. However, _Aokana: Four Rhythm Across the Blue_, finds a way to pull this off through excellent character writing and memorable set pieces. Even though it may have a rocky landing in certain routes, *Aokana *finds the perfect new home on Nintendo Switch.
+In anime, the sports genre is fascinating based on the way the story is presented, typically taking on a more over-the-top shonen approach, but without death. It makes for some unique moments of action with what would otherwise be a boring subject. Still, rarely does it mesh with other genres, most notably, romance. However, _Aokana: Four Rhythm Across the Blue_, finds a way to pull this off through excellent character writing and memorable set pieces. Even though it may have a rocky landing in certain routes, *Aokana* finds the perfect new home on Nintendo Switch.
 
 [Aokana: Four Rhythms Across the Blue Switch Review - Noisy Pixel](https://www.youtube.com/embed/XKOCPgqiIkk?feature=oembed)
 
-*Aokana: Four Rhythm Across the Blue *is the complete package in terms of presentation, with excellent visuals and sound. While the character designs and general aesthetic may be considered generic for what you’d see in an anime, I found that it was done well and the presentation added to the overall quality of the work tremendously.
+*Aokana: Four Rhythm Across the Blue* is the complete package in terms of presentation, with excellent visuals and sound. While the character designs and general aesthetic may be considered generic for what you’d see in an anime, I found that it was done well and the presentation added to the overall quality of the work tremendously.
 
 The standout design finds its way into the game’s UI that takes on the form of a textbook. Furthermore, the audio track title appears onscreen when the song changes, which worked for me because it has a pretty good soundtrack. These elements give off a more modern visual novel experience, which may make it more approachable to newcomers.
 
