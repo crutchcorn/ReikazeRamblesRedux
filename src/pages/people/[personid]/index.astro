@@ -1,0 +1,30 @@
+---
+import Document from "../../../layouts/document.astro";
+import SEO from "components/seo/seo.astro";
+import UnicornsPage from "src/views/unicorn/unicorn-page.astro";
+import * as api from "utils/api";
+
+export async function getStaticPaths() {
+	const unicorns = api.getPeople();
+	return unicorns.map((unicorn) => ({ params: { personid: unicorn.id } }));
+}
+
+const params = Astro.params as { personid: string };
+
+const person = api.getPersonById(params.personid)!;
+const posts = api.getPostsByPerson(person.id);
+---
+
+<Document size="xl">
+	<SEO
+		slot="head"
+		title={person.name}
+		description={person.description}
+		unicornsData={[person]}
+		type="profile"
+		pathName={`/unicorns/${person.id}`}
+	/>
+	<main class="listViewContent">
+		<UnicornsPage unicorn={person} posts={posts} />
+	</main>
+</Document>

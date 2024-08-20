@@ -2,7 +2,7 @@ import * as React from "preact";
 import { ComponentProps, Layout } from "../base";
 import style from "./twitter-preview-css";
 import fs from "fs/promises";
-import { getUnicornById } from "utils/api";
+import { getPersonById } from "utils/api";
 
 const unicornUtterancesHead = await fs.readFile(
 	"src/assets/unicorn_utterances_sticker.svg",
@@ -79,7 +79,7 @@ const TwitterLargeCard = ({
 					<div class="postInfo">
 						<span class="authors">
 							{post.authors
-								.map((id) => getUnicornById(id, post.locale)!.name)
+								.map((id) => getPersonById(id)!.name)
 								.join(", ")}
 						</span>
 						<span class="date">

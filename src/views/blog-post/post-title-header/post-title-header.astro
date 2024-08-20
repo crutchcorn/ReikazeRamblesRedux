@@ -5,7 +5,6 @@ import { Icon } from "astro-icon/components";
 import { Chip } from "components/index";
 import dayjs from "dayjs";
 import { buildSearchQuery } from "../../search/search";
-import { translate } from "utils/translations";
 
 interface PostTitleHeaderProps {
 	post: PostInfo;
@@ -61,11 +60,7 @@ const originalLinkStr = post.originalLink && new URL(post.originalLink).host;
 				<Icon width={24} height={24} name="words" aria-hidden="true" />
 				<p class="text-style-button-regular">
 					{
-						translate(
-							Astro,
-							"title.n_words",
-							post.wordCount.toLocaleString("en"),
-						)
+							post.wordCount.toLocaleString("en")
 					}
 				</p>
 			</div>
@@ -75,7 +70,7 @@ const originalLinkStr = post.originalLink && new URL(post.originalLink).host;
 					<div class={style.originalLink}>
 						<Icon width={24} height={24} name="website" aria-hidden="true" />
 						<p class="text-style-button-regular">
-							{translate(Astro, "desc.original_link")}
+							{"desc.original_link"}
 							<a
 								href={post.originalLink}
 								target="_blank"

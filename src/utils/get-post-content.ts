@@ -8,8 +8,7 @@ import { contentDirectory } from "./data";
  * Returns the file content (excluding frontmatter) of the given post.
  */
 export async function getPostContentMarkdown(post: PostInfo): Promise<string> {
-	const indexName =
-		post.locale === "en" ? "index.md" : `index.${post.locale}.md`;
+	const indexName = "index.md";
 	const fileContents = await fs.readFile(
 		path.join(contentDirectory, post.path, indexName),
 		"utf-8",

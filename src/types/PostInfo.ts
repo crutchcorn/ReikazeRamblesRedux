@@ -1,5 +1,3 @@
-import { Languages } from "types/index";
-
 export interface RawPostInfo {
 	title: string;
 	published: string;
@@ -23,8 +21,6 @@ export interface PostInfo extends RawPostInfo {
 	description: string;
 	excerpt: string;
 	path: string;
-	locales: Languages[];
-	locale: Languages;
 	publishedMeta: string;
 	editedMeta?: string;
 	socialImg: string;

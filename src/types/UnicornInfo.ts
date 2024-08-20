@@ -1,5 +1,3 @@
-import { Languages } from ".";
-
 export interface RawUnicornInfo {
 	name: string;
 	firstName: string;
@@ -29,8 +27,6 @@ export interface UnicornInfo extends Required<RawUnicornInfo> {
 	kind: "unicorn";
 	id: string;
 	file: string;
-	locale: Languages;
-	locales: Languages[];
 	totalPostCount: number;
 	totalWordCount: number;
 	profileImgMeta: {

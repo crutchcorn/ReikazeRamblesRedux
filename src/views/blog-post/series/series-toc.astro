@@ -5,7 +5,6 @@ import { PostInfo } from "types/index";
 import { Button } from "../../../components";
 import { findActivePost, getShortTitle } from "./base";
 import { CollectionInfo } from "types/CollectionInfo";
-import { translate } from "../../../utils";
 
 interface SeriesTocProps {
 	post: PostInfo;
@@ -17,11 +16,7 @@ const { post, postSeries, collection } = Astro.props as SeriesTocProps;
 
 const activePostsMeta = findActivePost(post, postSeries);
 
-const showMoreText = translate(
-	Astro,
-	"action.view_all_chapters",
-	"" + activePostsMeta.length,
-);
+const showMoreText = "" + activePostsMeta.length
 ---
 
 <div class={styles.seriesTableOfContent}>
@@ -95,7 +90,7 @@ const showMoreText = translate(
 <script
 	define:vars={{
 		showMoreText: showMoreText,
-		showLessText: translate(Astro, "action.view_less_chapters"),
+		showLessText: "action.view_less_chapters"
 	}}
 >
 	const showMore = document.querySelector("#toggleAllButton");

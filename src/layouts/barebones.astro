@@ -1,20 +1,8 @@
 ---
 import { THEME_COLOR_DARK, THEME_COLOR_LIGHT } from "constants/theme";
-import { Languages } from "types/index";
-
-/**
- * For our super custom pages that don't require the global styling of the rest of UU, such as FFG's pages.
- */
-
-interface DocumentProps {
-	lang?: Languages;
-}
-
-let { lang } = Astro.props as DocumentProps;
-lang ??= "en";
 ---
 
-<html lang={lang} class="light">
+<html lang={"en"} class="light">
 	<head>
 		<meta name="viewport" content="width=device-width" />
 		<meta charset="utf-8" />

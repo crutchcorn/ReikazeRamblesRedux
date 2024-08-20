@@ -1,7 +1,6 @@
 import { Feed } from "feed";
 import { siteUrl } from "constants/site-config";
-import { getPostsByLang, getUnicornById } from "utils/api";
-import licenses from "../../content/data/licenses.json";
+import { getPosts, getPersonById } from "utils/api";
 
 export const GET = () => {
 	const feed = new Feed({
@@ -21,7 +20,7 @@ export const GET = () => {
 		},
 	});
 
-	getPostsByLang("en").forEach((post) => {
+	getPosts().forEach((post) => {
 		const nodeUrl = `${siteUrl}/posts/${post.slug}`;
 
 		feed.addItem({
@@ -31,7 +30,7 @@ export const GET = () => {
 			description: post.description,
 			content: post.excerpt,
 			author: post.authors
-				.map((id) => getUnicornById(id, post.locale))
+				.map((id) => getPersonById(id))
 				.map((author) => {
 					return {
 						name: author!.name,
@@ -39,7 +38,6 @@ export const GET = () => {
 					};
 				}),
 			date: new Date(post.published),
-			copyright: licenses.find((l) => l.id === post.license)?.displayName,
 			extensions: [],
 		});
 	});

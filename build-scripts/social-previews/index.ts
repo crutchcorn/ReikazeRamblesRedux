@@ -87,7 +87,7 @@ await fsPromises.mkdir(resolve(outDir, "./generated"), { recursive: true });
  * This is done synchronously, in order to prevent more than a single instance
  * of the browser from running at the same time.
  */
-for (const post of api.getPostsByLang("en")) {
+for (const post of api.getPosts()) {
 	if (post.socialImg) {
 		await renderPostImage(
 			twitterPreview,
@@ -97,7 +97,7 @@ for (const post of api.getPostsByLang("en")) {
 	}
 }
 
-for (const post of api.getPostsByLang("en")) {
+for (const post of api.getPosts()) {
 	if (post.bannerImg) {
 		await renderPostImage(banner, post, resolve(outDir, `.${post.bannerImg}`));
 	}

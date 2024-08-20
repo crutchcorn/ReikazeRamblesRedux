@@ -15,66 +15,11 @@ import { resolvePath } from "./url-paths";
 import matter from "gray-matter";
 import dayjs from "dayjs";
 
-import { unified } from "unified";
-import remarkParse from "remark-parse";
-import remarkToRehype from "remark-rehype";
-import rehypeStringify from "rehype-stringify";
-import { rehypeUnicornElementMap } from "./markdown/rehype-unicorn-element-map";
 import { getExcerpt } from "./markdown/get-excerpt";
-import { getLanguageFromFilename } from "./translations";
-import aboutRaw from "../../content/data/about.json";
-import rolesRaw from "../../content/data/roles.json";
-import licensesRaw from "../../content/data/licenses.json";
-import tagsRaw from "../../content/data/tags.json";
 
 export const contentDirectory = join(process.cwd(), "content");
 
 const tags = new Map<string, TagInfo>();
-
-// This needs to use a minimal version of our unified chain,
-// as we can't import `createRehypePlugins` through an Astro
-// file due to the hastscript JSX
-const tagExplainerParser = unified()
-	.use(remarkParse, { fragment: true } as never)
-	.use(remarkToRehype, { allowDangerousHtml: true })
-	.use(rehypeUnicornElementMap)
-	.use(rehypeStringify, { allowDangerousHtml: true, voids: [] });
-
-for (const [key, tag] of Object.entries(tagsRaw)) {
-	let explainer = undefined;
-	let explainerType: TagInfo["explainerType"] | undefined = undefined;
-
-	if ("image" in tag && tag.image.endsWith(".svg")) {
-		const license = await fs
-			.readFile("public" + tag.image.replace(".svg", "-LICENSE.md"), "utf-8")
-			.catch((_) => undefined);
-
-		const attribution = await fs
-			.readFile(
-				"public" + tag.image.replace(".svg", "-ATTRIBUTION.md"),
-				"utf-8",
-			)
-			.catch((_) => undefined);
-
-		if (license) {
-			explainer = license;
-			explainerType = "license";
-		} else if (attribution) {
-			explainer = attribution;
-			explainerType = "attribution";
-		}
-	}
-
-	const explainerHtml = explainer
-		? (await tagExplainerParser.process(explainer)).toString()
-		: undefined;
-
-	tags.set(key, {
-		explainerHtml,
-		explainerType,
-		...tag,
-	});
-}
 
 async function readUnicorn(unicornPath: string): Promise<UnicornInfo[]> {
 	const unicornId = path.basename(unicornPath);
@@ -83,12 +28,9 @@ async function readUnicorn(unicornPath: string): Promise<UnicornInfo[]> {
 		.filter(isNotJunk)
 		.filter((name) => name.startsWith("index.") && name.endsWith(".md"));
 
-	const locales = files.map(getLanguageFromFilename);
-
 	const unicornObjects = [];
 
 	for (const file of files) {
-		const locale = getLanguageFromFilename(file);
 		const filePath = join(unicornPath, file);
 		const fileContents = await fs.readFile(filePath, "utf-8");
 		const frontmatter = matter(fileContents).data as RawUnicornInfo;
@@ -110,8 +52,6 @@ async function readUnicorn(unicornPath: string): Promise<UnicornInfo[]> {
 			kind: "unicorn",
 			id: unicornId,
 			file: filePath,
-			locale,
-			locales,
 			totalPostCount: 0,
 			totalWordCount: 0,
 			profileImgMeta: {
@@ -171,11 +111,8 @@ async function readCollection(
 		.filter(isNotJunk)
 		.filter((name) => name.startsWith("index.") && name.endsWith(".md"));
 
-	const locales = files.map(getLanguageFromFilename);
-
 	const collectionObjects: CollectionInfo[] = [];
 	for (const file of files) {
-		const locale = getLanguageFromFilename(file);
 		const filePath = join(collectionPath, file);
 		const fileContents = await fs.readFile(filePath, "utf-8");
 		const frontmatter = matter(fileContents).data as RawCollectionInfo;
@@ -216,8 +153,6 @@ async function readCollection(
 			kind: "collection",
 			slug,
 			file: filePath,
-			locale,
-			locales,
 			postCount,
 			tags: frontmatterTags,
 			coverImgMeta,
@@ -239,11 +174,8 @@ async function readPost(
 		.filter(isNotJunk)
 		.filter((name) => name.startsWith("index.") && name.endsWith(".md"));
 
-	const locales = files.map(getLanguageFromFilename);
-
 	const postObjects: PostInfo[] = [];
 	for (const file of files) {
-		const locale = getLanguageFromFilename(file);
 		const filePath = join(postPath, file);
 		const fileContents = await fs.readFile(filePath, "utf-8");
 		const fileMatter = matter(fileContents);
@@ -297,8 +229,6 @@ async function readPost(
 			slug,
 			file: filePath,
 			path: path.relative(contentDirectory, postPath),
-			locale,
-			locales,
 			tags: frontmatterTags,
 			wordCount: wordCount,
 			description: frontmatter.description || excerpt,
@@ -315,16 +245,16 @@ async function readPost(
 	return postObjects;
 }
 
-const unicorns = new Map<string, UnicornInfo[]>();
+const people: UnicornInfo[] = [];
 for (const unicornId of await fs.readdir(contentDirectory)) {
 	if (!isNotJunk(unicornId)) continue;
 	const unicornPath = join(contentDirectory, unicornId);
-	unicorns.set(unicornId, await readUnicorn(unicornPath));
+	people.push(...(await readUnicorn(unicornPath)));
 }
 
-const collections = new Map<string, CollectionInfo[]>();
-for (const unicornId of [...unicorns.keys()]) {
-	const collectionsDirectory = join(contentDirectory, unicornId, "collections");
+const collections: CollectionInfo[] = [];
+for (const person of [...people]) {
+	const collectionsDirectory = join(contentDirectory, person.id, "collections");
 
 	const slugs = (
 		await fs.readdir(collectionsDirectory).catch((_) => [])
@@ -332,22 +262,21 @@ for (const unicornId of [...unicorns.keys()]) {
 
 	for (const slug of slugs) {
 		const collectionPath = join(collectionsDirectory, slug);
-		collections.set(
-			slug,
-			await readCollection(collectionPath, {
-				authors: [unicornId],
-			}),
+		collections.push(
+			...(await readCollection(collectionPath, {
+				authors: [person.id],
+			})),
 		);
 	}
 }
 
-const posts = new Map<string, PostInfo[]>();
-for (const collection of [...collections.values()]) {
+const posts: PostInfo[] = [];
+for (const collection of [...collections]) {
 	const postsDirectory = join(
 		contentDirectory,
-		collection[0].authors[0],
+		collection.authors[0],
 		"collections",
-		collection[0].slug,
+		collection.slug,
 		"posts",
 	);
 
@@ -357,17 +286,16 @@ for (const collection of [...collections.values()]) {
 
 	for (const slug of slugs) {
 		const postPath = join(postsDirectory, slug);
-		posts.set(
-			slug,
-			await readPost(postPath, {
-				authors: collection[0].authors,
-				collection: collection[0].slug,
-			}),
+		posts.push(
+			...(await readPost(postPath, {
+				authors: collection.authors,
+				collection: collection.slug,
+			})),
 		);
 	}
 }
-for (const unicornId of [...unicorns.keys()]) {
-	const postsDirectory = join(contentDirectory, unicornId, "posts");
+for (const person of [...people]) {
+	const postsDirectory = join(contentDirectory, person.id, "posts");
 
 	const slugs = (await fs.readdir(postsDirectory).catch((_) => [])).filter(
 		isNotJunk,
@@ -375,20 +303,19 @@ for (const unicornId of [...unicorns.keys()]) {
 
 	for (const slug of slugs) {
 		const postPath = join(postsDirectory, slug);
-		posts.set(
-			slug,
-			await readPost(postPath, {
-				authors: [unicornId],
-			}),
+		posts.push(
+			...(await readPost(postPath, {
+				authors: [person.id],
+			})),
 		);
 	}
 }
 
 {
 	// sort posts by date in descending order
-	const sortedPosts = [...posts.values()].sort((post1, post2) => {
-		const date1 = new Date(post1[0].published);
-		const date2 = new Date(post2[0].published);
+	const sortedPosts = [...posts].sort((post1, post2) => {
+		const date1 = new Date(post1.published);
+		const date2 = new Date(post2.published);
 		return date1 > date2 ? -1 : 1;
 	});
 
@@ -399,36 +326,21 @@ for (const unicornId of [...unicorns.keys()]) {
 		const pageIndex = i % 8;
 		// if the post is at index 0 or 4, it should have a banner
 		if (pageIndex === 0 || pageIndex === 4) {
-			for (const localePost of post) {
-				// TODO: support per-locale banner images?
-				localePost.bannerImg = `/generated/${localePost.slug}.banner.jpg`;
-			}
+			post.bannerImg = `/generated/${post.slug}.banner.jpg`;
 		}
 	}
 }
 
 {
 	// sum the totalWordCount and totalPostCount for each unicorn object
-	for (const postLocales of [...posts.values()]) {
-		const [post] = postLocales;
-		if (!post) continue;
-
+	for (const post of [...posts]) {
 		for (const authorId of post.authors) {
-			const unicornLocales = unicorns.get(authorId) || [];
-			for (const unicorn of unicornLocales) {
-				unicorn.totalPostCount += 1;
-				unicorn.totalWordCount += post.wordCount;
-			}
+			const unicorn = people.find((person) => person.id === authorId);
+			if (!unicorn) continue;
+			unicorn.totalPostCount += 1;
+			unicorn.totalWordCount += post.wordCount;
 		}
 	}
 }
 
-export {
-	aboutRaw as about,
-	rolesRaw as roles,
-	licensesRaw as licenses,
-	unicorns,
-	collections,
-	posts,
-	tags,
-};
+export { people, collections, posts, tags };

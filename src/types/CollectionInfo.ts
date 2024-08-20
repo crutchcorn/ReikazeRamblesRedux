@@ -1,5 +1,3 @@
-import { Languages } from "types/index";
-
 export interface RawCollectionInfo {
 	title: string;
 	description: string;
@@ -25,8 +23,6 @@ export interface CollectionInfo extends RawCollectionInfo {
 	file: string;
 	authors: string[];
 	tags: string[];
-	locales: Languages[];
-	locale: Languages;
 	postCount: number;
 	coverImgMeta: {
 		// Relative to "public/unicorns"

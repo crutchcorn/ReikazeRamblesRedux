@@ -1,5 +1,5 @@
 ---
-import { Languages, PostInfo } from "types/index";
+import { PostInfo } from "types/index";
 import { PostCardGrid } from "src/components/post-card/post-card-grid";
 import { Pagination } from "components/pagination/pagination";
 import type { Page } from "astro";
@@ -9,14 +9,13 @@ import { isDefined } from "utils/is-defined";
 export interface PageProps {
 	posts: PostInfo[];
 	page: Pick<Page<any>, "currentPage" | "lastPage">;
-	locale: Languages;
 }
 
-const { posts, page, locale } = Astro.props as PageProps;
+const { posts, page } = Astro.props as PageProps;
 
 const postAuthors = new Map(
 	[...new Set(posts.flatMap((p) => p.authors))]
-		.map((id) => api.getUnicornById(id, locale))
+		.map((id) => api.getPersonById(id))
 		.filter(isDefined)
 		.map((u) => [u.id, u]),
 );

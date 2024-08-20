@@ -6,9 +6,9 @@ import { EPub, defaultAllowedAttributes } from "@lesjoursfr/html-to-epub";
 import { unified } from "unified";
 import { CollectionInfo, PostInfo } from "types/index";
 import {
-	getCollectionsByLang,
+	getCollections,
 	getPostsByCollection,
-	getUnicornById,
+	getPersonById,
 } from "utils/api";
 import { createEpubPlugins } from "utils/markdown/createEpubPlugins";
 import { getMarkdownVFile } from "utils/markdown/getMarkdownVFile";
@@ -140,7 +140,7 @@ async function generateCollectionEPub(
 	fileLocation: string,
 ) {
 	const authors = collection.authors
-		.map((id) => getUnicornById(id, collection.locale)?.name)
+		.map((id) => getPersonById(id)?.name)
 		.filter((name): name is string => !!name);
 
 	const referenceTitle = "References";
@@ -193,11 +193,10 @@ async function generateCollectionEPub(
 	await epub.render();
 }
 
-for (const collection of getCollectionsByLang("en")) {
+for (const collection of getCollections()) {
 	// This should return a sorted list of posts in the correct order
 	const collectionPosts = getPostsByCollection(
 		collection.slug,
-		collection.locale,
 	);
 
 	generateCollectionEPub(

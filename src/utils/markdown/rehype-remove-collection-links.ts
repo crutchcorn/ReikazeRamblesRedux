@@ -17,7 +17,7 @@ export const rehypeRemoveCollectionLinks: Plugin<
 	[RehypeRemoveCollectionLinksOptions],
 	Root
 > = ({ collection }) => {
-	const posts = getPostsByCollection(collection.slug, "en");
+	const posts = getPostsByCollection(collection.slug);
 	return (tree) => {
 		visit(tree, "element", (node, index, parent) => {
 			if (node.tagName !== "a") {

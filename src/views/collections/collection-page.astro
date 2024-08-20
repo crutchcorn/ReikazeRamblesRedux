@@ -2,7 +2,6 @@
 import { CollectionInfo, UnicornInfo } from "../../types";
 import { Picture } from "components/image/picture";
 import { LargeButton, Button } from "components/button/button";
-import { translate } from "src/utils/translations";
 import { getHrefContainerProps } from "utils/href-container-script";
 
 import "../../styles/post-body.scss";
@@ -97,26 +96,18 @@ const coverImgWidth = Math.max(480, Math.ceil(720 * coverImgAspectRatio));
 										<span
 											class={`text-style-body-medium-bold ${styles.authorArticles}`}
 										>
-											{translate(
-												Astro,
-												"title.n_articles",
-												author.totalPostCount.toLocaleString("en"),
-											)}
+											{author.totalPostCount.toLocaleString("en")}
 										</span>
 										<span class={styles.authorMetaSeperatorDot}>•</span>
 										<span
 											class={`text-style-body-medium-bold ${styles.authorWordCount}`}
 										>
-											{translate(
-												Astro,
-												"title.n_words",
-												author.totalWordCount.toLocaleString("en"),
-											)}
+											{author.totalWordCount.toLocaleString("en")}
 										</span>
 									</p>
 								</div>
 								<Button as="a" href={href} class={styles.viewProfileBtn}>
-									{translate(Astro, "action.view_profile")}
+									{"action.view_profile"}
 								</Button>
 								<div
 									class={`text-style-body-medium ${styles.authorDescription}`}

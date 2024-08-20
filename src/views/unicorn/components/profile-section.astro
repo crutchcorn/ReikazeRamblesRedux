@@ -78,10 +78,6 @@ const socials: SocialInfo[] = [
 		href: (s) => s.cohost && `https://cohost.org/${s.cohost}`,
 	},
 ];
-
-const roles = unicorn.roles
-	.map((roleId) => api.getRoleById(roleId, unicorn.locale))
-	.filter(isDefined);
 ---
 
 <section class={styles.container}>
@@ -141,22 +137,6 @@ const roles = unicorn.roles
 						</li>
 					);
 				})
-			}
-		</ul>
-		<ul class={styles.rolesList} role="list" aria-label="Contributor roles">
-			{
-				roles.map((role) => (
-					<li class={styles.role}>
-						<img
-							src={`/stickers/role_${role.id}.svg`}
-							alt=""
-							class={`${styles.rolePic}`}
-						/>
-						<span class={`text-style-body-small-bold ${styles.roleName}`}>
-							{role.prettyname}
-						</span>
-					</li>
-				))
 			}
 		</ul>
 	</div>

@@ -1,5 +1,5 @@
-import { PostInfo, Languages } from "types/index";
-import { getPostsByLang } from "./api";
+import { PostInfo } from "types/index";
+import { getPosts } from "./api";
 
 /**
  * Get 3 similar articles to suggest in sidebar.
@@ -70,7 +70,7 @@ const getOrderRange = (arr: PostInfo[]) => {
 };
 
 export const getSuggestedArticles = (postNode: PostInfo) => {
-	const suggestedPosts = getPostsByLang(postNode.locale);
+	const suggestedPosts = getPosts();
 
 	const extraSuggestedArticles: PostInfo[] = [];
 	const suggestedArticles: PostInfo[] = [];

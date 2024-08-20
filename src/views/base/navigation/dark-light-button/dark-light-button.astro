@@ -1,7 +1,6 @@
 ---
 import { Icon } from "astro-icon/components";
 import { Button, IconOnlyButton } from "components/index";
-import { translate } from "utils/translations";
 
 const props = Astro.props as {
 	variant: "iconOnly" | "large";
@@ -15,7 +14,7 @@ const props = Astro.props as {
 			tag="button"
 			data-theme-toggle
 			aria-pressed="false"
-			aria-label={translate(Astro, "label.dark_mode")}
+			aria-label={"label.dark_mode"}
 			class={props.class}
 		>
 			<Icon
@@ -35,7 +34,7 @@ const props = Astro.props as {
 			tag="button"
 			data-theme-toggle
 			aria-pressed="false"
-			aria-label={translate(Astro, "label.dark_mode")}
+			aria-label={"label.dark_mode"}
 			class={props.class}
 		>
 			<Icon
@@ -51,7 +50,7 @@ const props = Astro.props as {
 				data-theme-toggle-icon="light"
 				style="display: none;"
 			/>
-			{translate(Astro, "action.switch_theme")}
+			{"action.switch_theme"}
 		</Button>
 	)
 }

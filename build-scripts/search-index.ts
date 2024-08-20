@@ -4,8 +4,8 @@ import * as path from "path";
 import * as api from "utils/api";
 import { PostInfo, CollectionInfo, UnicornInfo } from "types/index";
 
-const posts = api.getPostsByLang("en");
-const collections = api.getCollectionsByLang("en");
+const posts = api.getPosts();
+const collections = api.getCollections();
 
 const createPostIndex = () => {
 	return Fuse.createIndex<PostInfo>(
@@ -18,7 +18,7 @@ const createPostIndex = () => {
 				name: "authorName",
 				getFn: (post) => {
 					return post.authors
-						.map((id) => api.getUnicornById(id, post.locale)!.name)
+						.map((id) => api.getPersonById(id)!.name)
 						.join(", ");
 				},
 				weight: 1.8,
@@ -31,7 +31,7 @@ const createPostIndex = () => {
 				name: "authorHandles",
 				getFn: (post) => {
 					return post.authors
-						.map((id) => api.getUnicornById(id, post.locale))
+						.map((id) => api.getPersonById(id))
 						.flatMap((author) => Object.values(author!.socials))
 						.filter((handle) => handle)
 						.join(", ");
@@ -61,7 +61,7 @@ const createCollectionIndex = () => {
 				name: "authorName",
 				getFn: (post) => {
 					return post.authors
-						.map((id) => api.getUnicornById(id, post.locale)!.name)
+						.map((id) => api.getPersonById(id)!.name)
 						.join(", ");
 				},
 				weight: 1.8,
@@ -70,7 +70,7 @@ const createCollectionIndex = () => {
 				name: "authorHandles",
 				getFn: (post) => {
 					return post.authors
-						.map((id) => api.getUnicornById(id, post.locale))
+						.map((id) => api.getPersonById(id))
 						.flatMap((author) => Object.values(author!.socials))
 						.filter((handle) => handle)
 						.join(", ");
@@ -89,7 +89,7 @@ const createCollectionIndex = () => {
 const postIndex = createPostIndex();
 const collectionIndex = createCollectionIndex();
 
-const unicorns = api.getUnicornsByLang("en").reduce(
+const unicorns = api.getPeople().reduce(
 	(obj, unicorn) => {
 		obj[unicorn.id] = unicorn;
 		return obj;

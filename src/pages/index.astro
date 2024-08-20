@@ -1,16 +1,13 @@
 ---
 import Document from "../layouts/document.astro";
-import { getCollectionsByLang, getPostsByLang } from "utils/api";
+import { getCollections, getPosts } from "utils/api";
 import SEO from "components/seo/seo.astro";
 import Homepage from "src/views/explore/homepage.astro";
-import { Languages } from "types/index";
 
-const locale: Languages = "en";
-
-const posts = getPostsByLang(locale);
+const posts = getPosts();
 const postsToDisplay = posts.slice(0, 4);
 
-const collectionsToDisplay = getCollectionsByLang(locale).slice(0, 4);
+const collectionsToDisplay = getCollections().slice(0, 4);
 ---
 
 <Document>
