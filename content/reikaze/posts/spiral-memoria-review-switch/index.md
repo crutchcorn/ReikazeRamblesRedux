@@ -2,7 +2,7 @@
 {
   title: "Spiral Memoria: The Summer I Meet Myself Review – Like a Forgettable Date",
   published: "2020-08-17T09:42:45-07:00",
-  ogLink: "https://noisypixel.net/spiral-memoria-review-switch/",
+  originalLink: "https://noisypixel.net/spiral-memoria-review-switch/",
 }
 ---
 

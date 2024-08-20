@@ -2,7 +2,7 @@
 {
   title: "Kevin’s Top Five Video Games of 2020",
   published: "2020-12-21T12:58:58-08:00",
-  ogLink: "https://noisypixel.net/kevins-top-five-video-games-of-2020/",
+  originalLink: "https://noisypixel.net/kevins-top-five-video-games-of-2020/",
 }
 ---
 

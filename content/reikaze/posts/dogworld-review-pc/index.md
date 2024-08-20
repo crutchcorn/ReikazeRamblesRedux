@@ -2,13 +2,13 @@
 {
   title: "Dogworld Review – Old School Fun",
   published: "2021-03-24T08:38:53-07:00",
-  ogLink: "https://noisypixel.net/dogworld-review-pc/",
+  originalLink: "https://noisypixel.net/dogworld-review-pc/",
 }
 ---
 
 As a fan of retro video games, it’s always exciting to see new indie games inspired by classics. When I saw _Dogworld_, its stark aesthetic, old school Metroidvania gameplay and dog-filled charm drew me in. While I had my doubts, thankfully _Dogworld_ turned out to be a well-rounded adventure that embraces gaming’s past but stumbles exactly where those classic games do.
 
-[YouTube video player](https://www.youtube.com/embed/tCYqL_TxtdE)
+<iframe src="https://www.youtube.com/embed/tCYqL_TxtdE"></iframe>
 
 The first thing you’ll likely notice with *Dogworld *is its retro presentation. This stark “1-bit” design has black, white, and red, comprising the entire world. The visuals give me Undertale vibes while also reminding me of the ZX Spectrum aesthetic, which stands out because of how unique it is. While I found this design choice appealing, I have two minor nitpicks: Given there are so few colors, sometimes it’s tough to spot enemies, and I think the character sprites are too large. Locations, bosses, and characters look unique and everything combines to create an appealing atmosphere.
 

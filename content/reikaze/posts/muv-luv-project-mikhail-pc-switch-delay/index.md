@@ -2,7 +2,7 @@
 {
   title: "Muv-Luv Stream Details Project Mikhail PC and Switch Release, but Also Delays",
   published: "2021-03-25T21:00:37-07:00",
-  ogLink: "https://noisypixel.net/muv-luv-project-mikhail-pc-switch-delay/",
+  originalLink: "https://noisypixel.net/muv-luv-project-mikhail-pc-switch-delay/",
 }
 ---
 

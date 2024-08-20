@@ -2,13 +2,13 @@
 {
   title: "Cuphead PS4 Review – Same Great Experience on a New Console",
   published: "2020-08-07T15:09:34-07:00",
-  ogLink: "https://noisypixel.net/cuphead-review-ps4/",
+  originalLink: "https://noisypixel.net/cuphead-review-ps4/",
 }
 ---
 
 Console exclusivity seems to be a loose term in the video game industry as games add additional platforms years after their initial launch. Still, I was surprised after hearing about Cuphead’s sudden release on Playstation 4. It didn’t feel out of the norm to see the cartoony platformer on Switch for on-the-go play, but the PS4 launch came out of nowhere. Cuphead’s venture to a new platform only opens the door to those who missed out on the game and brought with it the same boss focused gameplay and beautiful design.
 
-[Cuphead PS4 Review - Noisy Pixel](https://www.youtube.com/embed/lJ59ua2XFgU?feature=oembed)
+<iframe src="https://www.youtube.com/embed/lJ59ua2XFgU?feature=oembed"></iframe>
 
 Everything about _Cuphead_ feeds into its aesthetic. The art style and presentation always have been and always will be its main appeal; even three years later, it looks fantastic. I find it endearing what art direction can do for a game and how it works with its overall appeal. The 1930’s cartoon-inspired art of _Cuphead_ makes it look and feel amazing while playing, even watching someone play it provides a sense of enjoyment.
 

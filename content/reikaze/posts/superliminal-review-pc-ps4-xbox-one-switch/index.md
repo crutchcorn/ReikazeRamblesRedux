@@ -2,7 +2,7 @@
 {
   title: "Superliminal Review – Cool Perspective But Missing Substance",
   published: "2020-11-25T11:46:33-08:00",
-  ogLink: "https://noisypixel.net/superliminal-review-pc-ps4-xbox-one-switch/",
+  originalLink: "https://noisypixel.net/superliminal-review-pc-ps4-xbox-one-switch/",
 }
 ---
 

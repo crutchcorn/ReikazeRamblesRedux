@@ -2,7 +2,7 @@
 {
   title: "World’s End Club Apple Arcade Review -The Game Is Not Ending Yet",
   published: "2020-09-11T12:01:20-07:00",
-  ogLink: "https://noisypixel.net/worlds-end-club-apple-arcade-review/",
+  originalLink: "https://noisypixel.net/worlds-end-club-apple-arcade-review/",
 }
 ---
 

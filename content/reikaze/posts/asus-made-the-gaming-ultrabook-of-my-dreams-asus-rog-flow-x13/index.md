@@ -2,7 +2,7 @@
 {
   title: "ASUS Made the Gaming Ultrabook of my Dreams – ASUS ROG Flow X13",
   published: "2021-01-12T11:41:48-08:00",
-  ogLink: "https://noisypixel.net/asus-made-the-gaming-ultrabook-of-my-dreams-asus-rog-flow-x13/",
+  originalLink: "https://noisypixel.net/asus-made-the-gaming-ultrabook-of-my-dreams-asus-rog-flow-x13/",
 }
 ---
 

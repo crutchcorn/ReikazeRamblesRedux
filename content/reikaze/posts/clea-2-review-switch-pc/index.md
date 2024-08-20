@@ -2,7 +2,7 @@
 {
   title: "Clea 2 Review – Much Improved, But Still Clea",
   published: "2021-03-16T11:36:37-07:00",
-  ogLink: "https://noisypixel.net/clea-2-review-switch-pc/",
+  originalLink: "https://noisypixel.net/clea-2-review-switch-pc/",
 }
 ---
 

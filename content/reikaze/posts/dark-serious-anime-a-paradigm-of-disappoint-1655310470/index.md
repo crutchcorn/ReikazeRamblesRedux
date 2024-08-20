@@ -15,13 +15,7 @@ Let me get this straight: I have nothing wrong with a show that tries to run wit
 
 If you are interested about a show that people are praising because others call it "Dark and/or Serious", you should be very wary. As of late, I feel like anime fans have been stretching the definition what a "Dark" show is, and they a are jumping too fast on the bandwagon to call a show "dark" without looking at what makes the shows tick. These "edgy" shows may have some dark ideals or a more depressing idea, but never both. I feel that a lot of times, these shows focus on action or something else instead of telling a gripping narrative about their morbid ideals, or may be called dark when there is no base. [Calling a show "dark" does not necessarily improve a show](https://kotaku.com/aldnoah-zero-is-a-dark-twist-on-gundam-1654366568), and using it as a blanket term like many people have been as of late. My issue with this trend is that it creates a "grey space" in shows, where you get these superficial aspects of darkness, but they never actually approach anything grim in themes. They may have a dark idea, but they rarely execute in a dark way. [To me, Gore and death do not necessarily make a show dark](http://kotaku.com/tokyo-ghoul-builds-an-emotional-world-of-horror-and-vio-1650185398); just because it has dark aspects doesn't mean that they actually want to do dark things.
 
-[[](./xvhioyazf6yijot8dpff.mp4) ](https://kotaku.com/aldnoah-zero-is-a-dark-twist-on-gundam-1654366568)
-
-###### [*Aldnoah.Zero* is a Dark Twist on *Gundam*](https://kotaku.com/aldnoah-zero-is-a-dark-twist-on-gundam-1654366568)
-
-Each season, there are guaranteed to be a few mecha anime—usually following a young male…
-
-[Read more](https://kotaku.com/aldnoah-zero-is-a-dark-twist-on-gundam-1654366568)
+<video src="./xvhioyazf6yijot8dpff.mp4"></video>
 
 ![](./ksgfiltslekqhivzgdax.jpg)
 
@@ -29,23 +23,12 @@ When a show is dark thematically, they don't mind doing things to influence the 
 
 [![](./1313370283695264404.jpg)](https://rockmandash12.kinja.com/rockmandash-reviews-kara-no-kyoukai-the-garden-of-si-1524615358)
 
-###### [Rockmandash Reviews: *Kara no Kyoukai: The Garden of Sinners* \[Anime\]](https://rockmandash12.kinja.com/rockmandash-reviews-kara-no-kyoukai-the-garden-of-si-1524615358)
-
-Welcome to Rockmandash Reviews and today on Ani-Tay is part 5 of my Type-Moon Marathon, we have…
-
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-kara-no-kyoukai-the-garden-of-si-1524615358)
 
 ![](./pv4dpzsmpt6a1bynub2x.jpg)
 
 I think it's important to create a distinction between the truly dark and the shows stuck in the "grey space". I think people who enjoy this edgy type of show are tired of lightheartedness, but are generally too afraid of truly dark works. This restricts the creators in how far these shows can go, and it creates shows that have a dark ideal or dark execution, but not both. Passion, solid execution and strong ideals are what make a good show great, and by forcing a work into this middle ground and entrapment of themes creates issues, and dilutes the quality of the show. When a show tries to be dark, but has nothing to stand upon, it falls flat, and it doesn't leave impact. An example would be killing off characters in [Akame ga Kill](https://kotaku.com/why-i-can-t-bring-myself-to-enjoy-akame-ga-kill-1641986983); yes, a character died, and you mourn for them for a minute or two but what does that do for the show? Does it improve the show or make it more memorable? Not really. When you see a truly dark show like Bokurano or Madoka Magica which make these deaths impactful, meaningful and memorable so the deaths influence your mental state, and greatly impact the structure of the show, you can't help but wonder why the first type exists. These elements of the show (death in particular) should not be used haphazardly as they lose impact after use.. and they should be fully developed in order to be done well.
 
 [![](./ekyix8pcgogsuffu0lcr.jpg) ](https://kotaku.com/why-i-can-t-bring-myself-to-enjoy-akame-ga-kill-1641986983)
-
-###### [Why I Can’t Bring Myself to Enjoy *Akame Ga Kill*](https://kotaku.com/why-i-can-t-bring-myself-to-enjoy-akame-ga-kill-1641986983)
-
-Before it started airing, Akame Ga Kill was the anime I was most looking forward to. Sadly, that…
-
-[Read more](https://kotaku.com/why-i-can-t-bring-myself-to-enjoy-akame-ga-kill-1641986983)
 
 ![](./yje1nxi99xkpgdzshxlt.png)
 
@@ -56,12 +39,6 @@ I also think the inverse is true: There's nothing wrong with a light-hearted sho
 A totally serious show needs to strive on the ideals it creates and hammers it home; without that, a serious show leaves all of it's flaws open, being able to be seen. When you have a serious show, it makes the suspension of disbelief all that much smaller, and much easier to break. It's very easy to screw up a serious plot, and may of them do. Many of these serious shows have very little redeemable factors, and they just stop being enjoyable. It's a grey zone that's uncomfortable in almost every way. With a show that has comedy or other factors like being completely over the top, they can use that as a crutch, enabling the viewer to get an enjoyment in other means other than the plot itself. Compare something like [Valvrave](https://tay.kinja.com/dexs-review-valvrave-the-liberator-1490219418) to [Aldnoah.Zero](http://anitay.kinja.com/aldnoah-zero-the-ani-tay-review-1637330529), and this will be woefully apparent: Valvrave is memorable and enjoyable because of how over the top it is and how entertaining it can be, even if it's writing is extremely atrocious at times. Aldnoah.Zero… not so much. The more lighthearted shows, and even the "dreaded moe genres" can be some of the most enjoyable because they focus on enjoyment, and they aren't tasked with carrying the baggage that comes with being serious. There's nothing wrong with comedy, or a romantic show, which in my opinion are generally more consistent in quality.
 
 [![](./zygxxkfzlsb5whyg3oop.jpg)](https://tay.kinja.com/dexs-review-valvrave-the-liberator-1490219418)
-
-###### [Dex's Review: Valvrave the Liberator](https://tay.kinja.com/dexs-review-valvrave-the-liberator-1490219418)
-
-Valvrave the Liberator completed its run last night, bringing an end to one of the most gloriously…
-
-[Read more](https://tay.kinja.com/dexs-review-valvrave-the-liberator-1490219418)
 
 ![](./y9kgxxwv24owctpdt79u.jpg)
 

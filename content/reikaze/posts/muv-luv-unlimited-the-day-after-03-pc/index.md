@@ -2,7 +2,7 @@
 {
   title: "Muv-Luv Unlimited: The Day After 03 Impressions – War Insanity",
   published: "2021-03-09T09:12:18-08:00",
-  ogLink: "https://noisypixel.net/muv-luv-unlimited-the-day-after-03-pc/",
+  originalLink: "https://noisypixel.net/muv-luv-unlimited-the-day-after-03-pc/",
 }
 ---
 

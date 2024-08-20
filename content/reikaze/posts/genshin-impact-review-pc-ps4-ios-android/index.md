@@ -2,7 +2,7 @@
 {
   title: "Genshin Impact Review – Much More Than Just a Gacha BoTW",
   published: "2020-10-09T15:22:45-07:00",
-  ogLink: "https://noisypixel.net/genshin-impact-review-pc-ps4-ios-android/",
+  originalLink: "https://noisypixel.net/genshin-impact-review-pc-ps4-ios-android/",
 }
 ---
 

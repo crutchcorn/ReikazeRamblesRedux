@@ -2,7 +2,7 @@
 {
   title: "Aokana: Four Rhythms Across the Blue Switch Review – A Soaring Switch Visual Novel",
   published: "2020-08-24T07:45:22-07:00",
-  ogLink: "https://noisypixel.net/aokana-four-rhythms-across-the-blue-switch-review-switch/",
+  originalLink: "https://noisypixel.net/aokana-four-rhythms-across-the-blue-switch-review-switch/",
 }
 ---
 

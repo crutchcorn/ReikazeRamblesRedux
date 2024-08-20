@@ -2,7 +2,7 @@
 {
   title: "Nickelodeon Kart Racers 2: Grand Prix Review – Found the Roster, Lost the Character",
   published: "2020-10-06T07:59:00-07:00",
-  ogLink: "https://noisypixel.net/nickelodeon-kart-racers-2-grand-prix-review-ps4-xbox-one-switch/",
+  originalLink: "https://noisypixel.net/nickelodeon-kart-racers-2-grand-prix-review-ps4-xbox-one-switch/",
 }
 ---
 

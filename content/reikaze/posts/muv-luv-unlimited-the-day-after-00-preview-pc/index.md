@@ -2,7 +2,7 @@
 {
   title: "Muv Luv Unlimited: The Day After 00 Impressions – A Shot of Alternative",
   published: "2021-02-18T11:29:11-08:00",
-  ogLink: "https://noisypixel.net/muv-luv-unlimited-the-day-after-00-preview-pc/",
+  originalLink: "https://noisypixel.net/muv-luv-unlimited-the-day-after-00-preview-pc/",
 }
 ---
 

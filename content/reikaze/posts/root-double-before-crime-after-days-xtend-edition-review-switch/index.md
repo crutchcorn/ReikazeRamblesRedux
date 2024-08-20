@@ -2,7 +2,7 @@
 {
   title: "Root Double: Before Crime * After Days Xtend Edition Switch Review – Why Not One More Time?",
   published: "2020-11-30T09:42:22-08:00",
-  ogLink: "https://noisypixel.net/root-double-before-crime-after-days-xtend-edition-review-switch/",
+  originalLink: "https://noisypixel.net/root-double-before-crime-after-days-xtend-edition-review-switch/",
 }
 ---
 

@@ -2,7 +2,7 @@
 {
   title: "Muv-Luv Unlimited: The Day After 02 Impressions – More of the Same Can Be a Good Thing",
   published: "2021-03-01T14:22:10-08:00",
-  ogLink: "https://noisypixel.net/muv-luv-unlimited-the-day-after-02-impressions-pc/",
+  originalLink: "https://noisypixel.net/muv-luv-unlimited-the-day-after-02-impressions-pc/",
 }
 ---
 

@@ -2,7 +2,7 @@
 {
   title: "Muv-Luv photonmelodies♮ Review – Lighthearted Fun",
   published: "2020-08-19T10:16:30-07:00",
-  ogLink: "https://noisypixel.net/muv-luv-photonmelodies-review-pc/",
+  originalLink: "https://noisypixel.net/muv-luv-photonmelodies-review-pc/",
 }
 ---
 

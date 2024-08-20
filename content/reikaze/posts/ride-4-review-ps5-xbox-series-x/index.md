@@ -2,7 +2,7 @@
 {
   title: "Ride 4 PS5/Xbox Series X Review – Wiped Out",
   published: "2021-01-21T00:02:11-08:00",
-  ogLink: "https://noisypixel.net/ride-4-review-ps5-xbox-series-x/",
+  originalLink: "https://noisypixel.net/ride-4-review-ps5-xbox-series-x/",
 }
 ---
 

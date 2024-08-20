@@ -2,7 +2,7 @@
 {
   title: "Muv-Luv Unlimited: The Day After Review – More Than Just a Side Story",
   published: "2021-03-15T11:11:06-07:00",
-  ogLink: "https://noisypixel.net/muv-luv-unlimited-the-day-after-review-pc/",
+  originalLink: "https://noisypixel.net/muv-luv-unlimited-the-day-after-review-pc/",
 }
 ---
 

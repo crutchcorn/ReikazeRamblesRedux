@@ -2,7 +2,7 @@
 {
   title: "Muv-Luv Unlimited: The Day After 01 Impressions – Bigger, Badder, Better",
   published: "2021-02-25T11:31:45-08:00",
-  ogLink: "https://noisypixel.net/muv-luv-unlimited-the-day-after-01-impressions/",
+  originalLink: "https://noisypixel.net/muv-luv-unlimited-the-day-after-01-impressions/",
 }
 ---
 

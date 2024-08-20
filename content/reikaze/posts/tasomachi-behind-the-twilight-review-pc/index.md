@@ -2,7 +2,7 @@
 {
   title: "Tasomachi: Behind the Twilight Review – Not Ready for Prime Time",
   published: "2021-04-13T06:59:46-07:00",
-  ogLink: "https://noisypixel.net/tasomachi-behind-the-twilight-review-pc/",
+  originalLink: "https://noisypixel.net/tasomachi-behind-the-twilight-review-pc/",
 }
 ---
 

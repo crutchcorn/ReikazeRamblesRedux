@@ -2,7 +2,7 @@
 {
   title: "Blue Lock Vol. 1 Review – A Compelling Kick Start",
   published: "2021-04-20T16:07:39-07:00",
-  ogLink: "https://noisypixel.net/blue-lock-vol-1-manga-review-manga/",
+  originalLink: "https://noisypixel.net/blue-lock-vol-1-manga-review-manga/",
 }
 ---
 

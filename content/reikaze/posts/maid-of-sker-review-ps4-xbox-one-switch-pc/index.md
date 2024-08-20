@@ -2,7 +2,7 @@
 {
   title: "Maid of Sker Review – Where Atmosphere and Darkness Meet",
   published: "2020-07-28T05:59:50-07:00",
-  ogLink: "https://noisypixel.net/maid-of-sker-review-ps4-xbox-one-switch-pc/",
+  originalLink: "https://noisypixel.net/maid-of-sker-review-ps4-xbox-one-switch-pc/",
 }
 ---
 

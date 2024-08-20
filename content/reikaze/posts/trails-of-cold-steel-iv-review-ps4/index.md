@@ -2,7 +2,7 @@
 {
   title: "Trails of Cold Steel IV Review – The End of A Saga",
   published: "2020-10-23T10:00:30-07:00",
-  ogLink: "https://noisypixel.net/trails-of-cold-steel-iv-review-ps4/",
+  originalLink: "https://noisypixel.net/trails-of-cold-steel-iv-review-ps4/",
 }
 ---
 
