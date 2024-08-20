@@ -62,7 +62,7 @@
 		"@types/jest": "^29.5.2",
 		"@types/json5": "^2.2.0",
 		"@types/mdast": "^4.0.3",
-		"@types/node": "^20.5.0",
+		"@types/node": "^20.14.8",
 		"@types/uuid": "^10.0.0",
 		"@typescript-eslint/eslint-plugin": "^7.14.1",
 		"@typescript-eslint/parser": "^7.14.1",
