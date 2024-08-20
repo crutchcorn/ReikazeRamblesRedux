@@ -5,64 +5,31 @@ import { unified } from "unified";
 import rehypeParse from "rehype-parse";
 import rehypeRemark from "rehype-remark";
 import remarkStringify from "remark-stringify";
-import remarkFrontmatter from "remark-frontmatter";
-import { TYPE_FRONTMATTER } from "../../../src/utils/markdown/remark-process-frontmatter";
-import { visit } from "unist-util-visit";
-import JSON5 from "json5";
-import { Parent } from "hast";
-import remarkParse from "remark-parse";
-import remarkRehype from "remark-rehype/lib";
+import matter from "gray-matter";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 async function cleanHTML(folderLocation: string) {
 	const fileLocation = resolve(folderLocation, "index.md");
-	const contents = await fs.promises.readFile(fileLocation, "utf-8");
+	try {
+		const newFileLocation = resolve(folderLocation, "index.md");
+		const contents = await fs.promises.readFile(fileLocation, "utf-8");
 
-	let frontmatter = {} as {
-		title: string;
-		tags: string[];
-		published: string;
-		kinjaArticle: boolean;
-	};
+		const { data, content } = matter(contents);
+		const frontmatter = data as {
+			title: string;
+			tags: string[];
+			published: string;
+			kinjaArticle: boolean;
+		};
 
-	const unifiedChain = unified()
-		.use(remarkParse, { fragment: true } as never)
-		.use(remarkFrontmatter, {
-			type: TYPE_FRONTMATTER,
-			marker: "-",
-		} as never)
-		.use(() => (tree, vfile) => {
-			visit(
-				tree,
-				{ type: "frontmatter" },
-				(node, index: number, parent: Parent) => {
-					const TYPE_FRONTMATTER = "frontmatter";
+		const unifiedChain = unified()
+			.use(rehypeParse, { fragment: true })
+			.use(rehypeRemark)
+			.use(remarkStringify);
 
-					interface FrontMatterNode {
-						type: typeof TYPE_FRONTMATTER;
-						// JS object stringified into frontmatter data
-						value: string;
-					}
-
-					function isFrontMatterNode(node: any): node is FrontMatterNode {
-						return node.type === TYPE_FRONTMATTER;
-					}
-
-					if (index === undefined || !parent) return;
-					const frontmatterNode: unknown = parent.children.splice(index, 1)[0];
-					if (frontmatter && isFrontMatterNode(frontmatterNode)) {
-						frontmatter = JSON5.parse(frontmatterNode.value);
-					}
-				},
-			);
-		})
-		.use(remarkRehype, { allowDangerousHtml: true })
-		.use(rehypeRemark)
-		.use(remarkStringify);
-
-	const result = await unifiedChain.process(contents);
-	const resultString = `
+		const result = await unifiedChain.process(content);
+		const resultString = `
 ---
 {
 	title: "${frontmatter.title}",
@@ -74,7 +41,10 @@ async function cleanHTML(folderLocation: string) {
 
 ${result.toString()}
 	`.trim();
-	await fs.promises.writeFile(fileLocation, resultString, "utf-8");
+		await fs.promises.writeFile(newFileLocation, resultString, "utf-8");
+	} catch (e) {
+		console.error({ fileLocation });
+	}
 }
 
 // Get all folders in this directory, get the `index.html` file in each folder

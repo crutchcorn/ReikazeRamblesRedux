@@ -1,165 +1,68 @@
 ---
 {
-  title: "Why You Should Fund Under The Dog , and What this Kickstarter Represents",
-  tags:
-    [
-      "Rockmandash Rambles",
-      "Under The Dog",
-      "Kickstarter",
-      "Fund it! NOW! Seinen",
-      "Action",
-      "Oppinion",
-      "Future",
-      "Industry",
-    ],
-  published: "2014-08-26T16:00:00-04:00",
-  kinjaArticle: true,
+	title: "Why You Should Fund Under The Dog , and What this Kickstarter Represents",
+	published: "2014-08-26T16:00:00-04:00",
+	tags: ["Rockmandash Rambles", "Under The Dog", "Kickstarter", "Fund it! NOW! Seinen", "Action", "Oppinion", "Future", "Industry"],
+	kinjaArticle: true
 }
 ---
 
-<div><p class="sc-77igqf-0 bOfvBY"><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/elite-group-seeking-funding-for-new-anime-1618902750/all",{"metric25":1}]]' href="http://anitay.kinja.com/elite-group-seeking-funding-for-new-anime-1618902750/all" rel="noopener noreferrer" target="_blank">When I first saw Under the Dog</a></span>, I wasn't
-  exactly sure what to think about it. I thought that it looked cool, but they were just asking too much money. Now that
-  I've recently watched Canaan (review coming up soon, probably next week) and thought about what Under The Dog
-  represents, I'm going to try my best to convince as much people to fund Under The Dog so we can hit that goal. Welcome
-  to Rockmandash Rambles, and this is my write-up on why you should fund Under The Dog, and influence this show might
-  have. </p>
-<img alt src="./873254600827556273.png"/>
-<div class="bxm4mm-2 hKBnez js_video-sticky__top-limit"></div>
-<div class="bxm4mm-4 fQqUFt">
+[When I first saw Under the Dog](http://anitay.kinja.com/elite-group-seeking-funding-for-new-anime-1618902750/all), I wasn't exactly sure what to think about it. I thought that it looked cool, but they were just asking too much money. Now that I've recently watched Canaan (review coming up soon, probably next week) and thought about what Under The Dog represents, I'm going to try my best to convince as much people to fund Under The Dog so we can hit that goal. Welcome to Rockmandash Rambles, and this is my write-up on why you should fund Under The Dog, and influence this show might have.
 
-<div class="bxm4mm-1 gKeXmA js_video-sticky-trigger"></div>
-<div class="bxm4mm-0 jRTmst instream-native-video instream-permalink js_video-sticky-target instream-native-video--mobile"></div>
-</div>
-<div class="bxm4mm-3 eCMXYG js_video-sticky__bottom-limit"></div><p class="sc-77igqf-0 bOfvBY">
-<strong>DISCLAIMER:</strong> I am not paid to write this, and I have no relation to the people making it. I'm just a
-  fan that really hopes that they hit the goal, and I want to see how something like this will influence anime in the
-  future. I realized as I was typing this that it might just echo the kickstarter, but I hope I can get the point out in
-  a clearer way. Last but not least, I'm not an expert at how the industry works and such. I might have some errors. I'm
-  just a high school student writing about what they love. Also, there's a lot of anime talk that you may or may not be
-  familiar with... so sorry. Anyways, Thanks for reading!</p><h2 class="sc-1bwb26k-1 fvCjqJ" id="h118041"><a class="js_header-anchor" id=""></a>About Under The Dog itself</h2><p class="sc-77igqf-0 bOfvBY">Well, I can't really
-  convince you to fund something without giving you reasons on why it's <strong>AWESOME</strong>. First off, just check
-  that <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://www.kickstarter.com/projects/1300298569/under-the-dog",{"metric25":1}]]' href="https://www.kickstarter.com/projects/1300298569/under-the-dog" rel="noopener noreferrer" target="_blank">Kickstarter</a></span> page. Look at it. Play the Video. </p>
-<div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/S-g1Mr1qQZg" width="560"></iframe><span class="js_recommend" data-chomp-id="S-g1Mr1qQZg" data-recommend-id="youtube://S-g1Mr1qQZg" data-recommended="false" id="youtube-S-g1Mr1qQZg"></span></span></div><p class="sc-77igqf-0 bOfvBY">The production values really just speak for itself. They don't just want another run of the
-  mill show, but they are planning to make something that will push the boundaries of animation. Straight from the
-  Kickstarter, they said.</p>
-<blockquote class="sc-8hxd3p-0 nvIqO" data-type="BlockQuote"><p class="sc-77igqf-0 bOfvBY">1) we are aiming for 100%
-  backer funded AAA production quality.</p></blockquote><p class="sc-77igqf-0 bOfvBY">Looking at the PV, that's exactly
-  what we are getting. The Group under Creative Intelligence Arts is out there to make something awesome. I'm seeing
-  some great CG, high quality video, and amazing stuff all around. It's everything a modern and great anime should have:
-  excellent directing, great character design, clean and amazing industrial design, stunning scenery, amazing action...
-  it's beautiful. It's like if you took the awesome wallpapers of Makoto Shinkai's movies and amplified them with
-  action. This has the potential to be one of the best looking anime out there, matching with what ufotable has been
-  doing to push the boundaries with anime. Just visuals alone, I'm interested, and you should be too. This is going to
-  be a beautiful anime, if it gets funded.</p>
+![](./873254600827556273.png)
 
-<img alt src="./873254601187428017.jpg"/><p class="sc-77igqf-0 bOfvBY">There's more than this than just visuals: We have an interesting story written by Jiro
-Ishii, about being pushed into a corner... an underdog situation. It's an interesting theme and it creates a story
-with an interesting premise... and knowing Jiro Ishii, who's made the visual novel that I want to play the most but
-don't have any access too, 428: In a Blockaded Shibuya (and helped produced 999, my favorite game). I'm expecting
-great writing, interesting sci-fi elements based on real science, and interesting themes and plot points that are
-developed well. </p>
+**DISCLAIMER:** I am not paid to write this, and I have no relation to the people making it. I'm just a fan that really hopes that they hit the goal, and I want to see how something like this will influence anime in the future. I realized as I was typing this that it might just echo the kickstarter, but I hope I can get the point out in a clearer way. Last but not least, I'm not an expert at how the industry works and such. I might have some errors. I'm just a high school student writing about what they love. Also, there's a lot of anime talk that you may or may not be familiar with... so sorry. Anyways, Thanks for reading!
 
-<p class="sc-77igqf-0 bOfvBY">We haven't had a well done Seinen action show in a while. Shows like Trigun, GiTS,
-  Code Geass, Bokurano, Darker than Black, etc... and I realized that I really... really miss these types of shows. I
-  mean, the shoenens will always exist and be meh, the fanservice-y shows will still be there because they are cheap and
-  sell, the romances will be there because they are great and are cheaper while being equally as awesome. When I was
-  watching Canaan, I loved it! (partially because I'm a type-moon fanboy....) Not because it was the greatest thing
-  ever, but because I haven't seen this type of show in a long time. It was done pretty well, with solid action and an
-  interesting story,but it had some production kinks and story issues that were just off. It's like we are getting with
-  Under The Dog is what Type-Moon tried to do with Canaan, but with much better production values, similar themes, and
-  better execution. We're getting that Sci-Fi Action that everyone wants.</p><p class="sc-77igqf-0 bOfvBY">On that note,
-  we have the absolutely amazing team that's working on this. Orange Co. who did the CG for the new Code Geass OVA's,
-  and Eva movies, Kinema Circus who is made by Ex Production IG staff who made the absolutely beautiful GiTS:SAC series,
-  Yusuke Kozaki, who's working on the character design and did the character designs for Fire Emblem:Awakening, and the
-  director from Masashiro Ando, the director of the 428 inspired work Canaan, who has a ton of industry experience. We
-  have an absolutely amazing team here, and with all this talent, it's almost a given that we will get something
-  amazing. This is a dream team of industry experts, who know what they are doing. </p>
-<p class="sc-77igqf-0 bOfvBY">It looks great, sounds great, and will probably have a great story. Under The Dog
-  however, is it's own underdog, and it's fighting to exist.</p><h2 class="sc-1bwb26k-1 fvCjqJ" id="h118042"><a class="js_header-anchor" id=""></a>The State of the Anime Industry in General</h2>
-<img alt src="./873254601435647409.jpg"/>
-<p class="sc-77igqf-0 bOfvBY">What Creative Intelligence Arts is trying to get funded is not an anime series, but
-  an episode that represents a pitch. You might be asking then... why are they asking all this money, and why are they
-  even asking for money in the first place when they are industry experts? Most people don't really realize this, but
-  anime is really really expensive. Not just to buy, but to make. For something to look good, someone has to be payed to
-  make it.... and the process of getting an anime funded and to make.... is insane. This is explained at the bottom of
-  the kickstarter page, but most people didn't really read that much of it. Here's a video by Digibro that explains this
-  very well.</p>
-<div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/-AHo-_XEV6E" width="560"></iframe><span class="js_recommend" data-chomp-id="-AHo-_XEV6E" data-recommend-id="youtube://-AHo-_XEV6E" data-recommended="false" id="youtube--AHo-_XEV6E"></span></span></div>
-<blockquote class="sc-8hxd3p-0 nvIqO" data-type="BlockQuote"><p class="sc-77igqf-0 bOfvBY">In Japan, it is very
-  difficult to obtain independent funding since the anime industry heavily relies on what is known as "seisaku iinkai"
-  or "production committees." This committee requires buy-in from multiple major corporations that combine their efforts
-  to help carry the load of the production costs and thereby minimize the financial risk for each individual company.
-  One company could take on animation, another music, another advertising, another distribution, and so on. It can also
-  drive down the costs of production due to companies willing to take an initial loss with the hopes of turning a profit
-  over the course of several years as the anime and any licensing deals run their course (music, toys, manga, etc.).</p>
-<p class="sc-77igqf-0 bOfvBY">These committees are usually composed of people with an investor's mindset who look to
-    profit first and then to creative awesomeness, if at all. This can often lead to projects stalled or mired in
-    bureaucracy, indecision, and conflicts of interest. Production committees also generally require intellectual
-    property buyouts in which the creatives involved essentially sacrifice all rights to their work just so they can see
-    their dreams come to fruition in any form at all. Kickstarter will allow our artists to retain their rights and
-    control as well as maintain their passion and investment for the lifetime of the series and any spin-offs. We also
-    have less "cooks in the kitchen," so to speak, so that creative direction will be decisive. No marketing or
-    advertising based creative decisions or delays here! - From UTD Kickstarter</p></blockquote>
+## []()About Under The Dog itself
 
-<img alt src="./873254601703305649.jpg"/><p class="sc-77igqf-0 bOfvBY">This kickstarter is not just about the show, but to shake up the anime industry, or to at
-least provide some people the directive freedom to make what they want. The Anime industry is focused on making money
-like everyone else... but they sacrifice originality, high production values, and creativity to get there. The
-perception of anime, the fanbase, and the market makes the industry wary about trying new things.... so we get
-adaptations of shows that only appeal to the hardcore otaku, or shows that try too hard to grab an audience. I do not
-that I mind some of these shows, but diversity is really the key. Why can't we have our kickass action shows with
-amazing stories and well done themes, but still have our amazing romantic comedies? I understand that shows are made
-to gear a profit, but in the process they lose so much. Why should we have to deal with these butchered adaptations,
-instead of seeing what they could be? If the industry wasn't so geared to selling merchandise, we'd have more of
-people's favorites like Haruhi, or something like a <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://dexomega.kinja.com/dex-where-do-i-start-with-muv-luv-1561900783",{"metric25":1}]]' href="http://dexomega.kinja.com/dex-where-do-i-start-with-muv-luv-1561900783" rel="noopener noreferrer" target="_blank">Muv-Luv adaptation done right</a></span>.
-What if the companies want to try something new? Why restrict the creativity of talent, deluding the quality of work
-just to sell more toys? As a fan, don't you want to support what represent the common interest of the consumer and the
-creator? Yes, there are stuff that are great that bomb like Nichijou, Redline, and Aoi Bungaku (which if you haven't
-seen, go do it now.), but We got Neon Genesis Evangelion out of letting Hideaki Anno do his own thing, and we are
-getting Zankyou no Terror out of what Watanabe wants to do..... why can't we let Jiro Ishii get his shot? (and we
-should continue to allow Kotaro Uchikoshi to do what he does best.... #Operationbluebird, #ZeroEscape3)</p>
+Well, I can't really convince you to fund something without giving you reasons on why it's **AWESOME**. First off, just check that [Kickstarter](https://www.kickstarter.com/projects/1300298569/under-the-dog) page. Look at it. Play the Video.
 
-<img alt src="./873254601833074097.jpg"/><p class="sc-77igqf-0 bOfvBY">We are funding an episode to show to the industry that... yes, there is an interest. Yes,
-this is a show that will sell, and it will be amazing. We are showing them that this is a type of show that we like,
-and we like people to do what they want to do. While this is just funding a single episode, and to the consumer, it
-doesn't make sense because it's literally a dollar an minute... that's not the point. It's not about what you are
-getting, quantity wise. It's about making someone willing to foot the bill to see this dream come true, so we can have
-Under The Dog become one of the greatest anime in the longest time. </p>
+The production values really just speak for itself. They don't just want another run of the mill show, but they are planning to make something that will push the boundaries of animation. Straight from the Kickstarter, they said.
 
-<h2 class="sc-1bwb26k-1 fvCjqJ" id="h118043"><a class="js_header-anchor" id=""></a>What Under The Dog Represents
-  for the Future of Action Anime</h2>
-<img alt src="./873254602012741041.jpg"/>
-<p class="sc-77igqf-0 bOfvBY">I think that the Under The Dog Kickstarter might possibly be, the biggest chance us
-  western anime fans have at getting our voices out to the Japanese producers and shareholders we've had in a while. It
-  represents an age of anime that is long gone.. yet something totally unprecedented.</p><p class="sc-77igqf-0 bOfvBY">
-  At this point in time, Kickstarters for anime are more symbolic than anything. Kickstarter's are mostly a western
-  thing with no Japanese support yet, so it's us fans here in the west that are funding it all.... which ignores the
-  bread and butter fans that they have there. It's symbolic of a company trying to do something new, to break away from
-  the chains of normal production. This exact same thing happened with <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://www.kickstarter.com/projects/1311401276/little-witch-academia-2",{"metric25":1}]]' href="https://www.kickstarter.com/projects/1311401276/little-witch-academia-2" rel="noopener noreferrer" target="_blank">Little Witch Academia 2 for Studio </a></span><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://www.kickstarter.com/projects/1311401276/little-witch-academia-2",{"metric25":1}]]' href="https://www.kickstarter.com/projects/1311401276/little-witch-academia-2" rel="noopener noreferrer" target="_blank">TRIGGER</a></span>, then they got the funding to make something all of you are familar with:
-  <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://www.crunchyroll.com/kill-la-kill",{"metric25":1}]]' href="http://www.crunchyroll.com/kill-la-kill" rel="noopener noreferrer" target="_blank">Kill La Kill</a></span>. (Also, Kickstarters showing western interest recently had
-  an impact with the Visual Novel genre. World End Economica brought Sekai Project's name to the forfront, and now they
-  are trying to bring over works such as Clannad and Grisaia no Kaijitsu. I'll write a whole opinion piece about that
-  too.) I'm not sure how much the kickstarter influenced Kill la Kill, but it certainly got the attention for publishers
-  in japan to let TRIGGER do whatever they want. It was also a way for the industry to realize that we are serious about
-  this hobby over here... we funded a show, all by ourselves! It showed that we care about the small innovative studios,
-  and they should too.</p>
+> 1\) we are aiming for 100% backer funded AAA production quality.
 
-<aside class="sc-1rh3ayr-6 jfFNjl inset--story branded-item branded-item--kinja" data-commerce-source="inset">
-<div class="sc-1rh3ayr-5 lXdYy"><p class="sc-1rh3ayr-4 eSxSit"></p><a class="sc-1out364-0 hMndXN sc-1rh3ayr-0 kOvmIi js_readmore inset--story__readmore js_link" data-ga='[["Permalink page click","Permalink page click - inset read more link"]]' href="http://www.crunchyroll.com/kill-la-kill" rel="noopener noreferrer" target="_blank">Read more</a></div>
-</aside><p class="sc-77igqf-0 bOfvBY">We need to keep up that drum beat... but also show how much we love these type of
-  shows! I know there's a lot of you guys out there that are like ... 90's anime is the best! While I'm not one to
-  follow that doctrine, I still love a lot of that shows from that era, and I'm sure there's a lot of people out there
-  who do to... The west is where those were originally really popular! (Cowboy Bebop and Trigun tanked in japan, if you
-  didn't know.) Yes, there are exceptions like Fate/stay night, and Zankyou no Terror, but for the most part, its gone.
-  If you want shows like those that have high quality writing with Action and AAA Animation, we'll have to prove we care
-  about this. We'll need to fund this to show to the Anime Industry in Japan that people in the west still love those
-  kind of shows... and hopefully this will be a start of a trend twords having those shows available. Diversity in anime
-  is a good thing... and why not have more? We need to continue this, and show them we care. </p>
-<h2 class="sc-1bwb26k-1 fvCjqJ" id="h118044"><a class="js_header-anchor" id=""></a>The Bad News</h2><p class="sc-77igqf-0 bOfvBY">Most fans just can't get over the whole value proposition. Hell, I was one of those a few
-  days ago! As of writing, we have 12 days to go and $250,009 USD out of the $580,000 USD we need. That's a lot we need
-  to fund. Please do me a favor and spread this as much as you can, I really want to see this thing happen. As a poor
-  high school student, I really don't have a lot of money to chunk in... so I'm trying to make the difference by getting
-  the word out. Let's get this all over the web... I certainly will be spreading it to every anime site I know, and you
-  should too. Also, don't just spread the word, try to legit fund this. If I can put in 25, most of you should be able
-  to put in at least enough to match me. Every bit helps... let's get this goal through! This has been Rockmandash, see
-  ya later.</p>
-</div>
+Looking at the PV, that's exactly what we are getting. The Group under Creative Intelligence Arts is out there to make something awesome. I'm seeing some great CG, high quality video, and amazing stuff all around. It's everything a modern and great anime should have: excellent directing, great character design, clean and amazing industrial design, stunning scenery, amazing action... it's beautiful. It's like if you took the awesome wallpapers of Makoto Shinkai's movies and amplified them with action. This has the potential to be one of the best looking anime out there, matching with what ufotable has been doing to push the boundaries with anime. Just visuals alone, I'm interested, and you should be too. This is going to be a beautiful anime, if it gets funded.
+
+![](./873254601187428017.jpg)
+
+There's more than this than just visuals: We have an interesting story written by Jiro Ishii, about being pushed into a corner... an underdog situation. It's an interesting theme and it creates a story with an interesting premise... and knowing Jiro Ishii, who's made the visual novel that I want to play the most but don't have any access too, 428: In a Blockaded Shibuya (and helped produced 999, my favorite game). I'm expecting great writing, interesting sci-fi elements based on real science, and interesting themes and plot points that are developed well.
+
+We haven't had a well done Seinen action show in a while. Shows like Trigun, GiTS, Code Geass, Bokurano, Darker than Black, etc... and I realized that I really... really miss these types of shows. I mean, the shoenens will always exist and be meh, the fanservice-y shows will still be there because they are cheap and sell, the romances will be there because they are great and are cheaper while being equally as awesome. When I was watching Canaan, I loved it! (partially because I'm a type-moon fanboy....) Not because it was the greatest thing ever, but because I haven't seen this type of show in a long time. It was done pretty well, with solid action and an interesting story,but it had some production kinks and story issues that were just off. It's like we are getting with Under The Dog is what Type-Moon tried to do with Canaan, but with much better production values, similar themes, and better execution. We're getting that Sci-Fi Action that everyone wants.
+
+On that note, we have the absolutely amazing team that's working on this. Orange Co. who did the CG for the new Code Geass OVA's, and Eva movies, Kinema Circus who is made by Ex Production IG staff who made the absolutely beautiful GiTS:SAC series, Yusuke Kozaki, who's working on the character design and did the character designs for Fire Emblem:Awakening, and the director from Masashiro Ando, the director of the 428 inspired work Canaan, who has a ton of industry experience. We have an absolutely amazing team here, and with all this talent, it's almost a given that we will get something amazing. This is a dream team of industry experts, who know what they are doing.
+
+It looks great, sounds great, and will probably have a great story. Under The Dog however, is it's own underdog, and it's fighting to exist.
+
+## []()The State of the Anime Industry in General
+
+![](./873254601435647409.jpg)
+
+What Creative Intelligence Arts is trying to get funded is not an anime series, but an episode that represents a pitch. You might be asking then... why are they asking all this money, and why are they even asking for money in the first place when they are industry experts? Most people don't really realize this, but anime is really really expensive. Not just to buy, but to make. For something to look good, someone has to be payed to make it.... and the process of getting an anime funded and to make.... is insane. This is explained at the bottom of the kickstarter page, but most people didn't really read that much of it. Here's a video by Digibro that explains this very well.
+
+> In Japan, it is very difficult to obtain independent funding since the anime industry heavily relies on what is known as "seisaku iinkai" or "production committees." This committee requires buy-in from multiple major corporations that combine their efforts to help carry the load of the production costs and thereby minimize the financial risk for each individual company. One company could take on animation, another music, another advertising, another distribution, and so on. It can also drive down the costs of production due to companies willing to take an initial loss with the hopes of turning a profit over the course of several years as the anime and any licensing deals run their course (music, toys, manga, etc.).
+>
+> These committees are usually composed of people with an investor's mindset who look to profit first and then to creative awesomeness, if at all. This can often lead to projects stalled or mired in bureaucracy, indecision, and conflicts of interest. Production committees also generally require intellectual property buyouts in which the creatives involved essentially sacrifice all rights to their work just so they can see their dreams come to fruition in any form at all. Kickstarter will allow our artists to retain their rights and control as well as maintain their passion and investment for the lifetime of the series and any spin-offs. We also have less "cooks in the kitchen," so to speak, so that creative direction will be decisive. No marketing or advertising based creative decisions or delays here! - From UTD Kickstarter
+
+![](./873254601703305649.jpg)
+
+This kickstarter is not just about the show, but to shake up the anime industry, or to at least provide some people the directive freedom to make what they want. The Anime industry is focused on making money like everyone else... but they sacrifice originality, high production values, and creativity to get there. The perception of anime, the fanbase, and the market makes the industry wary about trying new things.... so we get adaptations of shows that only appeal to the hardcore otaku, or shows that try too hard to grab an audience. I do not that I mind some of these shows, but diversity is really the key. Why can't we have our kickass action shows with amazing stories and well done themes, but still have our amazing romantic comedies? I understand that shows are made to gear a profit, but in the process they lose so much. Why should we have to deal with these butchered adaptations, instead of seeing what they could be? If the industry wasn't so geared to selling merchandise, we'd have more of people's favorites like Haruhi, or something like a [Muv-Luv adaptation done right](http://dexomega.kinja.com/dex-where-do-i-start-with-muv-luv-1561900783). What if the companies want to try something new? Why restrict the creativity of talent, deluding the quality of work just to sell more toys? As a fan, don't you want to support what represent the common interest of the consumer and the creator? Yes, there are stuff that are great that bomb like Nichijou, Redline, and Aoi Bungaku (which if you haven't seen, go do it now.), but We got Neon Genesis Evangelion out of letting Hideaki Anno do his own thing, and we are getting Zankyou no Terror out of what Watanabe wants to do..... why can't we let Jiro Ishii get his shot? (and we should continue to allow Kotaro Uchikoshi to do what he does best.... #Operationbluebird, #ZeroEscape3)
+
+![](./873254601833074097.jpg)
+
+We are funding an episode to show to the industry that... yes, there is an interest. Yes, this is a show that will sell, and it will be amazing. We are showing them that this is a type of show that we like, and we like people to do what they want to do. While this is just funding a single episode, and to the consumer, it doesn't make sense because it's literally a dollar an minute... that's not the point. It's not about what you are getting, quantity wise. It's about making someone willing to foot the bill to see this dream come true, so we can have Under The Dog become one of the greatest anime in the longest time.
+
+## []()What Under The Dog Represents for the Future of Action Anime
+
+![](./873254602012741041.jpg)
+
+I think that the Under The Dog Kickstarter might possibly be, the biggest chance us western anime fans have at getting our voices out to the Japanese producers and shareholders we've had in a while. It represents an age of anime that is long gone.. yet something totally unprecedented.
+
+At this point in time, Kickstarters for anime are more symbolic than anything. Kickstarter's are mostly a western thing with no Japanese support yet, so it's us fans here in the west that are funding it all.... which ignores the bread and butter fans that they have there. It's symbolic of a company trying to do something new, to break away from the chains of normal production. This exact same thing happened with [Little Witch Academia 2 for Studio ](https://www.kickstarter.com/projects/1311401276/little-witch-academia-2)[TRIGGER](https://www.kickstarter.com/projects/1311401276/little-witch-academia-2), then they got the funding to make something all of you are familar with: [Kill La Kill](http://www.crunchyroll.com/kill-la-kill). (Also, Kickstarters showing western interest recently had an impact with the Visual Novel genre. World End Economica brought Sekai Project's name to the forfront, and now they are trying to bring over works such as Clannad and Grisaia no Kaijitsu. I'll write a whole opinion piece about that too.) I'm not sure how much the kickstarter influenced Kill la Kill, but it certainly got the attention for publishers in japan to let TRIGGER do whatever they want. It was also a way for the industry to realize that we are serious about this hobby over here... we funded a show, all by ourselves! It showed that we care about the small innovative studios, and they should too.
+
+[Read more](http://www.crunchyroll.com/kill-la-kill)
+
+We need to keep up that drum beat... but also show how much we love these type of shows! I know there's a lot of you guys out there that are like ... 90's anime is the best! While I'm not one to follow that doctrine, I still love a lot of that shows from that era, and I'm sure there's a lot of people out there who do to... The west is where those were originally really popular! (Cowboy Bebop and Trigun tanked in japan, if you didn't know.) Yes, there are exceptions like Fate/stay night, and Zankyou no Terror, but for the most part, its gone. If you want shows like those that have high quality writing with Action and AAA Animation, we'll have to prove we care about this. We'll need to fund this to show to the Anime Industry in Japan that people in the west still love those kind of shows... and hopefully this will be a start of a trend twords having those shows available. Diversity in anime is a good thing... and why not have more? We need to continue this, and show them we care.
+
+## []()The Bad News
+
+Most fans just can't get over the whole value proposition. Hell, I was one of those a few days ago! As of writing, we have 12 days to go and $250,009 USD out of the $580,000 USD we need. That's a lot we need to fund. Please do me a favor and spread this as much as you can, I really want to see this thing happen. As a poor high school student, I really don't have a lot of money to chunk in... so I'm trying to make the difference by getting the word out. Let's get this all over the web... I certainly will be spreading it to every anime site I know, and you should too. Also, don't just spread the word, try to legit fund this. If I can put in 25, most of you should be able to put in at least enough to match me. Every bit helps... let's get this goal through! This has been Rockmandash, see ya later.

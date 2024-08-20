@@ -1,11 +1,11 @@
+---
 {
-title: "Reikaze's Top 10 Anime of 2020",
-description: "Reikaze's Top 10 Anime of 2020",
-published: '2021-1-11T12:00:00.000Z', tags: ['Top 10','Top Lists', 'Reikaze Rambles', 'AniTAY','Anime'],
-attached: [],
-license: 'cc-by-4',
-oldArticle: false
+    title: "Reikaze's Top 10 Anime of 2020",
+    description: "Reikaze's Top 10 Anime of 2020",
+    published: '2021-1-11T12:00:00.000Z',
+    tags: ['Top 10','Top Lists', 'Reikaze Rambles', 'AniTAY','Anime']
 }
+---
 
 ![img](https://i.imgur.com/N2fyiMp.png)
 
