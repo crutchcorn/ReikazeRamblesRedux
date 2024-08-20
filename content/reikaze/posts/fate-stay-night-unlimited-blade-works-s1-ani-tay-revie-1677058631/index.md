@@ -15,7 +15,7 @@
 
 **Rockmandash12:** Because this is such a popular series, and the way they've been releasing them is so screwed up, there's many perspectives on this series.
 
-**Rockmandash12: **I'm a [Type-Moon](http://tay.kotaku.com/type-moon-marathon-wip-1534726534?rev=1406682520485) nut, and with me today is a person who's only seen*Fate/Zero*, representing that point of view... [Protonstorm ](http://protonstorm.kinja.com/):)
+**Rockmandash12:** I'm a [Type-Moon](http://tay.kotaku.com/type-moon-marathon-wip-1534726534?rev=1406682520485) nut, and with me today is a person who's only seen*Fate/Zero*, representing that point of view... [Protonstorm ](http://protonstorm.kinja.com/):)
 
 **Protonstorm:** I'm on TV!
 
@@ -29,27 +29,27 @@
 
 **Rockmandash12:** I guess the best place to start off would be the story. Thoughts?
 
-**Protonstorm: **Well, it is definitely is slower during this first half.
+**Protonstorm:** Well, it is definitely is slower during this first half.
 
-**Protonstorm: **That's been the biggest complaint I've heard thus far, although I also know things will pick up in the near future.
+**Protonstorm:** That's been the biggest complaint I've heard thus far, although I also know things will pick up in the near future.
 
-**Rockmandash12: **It definitely will.
+**Rockmandash12:** It definitely will.
 
 **Rockmandash12:** I think because we are watching it week by week, it feels a lot slower than it otherwise would.
 
-**Rockmandash12: **Normally, with a VN, you marathon through.
+**Rockmandash12:** Normally, with a VN, you marathon through.
 
 **Protonstorm:** Haha, yeah. I remember you were reluctant to watch it weekly, and honestly when it was first announced I originally planned to marathon it at the end as well.
 
-**Protonstorm: **But everyone boards the hype train.
+**Protonstorm:** But everyone boards the hype train.
 
-**Rockmandash12: **I'm guilty of that. I'm planning to marathon it through when it's all done though.
+**Rockmandash12:** I'm guilty of that. I'm planning to marathon it through when it's all done though.
 
 **Rockmandash12:** Another complaint I've heard is that there's a lot of exposition. Honestly, I think there could be more, and I'd like more, but that's because I'm a jaded VN nut who loves the exposition of the world... I know that wouldn't really translate well into an anime though.
 
 **Protonstorm:** Well, for me as a filthy* Fate/Zero* alumnus, I have been more than okay with the amount of exposition this first half.
 
-**Protonstorm: **I feel like if they gave less we would have a problem, but it also hasn't hit a point where I'm zoning out.
+**Protonstorm:** I feel like if they gave less we would have a problem, but it also hasn't hit a point where I'm zoning out.
 
 **Rockmandash12:** So, I'm not a weirdo... good to hear! Speaking of zoning out, I'm kinda doing that, because they took out one of my favorite parts of the VN, the internal monologuing.
 
@@ -57,9 +57,9 @@
 
 **Rockmandash12:** Are you feeling that at all?
 
-**Protonstorm: **Hmmm, well since I don't have experience with the VN, I really don't know what I'm losing here, but it doesn't feel too much to me like there's a part of the story lost in the translation. Obviously not everything can be but into the show that the VN had, but I feel like I'm still getting a full story, even if it apparently isn't the complete one.
+**Protonstorm:** Hmmm, well since I don't have experience with the VN, I really don't know what I'm losing here, but it doesn't feel too much to me like there's a part of the story lost in the translation. Obviously not everything can be but into the show that the VN had, but I feel like I'm still getting a full story, even if it apparently isn't the complete one.
 
-**Rockmandash12: **It's good to hear that anime only people don't have that issue, but it loses out on a bit of the charm and emotional attachment in my opinion.
+**Rockmandash12:** It's good to hear that anime only people don't have that issue, but it loses out on a bit of the charm and emotional attachment in my opinion.
 
 **Rockmandash12**: In the Visual Novel, it felt like you were experiencing the story of Shirou, getting his perspective on everything, learning about him and developing him as a character. I really enjoyed that, it created an emotional bond with the character. Maybe because I've experienced that, the anime feels a bit shallow in in comparison, but not that much so. Like, I feel like we're watching the story instead of being a part of it and it feels a bit more detached to me.
 
@@ -69,7 +69,7 @@
 
 **Rockmandash12:** yeah. I think it's been done well before, but it's definitely a tough thing to do.
 
-**Rockmandash12: **Other than that, do you have any other thoughts on the story?
+**Rockmandash12:** Other than that, do you have any other thoughts on the story?
 
 **Protonstorm:** Well, in terms of comparison to other shows, the premise for the Fate series is pretty interesting.
 
@@ -81,17 +81,17 @@
 
 **Protonstorm:** Mage wars for an ultimate power is one thing. Add in the summoning of servants from human history/mythology, each with their own personalities and abilities, and you have something pretty intriguing.
 
-**Rockmandash12: **Definitely. One of the biggest draws to me for the fate series is that the characters first, action second and that's not really something you can say about many shows in this genre.
+**Rockmandash12:** Definitely. One of the biggest draws to me for the fate series is that the characters first, action second and that's not really something you can say about many shows in this genre.
 
-**Rockmandash12: **even if you like the characters or not.
+**Rockmandash12:** even if you like the characters or not.
 
 ![](plnnrlkp7xibtiggv7up.png) ![](./1060908153489952040.jpg)
 
 **Protonstorm:** Yeah. And not just the masters, the servants get just as much if not more development.
 
-**Protonstorm: **They aren't just tools.
+**Protonstorm:** They aren't just tools.
 
-**Rockmandash12: **Definitely. As someone who's seen *Fate/Zero*, what are your thoughts on how they handled returning characters, and characters in general?
+**Rockmandash12:** Definitely. As someone who's seen *Fate/Zero*, what are your thoughts on how they handled returning characters, and characters in general?
 
 **Protonstorm:** Well, that's a challenging thing to answer. Technically, *Fate/stay night* is **SUPPOSED** to be watched first, but *Fate/Zero* chronologically takes place earlier. I liked how some of the scenes held more significance to the audience that had seen *Fate/Zero* though, and they weren't too big of a deal for new viewers, just a slight nod to the Fate/Zero veterans.
 
@@ -111,11 +111,11 @@
 
 **Rockmandash12:** Shirou is probably one of the most controversial character in anime at this time, along with characters like Tatsuya ([Onetruetatsuya ](http://www.reddit.com/r/OneTrueTatsuya)is a hilarious subreddit btw), and Kirito.
 
-**Protonstorm: **Praise Onii-sama.
+**Protonstorm:** Praise Onii-sama.
 
 **Rockmandash12:** I'm personally a big fan of Shirou due to the developments I've seen him have, but not everyone is and not everyone's seen those developments. Thoughts?
 
-**Rockmandash12: **And Rin = best girl. Best girl of all time. No debates.
+**Rockmandash12:** And Rin = best girl. Best girl of all time. No debates.
 
 **Rockmandash12:** /jk, but seriously. I love Rin.
 
@@ -137,27 +137,27 @@
 
 **Rockmandash12:** It was way more subtle in the VN, btw.
 
-**Protonstorm: **Yes, but Shirou interprets the meaning as not harming anyone, unlike Kiritsugu.
+**Protonstorm:** Yes, but Shirou interprets the meaning as not harming anyone, unlike Kiritsugu.
 
-**Rockmandash12: **Any other characters you want to talk about?
+**Rockmandash12:** Any other characters you want to talk about?
 
-**Protonstorm: **Well, we tossed up Rin earlier, but didn't ACTUALLY talk about her.
+**Protonstorm:** Well, we tossed up Rin earlier, but didn't ACTUALLY talk about her.
 
 **Rockmandash12:** Yeah....
 
-**Rockmandash12: **A shining example of a Tsundere done right.
+**Rockmandash12:** A shining example of a Tsundere done right.
 
-**Rockmandash12: **Enough depth so she doesn't seem like a cookie cutter character while maintaining the core aspects of the character.
+**Rockmandash12:** Enough depth so she doesn't seem like a cookie cutter character while maintaining the core aspects of the character.
 
 **Rockmandash12:** I'm just going to stop myself there. If I continue, i'll be going on for hours.
 
 **Rockmandash12:** I really love Rin as a character.
 
-**Protonstorm: **I don't doubt it.
+**Protonstorm:** I don't doubt it.
 
-**Protonstorm: **Rin is definitely interesting. She's been brought up with such a huge focus on magic, but she really was not prepared for the reality of the Grail War, and so she has to modify her expectations. I also think it's kind of amusing how she and Shirou kind of have a back and forth tsundere pairing.
+**Protonstorm:** Rin is definitely interesting. She's been brought up with such a huge focus on magic, but she really was not prepared for the reality of the Grail War, and so she has to modify her expectations. I also think it's kind of amusing how she and Shirou kind of have a back and forth tsundere pairing.
 
-**Rockmandash12: **Normally, a tsundere gets "conquered" by the hero. This time, it's a bit the other way around, and it's great.
+**Rockmandash12:** Normally, a tsundere gets "conquered" by the hero. This time, it's a bit the other way around, and it's great.
 
 ![](1060908153569737000.jpg)
 
@@ -171,7 +171,7 @@
 
 **Protonstorm:** Not that I would mind being able to make weapons out of magazines or anything, but I'd rather shoot magic missiles or something.
 
-**Protonstorm: **Just saying.
+**Protonstorm:** Just saying.
 
 **Rockmandash12:**: Like archer.
 
@@ -189,11 +189,11 @@
 
 ![](sipwqbt9rgo2sc5f3j1t.jpg)
 
-**Rockmandash12: **Honestly, I was mixed on it. There are a few things it did that bothered me, and I can see how some people can really not like it, but I still like the core story as a whole. It's still the FSN I know and love.
+**Rockmandash12:** Honestly, I was mixed on it. There are a few things it did that bothered me, and I can see how some people can really not like it, but I still like the core story as a whole. It's still the FSN I know and love.
 
 **Protonstorm:** Which parts bothered you?
 
-**Rockmandash12: **Mostly the pacing and internal monologuing being removed. It just doesn't feel right to me. It's not fast and engaging yet, most of it has been buildup.
+**Rockmandash12:** Mostly the pacing and internal monologuing being removed. It just doesn't feel right to me. It's not fast and engaging yet, most of it has been buildup.
 
 **Rockmandash12:** I'm betting that it'll pull a Steins;Gate and get really, really good after this, but for now, writing = meh to me.
 
@@ -219,11 +219,11 @@
 
 **Protonstorm:** But seriously, how do they pull it off? They even had three hour-long episodes.
 
-**Rockmandash12: **Magic.
+**Rockmandash12:** Magic.
 
 **Rockmandash12:** Seriously though, Ufotable is my favorite animators out there, and F/SN is the best looking anime out there.
 
-**Protonstorm: **MAPPA tries, but it ain't got nothing on Ufotable. Come at me, Koda.
+**Protonstorm:** MAPPA tries, but it ain't got nothing on Ufotable. Come at me, Koda.
 
 **Rockmandash12:** Even PA Works's beauty can't even come close.
 
@@ -243,7 +243,7 @@
 
 **Rockmandash12:** seeing random sword swings from the VN sprung into life like this.. it's just beyond amazing... and the cinematography.. it's really unlike anything I've seen in anime.
 
-**Rockmandash12: **Most shows don't care how they frame the shot... but in FSN UBW, every frame shows tons of content, and it's framed so you feel the emotion and action.
+**Rockmandash12:** Most shows don't care how they frame the shot... but in FSN UBW, every frame shows tons of content, and it's framed so you feel the emotion and action.
 
 **Protonstorm:** Honestly it scares me a bit. I hope they feed their animators.
 
@@ -255,27 +255,27 @@
 
 **Protonstorm:** I bet they were given blank checks.
 
-**Rockmandash12: **XD
+**Rockmandash12:** XD
 
-**Rockmandash12: **Also, I'm going to call Koda out here....
+**Rockmandash12:** Also, I'm going to call Koda out here....
 
-**Rockmandash12: **In his[ Rage of Bahamut](http://anitay.kinja.com/rage-of-bahamut-genesis-the-ani-tay-review-1676327262) review, he says that he says the faces in most anime are static in general, and because of the expressions in Bahamut, it's a better show, visually.
+**Rockmandash12:** In his[ Rage of Bahamut](http://anitay.kinja.com/rage-of-bahamut-genesis-the-ani-tay-review-1676327262) review, he says that he says the faces in most anime are static in general, and because of the expressions in Bahamut, it's a better show, visually.
 
 **Rockmandash12:** I just can't agree. While most anime may be that case, FSN definitely isn't.
 
 ![](ibzyszibmnf3zwjg1f2b.jpg)
 
-**Rockmandash12: **The expressions, reactions and faces in general feel alive, real and they get me every time.it has the fluidity like bahamut and western animation, and it shows the emotion extremely well.
+**Rockmandash12:** The expressions, reactions and faces in general feel alive, real and they get me every time.it has the fluidity like bahamut and western animation, and it shows the emotion extremely well.
 
-**Protonstorm: **Koda Shots Fired: 2
+**Protonstorm:** Koda Shots Fired: 2
 
 **Rockmandash12:** It's one of the things that really stood out for me, and I hope we see this trend continue in the future.
 
-**Protonstorm: **Agreed.
+**Protonstorm:** Agreed.
 
 **Rockmandash12:** 2015: The year of facial expressions?
 
-**Protonstorm: **:D
+**Protonstorm:** :D
 
 **Rockmandash12:** Yeah. Looking forward to more.
 
@@ -299,21 +299,21 @@
 
 > **This is a cover of Ideal White, so it doesn't exactly match up with the original, but it's one of the best ones out there. (Better than sped up and night cours ^.^) Check out DarkAngelWJ's channel for more covers like this one.**
 
-**Protonstorm: **What soundtrack?
+**Protonstorm:** What soundtrack?
 
 **Rockmandash12:** Exactly.
 
-**Protonstorm: **Hey, for the record, the opening theme (Ideal White) was awesome. I would say that someone should pay Ayano Mashiro some big money, but I think that's already been done.
+**Protonstorm:** Hey, for the record, the opening theme (Ideal White) was awesome. I would say that someone should pay Ayano Mashiro some big money, but I think that's already been done.
 
-**Rockmandash12:**I gotta disagree.
+**Rockmandash12:** I gotta disagree.
 
 **Rockmandash12:** Not a big fan of Ideal White, [the other fate openings were better](https://www.youtube.com/watch?v=Cem-Kz9iioU).
 
 **Rockmandash12:** Like, even the tease of The Illusion in episode 12 would have made for a better opening.
 
-**Rockmandash12: **Ideal White doesn't represent the show nearly as well as the others have.
+**Rockmandash12:** Ideal White doesn't represent the show nearly as well as the others have.
 
-**Protonstorm: **Ohhh, LiSA singing The Illusion was awesome.
+**Protonstorm:** Ohhh, LiSA singing The Illusion was awesome.
 
 **Rockmandash12:**: I've been listening to it on repeat since the episode aired.
 
@@ -325,7 +325,7 @@
 
 **Rockmandash12:** the memorable pieces in F/SN UBW weren't played, and the soundtrack doesn't get me in the mood.
 
-**Protonstorm: **Yeah, and I'm the kind of guy who places HUGE emphasis on the soundtrack. The music is what will maintain emotions long after a show is over, and it's sooo important for establishing the mood. A real shame.
+**Protonstorm:** Yeah, and I'm the kind of guy who places HUGE emphasis on the soundtrack. The music is what will maintain emotions long after a show is over, and it's sooo important for establishing the mood. A real shame.
 
 **Rockmandash12:** I write a lot about soundtracks, and this one is just extremely disapointing. It's bad. really bad.
 
@@ -337,23 +337,23 @@
 
 **Rockmandash12:** He fixed the [FSN soundtrack with the vita release](https://www.youtube.com/watch?v=euQbNBn5yCU), and **BLEW MY MIND** with [Mahoutsukai no Yoru's soundtrack](https://www.youtube.com/watch?v=LD3R-OhbLTE), but that's just a fanboi rambling.
 
-**Rockmandash12: **So yeah, really disappointed. Anything you want to add?
+**Rockmandash12:** So yeah, really disappointed. Anything you want to add?
 
-**Protonstorm: **Nothing that hasn't already been said. Just hoping on the off chance that things will be better for the second cour.
+**Protonstorm:** Nothing that hasn't already been said. Just hoping on the off chance that things will be better for the second cour.
 
 **Rockmandash12:** I guess we're about done here.
 
 **Rockmandash12:** Anything you want to add before we wrap this up?
 
-**Protonstorm: **One final complaint on my part.
+**Protonstorm:** One final complaint on my part.
 
 ![](bfbo5gkclzz1txtwv3el.png)
 
 > **\*Keep in mind this is the ending section, The video includes spoilers.\***
 
-**Protonstorm: **I didn't like how this cour ended. All is lost! Shirou is useless, and Rin has abandoned him! However will he fix this? Find out next time... in three months!
+**Protonstorm:** I didn't like how this cour ended. All is lost! Shirou is useless, and Rin has abandoned him! However will he fix this? Find out next time... in three months!
 
-**Protonstorm: **Thanks guys
+**Protonstorm:** Thanks guys
 
 **Rockmandash12:** it was really a troll move, as expected though.
 
@@ -373,9 +373,9 @@
 
 **Protonstorm:** I enjoyed UBW this season. It doesn't make my top list yet though because this first cour was totally a build up for the spring, and I felt that as I was watching it. Still pretty awesome though, it deserves more credit than some people have been giving it.
 
-**Rockmandash12: **Yeah. Your overall rating of the show? I'm going to have to say *Proceed with Caution*, because even though I love FSN, and UBW, this anime isn't ready. It needs cour 2, and there are issues with it that may detract from the experience.
+**Rockmandash12:** Yeah. Your overall rating of the show? I'm going to have to say *Proceed with Caution*, because even though I love FSN, and UBW, this anime isn't ready. It needs cour 2, and there are issues with it that may detract from the experience.
 
-**Protonstorm: **I would say* Go for It*, because although there are some issues, I think that the bulk of newcomers to the series will at least be interested enough to keep going.
+**Protonstorm:** I would say* Go for It*, because although there are some issues, I think that the bulk of newcomers to the series will at least be interested enough to keep going.
 
 **Rockmandash12:** I can see that, but I'd personally say to wait until it's all done. I'm sure everyone will have their own opinion on this though, so I guess this is where we end this off.
 
