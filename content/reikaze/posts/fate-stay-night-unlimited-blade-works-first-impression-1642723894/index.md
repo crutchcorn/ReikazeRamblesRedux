@@ -13,12 +13,6 @@
 
 [![](1476080727821779888.jpg)](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-###### [Rockmandash Reviews: *Type-Moon Marathon*](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
-
-In preparation for the Fate/stay night: Unlimited Blade Works Adaptation by Ufotable, I decided to…
-
-[Read more](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
-
 ### []()Visuals
 
 ![](940934613098786190.jpg)
@@ -27,23 +21,11 @@ Let's get this off the bat: Ufotable's done a brilliant job with the visuals. It
 
 [![](1323445382693668965.png)](https://rockmandash12.kinja.com/rockmandash-reviews-nagi-no-asukara-anime-1567969970)
 
-###### [Rockmandash Reviews: *Nagi no Asukara* \[Anime\]](https://rockmandash12.kinja.com/rockmandash-reviews-nagi-no-asukara-anime-1567969970)
-
-Welcome to Rockmandash Reviews! Today I’m reviewing one of my favorite anime, Nagi no Asukara, a…
-
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-nagi-no-asukara-anime-1567969970)
-
 [](./xdiaydrxwcjh5dos0peg.mp4)
 
 The fight scenes are so lightning fast that it blows my mind. They have a high standard of quality when it comes to visuals, and the result is stunning shows that that many studios \_cough\_[DEEN](https://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-unlimited-blade-wo-1504755437)\_cough\_ could only dream of, and I can only admire. It's kinda surreal to see ufotable art with Fate/stay night, but I love it.
 
 [![](1291273890055762608.png)](https://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-unlimited-blade-wo-1504755437)
-
-###### [Rockmandash Reviews: *Fate/Stay Night Unlimited Blade Works (2010)* \[Anime Movie\]](https://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-unlimited-blade-wo-1504755437)
-
-Welcome to Rockmandash Reviews! This is another review in my Type-Moon Marathon, and this is a…
-
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-unlimited-blade-wo-1504755437)
 
 ### []()Soundtrack
 
@@ -87,16 +69,5 @@ What do I think about F/SN so far? It's been amazing, and you guys should defini
 
 ***
 
-*You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*, and the rest of my *[*Type-Moon Marathon here*](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)*. For an explanation of my review system, *[*check this out*](http://tay.kotaku.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
-
 [![](1476080727821779888.jpg)](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-###### [Rockmandash Reviews: *Type-Moon Marathon*](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
-
-In preparation for the Fate/stay night: Unlimited Blade Works Adaptation by Ufotable, I decided to…
-
-[Read more](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
-
-*This show is available on *[*Crunchyroll*](http://www.crunchyroll.com/fatestay-night)* for free and legal streaming.*
-
-[Read more](http://www.crunchyroll.com/fatestay-night)

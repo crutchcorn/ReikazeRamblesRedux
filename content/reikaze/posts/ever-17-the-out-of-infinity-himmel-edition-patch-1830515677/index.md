@@ -13,11 +13,11 @@ Are you a fan of *Ever 17 *but have serious problems with how the game has aged?
 \
 Enter *Ever 17 Himmel Edition,* or how I’m used to calling it, *Project Forever 17*. Thanks to some grievances with the original textbox, the fine people at Rokumei City have revamped *Ever 17* in the form of Himmel edition, and there’s a lot of changes here. The big change here is that skip is much, much faster, but there’s a laundry list of quality of life improvements that make this version worth downloading. It’s a clear definitive version of* Ever 17*, and I would recommend that you have it installed if you are interested in playing the game. If you’re a fan of the game these changes may make you interested to replay it, and if you haven’t played it yet, these might push you over the edge to give the game a try. The link to the reddit post where you can download it is in the description, and it’s worth noting that this is compatible with every patch that came before this (including the 360 BGM patch)
 
-<https://www.reddit.com/r/visualnovels/comments/9v76tp/ever17_himmel_edition_released/>
+[Link to related Reddit thread](https://www.reddit.com/r/visualnovels/comments/9v76tp/ever17_himmel_edition_released/)
 
 ***
 
-## []()**Engine Changes**
+## **Engine Changes**
 
 ![](./cgmntrgmrvval6sopymq.png)
 
@@ -40,7 +40,7 @@ Title display allows you to see the title of the section you’re reading, which
 
 ***
 
-## []()Graphical Changes
+## Graphical Changes
 
 ![](./o4rhyvmrucs8icw8as0m.png) ![](./sxscoovcggm2dbysse2c.png)
 
@@ -55,7 +55,7 @@ There’s some graphical changes that Himmel made that make the game less dated 
 
 ***
 
-## []()Text Changes
+## Text Changes
 
 ![](./wzkqb3zjcro3etxa2q4c.png)
 
