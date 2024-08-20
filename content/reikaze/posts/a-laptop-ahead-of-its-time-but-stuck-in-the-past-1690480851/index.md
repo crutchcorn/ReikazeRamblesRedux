@@ -14,12 +14,6 @@ A laptop that is unbelievably thin, is missing a ton of stuff everyone uses like
 
 [![](./js6eihx4oyukxvk8a1lw.jpg) ](https://gizmodo.com/macbook-air-review-348753)
 
-###### [MacBook Air Review](https://gizmodo.com/macbook-air-review-348753)
-
-The MacBook Air is driving me insane. I want it like no other hardware. It’s thin, yea, ok, we know
-
-[Read more](https://gizmodo.com/macbook-air-review-348753)
-
 ### []()Pushing the Boundaries
 
 ![](./1157347426369960738.jpg)
@@ -34,12 +28,6 @@ The most controversial issue of the new Macbook has got to be the [ports](https:
 
 [![](./du9cill4kdqywygoxtdi.png) ](https://gizmodo.com/why-apple-could-leave-ports-behind-1677838462)
 
-###### [Why Apple Could Leave Ports Behind](https://gizmodo.com/why-apple-could-leave-ports-behind-1677838462)
-
-While rumors of a 12-inch MacBook Air have been merrily percolating these last few months, the most
-
-[Read more](https://gizmodo.com/why-apple-could-leave-ports-behind-1677838462)
-
 ### []()Slow Processors?
 
 ![](./1157347426454645026.jpg)
@@ -47,12 +35,6 @@ While rumors of a 12-inch MacBook Air have been merrily percolating these last f
 Apple's vision was much more far reaching than what intel imagined, and the original Macbook Air used an old Core 2 Duo, which combined with a slow hard drive didn't make it a pleasant experience. We may have another case of deja vu, as the new Macbook ships with a [Core M processor](https://gizmodo.com/intels-core-m-might-finally-give-us-the-laptop-tablet-h-1630778247), that has been known to be [pretty slow](http://gizmodo.com/lenovo-yoga-3-pro-review-a-futuristic-laptop-that-lags-1668217125?utm_campaign=socialflow_gizmodo_twitter\&utm_source=gizmodo_twitter\&utm_medium=socialflow). Not looking good for apple fans, but if we go by the Air's history, it'll probably get a better CPU in the future.
 
 [![](./rapdxovlhswubyhct7j2.jpg) ](https://gizmodo.com/intels-core-m-might-finally-give-us-the-laptop-tablet-h-1630778247)
-
-###### [Intel's Core M Might *Finally* Give Us True Laptop-Tablet Hybrids](https://gizmodo.com/intels-core-m-might-finally-give-us-the-laptop-tablet-h-1630778247)
-
-The perfect in-between device—something that's as thin as a dedicated tablet and as powerful as a…
-
-[Read more](https://gizmodo.com/intels-core-m-might-finally-give-us-the-laptop-tablet-h-1630778247)
 
 ### []()What's with the dongles?
 
@@ -92,24 +74,6 @@ The Macbook Air had a strong impact on the PC industry, the incentivization of I
 
 [![](./tvob83yjcnlx8xgsqkfu.jpg) ](https://gizmodo.com/dell-xps-13-review-2015-the-windows-laptop-to-beat-1681976712)
 
-###### [Dell XPS 13 Review (2015): The Windows Laptop To Beat](https://gizmodo.com/dell-xps-13-review-2015-the-windows-laptop-to-beat-1681976712)
-
-Are you thinking of buying a Windows laptop? Don't, until you've read this review. The new Dell XPS
-
-[Read more](https://gizmodo.com/dell-xps-13-review-2015-the-windows-laptop-to-beat-1681976712)
-
 ### []()Conclusion
 
 All things considered, the new Macbook echoes the spirit of the 2008 Macbook while updating everything (except the webcam).... which is a good and bad thing. Looking at it, this device makes compromises, and I don't really think that this iteration will be a great device like the Air, but these are issues that can be fixed in later iterations, so let's hope that this new Macbook will be refined to be a solid computing experience, just like the Air did a few years back. History does have a tendency to repeat itself, and this is one I think will repeat. Too bad they couldn't get it right the first time!
-
-***
-
-*Rockmandash is a frequent writer of Visual Novels and Anime on *[*Rockmandash Reviews*](http://rockmandash12.kinja.com/)* and *[*AniTAY*](http://anitay.kinja.com/#_ga=1.110743109.1523386611.1417386122)*, but has a large fascination with technology and is trying to write on *[*Whitenoise*](http://whitenoise.gizmodo.com/)* because why not? Come and check them out if you are interested in reviews and opinion pieces on these topics, and please tell your thoughts on this and if I should continue in the future!*
-
-[![](./g4w5timhzxkuwfh9wuua.png)](http://rockmandash12.kinja.com/)
-
-###### [RockmanDash Reviews](http://rockmandash12.kinja.com/)
-
-rockmandash12
-
-[Read more](http://rockmandash12.kinja.com/)
