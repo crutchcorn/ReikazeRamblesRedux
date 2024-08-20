@@ -78,22 +78,3 @@ Due to the fact that the anime is one cour, and this is an ongoing manga, they h
 *Ao Haru Ride* is a well done Shoujo for Shoujo fans. I had a great time with it, and I think you probably will too. If you like Shoujo, then you'll probably like it as much as I do, but if not, [you may want to try something else](http://anitay.kinja.com/gekkan-shoujo-nozaki-kun-rockmandashs-ani-tay-review-1634657276). If you need me, I'll be reading the manga.
 
 ![](./eom4jjfos7oiv4e6su7z.png)
-
-***
-
-**Copyright Disclaimer:** Under Title 17, Section 107 of United States Copyright law, reviews are protected under fair use. This is a review, and as such, all media used in this review is used for the sole purpose of review and commentary under the terms of fair use. All footage, music and images belong to the respective companies.
-
-*You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*. For an explanation of my review system (which isn't present on this review, but is in most of my reviews), *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
-
-[![](./1520891687004619076.png)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
-
-###### [Rockmandash Rambles: *An Explanation on my Review System* (Updated 11/15/2015)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
-
-If you’ve read any of my reviews and wanted to know why I did them the way I do, here’s an…
-
-[Read more](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
-
-*This anime is available on *[*Crunchyroll*](http://www.crunchyroll.com/blue-spring-ride)* for free and legal streaming.*\
-**
-
-[Read more](http://www.crunchyroll.com/blue-spring-ride)
