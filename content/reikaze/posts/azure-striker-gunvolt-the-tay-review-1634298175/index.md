@@ -62,28 +62,3 @@ I've come to expect great things from Ippo Yamada, who's made the music for all 
 I came into Azure Striker Gunvolt looking for another Mega Man. "What I found was a game that had the same essence of the games I love, but not some of the little things that they did right. It's a good game that you'll probably enjoy if you are a fan of the series, but I can't help but feel a bit disappointed.
 
 ![](./malpcmrc4oi2c9pqcarv.png)
-
-***
-
-**Copyright Disclaimer:** Under Title 17, Section 107 of United States Copyright law, reviews are protected under fair use. This is a review, and as such, all media used in this review is used for the sole purpose of review and commentary under the terms of fair use. All footage, music and images belong to the respective companies.
-
-*You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*. For an explanation of my review system (which isn't present on this review, but is in most of my reviews), *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
-
-[![](./1520891687004619076.png)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
-
-###### [Rockmandash Rambles: *An Explanation on my Review System* (Updated 11/15/2015)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
-
-If you’ve read any of my reviews and wanted to know why I did them the way I do, here’s an…
-
-[Read more](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
-
-*This game is available on *[*Nintendo's eShop*](http://www.nintendo.com/games/detail/IzQLYKKFFtrgomKI-2-G1eK7I8Oc8Eu9)* for digital distribution.*\
-**
-
-[![](./vytsmaqwiip3x6bkbfoh.jpg)](http://www.nintendo.com/games/detail/IzQLYKKFFtrgomKI-2-G1eK7I8Oc8Eu9)
-
-###### [Nintendo - Official Site - Video Game Consoles, Games](http://www.nintendo.com/games/detail/IzQLYKKFFtrgomKI-2-G1eK7I8Oc8Eu9)
-
-Discover Nintendo Switch, the video game system you can play at home or on the go. Plus, get the…
-
-[Read more](http://www.nintendo.com/games/detail/IzQLYKKFFtrgomKI-2-G1eK7I8Oc8Eu9)
