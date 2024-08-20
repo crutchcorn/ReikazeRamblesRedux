@@ -30,13 +30,13 @@ async function cleanHTML(fileLocation: string) {
 					const classes = node.properties.className as string;
 					const isNoScript = node.tagName === "noscript";
 					const noScriptContent = node.children?.[0];
-					console.log({parent, index})
 					const isPreviousClosestSiblingImg =
 						(parent.children[index - 1] as Element)?.tagName === "img";
 					if (
 						classes?.includes("ezoic-autoinsert-video") ||
 						classes?.includes("rll-youtube-player") ||
 						classes?.includes("ezoic-autoinsert-ad") ||
+						node.properties["ez-dt"] === "video" ||
 						(isNoScript &&
 							noScriptContent?.type === "element" &&
 							(noScriptContent as Element).tagName === "iframe")
@@ -50,6 +50,12 @@ async function cleanHTML(fileLocation: string) {
 						isPreviousClosestSiblingImg
 					) {
 						// Remove the previous img tag and unwrap the inner img from the noscript
+						const oldSrc = noScriptContent.properties.src as string;
+						const newSrc = oldSrc.split("/").pop();
+						(noScriptContent as Element).properties = {
+							src: "./" + newSrc,
+							alt: noScriptContent.properties.title || noScriptContent.properties.alt,
+						};
 						parent.children[index] = noScriptContent;
 						parent.children.splice(index - 1, 1);
 					}
