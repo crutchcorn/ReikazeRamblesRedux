@@ -13,10 +13,4 @@ Regardless of what you think about Sekai Project and the way they handle things,
 
 [![](./1248076395177704805.png)](https://rockmandash12.kinja.com/rockmandash-reviews-narcissu-1st-2nd-visual-novel-1676683203)
 
-###### [Rockmandash Reviews: *Narcissu 1st & 2nd *\[Visual Novel\]](https://rockmandash12.kinja.com/rockmandash-reviews-narcissu-1st-2nd-visual-novel-1676683203)
-
-I spend a lot of time talking about being attached to a story and why it’s important. Today on…
-
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-narcissu-1st-2nd-visual-novel-1676683203)
-
 Not much details are available yet, but through an [AMA with one of the translators from Sekai Project](http://www.reddit.com/r/visualnovels/comments/2u42g7/im_agilis_tler_for_narcissu_12_and_other_vns/), we've learned that Ame no Marginal is in the same vain as Narcissu: an utsuge with a similar tone, which is all good news to me. It'll be available on steam for $9.99 in mid-late 2015, with preorders starting now. You can expect a review coming from me in the future.
