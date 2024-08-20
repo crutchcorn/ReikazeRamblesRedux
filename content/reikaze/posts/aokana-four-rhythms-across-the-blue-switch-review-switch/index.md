@@ -14,33 +14,9 @@ In anime, the sports genre is fascinating based on the way the story is presente
 
 The standout design finds its way into the game’s UI that takes on the form of a textbook. Furthermore, the audio track title appears onscreen when the song changes, which worked for me because it has a pretty good soundtrack. These elements give off a more modern visual novel experience, which may make it more approachable to newcomers.
 
-<!-- ezoic_video_placeholder-under_first_paragraph-640x360-999998-clearholder -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-640x360-999998-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-426x240-999998-clearholder -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-426x240-999998-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-384x216-999998-clearholder -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-384x216-999998-nonexxxclearxxxblock -->
-
 ![Aokana: Four Rhythms Across the Blue Switch Review - A Soaring Switch Visual Novel 1](./Aokana-HD-1.png)
 
 The premise of _Aokana_ contains many layers, which are each compelling, even if it might not seem like it at first. The story follows Hinata Masaya, a youth prodigy of a futuristic sport known as “Flying Circus,” where players use anti-gravity boots to fly around and score points. However, he was traumatized by a loss and refused to play.
-
-<!-- ezoic_video_placeholder-under_second_paragraph-640x360-999997-clearholder -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-640x360-999997-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-426x240-999997-clearholder -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-426x240-999997-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-384x216-999997-clearholder -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-384x216-999997-nonexxxclearxxxblock -->
 
 One day while running late to school, he meets a transfer student Asuka, who is new to the area and doesn’t know anything about its flying customs. Masaya helps Asuka learn how to fly, and in the process, Asuka pulls him back into the world of Flying Circus, much to his chagrin, to become the coach of the Flying Circus club.
 
@@ -52,35 +28,11 @@ _Aokana_ makes it clear that Asuka is the main girl, but the rest of the club an
 
 Throughout the story, the relationships between club members will improve, but this isn’t just a matter of being on the same team. They slowly adjust to the difference in personality deficiencies which leads them to solve internal problems and improve their chemistry.
 
-<!-- ezoic_video_placeholder-mid_content-640x360-999996-clearholder -->
-
-<!-- ezoic_video_placeholder-mid_content-640x360-999996-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-mid_content-426x240-999996-clearholder -->
-
-<!-- ezoic_video_placeholder-mid_content-426x240-999996-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-mid_content-384x216-999996-clearholder -->
-
-<!-- ezoic_video_placeholder-mid_content-384x216-999996-nonexxxclearxxxblock -->
-
 ![Aokana: Four Rhythms Across the Blue Switch Review - A Soaring Switch Visual Novel 3](./2020082002083600-21FF5D1CB7E1FA5F8428357A9F31BE39.jpg)
 
 While the story is gripping at times, I found it to be reasonably predictable. Most of the character arcs are overly simplistic, which is a huge letdown, given how strong the common route is. This led me to become more attached to the common route than the offerings of the true ending based solely on how formulaic the events became.
 
 For example, Asuka’s route was built around a “sunshine girl saves the main guy” storyline. This type of story can be done well, but the execution of it all in _Aokana_ is the problem. The relationship itself lacks special personal interactions and becomes a cookie-cutter sunshine girl romance, whereas the main sports story feels like a shonen.
-
-<!-- ezoic_video_placeholder-long_content-640x360-999995-clearholder -->
-
-<!-- ezoic_video_placeholder-long_content-640x360-999995-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-long_content-426x240-999995-clearholder -->
-
-<!-- ezoic_video_placeholder-long_content-426x240-999995-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-long_content-384x216-999995-clearholder -->
-
-<!-- ezoic_video_placeholder-long_content-384x216-999995-nonexxxclearxxxblock -->
 
 I will advise playing through each of the game’s routes as many of the gripes I had with Asuka’s route, primarily that they basically ignored Masaya’s traumas, were addressed in Misaki’s route. This actually made Misaki’s route the highlight of the game for me. Genuinely, the coming-of-age bond between Masaya and Misaki was compelling and engaging and makes the game worth playing solely for this route alone.  Also, Mashiro’s route is a rather pleasant straight romance that is definitely worth your time, but Rika’s comes across as fairly generic.
 
@@ -90,35 +42,11 @@ The sports aspect of _Aokana_ is excellent: Flying Circus had a surprising amoun
 
 However, while the tournament arc builds up a peak in the middle of the story to motivate the cast, the execution after that lacks originality. In Asuka’s route, I felt like the game spends far too much effort on building up a villain in a way that almost undermines them, making them out to be this superhuman monster. I would have preferred a villain with flaws and depth in comparison. In other routes, the sports aspect either doesn’t play a huge role or is less of an emphasis.
 
-<!-- ezoic_video_placeholder-longer_content-640x360-999994-clearholder -->
-
-<!-- ezoic_video_placeholder-longer_content-640x360-999994-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-longer_content-426x240-999994-clearholder -->
-
-<!-- ezoic_video_placeholder-longer_content-426x240-999994-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-longer_content-384x216-999994-clearholder -->
-
-<!-- ezoic_video_placeholder-longer_content-384x216-999994-nonexxxclearxxxblock -->
-
 ![Aokana: Four Rhythms Across the Blue Switch Review - A Soaring Switch Visual Novel 5](./2020081923052300-21FF5D1CB7E1FA5F8428357A9F31BE39.jpg)
 
 I had some pet peeves with the way the main character Masaya was handled, mainly that I wish that the root of his traumas were explained early on instead of only being handled well into one of the routes. Also, it would have been nice to see him overcome his hardships and play the sport more prominently given his high skills.
 
 What makes these more frustrating is the passion and determination that he has for Flying Circus: they basically define him as a person. Seeing someone so passionate, dedicated and in love with something in particular is engaging, and it makes Masaya all that more likable. You probably can’t relate to him entirely, but his conflicts are engaging to experience, which makes it disappointing that everyone else grows, but we never see that in him.
-
-<!-- ezoic_video_placeholder-longest_content-640x360-999993-clearholder -->
-
-<!-- ezoic_video_placeholder-longest_content-640x360-999993-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-longest_content-426x240-999993-clearholder -->
-
-<!-- ezoic_video_placeholder-longest_content-426x240-999993-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-longest_content-384x216-999993-clearholder -->
-
-<!-- ezoic_video_placeholder-longest_content-384x216-999993-nonexxxclearxxxblock -->
 
 ![Aokana: Four Rhythms Across the Blue Switch Review - A Soaring Switch Visual Novel 6](./2020082004182800-21FF5D1CB7E1FA5F8428357A9F31BE39.jpg)
 

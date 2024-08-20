@@ -10,49 +10,13 @@ Over the years, the *Trails of Cold Steel *series from developer Falcom has grow
 
 Before we get started: _Trails of Cold Steel IV_ is the last game of the _Trails of Cold Steel_ series and the latest trails game in the west, so it contains spoilers from previous entries and some entries that haven’t been released in the west. As a result, I personally wouldn’t recommend you play through _Cold Steel IV_ before the* Trails in the Sky* or* Crossbell *games (_Zero_ and _Azure_). By choosing to play _Cold Steel IV_ before those, not only are you diminishing your experience with _Cold Steel IV_, but you’re also spoiling yourself on those games, and you are missing out on in my opinion, some of the best RPG experiences that you can have. If you haven’t played through them all, please keep that in mind while reading to avoid potential spoilers.
 
-<!-- ezoic_video_placeholder-under_first_paragraph-640x360-999998-clearholder -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-640x360-999998-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-426x240-999998-clearholder -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-426x240-999998-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-384x216-999998-clearholder -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-384x216-999998-nonexxxclearxxxblock -->
-
 Those who played *Trails of Cold Steel III *will notice that many of the visuals and graphics in *Trails of Cold Steel IV *have been unchanged. When it comes to the Trails series, Falcom titles have never been graphically groundbreaking, as they tend to focus on storytelling, character development, and world-building. These games aren’t at the bleeding edge regarding the presentation, and you might not be a fan of the anime art style, but the game looks sharp and clean designs and locations.
 
 While we’re on the presentation topic, I do have to mention that I found the music of *Trails of Cold Steel IV *is sadly average. There are a few good tracks that’ll do their job to sway you emotionally in important scenes, but at certain locations such as Geofront, the music comes off as downgrades from previous entries. In Falcom’s previous releases, it was almost guaranteed to be full of amazing music, which made this a disappointing aspect. Mention Singa around Falcom fans, and you’ll hear this exact sentiment.
 
-<!-- ezoic_video_placeholder-under_second_paragraph-640x360-999997-clearholder -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-640x360-999997-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-426x240-999997-clearholder -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-426x240-999997-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-384x216-999997-clearholder -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-384x216-999997-nonexxxclearxxxblock -->
-
 ![Trails of Cold Steel IV Review – The End of A Saga 1](./Screenshot-2020-10-21-14-46-12-1024x576.jpg)
 
 I’ve always appreciated what Trails was trying to do when it comes to the gameplay, but I’ve never been a big fan of the combat due to its slow pace. However, *Trails of Cold Steel IV *borrows the advancements implemented in _Trails of Cold Steel III_, which significantly improves the combat speed. These updated systems have turned it from something I’ve tolerated to something I’ve genuinely enjoyed.
-
-<!-- ezoic_video_placeholder-mid_content-640x360-999996-clearholder -->
-
-<!-- ezoic_video_placeholder-mid_content-640x360-999996-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-mid_content-426x240-999996-clearholder -->
-
-<!-- ezoic_video_placeholder-mid_content-426x240-999996-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-mid_content-384x216-999996-clearholder -->
-
-<!-- ezoic_video_placeholder-mid_content-384x216-999996-nonexxxclearxxxblock -->
 
 The core gameplay loop comprises four distinct stages: gameplay, story-driven driven dungeon sections, open-ended quests, mini-games, and bonding scenes. _Trails of Cold Steel IV_ is engaging from moment-to-moment gameplay, with Falcom having effectively mastered the length of their gameplay loop to keep you playing even longer than intended. For me, at least, the mini-games played a big role in that because they added much-needed variety in this loop. The two mini-games are Vantage Masters, which returns from _Trails of Cold Steel III,_ and a Puyo clone, Pom Pom Party (Pom-yo was right there!) from* Zero/Azure*. Both have enough depth to them that playing them is genuinely fun.
 
@@ -62,18 +26,6 @@ The quests are always an essential part of any trails game because they are shor
 
 High-speed mode returns, which speeds up dungeon crawling and lengthy story segments. Other features also include the change from the Ring Menus to a Modernized Menu system and Orders. These added systems can make the boss fights feel less rewarding, but you’re in for some tough battles, which I admittedly was met with the dilemma of trying again at a lower difficulty on a particular boss.
 
-<!-- ezoic_video_placeholder-long_content-640x360-999995-clearholder -->
-
-<!-- ezoic_video_placeholder-long_content-640x360-999995-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-long_content-426x240-999995-clearholder -->
-
-<!-- ezoic_video_placeholder-long_content-426x240-999995-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-long_content-384x216-999995-clearholder -->
-
-<!-- ezoic_video_placeholder-long_content-384x216-999995-nonexxxclearxxxblock -->
-
 It’s worth mentioning that there is a true end, so keep that in mind near the end of the game. The conditions to get it during your initial playthrough are a bit obtuse and never clearly mentioned, but if you fail, you have the option to unlock it without the prerequisite conditions if you get the normal end. Make sure you experience it.
 
 ![Trails of Cold Steel IV Review – The End of A Saga 3](./Screenshot-2020-10-16-05-21-00-1024x576.jpg)
@@ -82,35 +34,11 @@ Ultimately, _Trails of Cold Steel IV_ is all about the story, and with this entr
 
 At the core of *Trails of Cold Steel IV *is the idea of creating a grand epic. The game weaves parts of many storylines into one massive legendary story that revolves around Erobonia and the main character Rean. While I talked about prerequisite knowledge as a negative, it’s rewarding to see it all come together if you’ve played all of the other titles. From my viewpoint, each release’s primary objective is to grow and develop the world, and _Trails of Cold Steel IV_ adds depth to Zemuria in spades, in ways that feel engrossing and compelling. It’s also great to see your favorite characters from the series play a role in the narrative, though it can feel like pure fanservice at times.
 
-<!-- ezoic_video_placeholder-longer_content-640x360-999994-clearholder -->
-
-<!-- ezoic_video_placeholder-longer_content-640x360-999994-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-longer_content-426x240-999994-clearholder -->
-
-<!-- ezoic_video_placeholder-longer_content-426x240-999994-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-longer_content-384x216-999994-clearholder -->
-
-<!-- ezoic_video_placeholder-longer_content-384x216-999994-nonexxxclearxxxblock -->
-
 ![Trails of Cold Steel IV Review – The End of A Saga 4](./Trails-of-Cold-Steel-IV-2-1024x576.jpg)
 
 In the previous arcs, *Trails *was focused more on individual characters and themes. With *Trails of Cold Steel, *we get a story focused on the magical Sept-Terrions and mysterious Ouroboros, the more overarching and fantastical elements of the series. When focusing on that, *Trails of Cold Steel IV*  succeeds because it evokes that feeling of epicness, which I mean in a literal sense.
 
 When it’s at its best, it feels like classical epics ala* Iliad* and _Odyssey_ with that sense of grandeur. It nails the elements of being a classic by rooting the fantasy in the history of the world. To add to this, the characters in the story legitimately feel heroic, whose decisions will have a lasting impact on reality. When all of this comes together, _Trails of Cold Steel IV_ is thrilling, engaging, and amazing: providing experiences that make playing through it feel entirely justified.
-
-<!-- ezoic_video_placeholder-longest_content-640x360-999993-clearholder -->
-
-<!-- ezoic_video_placeholder-longest_content-640x360-999993-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-longest_content-426x240-999993-clearholder -->
-
-<!-- ezoic_video_placeholder-longest_content-426x240-999993-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-longest_content-384x216-999993-clearholder -->
-
-<!-- ezoic_video_placeholder-longest_content-384x216-999993-nonexxxclearxxxblock -->
 
 However, it also fails to resolve the series’s most prominent issues, instead exacerbating many of them because of these massive ambitions. In this entry, the pacing slows down to a crawl,there is substantial character bloat, the harem elements undermine the narrative, and last but not least, there’s no clear focus or theme; instead, we get a childish view of morality.
 

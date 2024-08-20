@@ -8,31 +8,7 @@
 
 When was the last time you’ve played a game that completely blew you away? When I play video games, watch anime, or anything else, I’m always chasing that high. A constant search for experiences that take me for a ride and never let go. Luckily for me and many *Muv-Luv *fans, this series is a very reliable source for this experience, and age does it again with* Muv Luv Unlimited: The Day After 01*.
 
-<!-- ezoic_video_placeholder-under_first_paragraph-640x360-999998-clearholder -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-640x360-999998-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-426x240-999998-clearholder -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-426x240-999998-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-384x216-999998-clearholder -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-384x216-999998-nonexxxclearxxxblock -->
-
 My *Muv-Luv Unlimited: The Day After *impressions will assume that you have played through at least the original _Muv-Luv_ (the _Extra_ and _Unlimited_ arcs) since there are inherent spoilers that cannot be avoided. So please play those first or read our review on them before you continue with this one. If you want thoughts on the release structure and the new engine, please read or watch _The Day After 00_ impressions.
-
-<!-- ezoic_video_placeholder-under_second_paragraph-640x360-999997-clearholder -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-640x360-999997-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-426x240-999997-clearholder -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-426x240-999997-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-384x216-999997-clearholder -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-384x216-999997-nonexxxclearxxxblock -->
 
 ![Muv-Luv Unlimited: The Day After 01 Impressions - Bigger, Badder, Better 1](./tda01-win64vc14-release_2021-02-18_16-48-12-1024x600.png)
 
@@ -42,33 +18,9 @@ The last bit about politics is significant to your experience of the game – by
 
 ![Muv-Luv Unlimited: The Day After 01 Impressions - Bigger, Badder, Better 2](./tda01-win64vc14-release_2021-02-18_18-05-30-1024x576.jpg)
 
-<!-- ezoic_video_placeholder-mid_content-640x360-999996-clearholder -->
-
-<!-- ezoic_video_placeholder-mid_content-640x360-999996-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-mid_content-426x240-999996-clearholder -->
-
-<!-- ezoic_video_placeholder-mid_content-426x240-999996-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-mid_content-384x216-999996-clearholder -->
-
-<!-- ezoic_video_placeholder-mid_content-384x216-999996-nonexxxclearxxxblock -->
-
 *The Day After 01, *for most of the game, is a bit of a slow burn. It’s about the same length as _00_ but definitely didn’t feel like it. It’s hyperfocused on so many of the details of Japanese Seattle that it becomes easy to be overwhelmed by all the details. *The Day After *begins fairly calm, with low tension for most of the early part of the game, but then it escalates, and escalates, and escalates – ending in a bang.\*\*
 
 _The Day After 00_ was a small, closed, isolated, and standalone story that spiraled within itself. It was an incredibly introspective work that got your mind swirling about the potential repercussions of the setting itself. But it ended by opening the can of worms… So how do you top that? Bigger, badder, better: ready to strike at you with more PTSD than you can imagine. Everything in* 01* is bigger than in _00_, the stakes, greater, the numbers, larger. The ramifications, huge. The last hour of this game is incredible, and there are very few games that can wow you with the level of tension and spectacle like Muv-Luv.
-
-<!-- ezoic_video_placeholder-long_content-640x360-999995-clearholder -->
-
-<!-- ezoic_video_placeholder-long_content-640x360-999995-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-long_content-426x240-999995-clearholder -->
-
-<!-- ezoic_video_placeholder-long_content-426x240-999995-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-long_content-384x216-999995-clearholder -->
-
-<!-- ezoic_video_placeholder-long_content-384x216-999995-nonexxxclearxxxblock -->
 
 ![Muv-Luv Unlimited: The Day After 01 Impressions - Bigger, Badder, Better 3](./tda01-win64vc14-release_2021-02-19_17-14-23-1024x576.jpg)
 

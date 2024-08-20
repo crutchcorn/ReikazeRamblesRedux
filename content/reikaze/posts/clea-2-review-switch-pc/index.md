@@ -8,31 +8,7 @@
 
 I typically don’t follow an indie developer’s career, but I’ve always appreciated the games made by InvertMouse due to the consistent charm and quality from his releases. Following up on 2019’s _Clea_, the developer has released a sequel with the expected title of _Clea 2_. Aesthetically, this adventure is incredibly similar to the first and even trips up in the same areas that the original did. But, for the most part, _Clea 2_ is a largely improved experience by refining the mechanics to make it actually fun.
 
-<!-- ezoic_video_placeholder-under_first_paragraph-640x360-999998-clearholder -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-640x360-999998-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-426x240-999998-clearholder -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-426x240-999998-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-384x216-999998-clearholder -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-384x216-999998-nonexxxclearxxxblock -->
-
 _Clea 2_ is a side-scrolling survival horror game with an emphasis on using the atmosphere to create tension. The doll-like aesthetic adds a lot to make the game feel eerie, and its emphasis on the story is similar to games like *Another World *or walking sims.
-
-<!-- ezoic_video_placeholder-under_second_paragraph-640x360-999997-clearholder -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-640x360-999997-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-426x240-999997-clearholder -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-426x240-999997-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-384x216-999997-clearholder -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-384x216-999997-nonexxxclearxxxblock -->
 
 In this title, instead of the jump scares, you are meant just to feel uneasy about the events and how they play out. If getting scared is the main reason you play a horror game, _Clea 2_ is probably not for you, but as someone who enjoys it when games focus on creating an interesting and engaging atmosphere, it worked for me.
 
@@ -44,33 +20,9 @@ I had my issues with some of the design choices, from items needed for progressi
 ![Clea 2 Review - Much Improved, But Still Clea 2](./2021031102310100-7690374282647C15D062DB707BC98BF5-1024x576.jpg)\
 _Clea_ 2 is a very similar sequel, looking,  and playing the same way as the original with returning characters and set pieces but it’s refined in a lot of important ways. Take, for instance, The level design. There are still corridors of doom, but it’s far more open in general versus the back-to-back linear corridors of the first game. That decision means you’re not inherently waiting just for the enemy to move, but running around and avoiding them instead.
 
-<!-- ezoic_video_placeholder-mid_content-640x360-999996-clearholder -->
-
-<!-- ezoic_video_placeholder-mid_content-640x360-999996-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-mid_content-426x240-999996-clearholder -->
-
-<!-- ezoic_video_placeholder-mid_content-426x240-999996-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-mid_content-384x216-999996-clearholder -->
-
-<!-- ezoic_video_placeholder-mid_content-384x216-999996-nonexxxclearxxxblock -->
-
 Other elements have been streamlined, so while you still need to figure out where things are, backtracking has been significantly cut down. Puzzles are better explained and more engaging but still incredibly basic. The visuals have seen a pretty significant upgrade featuring more diversity in the scenery, which goes a long way towards making the environments fun to explore.
 
 Early on, I wondered if I was having more fun simply because I was familiar with the gameplay vs. the original. Still, the more I played, the more I found myself enjoying the gameplay irrespective of skill.  New additions like the traps were fun twists that I appreciated. There are definitely problems that still linger; of course, minor tweaks can’t completely overhaul the awkwardness that is a 2D survival horror, and lots of the game is still wandering around. Further, _Clea 2_ just does a great job at mitigating the problems to make it more fun and enjoyable.
-
-<!-- ezoic_video_placeholder-long_content-640x360-999995-clearholder -->
-
-<!-- ezoic_video_placeholder-long_content-640x360-999995-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-long_content-426x240-999995-clearholder -->
-
-<!-- ezoic_video_placeholder-long_content-426x240-999995-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-long_content-384x216-999995-clearholder -->
-
-<!-- ezoic_video_placeholder-long_content-384x216-999995-nonexxxclearxxxblock -->
 
 ![Clea 2 Review - Much Improved, But Still Clea 3](./2021031021383600-7690374282647C15D062DB707BC98BF5-1024x576.jpg)
 
@@ -81,15 +33,3 @@ The main character Florina was a side character in the first game but was always
 ![Clea 2 Review - Much Improved, But Still Clea 4](./Clea-2-1024x576.jpg)
 
 _Clea 2_ is much improved over the original, mitigating many of the deal-breaking issues, and as a result, is much more enjoyable. While better, it’s ultimately still very similar, a quirky 2D survival horror with a familiar story and weird gameplay, so consider that when deciding on the purchase. In the end, _Clea 2_ is a charming and engaging survival horror that’ll make for a fun evening and another engaging game from InvertMouse.
-
-<!-- ezoic_video_placeholder-longer_content-640x360-999994-clearholder -->
-
-<!-- ezoic_video_placeholder-longer_content-640x360-999994-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-longer_content-426x240-999994-clearholder -->
-
-<!-- ezoic_video_placeholder-longer_content-426x240-999994-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-longer_content-384x216-999994-clearholder -->
-
-<!-- ezoic_video_placeholder-longer_content-384x216-999994-nonexxxclearxxxblock -->

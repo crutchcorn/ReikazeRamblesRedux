@@ -8,33 +8,9 @@
 
 With _Dirt 4_ and _Dirt Rally_, Codemasters has carved a niche for themselves in hardcore rally racing. While those games appealed to a handful of fans, how do you attract new players alienated by the simulation difficulty and want a more arcadey racing game? To grab the attention of the general racing audience, the developer shows off a more traditional formula with* Dirt 5, *which packs in tons of variety. Still, it might leave the hardcore players wanting more.
 
-<!-- ezoic_video_placeholder-under_first_paragraph-640x360-999998-clearholder -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-640x360-999998-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-426x240-999998-clearholder -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-426x240-999998-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-384x216-999998-clearholder -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-384x216-999998-nonexxxclearxxxblock -->
-
 [DIRT 5 Review - Noisy Pixel](https://www.youtube.com/embed/k7bsUQ0DY5E?feature=oembed)
 
 Before we get started by talking about the gameplay, we have to talk about graphics. Being a launch title for the next-generation consoles, a lot rides on the visual presentation of this entry. However, this may be unfair, seeing how the series has never focused on hyper-realistic graphics. Still, I should mention that the environments and effects appear plain, the skybox isn’t impressive, and the textures appear low res.
-
-<!-- ezoic_video_placeholder-under_second_paragraph-640x360-999997-clearholder -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-640x360-999997-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-426x240-999997-clearholder -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-426x240-999997-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-384x216-999997-clearholder -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-384x216-999997-nonexxxclearxxxblock -->
 
 While there are moments when the game looks decent, such as during night races, it’s just not the best-looking racing game around. It’s best to think of the next-gen versions as a current-generation game that can stretch its wings thanks to the improved hardware. A big part of why this game isn’t mind-blowing visually is how scalable it is. _Dirt 5_ can run as 4k 120 as a launch title while having reasonably performing current-gen versions as a base.
 
@@ -44,33 +20,9 @@ Regardless of the lacking visuals, _Dirt 5_ plays surprisingly well on the curre
 
 There are 2 modes available to play in, Image Quality Mode @30 FPS, which looks fairly average for a current-gen game, and Performance Mode @60 FPS, which is stable but at the cost of downscaled graphics. *Dirt 5 *just looks bad on Performance Mode mode as it compares to games released on Xbox 360.
 
-<!-- ezoic_video_placeholder-mid_content-640x360-999996-clearholder -->
-
-<!-- ezoic_video_placeholder-mid_content-640x360-999996-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-mid_content-426x240-999996-clearholder -->
-
-<!-- ezoic_video_placeholder-mid_content-426x240-999996-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-mid_content-384x216-999996-clearholder -->
-
-<!-- ezoic_video_placeholder-mid_content-384x216-999996-nonexxxclearxxxblock -->
-
 ![DIRT 5 Review - Pole Position for Codemasters 2](./DIRT-5-2-1024x576.jpg)
 
 The silver lining here is that I had a smooth and solid experience no matter which mode I used. Playing on Quality Mode, which I had on throughout most of the time recording, offers a better look at the tracks and textures, but I still suggest playing on Performance Mode. Even at the cost of low res visuals, playing in 60fps feels far more fluid, which adds to the gameplay experience and is where *Dirt 5 *shines.
-
-<!-- ezoic_video_placeholder-long_content-640x360-999995-clearholder -->
-
-<!-- ezoic_video_placeholder-long_content-640x360-999995-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-long_content-426x240-999995-clearholder -->
-
-<!-- ezoic_video_placeholder-long_content-426x240-999995-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-long_content-384x216-999995-clearholder -->
-
-<!-- ezoic_video_placeholder-long_content-384x216-999995-nonexxxclearxxxblock -->
 
 I should mention that the recommended specs for the PC version are basically next-gen consoles, while the minimum is equal to this gen’s pro consoles. I originally wanted to do the review on the PC version, and for some reason couldn’t get it to work correctly on my desktop, but trying the game on my laptop (Zephyrus G14 – Ryzen 9 4900HS, RTX 2060MQ), I just had too many performance issues to the point in which I basically gave up. Granted, this is prerelease software, so your mileage may vary, but I found the PC’s inconsistent performance to be troublesome.
 
@@ -82,35 +34,11 @@ One of the _Dirt_ series’s main appeals has been the variety of terrains you�
 
 ![DIRT 5 Review - Pole Position for Codemasters 4](./Screenshot-2020-11-02-00-23-50-1024x576.jpg)
 
-<!-- ezoic_video_placeholder-longer_content-640x360-999994-clearholder -->
-
-<!-- ezoic_video_placeholder-longer_content-640x360-999994-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-longer_content-426x240-999994-clearholder -->
-
-<!-- ezoic_video_placeholder-longer_content-426x240-999994-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-longer_content-384x216-999994-clearholder -->
-
-<!-- ezoic_video_placeholder-longer_content-384x216-999994-nonexxxclearxxxblock -->
-
 I do have to mention 2 standout features – the split-screen multiplayer and playground mode. I haven’t been able to try out the split-screen local multiplayer because of covid properly, but this is one case when we get a 4 player split-screen, which is exceedingly rare nowadays.
 
 The playground mode is a ton of fun; it’s a course maker where you design your own track. There are also lots to play in regards to other people’s tracks. Though it is worth mentioning that the tools you have aren’t really designed to drive through without crashing, it always feels a bit like a hack versus the procedurally generated tracks of dirt 4, which I wish that this game had.
 
 _Dirt 5_ is a great entry into the franchise, but diehard racing fans will probably find the other entries to be more rewarding, if only because this entry takes a distinctly more casual approach. This can be seen in certain modes such as Rally, which takes a different approach in *Dirt 5. *Here, Rally is a race with others instead of a traditional Rally for the best times with a reader, and it made me wonder why the classic option was offered.
-
-<!-- ezoic_video_placeholder-longest_content-640x360-999993-clearholder -->
-
-<!-- ezoic_video_placeholder-longest_content-640x360-999993-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-longest_content-426x240-999993-clearholder -->
-
-<!-- ezoic_video_placeholder-longest_content-426x240-999993-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-longest_content-384x216-999993-clearholder -->
-
-<!-- ezoic_video_placeholder-longest_content-384x216-999993-nonexxxclearxxxblock -->
 
 ![DIRT 5 Review - Pole Position for Codemasters 5](./Screenshot-2020-11-02-00-30-31-1024x576.jpg)
 

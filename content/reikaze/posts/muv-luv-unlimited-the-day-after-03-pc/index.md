@@ -8,31 +8,7 @@
 
 War is a cruel mistress, always leaving devastating results and showing up when it’s least wanted. You know, when shit’s gone down. _Muv-Luv_ Unlimited:_ The Day After_ _03_ happens to be exactly that scenario; even in the post-apocalypse, we can’t escape war.  _The Day After_ _03_ is probably how one expected _The Day After_ to go down, having intense drama and wrapping up major parts of the story, but it doesn’t wrap the story up.
 
-<!-- ezoic_video_placeholder-under_first_paragraph-640x360-999998-clearholder -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-640x360-999998-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-426x240-999998-clearholder -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-426x240-999998-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-384x216-999998-clearholder -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-384x216-999998-nonexxxclearxxxblock -->
-
 My _Muv-Luv_ Unlimited: _The Day After_ impressions will assume that you have played through at least the original _Muv-Luv_ (the Extra and Unlimited arcs) since there are inherent spoilers that cannot be avoided. So please play those first or read our review on them before you continue with this one. If you want thoughts on the release structure and the new engine, please read or watch our _The Day After_ 00 impressions or the review of the series.
-
-<!-- ezoic_video_placeholder-under_second_paragraph-640x360-999997-clearholder -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-640x360-999997-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-426x240-999997-clearholder -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-426x240-999997-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-384x216-999997-clearholder -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-384x216-999997-nonexxxclearxxxblock -->
 
 ![Muv-Luv Unlimited: The Day After 03 Impressions - War Insanity 1](./tda03-win64vc14-release_2021-02-20_01-46-42-1024x576.jpg)
 
@@ -42,33 +18,9 @@ So, when conflicts are on the rise in _Muv-Luv_, it’s a special thing. While l
 
 ![Muv-Luv Unlimited: The Day After 03 Impressions - War Insanity 2](./tda03-win64vc14-release_2021-02-27_00-40-45-1024x600.png)
 
-<!-- ezoic_video_placeholder-mid_content-640x360-999996-clearholder -->
-
-<!-- ezoic_video_placeholder-mid_content-640x360-999996-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-mid_content-426x240-999996-clearholder -->
-
-<!-- ezoic_video_placeholder-mid_content-426x240-999996-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-mid_content-384x216-999996-clearholder -->
-
-<!-- ezoic_video_placeholder-mid_content-384x216-999996-nonexxxclearxxxblock -->
-
 However, this entire scenario ends up feeling more like fanservice rather than an actual war. You can’t keep on escalating in such an aggressive fashion and not lose someone in the process. Also, as someone living in America in 2021, having a war started by a radical nationalist party feels a touch too close to home for my liking.
 
 This is ultimately a minor complaint as the story still manages to be absolutely riveting regardless of my comment on it going over-the-top. The themes in _The Day After_ lead to some of the coolest moments in the series and were incredibly engaging.
-
-<!-- ezoic_video_placeholder-long_content-640x360-999995-clearholder -->
-
-<!-- ezoic_video_placeholder-long_content-640x360-999995-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-long_content-426x240-999995-clearholder -->
-
-<!-- ezoic_video_placeholder-long_content-426x240-999995-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-long_content-384x216-999995-clearholder -->
-
-<!-- ezoic_video_placeholder-long_content-384x216-999995-nonexxxclearxxxblock -->
 
 ![Muv-Luv Unlimited: The Day After 03 Impressions - War Insanity 3](./tda03-win64vc14-release_2021-02-20_01-39-21-1024x576.jpg)
 

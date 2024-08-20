@@ -8,33 +8,9 @@
 
 It’s so easy to let our preconceived notions and generalizations shape the decisions we make. As a result, though: we can dismiss excellence these labels might deter us from. On paper, _Genshin Impact_ seems like a free-to-play, Gacha _Breath of the Wild_ clone. Many people might overlook it for that, but to think of _Genshin Impact_ like this is doing both it and ourselves a great disservice. _Genshin Impact_ is too good to ignore. In fact, I’ll come out say that it’s a fun and frenetic action-adventure RPG that’s become one of my favorite games this year.
 
-<!-- ezoic_video_placeholder-under_first_paragraph-640x360-999998-clearholder -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-640x360-999998-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-426x240-999998-clearholder -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-426x240-999998-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-384x216-999998-clearholder -->
-
-<!-- ezoic_video_placeholder-under_first_paragraph-384x216-999998-nonexxxclearxxxblock -->
-
 [Genshin Impact Review - Noisy Pixel](https://www.youtube.com/embed/zRyWr-SclJs?feature=oembed)
 
 To begin this review, let’s attack those labels: Gacha game and _Breath of the Wild_ clone._ Genshin Impact_ bucks many of the negative gacha trends that would deter people from playing the game. I’ve never really been a huge fan of the gacha mechanics found in mobile titles solely based on their design. In some instances, you’ll feel like missed out on events and characters if you don’t put money in, but even if you do, you might not pull what you’re looking for.
-
-<!-- ezoic_video_placeholder-under_second_paragraph-640x360-999997-clearholder -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-640x360-999997-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-426x240-999997-clearholder -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-426x240-999997-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-384x216-999997-clearholder -->
-
-<!-- ezoic_video_placeholder-under_second_paragraph-384x216-999997-nonexxxclearxxxblock -->
 
 Where _Genshin Impact_ differs is by having gameplay be the primary appeal. The griminess of the genre isn’t here, and it feels like a AAA adventure. It’s not hard to see the depth that has gone into this gameplay loop, which encourages you to keep playing. Like the better gacha games available, you don’t hit a wall that limits your experience.
 
@@ -44,33 +20,9 @@ That being said, the gacha systems are there, and even though they aren’t nece
 
 To acquire a rare character, your odds are pretty low. The 5-star rates are 0.6%, which is even lower than the industry average. Regardless of the odds, the free-to-play characters make it easy to not even think about it.
 
-<!-- ezoic_video_placeholder-mid_content-640x360-999996-clearholder -->
-
-<!-- ezoic_video_placeholder-mid_content-640x360-999996-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-mid_content-426x240-999996-clearholder -->
-
-<!-- ezoic_video_placeholder-mid_content-426x240-999996-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-mid_content-384x216-999996-clearholder -->
-
-<!-- ezoic_video_placeholder-mid_content-384x216-999996-nonexxxclearxxxblock -->
-
 ![Genshin Impact Review - Much More Than Just a Gacha BoTW 2](./Genshin-Impact-1-1024x576.jpg)
 
 When _Genshin Impact_ is brought up, one of the first things you will hear is that it is a _Breath of the Wild_ clone. For me, a clone of what is legitimately one of my favorite games is entirely welcome, but I feel like boiling the game down to “BoTW Clone” really doesn’t explain what _Genshin Impact_ is. There are absolutely components inspired by _Breath of the Wild_, but it makes enough changes that make it feel unique.
-
-<!-- ezoic_video_placeholder-long_content-640x360-999995-clearholder -->
-
-<!-- ezoic_video_placeholder-long_content-640x360-999995-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-long_content-426x240-999995-clearholder -->
-
-<!-- ezoic_video_placeholder-long_content-426x240-999995-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-long_content-384x216-999995-clearholder -->
-
-<!-- ezoic_video_placeholder-long_content-384x216-999995-nonexxxclearxxxblock -->
 
 The primary difference to me is in philosophy – _Breath of the Wild_ was all about creativity, about enabling you to do whatever you want. If you see a mountain, you can go there. If you want to take down enemies in a wacky way, the game allows you to do that with its physics system. The shrines involved puzzle-solving skills first-and-foremost, which have you accessing new abilities to solve them any way you can.  Inherently, _BoTW_ is about crafting your own adventure, exploring, and cultivating your own experience.
 
@@ -82,35 +34,11 @@ During gameplay, your team is comprised of 4 party members, each with an element
 
 Surprisingly, I preferred the combat of _Genshin Impact_ to _BoTW_ as it’s more compelling, but _BoTW_ does have higher peaks. Also, as elements are the focus, so long as you know what you are doing, you don’t need to be super precise with your control inputs, for the most part, which enables the mobile versions to be playable.
 
-<!-- ezoic_video_placeholder-longer_content-640x360-999994-clearholder -->
-
-<!-- ezoic_video_placeholder-longer_content-640x360-999994-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-longer_content-426x240-999994-clearholder -->
-
-<!-- ezoic_video_placeholder-longer_content-426x240-999994-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-longer_content-384x216-999994-clearholder -->
-
-<!-- ezoic_video_placeholder-longer_content-384x216-999994-nonexxxclearxxxblock -->
-
 ![Genshin Impact Review - Much More Than Just a Gacha BoTW 4](./Genshin-Impact-8-1024x576.jpg)
 
 Another area where _Genshin Impact_ sets itself apart from _BoTW_ is the nature of how you interact with the game’s content.  There’s a lot to discover as you make your way through this adventure, and it seems like more is on the way. However, there’s little to no pressure to explore everything and grind levels immediately because there’s always more to do. After I got through the honeymoon period and played hours of opening, Genshin Impact has become a chill-out game that I invest an hour or two into each day, with new adventures found each time I play.
 
 _Genshin Impact_ is designed to be a time sink, and it can drag. In the beginning, the exposition drop is a bit overwhelming as the game takes the controls away for the opening hours. Personally, I feel like grinding the adventure level was when I had the least fun. If I could have talked to my past self, I would have said to do that later and do whatever you wanted first – you’ll get the experience by doing things and exploring.
-
-<!-- ezoic_video_placeholder-longest_content-640x360-999993-clearholder -->
-
-<!-- ezoic_video_placeholder-longest_content-640x360-999993-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-longest_content-426x240-999993-clearholder -->
-
-<!-- ezoic_video_placeholder-longest_content-426x240-999993-nonexxxclearxxxblock -->
-
-<!-- ezoic_video_placeholder-longest_content-384x216-999993-clearholder -->
-
-<!-- ezoic_video_placeholder-longest_content-384x216-999993-nonexxxclearxxxblock -->
 
 For me, exploring the map, getting to know the unique world of Teybat was the highlight of the game. Teybat has lots of things to see and to do, plenty of iconic landmarks and random things to stumble across. For the exploration itself, this is where it’s closest to _BOTW_. You’ll notice systems like the stamina bar, climbing, and the way the map grows over time. Having the ability to look at your map, set a random destination, and explore is incredibly liberating. When it’s combined with the thrilling moment-to-moment combat, you’re experiencing the best the adventure has to offer.
 
