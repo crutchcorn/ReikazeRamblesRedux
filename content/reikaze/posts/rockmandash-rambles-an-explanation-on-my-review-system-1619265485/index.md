@@ -1,12 +1,11 @@
 ---
 {
-title: "Rockmandash Rambles: An Explanation on my Review System (Updated 11/15/2015)",
-tags: ["rockmandash rambles", "review system", "explaination"],
-authors: ['reikaze'],
-published: '2014-08-11T16:44:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Rambles: An Explanation on my Review System (Updated 11/15/2015)",
+  tags: ["rockmandash rambles", "review system", "explaination"],
+  published: "2014-08-11T16:44:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

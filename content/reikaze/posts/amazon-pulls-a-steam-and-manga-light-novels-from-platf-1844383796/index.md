@@ -1,12 +1,11 @@
 ---
 {
-title: "Amazon Pulls a Steam: Removes Light Novels, Manga From Their Platform",
-tags: ["Censorship", "Amazon", "Reikaze Rambles", "Light Novel", "Manga"],
-authors: ['reikaze'],
-published: '2020-07-14T19:24:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Amazon Pulls a Steam: Removes Light Novels, Manga From Their Platform",
+  tags: ["Censorship", "Amazon", "Reikaze Rambles", "Light Novel", "Manga"],
+  published: "2020-07-14T19:24:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

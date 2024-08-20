@@ -1,12 +1,11 @@
 ---
 {
-title: "Lemnisca Translations becomes a Localization Company",
-tags: ["News", "Visual Novel", "Lemnisca"],
-authors: ['reikaze'],
-published: '2016-06-30T11:54:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Lemnisca Translations becomes a Localization Company",
+  tags: ["News", "Visual Novel", "Lemnisca"],
+  published: "2016-06-30T11:54:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

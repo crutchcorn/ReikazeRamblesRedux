@@ -1,12 +1,11 @@
 ---
 {
-title: "So, I heard you like Nasu & H-Scenes...",
-tags: ["FuwaFM", "Podcast", "Visual Novels", "Fate/stay night", "h-scenes"],
-authors: ['reikaze'],
-published: '2015-09-12T00:52:07-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "So, I heard you like Nasu & H-Scenes...",
+  tags: ["FuwaFM", "Podcast", "Visual Novels", "Fate/stay night", "h-scenes"],
+  published: "2015-09-12T00:52:07-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

@@ -1,12 +1,11 @@
 ---
 {
-title: "Sekai Project taking interest in Key VNs!",
-tags: ["key", "VN", "Sekai Project"],
-authors: ['reikaze'],
-published: '2014-08-04T13:20:33-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Sekai Project taking interest in Key VNs!",
+  tags: ["key", "VN", "Sekai Project"],
+  published: "2014-08-04T13:20:33-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

@@ -1,12 +1,19 @@
 ---
 {
-title: "RockmanDash Reviews: Grisaia no Kaijitsu [Visual Novel]",
-tags: ["Rockmandash Reviews", "Grisaia no Kaijitsu", "Grisaia", "AniTAY", "FuwaReviews", "Visual Novels"],
-authors: ['reikaze'],
-published: '2015-08-21T16:22:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash Reviews: Grisaia no Kaijitsu [Visual Novel]",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "Grisaia no Kaijitsu",
+      "Grisaia",
+      "AniTAY",
+      "FuwaReviews",
+      "Visual Novels",
+    ],
+  published: "2015-08-21T16:22:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -42,44 +49,46 @@ oldArticle: true
   passed by the issue wasn’t bad at all... now, onto the story!<br/></p>
 
 <img alt src="./1396075541505021100.jpg"/><p class="sc-77igqf-0 bOfvBY">First off, there’s how it’s set up in regards to the common route: most of the
-  action of the story happens at the very end of the routes, with a majority being filled with <strong>TONS</strong> of
-  slice of life. The game makes it fairly apparent that there will be development of the characters and subversion,
-  taking no time to hide the fact that the quirks of the characters are largely superficial and the environment that the
-  game is set in is rather constructed. Even though this is fairly obvious to any observant player, due to the structure
-  of the game, you can’t get to it without going through tons of things you may or may not care about, all slice of
-  life. The common route is very long, one of the longest I’ve played... or at least it felt that way, because hours and
-  hours of slice of life and teasing that there is more when the game won’t let you get to the subversion isn’t exactly
-  the most exciting and fun thing to get do.</p>
+action of the story happens at the very end of the routes, with a majority being filled with <strong>TONS</strong> of
+slice of life. The game makes it fairly apparent that there will be development of the characters and subversion,
+taking no time to hide the fact that the quirks of the characters are largely superficial and the environment that the
+game is set in is rather constructed. Even though this is fairly obvious to any observant player, due to the structure
+of the game, you can’t get to it without going through tons of things you may or may not care about, all slice of
+life. The common route is very long, one of the longest I’ve played... or at least it felt that way, because hours and
+hours of slice of life and teasing that there is more when the game won’t let you get to the subversion isn’t exactly
+the most exciting and fun thing to get do.</p>
 
 <img alt src="./1396075541577970860.png"/><p class="sc-77igqf-0 bOfvBY">That being said, it’s not that I mind the slice of life itself, or it’s
-  particularly bad, as the scenes themselves are almost all entertaining and fun to read, but I have 2 major issues with
-  the execution of it: A vast majority of the Slice of life rather pointless that doesn’t directly contribute to the
-  story in any meaningful way (which a good story would do) and<strong> THERE’S JUST WAY TOO MUCH OF IT</strong>, making
-  it feel poorly paced, and poorly executed in general.<strong> </strong>It felt like it would never end, with a
-  constant bombardment of random scenes that are all meaningless... and when you combine that with the teasing of a
-  better story that the game and everyone else tells you about, it makes for a rather brutal experience. There was a
-  point in time where I felt that the game was pretty much rubbing salt on my wounds, commenting on how a normal life
-  was awesome, as I was felt like I wanted to smash my head in the wall. I played through 30+ hours until I got some
-  real character development, and no game should be 30 hours of nothing while teasing something more... just shallow
-  interactions with characters that serve no purpose other than to be a slice of life.... which is rather frustrating.
+particularly bad, as the scenes themselves are almost all entertaining and fun to read, but I have 2 major issues with
+the execution of it: A vast majority of the Slice of life rather pointless that doesn’t directly contribute to the
+story in any meaningful way (which a good story would do) and<strong> THERE’S JUST WAY TOO MUCH OF IT</strong>, making
+it feel poorly paced, and poorly executed in general.<strong> </strong>It felt like it would never end, with a
+constant bombardment of random scenes that are all meaningless... and when you combine that with the teasing of a
+better story that the game and everyone else tells you about, it makes for a rather brutal experience. There was a
+point in time where I felt that the game was pretty much rubbing salt on my wounds, commenting on how a normal life
+was awesome, as I was felt like I wanted to smash my head in the wall. I played through 30+ hours until I got some
+real character development, and no game should be 30 hours of nothing while teasing something more... just shallow
+interactions with characters that serve no purpose other than to be a slice of life.... which is rather frustrating.
+
 </p>
 
 <img alt src="./1396075541623854252.jpg"/><p class="sc-77igqf-0 bOfvBY">To those that don’t care or see the hinting of this game, coming into this game with the
-  sole expectation that this was nothing but slice of life, then this execution may be OK, but that’s not really great
-  design considering they hint and foreshadow all of the place.... so enjoyment is totally dependant on the person you
-  are and how you experience it, it may be a very hard read (so, if you came in with the intent of reviewing it, this
-  may be pretty frustrating). there’s the first issue of the slice of life doing nothing, making it rather hard to play
-  because there’s no sense of progress, no sense of direction. Either you enjoy it as a sitcom-esque, directionless and
-  meaningless slice of life or not, having to click with the characters which can be rather hard given the cast we are
-  working with (i’ll talk about them later on), and having to deal with the flawed structure of the game. There’s also
-  the fact that this game is one of the most well regarded game in the community with knowledge of the subversions
-  apparent even before you play the game. I like to equate it to trying to get through <em>Muv-Luv Extra</em>, but kinda
-  worse because it’s significantly longer.</p>
+sole expectation that this was nothing but slice of life, then this execution may be OK, but that’s not really great
+design considering they hint and foreshadow all of the place.... so enjoyment is totally dependant on the person you
+are and how you experience it, it may be a very hard read (so, if you came in with the intent of reviewing it, this
+may be pretty frustrating). there’s the first issue of the slice of life doing nothing, making it rather hard to play
+because there’s no sense of progress, no sense of direction. Either you enjoy it as a sitcom-esque, directionless and
+meaningless slice of life or not, having to click with the characters which can be rather hard given the cast we are
+working with (i’ll talk about them later on), and having to deal with the flawed structure of the game. There’s also
+the fact that this game is one of the most well regarded game in the community with knowledge of the subversions
+apparent even before you play the game. I like to equate it to trying to get through <em>Muv-Luv Extra</em>, but kinda
+worse because it’s significantly longer.</p>
 
 <img alt src="./1396075541728338092.jpg"/><p class="sc-77igqf-0 bOfvBY">Once you get out of the common route and into the main routes, you kinda open another can
-  of worms when it comes to the writing. There’s very little of the story that one may perceive as done poorly, and I
-  pretty much enjoyed all of it in some form of manner because the writing overall is pretty solid, but it has its
-  issues, with something that bothered me about them.</p>
+of worms when it comes to the writing. There’s very little of the story that one may perceive as done poorly, and I
+pretty much enjoyed all of it in some form of manner because the writing overall is pretty solid, but it has its
+issues, with something that bothered me about them.</p>
+
 <p class="sc-77igqf-0 bOfvBY">The most glaring of these is by far the rather contrived and lazy stunts they come
   up with in the story, making the story rather ridiculous at times. I’m not one who usually complains about
   deus/diabolus ex machinas because I care more about the execution of the story and how an element works in the context
@@ -104,7 +113,7 @@ oldArticle: true
   of Yuuji, who’s past was hinted throughout the game, but nope... </p>
 
 <img alt src="./1396075541905421996.jpg"/><p class="sc-77igqf-0 bOfvBY">That being said, the routes vary in quality, with some of them having more issues
-  than not, so I’ll describe by them one by one in the order I played them with my basic thoughts on them.</p>
+than not, so I’ll describe by them one by one in the order I played them with my basic thoughts on them.</p>
 
 <ul class="sc-1lmbno3-0 dpuHif" data-style="Bullet" data-type="List">
 <li><strong>Amane </strong>- I started<em> Grisaia</em> off with quite possibly the worst route to start off, Amane’s
@@ -196,11 +205,12 @@ oldArticle: true
 </p>
 
 <img alt src="./1396075542304074412.jpg"/><p class="sc-77igqf-0 bOfvBY"><em>Grisaia no Kaijitsu</em> is another <em>Muv-Luv Extra</em>, hinting about
-  something deeper and preparing for something ahead while having it’s own experience suffer, and that’s not really for
-  me. As a single experience, it’s a pain to me, and I don’t really want to review this by itself because it’s not a
-  complete story, but the fact that it’s being sold as one, the fact that this instead of<em> Rakuen</em> being at the
-  top of VNDB and and the fact that it’s 50+ hours means it really lends itself to that, mandating itself as a single
-  story, which it really isn’t a great one.</p>
+something deeper and preparing for something ahead while having it’s own experience suffer, and that’s not really for
+me. As a single experience, it’s a pain to me, and I don’t really want to review this by itself because it’s not a
+complete story, but the fact that it’s being sold as one, the fact that this instead of<em> Rakuen</em> being at the
+top of VNDB and and the fact that it’s 50+ hours means it really lends itself to that, mandating itself as a single
+story, which it really isn’t a great one.</p>
+
 <p class="sc-77igqf-0 bOfvBY">If you are interested in <em>Grisaia</em>, you have to ask yourself a few questions,
   first and formost, if you’re OK with sinking in a lot of time. You have to ask yourself if you’re OK with going
   through so much fluff, if you’re OK with dealing with all of this Slice of Life, and if you said no to either of

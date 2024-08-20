@@ -1,12 +1,20 @@
 ---
 {
-title: "Rockmandash Rambles: Why I loved Muv-Luv (but you might not)",
-tags: ["Muv-Luv", "Muv-Luv Alternative", "Ani-Tay", "Visual Novel", "Rockmandash Rambles", "Rockmandash12", "Observation Deck"],
-authors: ['reikaze'],
-published: '2014-04-23T22:43:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Rambles: Why I loved Muv-Luv (but you might not)",
+  tags:
+    [
+      "Muv-Luv",
+      "Muv-Luv Alternative",
+      "Ani-Tay",
+      "Visual Novel",
+      "Rockmandash Rambles",
+      "Rockmandash12",
+      "Observation Deck",
+    ],
+  published: "2014-04-23T22:43:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

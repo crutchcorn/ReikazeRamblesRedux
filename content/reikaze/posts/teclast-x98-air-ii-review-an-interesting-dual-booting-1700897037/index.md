@@ -1,12 +1,22 @@
 ---
 {
-title: "Teclast X98 Air II Review: An Interesting Dual Booting Chinese Tablet",
-tags: ["Rockmandash Reviews", "Review", "Reviews", "Teclast X98 Air II", "Tablet", "Dual Boot", "Chinese", "Budget", "Tech"],
-authors: ['reikaze'],
-published: '2015-04-29T18:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Teclast X98 Air II Review: An Interesting Dual Booting Chinese Tablet",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "Review",
+      "Reviews",
+      "Teclast X98 Air II",
+      "Tablet",
+      "Dual Boot",
+      "Chinese",
+      "Budget",
+      "Tech",
+    ],
+  published: "2015-04-29T18:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -116,11 +126,11 @@ oldArticle: true
   device, making it no so slippery, and easy to handle. It feels premium, and it feels like quality.</p>
 
 <img alt src="./1231932436076695185.jpg"/><p class="sc-77igqf-0 bOfvBY">Same can be said for the screen: it’s a beautiful high resolution IPS display,
-  and it makes content looks absolutely great. Everything i’ve thrown at it looks really great, the colors look
-  fantastic, It’s crazy bright and i’ve been quite impressed in general. There are a few things that may annoy people
-  though as it’s not laminated like the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","https://gizmodo.com/ipad-air-2-review-when-thin-actually-means-something-1652966327",{"metric25":1}]]' href="https://gizmodo.com/ipad-air-2-review-when-thin-actually-means-something-1652966327">iPad Air 2</a></span>
-  is, and annoyingly reflective at times, but other than that it’s really a beautiful panel and never really got in the
-  way of my usage of it.</p>
+and it makes content looks absolutely great. Everything i’ve thrown at it looks really great, the colors look
+fantastic, It’s crazy bright and i’ve been quite impressed in general. There are a few things that may annoy people
+though as it’s not laminated like the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","https://gizmodo.com/ipad-air-2-review-when-thin-actually-means-something-1652966327",{"metric25":1}]]' href="https://gizmodo.com/ipad-air-2-review-when-thin-actually-means-something-1652966327">iPad Air 2</a></span>
+is, and annoyingly reflective at times, but other than that it’s really a beautiful panel and never really got in the
+way of my usage of it.</p>
 
 <aside class="sc-1rh3ayr-6 jfFNjl inset--story branded-item branded-item--gizmodo" data-commerce-source="inset"><a class="sc-1out364-0 hMndXN sc-1rh3ayr-2 ihdhCm inset--story__thumb js_link" data-ga='[["Permalink page click","Permalink page click - inset photo"]]' href="https://gizmodo.com/ipad-air-2-review-when-thin-actually-means-something-1652966327" rel="noopener noreferrer" target="_blank">
 <img alt src="r8oyfjm3rvaevx0hjxaw.jpg"/>
@@ -138,10 +148,11 @@ oldArticle: true
   off since I got it.</p>
 
 <img alt src="./1231932436159773329.jpg"/><p class="sc-77igqf-0 bOfvBY">Continuing the placement ranting, there’s a huge cardinal sin when it comes to
-  placement, and it really deserves it’s own paragraph: the speakers are on the back, which makes very little sense on a
-  tablet. I mean, it’s a 9.7 inch tablet and they decide that it would be great to have the sound blasting at a random
-  point in the back of the tablet.... what? Makes absolutely no sense, front facing speakers or at least side mounted
-  would have been much nicer. They don’t sound horrible, but still... why???</p>
+placement, and it really deserves it’s own paragraph: the speakers are on the back, which makes very little sense on a
+tablet. I mean, it’s a 9.7 inch tablet and they decide that it would be great to have the sound blasting at a random
+point in the back of the tablet.... what? Makes absolutely no sense, front facing speakers or at least side mounted
+would have been much nicer. They don’t sound horrible, but still... why???</p>
+
 <p class="sc-77igqf-0 bOfvBY">Also, total first world problems, but it’s only available in white. One more reason
   to get the Cube, which is the only one of these dual booters that’s black.</p>
 <hr class="gcp5ez-0 hKlTiw"/><h3 class="sc-1bwb26k-1 fvCjqJ" id="h110375"><a class="js_header-anchor" id=""></a><strong>Using
@@ -164,13 +175,14 @@ oldArticle: true
   requires a bit of tinkering to get it working right.</p>
 
 <img alt src="./1231932436306845585.jpg"/><p class="sc-77igqf-0 bOfvBY">After I set everything up though, it’s been all sorts of awesome. It’s unlike
-  anything you’ve probably used as it dual boots both android and windows, but exactly like what you’d expect out,
-  because it’s so similar to everything you’ve used before as the software is pretty much the same (sans dual booting
-  stuff and a bad android skin). Honestly, I wish every tablet could run both android and windows, as each OS has it’s
-  strengths and weaknesses. Android on tablets is infinitely more user friendly and suited for this form factor, utterly
-  destroying windows when it comes to stuff like web browsing, reading and media consumption in general, but windows has
-  it’s windows applications and absolutely wrecks android when using it as a desktop or any type of content
-  creation.<br/></p>
+anything you’ve probably used as it dual boots both android and windows, but exactly like what you’d expect out,
+because it’s so similar to everything you’ve used before as the software is pretty much the same (sans dual booting
+stuff and a bad android skin). Honestly, I wish every tablet could run both android and windows, as each OS has it’s
+strengths and weaknesses. Android on tablets is infinitely more user friendly and suited for this form factor, utterly
+destroying windows when it comes to stuff like web browsing, reading and media consumption in general, but windows has
+it’s windows applications and absolutely wrecks android when using it as a desktop or any type of content
+creation.<br/></p>
+
 <p class="sc-77igqf-0 bOfvBY">The ability to run both OS’s makes this tablet significantly more useful than if it
   only had one of them, being able to fit into both situations. I can run windows programs when I want to, and use the
   more intuitive to use android when I want to. Switching is easy as well, as all you need to do is click power and
@@ -253,9 +265,10 @@ oldArticle: true
 </aside>
 
 <img alt src="./1231932436717941393.jpg"/><p class="sc-77igqf-0 bOfvBY">As for the camera... it isn’t the worst thing I’ve seen with generally accurate colors and
-  a not horrible dynamic range, and the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://imgur.com/a/xrmIP#0",{"metric25":1}]]' href="http://imgur.com/a/xrmIP#0" rel="noopener noreferrer" target="_blank">pictures I took</a></span> are pretty
-  acceptable for Facebook or Instagram posts, but do you really want to be shooting with a 9.7 inch Chinese <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://gizmodo.com/the-first-new-ipad-camera-shots-pretty-good-but-dont-5893176",{"metric25":1}]]' href="http://gizmodo.com/the-first-new-ipad-camera-shots-pretty-good-but-dont-5893176">tablet</a></span>? You’ll
-  probably have a better camera on your phone.</p>
+a not horrible dynamic range, and the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://imgur.com/a/xrmIP#0",{"metric25":1}]]' href="http://imgur.com/a/xrmIP#0" rel="noopener noreferrer" target="_blank">pictures I took</a></span> are pretty
+acceptable for Facebook or Instagram posts, but do you really want to be shooting with a 9.7 inch Chinese <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://gizmodo.com/the-first-new-ipad-camera-shots-pretty-good-but-dont-5893176",{"metric25":1}]]' href="http://gizmodo.com/the-first-new-ipad-camera-shots-pretty-good-but-dont-5893176">tablet</a></span>? You’ll
+probably have a better camera on your phone.</p>
+
 <p class="sc-77igqf-0 bOfvBY">Also, this tablet has solid battery life (it better have solid battery life, given
   the 8500 mAh battery), giving me about 8 hours on my video loop test, where I had the screen on 50% bightness, playing
   my 720p rip of <em>Code Geass: Akito the Exiled</em> on loop on windows. Normally, it gets me through 1-2 days of
@@ -274,12 +287,13 @@ oldArticle: true
   were good ideas?</p>
 
 <img alt src="./1231932436789783441.jpg"/><h3 class="sc-1bwb26k-1 fvCjqJ" id="h110378"><a class="js_header-anchor" id=""></a><strong>Should You Buy
-  it?</strong></h3><p class="sc-77igqf-0 bOfvBY">Maybe. If you can deal with the issues that it has, I’d say yes as it’s
-  a stellar value. I personally do not regret buying this one bit, but there are plenty of people that would be better
-  suited by a tablet from a tier 1 OEM. That being said, If you don’t mind not having customer service, dealing with
-  quirks that come with using a device like this, want a great experience, and an feature that you can’t find on a
-  regular device that makes the device so much better, you can’t go wrong here. The dream of Dual Booting Tablets is
-  finally realized, and it’s pretty great. </p>
+it?</strong></h3><p class="sc-77igqf-0 bOfvBY">Maybe. If you can deal with the issues that it has, I’d say yes as it’s
+a stellar value. I personally do not regret buying this one bit, but there are plenty of people that would be better
+suited by a tablet from a tier 1 OEM. That being said, If you don’t mind not having customer service, dealing with
+quirks that come with using a device like this, want a great experience, and an feature that you can’t find on a
+regular device that makes the device so much better, you can’t go wrong here. The dream of Dual Booting Tablets is
+finally realized, and it’s pretty great. </p>
+
 <p class="sc-77igqf-0 bOfvBY">For the low cost of $200 dollars, you’re getting a device that aims high and mostly
   succeeds at providing a great experience, one that has been consistently surprising me. I’d personally recommend the
   <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://techtablets.com/cube-i6-dual-os/review-2/",{"metric25":1}]]' href="http://techtablets.com/cube-i6-dual-os/review-2/" rel="noopener noreferrer" target="_blank">Cube i6 Air </a></span>over my teclast if you don’t need HDMI because it fixes the

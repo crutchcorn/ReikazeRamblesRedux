@@ -1,12 +1,22 @@
 ---
 {
-title: "Rockmandash Reviews: Fate/kaleid liner Prisma☆Illya [Anime & Manga]",
-tags: ["Rockmandash Reviews", "Fate/kaleid liner Prisma Illya", "Review", "Tay-Classic", "Ani-TAY", "Fate/illya", "Type-Moon", "Summer 2014", "Type-Moon Marathon"],
-authors: ['reikaze'],
-published: '2014-09-14T12:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Fate/kaleid liner Prisma☆Illya [Anime & Manga]",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "Fate/kaleid liner Prisma Illya",
+      "Review",
+      "Tay-Classic",
+      "Ani-TAY",
+      "Fate/illya",
+      "Type-Moon",
+      "Summer 2014",
+      "Type-Moon Marathon",
+    ],
+  published: "2014-09-14T12:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -44,16 +54,17 @@ oldArticle: true
   the awkward wait after the end of 2wei part one, but it’s still noteworthy.</p>
 
 <img alt src="./1471910960735230356.png"/><p class="sc-77igqf-0 bOfvBY">When I first heard about this show, I wasn’t exactly sure why it existed. Making a magical
-  girl show for the Fate series is just something that doesn’t make a whole lot sense logically, as it’s already
-  chock-full of magic, but later on the show tries to make it apparent that it isn’t about the fact that it’s a magical
-  girl show.If you think of it as another viewpoint of the Nasuverse instead, then you’ll probably enjoy this quite a
-  bit more.</p>
+girl show for the Fate series is just something that doesn’t make a whole lot sense logically, as it’s already
+chock-full of magic, but later on the show tries to make it apparent that it isn’t about the fact that it’s a magical
+girl show.If you think of it as another viewpoint of the Nasuverse instead, then you’ll probably enjoy this quite a
+bit more.</p>
 
 <img alt src="./1471910960818297748.png"/><p class="sc-77igqf-0 bOfvBY">One day, a magical rod named Ruby comes crashing into Illya’s bathroom as she’s
-  taking a bath. Ruby was running away from Rin Tohsaka, a magus, and decides to make Illya into a magical girl. When
-  Rin figures this out, Rin gives Illya the task of obtaining 7 class cards which contain the spirits from heroes of
-  legend, and Illya has to fight a series of battles with each respective hero. When 2wei starts though, a girl named
-  Kuroe (who looks extremely similar to Illya) appears before her and throws Illya’s everyday life upside down.</p>
+taking a bath. Ruby was running away from Rin Tohsaka, a magus, and decides to make Illya into a magical girl. When
+Rin figures this out, Rin gives Illya the task of obtaining 7 class cards which contain the spirits from heroes of
+legend, and Illya has to fight a series of battles with each respective hero. When 2wei starts though, a girl named
+Kuroe (who looks extremely similar to Illya) appears before her and throws Illya’s everyday life upside down.</p>
+
 <p class="sc-77igqf-0 bOfvBY">Sounds very magical-girly, right? At the beginning, Fate/illya is nothing but a
   normal magical girl show, but the farther along you get, this show evolves into something more like what you would
   expect from Type-Moon. The show starts as a typical magical girl show, running through the typical monster of the week
@@ -88,20 +99,21 @@ oldArticle: true
 <img alt src="./1471910961014285204.png"/>
 
 <img alt src="./1471910961066912404.jpg"/><p class="sc-77igqf-0 bOfvBY">I think the best way to describe the visuals in Fate/illya would be cute.
-  Fate/illya has a bright color palate (<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://tay.kotaku.com/no-game-no-life-the-ani-tay-review-1595368572",{"metric25":1}]]' href="http://tay.kotaku.com/no-game-no-life-the-ani-tay-review-1595368572">similar to NGNL</a></span>).
-  Considering that this show is a magical girl show with a lighter tone and attitude, this adds quite a bit of charm and
-  character to the show, which I appreciate as it helps it stand out from the crowd while looking nice. The visuals have
-  clean lines, solid backgrounds, neat effects, and pleasing to the eye animation (especially during the battles),
-  combines into a show that looks nice, but doesn’t particularly blow you out of the water.</p>
+Fate/illya has a bright color palate (<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://tay.kotaku.com/no-game-no-life-the-ani-tay-review-1595368572",{"metric25":1}]]' href="http://tay.kotaku.com/no-game-no-life-the-ani-tay-review-1595368572">similar to NGNL</a></span>).
+Considering that this show is a magical girl show with a lighter tone and attitude, this adds quite a bit of charm and
+character to the show, which I appreciate as it helps it stand out from the crowd while looking nice. The visuals have
+clean lines, solid backgrounds, neat effects, and pleasing to the eye animation (especially during the battles),
+combines into a show that looks nice, but doesn’t particularly blow you out of the water.</p>
 
 <img alt src="./1471910961124728724.jpg"/><p class="sc-77igqf-0 bOfvBY">There are a few things that may annoy you when it comes to the visuals, and the big things
-  are the lewdness and the the character designs. It has to be mentioned though that and during 2wei and Herz! the
-  lewdness, sexual content and yuri undertones was cranked up to 11, being surprisingly suggestive at times and quite
-  ridiculous considering the context of the show. With the introduction of Kuro as a character, kissing scenes go way up
-  and they even have episodes talking about it... going completely meta about it. Also, even though the show isn’t
-  technically ecchi, it’s rather explicitly suggestive, making for one of the most “lewd” show I’ve seen in a while even
-  though it isn’t explicit about it at all. Considering the subject matter, this may be a gamebreaker for some, and for
-  others it may be another source of comedy, but it is what it is.</p>
+are the lewdness and the the character designs. It has to be mentioned though that and during 2wei and Herz! the
+lewdness, sexual content and yuri undertones was cranked up to 11, being surprisingly suggestive at times and quite
+ridiculous considering the context of the show. With the introduction of Kuro as a character, kissing scenes go way up
+and they even have episodes talking about it... going completely meta about it. Also, even though the show isn’t
+technically ecchi, it’s rather explicitly suggestive, making for one of the most “lewd” show I’ve seen in a while even
+though it isn’t explicit about it at all. Considering the subject matter, this may be a gamebreaker for some, and for
+others it may be another source of comedy, but it is what it is.</p>
+
 <p class="sc-77igqf-0 bOfvBY">Also, in comparison to the rest of the fate series, the character designs looks off
   somehow (yet similar to Fate/extra), but this design characteristic is probably to keep the art consistent to the
   mangaka’s art, and you should be able to get used to it fairly quickly so it’s not really a big deal.</p>
@@ -139,8 +151,9 @@ oldArticle: true
   reminded me of Negima! at points), and I really appreciated how it did so.</p>
 
 <img alt src="./1471910961741533332.jpg"/><p class="sc-77igqf-0 bOfvBY">However, this is my opinion and your mileage may vary. <strong>Simply put,
-  Fate/illya is a show made for Type-Moon fanatics like me, and if you are not one, you will probably like this much
-  less than I did. </strong></p>
+Fate/illya is a show made for Type-Moon fanatics like me, and if you are not one, you will probably like this much
+less than I did. </strong></p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h119876"><a class="js_header-anchor" id=""></a>Enjoyment - 8.5/10</h4>
 <img alt src="./1471910961780995988.png"/>
 <p class="sc-77igqf-0 bOfvBY">Fate/Kaleid liner Prisma Illyais a good show with a clear idea on what it wants to

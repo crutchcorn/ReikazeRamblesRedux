@@ -1,12 +1,19 @@
 ---
 {
-title: "Rockmandash Reviews: Fate/Zero [Anime]",
-tags: ["rockmandash reviews", "ani-tay", "type moon marathon", "fate", "fate zero", "Type-Moon Marathon"],
-authors: ['reikaze'],
-published: '2014-03-06T05:37:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Fate/Zero [Anime]",
+  tags:
+    [
+      "rockmandash reviews",
+      "ani-tay",
+      "type moon marathon",
+      "fate",
+      "fate zero",
+      "Type-Moon Marathon",
+    ],
+  published: "2014-03-06T05:37:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -33,17 +40,18 @@ oldArticle: true
 <img alt src="./1313360469341067299.png"/>
 
 <img alt src="./1313360469437487651.png"/><p class="sc-77igqf-0 bOfvBY">What do you get when you let Gen Urobuchi have a slice of the Nasuverse? You get
-  <em>Fate/Zero</em> of course! <em>Fate Zero</em> was written by Gen Urobuchi, and Gen takes a very interesting
-  approach to the Nasuverse, but one that blends in with the rest of the Nasuverse very well. <em>Fate/Zero</em> is the
-  predecessor to <em>Fate/stay night</em>, and takes place during the 4th Holy grail war (which isn’t really a war....)
-  where people known as Masters fight with Heroes throughout history, known as servants, for a chance to get the Holy
-  Grail, which grants their wishes. Each servant is one of the 7 classes, Saber, Archer, Lancer, Berserker, Rider,
-  Assassin, and Caster. If you didn’t get that, well, <em>Fate/Zero</em> includes an extremely long 45 minute first
-  episode that’s almost nothing but exposition, and exposition on pretty much every topic. It’s a well written, polished
-  plot, with interesting themes, great ideas, and amazing premise. One issue I came into is that <em>Fate/Zero</em> has
-  some pacing issues. <em>Fate/Zero</em> tries to be both an action show yet have a dark, and conversational plot, and
-  these interfere with each other. The pacing is much better than KnK (having a plot in order helps a lot), but still
-  it’s still slow at the beginning.</p>
+<em>Fate/Zero</em> of course! <em>Fate Zero</em> was written by Gen Urobuchi, and Gen takes a very interesting
+approach to the Nasuverse, but one that blends in with the rest of the Nasuverse very well. <em>Fate/Zero</em> is the
+predecessor to <em>Fate/stay night</em>, and takes place during the 4th Holy grail war (which isn’t really a war....)
+where people known as Masters fight with Heroes throughout history, known as servants, for a chance to get the Holy
+Grail, which grants their wishes. Each servant is one of the 7 classes, Saber, Archer, Lancer, Berserker, Rider,
+Assassin, and Caster. If you didn’t get that, well, <em>Fate/Zero</em> includes an extremely long 45 minute first
+episode that’s almost nothing but exposition, and exposition on pretty much every topic. It’s a well written, polished
+plot, with interesting themes, great ideas, and amazing premise. One issue I came into is that <em>Fate/Zero</em> has
+some pacing issues. <em>Fate/Zero</em> tries to be both an action show yet have a dark, and conversational plot, and
+these interfere with each other. The pacing is much better than KnK (having a plot in order helps a lot), but still
+it’s still slow at the beginning.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h119785"><a class="js_header-anchor" id=""></a>Plot - 9/10</h4>
 <img alt src="./1313360469629133091.png"/>
 <p class="sc-77igqf-0 bOfvBY">Normally when I review, I usually clump plot and characters into one category known
@@ -65,11 +73,12 @@ oldArticle: true
 <img alt src="./1313360469820556323.png"/>
 
 <img alt src="./1313360470038798115.png"/><p class="sc-77igqf-0 bOfvBY">Ufotable does it once again. <em>Fate/Zero </em>has some of the best visuals in
-  anime, with absolutely beautiful visuals: Visuals that are so good, that people still debate that they haven’t been
-  surpassed yet. In my eyes, what <em>Fate/Zero</em> does really well in the visuals is the is the fight scenes, with
-  fluid animation and excellent consistency. <em>Fate/Zero</em> has some of the best fight scenes in anime, in my
-  opinion, and as a Fate fan, it’s great to see characters I love animated so beautifully. It’s one of the best looking
-  anime I’ve seen, and it’ll hold up for years.</p>
+anime, with absolutely beautiful visuals: Visuals that are so good, that people still debate that they haven’t been
+surpassed yet. In my eyes, what <em>Fate/Zero</em> does really well in the visuals is the is the fight scenes, with
+fluid animation and excellent consistency. <em>Fate/Zero</em> has some of the best fight scenes in anime, in my
+opinion, and as a Fate fan, it’s great to see characters I love animated so beautifully. It’s one of the best looking
+anime I’ve seen, and it’ll hold up for years.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h119787"><a class="js_header-anchor" id=""></a>Visuals - 9.5/10</h4>
 <img alt src="./1313360470096217379.png"/>
 <div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/4Ka9qDAII-c" width="560"></iframe><span class="js_recommend" data-chomp-id="4Ka9qDAII-c" data-recommend-id="youtube://4Ka9qDAII-c" data-recommended="false" id="youtube-4Ka9qDAII-c"></span></span></div><p class="sc-77igqf-0 bOfvBY">One name can sum up what I think about the soundtrack, and that’s Yuki Kajiura. Just like

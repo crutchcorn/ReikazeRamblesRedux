@@ -1,12 +1,20 @@
 ---
 {
-title: "Rockmandash Reviews: Ever 17: The Out of Infinity [Visual Novel] - ARCHIVE",
-tags: ["rockmandash reviews", "tayclassic", "ever 17 the out of infinity", "ever 17", "999", "visual novel", "tay review"],
-authors: ['reikaze'],
-published: '2014-01-20T00:26:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Ever 17: The Out of Infinity [Visual Novel] - ARCHIVE",
+  tags:
+    [
+      "rockmandash reviews",
+      "tayclassic",
+      "ever 17 the out of infinity",
+      "ever 17",
+      "999",
+      "visual novel",
+      "tay review",
+    ],
+  published: "2014-01-20T00:26:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

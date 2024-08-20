@@ -1,12 +1,11 @@
 ---
 {
-title: "Experiencing AX: The nbkz/Minori Panel",
-tags: ["AX 2016", "AniTAY", "Rockmandash Rambles", "nbkz", "minori"],
-authors: ['reikaze'],
-published: '2016-07-20T18:01:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Experiencing AX: The nbkz/Minori Panel",
+  tags: ["AX 2016", "AniTAY", "Rockmandash Rambles", "nbkz", "minori"],
+  published: "2016-07-20T18:01:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -92,17 +91,18 @@ oldArticle: true
   answered that he’s a good friend so it’s easy to work with him.</p>
 
 <img alt src="./ofcy1litaehopyfet2iz.jpg"/><p class="sc-77igqf-0 bOfvBY"><br/>Given all the talk about tech in this Q &amp; A, the question after mine was
-  about this tech, asking about if Minori was interested in VR, which nbkz awnsered no. According to nbkz, they want to
-  portray anime via the Visual Novel medium so all the steps they take are based off of that. <br/><br/>The question after
-  that was about how the previous games lead to ef, and the answer was pretty interesting, with nbkz saying that every
-  time they release a work they think they make best game out there, but when they reflect back, they are filled with
-  regret. Nbkz says he’d like to scrap it and start again, but that’s obviously not possible since it’s released to the
-  world so they use the motivation gained from this regret to make the next game, to make it as possible. In the case of
-  ef, the game that was developed before came ef (Haru no Ashito) wasn’t that great, and was kinda a testing ground.
-  nbkz had a vision that the rest of the team didn’t really get, so it didn’t really work too well. With ef, they had a
-  change in vision, so the failure of Haru no Ashioto directly led to to the game. Nbkz then mentioned that if they’re
-  ever completely satisfied with a work, that’s game over for minori, a prime example of the perfectionist nature that
-  embodies the company.</p>
+about this tech, asking about if Minori was interested in VR, which nbkz awnsered no. According to nbkz, they want to
+portray anime via the Visual Novel medium so all the steps they take are based off of that. <br/><br/>The question after
+that was about how the previous games lead to ef, and the answer was pretty interesting, with nbkz saying that every
+time they release a work they think they make best game out there, but when they reflect back, they are filled with
+regret. Nbkz says he’d like to scrap it and start again, but that’s obviously not possible since it’s released to the
+world so they use the motivation gained from this regret to make the next game, to make it as possible. In the case of
+ef, the game that was developed before came ef (Haru no Ashito) wasn’t that great, and was kinda a testing ground.
+nbkz had a vision that the rest of the team didn’t really get, so it didn’t really work too well. With ef, they had a
+change in vision, so the failure of Haru no Ashioto directly led to to the game. Nbkz then mentioned that if they’re
+ever completely satisfied with a work, that’s game over for minori, a prime example of the perfectionist nature that
+embodies the company.</p>
+
 <div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/dBBpfejM6P4" width="560"></iframe><span class="js_recommend" data-chomp-id="dBBpfejM6P4" data-recommend-id="youtube://dBBpfejM6P4" data-recommended="false" id="youtube-dBBpfejM6P4"></span></span></div><p class="sc-77igqf-0 bOfvBY"><br/>They then cut the
   Q &amp; A to show off Trinolive, the world premiere (and gets it’s official announcement in Japan today, sorry for
   taking so long to write this up. Good thing I tweeted the news!). Trinolive is a game that is trying to bridge the gap

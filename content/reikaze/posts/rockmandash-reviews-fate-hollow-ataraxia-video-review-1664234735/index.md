@@ -1,12 +1,11 @@
 ---
 {
-title: "Rockmandash Reviews: Fate/hollow ataraxia [Video Review]",
-tags: [],
-authors: ['reikaze'],
-published: '2014-11-27T23:34:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Fate/hollow ataraxia [Video Review]",
+  tags: [],
+  published: "2014-11-27T23:34:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

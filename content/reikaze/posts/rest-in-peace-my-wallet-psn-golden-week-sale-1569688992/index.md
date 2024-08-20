@@ -1,12 +1,11 @@
 ---
 {
-title: "Rest In Peace, My wallet. PSN Golden Week Sale",
-tags: [],
-authors: ['reikaze'],
-published: '2014-04-30T00:48:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rest In Peace, My wallet. PSN Golden Week Sale",
+  tags: [],
+  published: "2014-04-30T00:48:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

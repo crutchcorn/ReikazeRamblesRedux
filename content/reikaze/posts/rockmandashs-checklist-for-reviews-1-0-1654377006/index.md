@@ -1,12 +1,11 @@
 ---
 {
-title: "Rockmandash's Checklist for Reviews [1.01]",
-tags: ["Tay-classic", "Rockmandash Rambles", "Review", "Checklist", "Help"],
-authors: ['reikaze'],
-published: '2014-11-04T02:33:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash's Checklist for Reviews [1.01]",
+  tags: ["Tay-classic", "Rockmandash Rambles", "Review", "Checklist", "Help"],
+  published: "2014-11-04T02:33:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

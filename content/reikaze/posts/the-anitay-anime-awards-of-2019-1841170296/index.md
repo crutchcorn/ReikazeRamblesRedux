@@ -1,12 +1,18 @@
 ---
 {
-title: "The AniTAY Anime Awards of 2019",
-tags: ["The AniTAY Anime Awards", "2019", "AniTAY", "Anime", "Ani-TAY Collaboration"],
-authors: ['reikaze'],
-published: '2020-01-24T09:00:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "The AniTAY Anime Awards of 2019",
+  tags:
+    [
+      "The AniTAY Anime Awards",
+      "2019",
+      "AniTAY",
+      "Anime",
+      "Ani-TAY Collaboration",
+    ],
+  published: "2020-01-24T09:00:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -108,7 +114,7 @@ oldArticle: true
 <img alt src="./c9tcjccjsfbu1jvedno1.jpg"/>
 
 <img alt src="./bclthjoaosrg2prx5znw.jpg"/><h3 class="sc-1bwb26k-1 fvCjqJ" id="h101556"><a class="js_header-anchor" id=""></a>Author’s Pick for Best Male
-  Character: Askeladd - <em>Vinland Saga</em></h3>
+Character: Askeladd - <em>Vinland Saga</em></h3>
 <img alt src="./g3dl4rarkfrrgvbto2dc.jpg"/>
 
 <hr class="gcp5ez-1 egkUKA"/><h3 class="sc-1bwb26k-1 fvCjqJ" id="h101557"><a class="js_header-anchor" id=""></a>Author’s

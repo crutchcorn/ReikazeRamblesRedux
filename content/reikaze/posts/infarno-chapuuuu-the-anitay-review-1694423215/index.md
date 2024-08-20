@@ -1,12 +1,18 @@
 ---
 {
-title: "INFARNO CHAPUUUU: The AniTAY Review",
-tags: ["As much effort and budget as the show itself", "Fruitydrinks should post more", "Anime saviour", "infurno cahpu", "tayclassic"],
-authors: ['reikaze'],
-published: '2015-03-29T18:37:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "INFARNO CHAPUUUU: The AniTAY Review",
+  tags:
+    [
+      "As much effort and budget as the show itself",
+      "Fruitydrinks should post more",
+      "Anime saviour",
+      "infurno cahpu",
+      "tayclassic",
+    ],
+  published: "2015-03-29T18:37:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

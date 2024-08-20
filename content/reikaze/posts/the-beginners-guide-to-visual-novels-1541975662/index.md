@@ -1,12 +1,20 @@
 ---
 {
-title: "Rockmandash's Beginner's Guide To Visual Novels",
-tags: ["rockmandash reviews", "visual novels", "beginners guide", "rockmandash12", "AniTAY", "TAYclassic", "FuwaReviews"],
-authors: ['reikaze'],
-published: '2014-03-12T14:20:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash's Beginner's Guide To Visual Novels",
+  tags:
+    [
+      "rockmandash reviews",
+      "visual novels",
+      "beginners guide",
+      "rockmandash12",
+      "AniTAY",
+      "TAYclassic",
+      "FuwaReviews",
+    ],
+  published: "2014-03-12T14:20:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

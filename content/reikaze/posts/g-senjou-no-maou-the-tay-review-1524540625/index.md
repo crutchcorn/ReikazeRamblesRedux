@@ -1,12 +1,20 @@
 ---
 {
-title: "RockmanDash Reviews: G-Senjou no Maou [Visual Novel]",
-tags: ["rockmandash reviews", "rockmandash", "tayclassic", "g-senjou no maou", "visual novel", "tay", "fuwareviews"],
-authors: ['reikaze'],
-published: '2015-11-21T14:30:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash Reviews: G-Senjou no Maou [Visual Novel]",
+  tags:
+    [
+      "rockmandash reviews",
+      "rockmandash",
+      "tayclassic",
+      "g-senjou no maou",
+      "visual novel",
+      "tay",
+      "fuwareviews",
+    ],
+  published: "2015-11-21T14:30:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -33,20 +41,21 @@ oldArticle: true
 <img alt src="./1529558210885106248.png"/>
 
 <img alt src="./1529558210926076232.png"/><p class="sc-77igqf-0 bOfvBY">Like the medium itself, the strength of<em> G-Senjou no Maou</em> has to be the
-  story it has to tell, since it provides and portrays its messages extremely well. If you asked me how to explain<em>
-    G-Senjou no Maou</em> however, I’d tell you that it’s the <em>Death Note </em>of Visual Novels, as they share quite
-  a bit of similarities: they cover similar topics and have similar themes, they have a similar tone (of tenseness but
-  not explicit morbidness), and are focused on a cat and dog game in which masterminds battle with their wits to achieve
-  their goals.</p>
+story it has to tell, since it provides and portrays its messages extremely well. If you asked me how to explain<em>
+G-Senjou no Maou</em> however, I’d tell you that it’s the <em>Death Note </em>of Visual Novels, as they share quite
+a bit of similarities: they cover similar topics and have similar themes, they have a similar tone (of tenseness but
+not explicit morbidness), and are focused on a cat and dog game in which masterminds battle with their wits to achieve
+their goals.</p>
 
 <img alt src="./1529558210962473544.jpg"/><p class="sc-77igqf-0 bOfvBY">In <em>G-Senjou no Maou</em>, we follow Azai Kyousuke, the stepson of a Yakuza
-  boss. During the day, he acts as a typical high school student, but at night, he helps run the “family business”,
-  covertly working for his stepfather as ruthless financial heavyweight. This idyllic existence is broken when two
-  individuals appear in the city - an awkward yet absolutely brilliant girl named Usami Haru who happens to have way too
-  much hair, and a powerful terrorist known only as “Maou”. Almost without delay, Usami Haru &amp; Maou begin a deadly
-  game of cat and mouse, bringing Azai and his friends into the crossfire. Plotting, political intrigue, mystery and
-  bleak topics like kidnapping, terrorism, murder, hostages, the Stockholm syndrome, and massacre are the just some of
-  the topics that are covered in this epic battle of wits, and it makes the work a great experience.</p>
+boss. During the day, he acts as a typical high school student, but at night, he helps run the “family business”,
+covertly working for his stepfather as ruthless financial heavyweight. This idyllic existence is broken when two
+individuals appear in the city - an awkward yet absolutely brilliant girl named Usami Haru who happens to have way too
+much hair, and a powerful terrorist known only as “Maou”. Almost without delay, Usami Haru &amp; Maou begin a deadly
+game of cat and mouse, bringing Azai and his friends into the crossfire. Plotting, political intrigue, mystery and
+bleak topics like kidnapping, terrorism, murder, hostages, the Stockholm syndrome, and massacre are the just some of
+the topics that are covered in this epic battle of wits, and it makes the work a great experience.</p>
+
 <p class="sc-77igqf-0 bOfvBY">The most important aspect of the experience and the biggest thing that<em> G-Senjou
   no Maou </em>shares with <em>Death Note </em>is not the content, but how the story is told: it’s a very high energy,
   high tension work with the thriller trait that made <em>Death Note </em>stand out from the crowd, and what makes <em>G-Senjou
@@ -74,25 +83,25 @@ oldArticle: true
 </p>
 
 <img alt src="./1529558211023025736.jpg"/><p class="sc-77igqf-0 bOfvBY">If I had a complaint with the writing of the game, it would have to be that the
-  game has issues with consistency at times. Flow between scenes isn’t perfect, tonal shifts can be wonky, and the
-  writing in general has some issues as some things conflict with each other. To make matters worse, everything I’ve
-  been saying about the story is referring to the main route, but the second you step out of it, the writing gets
-  significantly worse. The alternate routes don’t make sense in the context of the story: the only reason they happen
-  are deus ex machina happening to satisfy the requirements to branch off to these routes, and they derail insanely in
-  tone, story, etc, with major continuity issues that totally took me out of the game every time I tried to play them.
-  Also, the writing quality of those routes in general aren’t as good as the main, so I’d just ignore them entirely.
-  That being said, with fantastic stories and great characters, the overall writing in this game is pretty good, and
-  it’s worth your time if you’re into it.</p>
+game has issues with consistency at times. Flow between scenes isn’t perfect, tonal shifts can be wonky, and the
+writing in general has some issues as some things conflict with each other. To make matters worse, everything I’ve
+been saying about the story is referring to the main route, but the second you step out of it, the writing gets
+significantly worse. The alternate routes don’t make sense in the context of the story: the only reason they happen
+are deus ex machina happening to satisfy the requirements to branch off to these routes, and they derail insanely in
+tone, story, etc, with major continuity issues that totally took me out of the game every time I tried to play them.
+Also, the writing quality of those routes in general aren’t as good as the main, so I’d just ignore them entirely.
+That being said, with fantastic stories and great characters, the overall writing in this game is pretty good, and
+it’s worth your time if you’re into it.</p>
 
 <hr class="gcp5ez-0 hKlTiw"/>
 <img alt src="./1529558211055522632.png"/>
 
 <img alt src="./1529558211087874632.png"/><p class="sc-77igqf-0 bOfvBY"><em>G-Senjou no Maou</em> is a VN from 2008 made by a well known dev Akabeisoft2,
-  so there’s a level of quality expected from the visuals, and those are reached, for the most part. There’s not much
-  really to say here, the character art is pretty good, detailed and consistent, some of the background art is rather
-  nice, the CG in the game looks pretty good and the overall aesthetic is nice, but there’s nothing that jumps at you
-  and nothing about the visuals of this game is really mind blowing. It’s nice, but it does its job, nothing more,
-  nothing less.</p>
+so there’s a level of quality expected from the visuals, and those are reached, for the most part. There’s not much
+really to say here, the character art is pretty good, detailed and consistent, some of the background art is rather
+nice, the CG in the game looks pretty good and the overall aesthetic is nice, but there’s nothing that jumps at you
+and nothing about the visuals of this game is really mind blowing. It’s nice, but it does its job, nothing more,
+nothing less.</p>
 
 <hr class="gcp5ez-0 hKlTiw"/>
 <img alt src="./1529558211146276680.png"/>
@@ -114,14 +123,15 @@ oldArticle: true
 <img alt src="./1529558211349110088.png"/>
 
 <img alt src="./1529558211423551304.png"/><p class="sc-77igqf-0 bOfvBY">If there was a Visual Novel that really surmounted the idea that VNs are an experience,
-  it’s this one, as it is an absolute blast to go through, with a tone that makes the game extremely engaging
-  throughout. During my first run of the game, I came into <em>G-Senjou no Maou</em> right after re-watching <em>Kara no
-    Kyoukai</em> and I couldn’t think of a better way of getting into something like this, as the thematic similarities
-  really made those flow together and get me in the right mindset for the game. I love thrillers, so <em>G-Senjou no
-    Maou</em> made me smile like I’m some kind of idiot, with the experience playing through the game being an absolute
-  blast. Everything blended to make a roller coaster of a VN, with the battle of wits being some of the most fun to go
-  through, the characters amazing to see and the mystery something that was extremely compelling, making this VN is a
-  stellar experience.</p>
+it’s this one, as it is an absolute blast to go through, with a tone that makes the game extremely engaging
+throughout. During my first run of the game, I came into <em>G-Senjou no Maou</em> right after re-watching <em>Kara no
+Kyoukai</em> and I couldn’t think of a better way of getting into something like this, as the thematic similarities
+really made those flow together and get me in the right mindset for the game. I love thrillers, so <em>G-Senjou no
+Maou</em> made me smile like I’m some kind of idiot, with the experience playing through the game being an absolute
+blast. Everything blended to make a roller coaster of a VN, with the battle of wits being some of the most fun to go
+through, the characters amazing to see and the mystery something that was extremely compelling, making this VN is a
+stellar experience.</p>
+
 <p class="sc-77igqf-0 bOfvBY">Also, I loved the main ending, with the epilogue… it was mind blowing. The void left
   after that ending... was just amazing… it was to the point that I wanted to start up the other routes, but the void
   wouldn’t let me.... I couldn’t get my mind off of that ending, and thus this review exists. I wanted (and still want)
@@ -142,10 +152,11 @@ oldArticle: true
 <img alt src="./1529558211528406600.png"/>
 
 <img alt src="./1529558211617356616.png"/><p class="sc-77igqf-0 bOfvBY">We live in a changing world, one where the genre of Visual Novels is slowly
-  expanding out of the west, with the fact that I can even have a section about the changes that publishers makes is
-  bringing me to joy. In Fall 2015, Sekai Project released <em>G-Senjou no Maou </em>in the west, but 2015 is a far cry
-  from the 2008 that this game was originally released in, and things have changed. It’s mostly small things, but its
-  worth mentioning regardless.</p>
+expanding out of the west, with the fact that I can even have a section about the changes that publishers makes is
+bringing me to joy. In Fall 2015, Sekai Project released <em>G-Senjou no Maou </em>in the west, but 2015 is a far cry
+from the 2008 that this game was originally released in, and things have changed. It’s mostly small things, but its
+worth mentioning regardless.</p>
+
 <p class="sc-77igqf-0 bOfvBY">The first change that you’ll notice happens before you even buy the game: Sekai
   Project split the game into two versions you can buy, a version with voice acting, and a version without because
   licensing fees are rather expensive. I’ve played it both times with voices, so I may not be the best to say this, but

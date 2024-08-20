@@ -1,12 +1,18 @@
 ---
 {
-title: "A Discussion About Death in Grimgar of Fantasy and Ash",
-tags: ["Grimgar", "grimgar of fantasy and ash", "Anitay", "winter 2016", "Rockmandash Rambles"],
-authors: ['reikaze'],
-published: '2016-02-20T05:54:43-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "A Discussion About Death in Grimgar of Fantasy and Ash",
+  tags:
+    [
+      "Grimgar",
+      "grimgar of fantasy and ash",
+      "Anitay",
+      "winter 2016",
+      "Rockmandash Rambles",
+    ],
+  published: "2016-02-20T05:54:43-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -36,6 +42,7 @@ oldArticle: true
 
 <video autoplay="" loop="" muted=""><source src="./ipdrugd9caspooepwruj.mp4" type="video/mp4"/></video>
 <video autoplay="" loop="" muted=""><source src="./izc6fjxjetgs9tsl7wj3.mp4" type="video/mp4"/></video>
+
 <p class="sc-77igqf-0 bOfvBY"><em>Grimgar of Fantasy and Ash</em> is a fantasy drama show made by A-1 pictures
   that does not hold anything back, a show based around the experiences and promises it holds about the premise and the
   world it is based upon. It’s a show that runs with a rather tried and true premise of dropping and trapping people

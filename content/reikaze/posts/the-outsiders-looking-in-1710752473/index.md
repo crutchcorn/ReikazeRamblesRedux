@@ -1,12 +1,11 @@
 ---
 {
-title: "The Outsiders Looking In.",
-tags: ["Rant"],
-authors: ['reikaze'],
-published: '2015-06-11T19:27:50-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "The Outsiders Looking In.",
+  tags: ["Rant"],
+  published: "2015-06-11T19:27:50-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -50,10 +49,11 @@ oldArticle: true
   something being marginalized because it’s not what the person knows.</p>
 
 <img alt src="./1293047443320399787.png"/><p class="sc-77igqf-0 bOfvBY">Too many times, the type of person or thing has been insulted. Am I a slimy, gross mouth
-  breather that only cares about porn in my text based adventure game? There is more to the Visual Novel genre then you
-  may think, dear Kotaku writer, and like everything, its just a bit more complex than you may think. Treat people with
-  respect, and people will treat you with equal respect. Writing in stereotypes do not net you any professional rewards,
-  nor does it make you a smarter person. By keeping an open mind and being respectful to others, you live a better life
-  and make other lives better. Please, try to be more open and considerate when you are an outsider looking in.... and
-  Kotaku Writer Patricia Hernandez? You do the same too.</p>
+breather that only cares about porn in my text based adventure game? There is more to the Visual Novel genre then you
+may think, dear Kotaku writer, and like everything, its just a bit more complex than you may think. Treat people with
+respect, and people will treat you with equal respect. Writing in stereotypes do not net you any professional rewards,
+nor does it make you a smarter person. By keeping an open mind and being respectful to others, you live a better life
+and make other lives better. Please, try to be more open and considerate when you are an outsider looking in.... and
+Kotaku Writer Patricia Hernandez? You do the same too.</p>
+
 </div>

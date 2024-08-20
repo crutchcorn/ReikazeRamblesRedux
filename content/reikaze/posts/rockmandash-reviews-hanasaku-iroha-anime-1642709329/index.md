@@ -1,12 +1,20 @@
 ---
 {
-title: "Rockmandash Reviews: Hanasaku Iroha [Anime]",
-tags: ["Rockmandash Reviews", "Ani-TAY", "Review", "Ani-TAY Review", "PA Works", "Mari Okada", "Hanasaku Iroha"],
-authors: ['reikaze'],
-published: '2014-10-09T16:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Hanasaku Iroha [Anime]",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "Ani-TAY",
+      "Review",
+      "Ani-TAY Review",
+      "PA Works",
+      "Mari Okada",
+      "Hanasaku Iroha",
+    ],
+  published: "2014-10-09T16:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -27,10 +35,11 @@ oldArticle: true
 </p>
 
 <img alt src="./1248085436107547053.jpg"/><p class="sc-77igqf-0 bOfvBY"><em>Hanasaku Iroha</em> follows Ohana Matsumae, a 16-year-old teenager living in
-  Tokyo, but Ohana has to move because her mother elopes with her boyfriend. Ohana arrives at her grandmother’s country
-  estate and realizes her grandma runs an inn called the Kissuisou. Ohana’s grandma starts making her work at the
-  Kissuisou but she finds herself at odds with many of the employees and customers at the inn. This discourages Ohana,
-  so she uses these circumstances as an opportunity to change herself for the better.</p>
+Tokyo, but Ohana has to move because her mother elopes with her boyfriend. Ohana arrives at her grandmother’s country
+estate and realizes her grandma runs an inn called the Kissuisou. Ohana’s grandma starts making her work at the
+Kissuisou but she finds herself at odds with many of the employees and customers at the inn. This discourages Ohana,
+so she uses these circumstances as an opportunity to change herself for the better.</p>
+
 <p class="sc-77igqf-0 bOfvBY"><em>Hanasaku Iroha</em> is slice of life done right: the daily events in it are much
   more interesting than most in this genre because it’s not just focused on a normal life, but something that’s
   different and unique. Just seeing how the staff of the Kissusiou keep the inn running, the antics they try to pull to
@@ -69,15 +78,16 @@ oldArticle: true
 <img alt src="./1248085436234760109.png"/>
 
 <img alt src="./1248085436276489389.jpg"/><p class="sc-77igqf-0 bOfvBY">I can pretty much copy and paste this segment for PA Works shows at this point: it’s a
-  beautiful show, just like everything they have made. They are called Progressive Animation for a reason: they manage
-  to blow you away with image quality every time you see one of the shows they made. Once again, the scenery is just
-  blows my mind; the episodes in Tokyo are absolutely stunning. It’s pretty much at Makoto Shinkai levels of <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://tvtropes.org/pmwiki/pmwiki.php/Main/SceneryPorn",{"metric25":1}]]' href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SceneryPorn" rel="noopener noreferrer" target="_blank">scenery porn</a></span> in those episodes, and it looks very pretty. They were my personal
-  favorite parts of the show visually as they make the city look amazing, yet they captured the look and feel of the
-  city from Ohana’s perspective. That’s a theme continues on; they really capture what a countryside would look like
-  (Probably because It’s inspired by a real place), and they capture the feel of the countryside with the great
-  lighting, insane detail, and the vivid greenery. However, there is a slight con due to this: the visuals don’t tend to
-  pop out that much in the show nearly as much as something like <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://tay.kotaku.com/rockmandash-reviews-nagi-no-asukara-anime-1567969970",{"metric25":1}]]' href="http://tay.kotaku.com/rockmandash-reviews-nagi-no-asukara-anime-1567969970"><em>Nagi no Asukara</em></a></span><em> </em>becauseit’s
-  more subdued and realistic, which is kind of a shame, but it helps the mood at the same time. </p>
+beautiful show, just like everything they have made. They are called Progressive Animation for a reason: they manage
+to blow you away with image quality every time you see one of the shows they made. Once again, the scenery is just
+blows my mind; the episodes in Tokyo are absolutely stunning. It’s pretty much at Makoto Shinkai levels of <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://tvtropes.org/pmwiki/pmwiki.php/Main/SceneryPorn",{"metric25":1}]]' href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SceneryPorn" rel="noopener noreferrer" target="_blank">scenery porn</a></span> in those episodes, and it looks very pretty. They were my personal
+favorite parts of the show visually as they make the city look amazing, yet they captured the look and feel of the
+city from Ohana’s perspective. That’s a theme continues on; they really capture what a countryside would look like
+(Probably because It’s inspired by a real place), and they capture the feel of the countryside with the great
+lighting, insane detail, and the vivid greenery. However, there is a slight con due to this: the visuals don’t tend to
+pop out that much in the show nearly as much as something like <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://tay.kotaku.com/rockmandash-reviews-nagi-no-asukara-anime-1567969970",{"metric25":1}]]' href="http://tay.kotaku.com/rockmandash-reviews-nagi-no-asukara-anime-1567969970"><em>Nagi no Asukara</em></a></span><em> </em>becauseit’s
+more subdued and realistic, which is kind of a shame, but it helps the mood at the same time. </p>
+
 <p class="sc-77igqf-0 bOfvBY">I normally don’t really touch on them, but I thought that the character designs in
   <em>Hanasaku Iroha</em> were quite great because the characters have designs that work with their personalities. Ohana
   in general had a great design: Her hair with the flowers look amazing, no matter the expression she has on her face
@@ -93,15 +103,15 @@ oldArticle: true
 <img alt src="./1248085436352335533.png"/>
 
 <img alt src="./1248085436394128301.jpg"/><p class="sc-77igqf-0 bOfvBY">Normally, with Okada stories, I have strong opinions on the stories she writes.
-  With <em>Hanasaku Iroha</em>, that’s not really the case. I’ve been saying it throughout the review; this show is very
-  subtle and what it’s trying to do, and this subtlety is something that makes me appreciate the show after the fact
-  more than while watching it. It gives it a feeling that this show was more planned than others, and I liked that.
-  However, this can be a flaw; the show was thoroughly enjoyable and found it to be great… but it doesn’t have the
-  passion I usually feel when dealing with Mari Okada works. I missed that, and I’m not exactly sure what to think of
-  the change, but I don’t think that’s the point with this show. This was a show that set out to be an enjoyable slice
-  of life and a feel good show, which it certainly does. It’s kinda like the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/rockmandash-rambles-sakurasou-is-the-first-romantic-co-1603256720",{"metric25":1}]]' href="https://anitay.kinja.com/rockmandash-rambles-sakurasou-is-the-first-romantic-co-1603256720" rel="noopener noreferrer" target="_blank">Anti-Sakurasou</a></span> in execution, but they share a lot of similarities otherwise.
-  It’s an enjoyable ride that you’ll appreciate, but it’s not a story that’s memorable because of the emotions it
-  inflicted on you.</p>
+With <em>Hanasaku Iroha</em>, that’s not really the case. I’ve been saying it throughout the review; this show is very
+subtle and what it’s trying to do, and this subtlety is something that makes me appreciate the show after the fact
+more than while watching it. It gives it a feeling that this show was more planned than others, and I liked that.
+However, this can be a flaw; the show was thoroughly enjoyable and found it to be great… but it doesn’t have the
+passion I usually feel when dealing with Mari Okada works. I missed that, and I’m not exactly sure what to think of
+the change, but I don’t think that’s the point with this show. This was a show that set out to be an enjoyable slice
+of life and a feel good show, which it certainly does. It’s kinda like the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/rockmandash-rambles-sakurasou-is-the-first-romantic-co-1603256720",{"metric25":1}]]' href="https://anitay.kinja.com/rockmandash-rambles-sakurasou-is-the-first-romantic-co-1603256720" rel="noopener noreferrer" target="_blank">Anti-Sakurasou</a></span> in execution, but they share a lot of similarities otherwise.
+It’s an enjoyable ride that you’ll appreciate, but it’s not a story that’s memorable because of the emotions it
+inflicted on you.</p>
 
 <aside class="sc-1rh3ayr-6 jfFNjl inset--story branded-item branded-item--kinja" data-commerce-source="inset"><a class="sc-1out364-0 hMndXN sc-1rh3ayr-2 lcMGRt inset--story__thumb js_link" data-ga='[["Permalink page click","Permalink page click - inset photo"]]' href="https://anitay.kinja.com/rockmandash-rambles-sakurasou-is-the-first-romantic-co-1603256720" rel="noopener noreferrer" target="_blank">
 <img alt src="./1238150483095088486.jpg"/>
@@ -119,6 +129,7 @@ oldArticle: true
 <img alt src="./k9vncdimctgafjn2g1fu.png"/>
 
 <video autoplay="" loop="" muted=""><source src="./1248085436537259181.mp4" type="video/mp4"/></video>
+
 <hr class="gcp5ez-0 hKlTiw"/><p class="sc-77igqf-0 bOfvBY"><strong>Copyright Disclaimer:</strong> Under Title 17, Section
   107 of United States Copyright law, reviews are protected under fair use. This is a review, and as such, all media
   used in this review is used for the sole purpose of review and commentary under the terms of fair use. All footage,

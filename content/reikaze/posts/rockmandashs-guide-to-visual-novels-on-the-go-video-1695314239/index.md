@@ -1,12 +1,11 @@
 ---
 {
-title: "Rockmandash's Guide to Visual Novels on the Go Video!",
-tags: [],
-authors: ['reikaze'],
-published: '2015-04-02T15:11:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash's Guide to Visual Novels on the Go Video!",
+  tags: [],
+  published: "2015-04-02T15:11:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

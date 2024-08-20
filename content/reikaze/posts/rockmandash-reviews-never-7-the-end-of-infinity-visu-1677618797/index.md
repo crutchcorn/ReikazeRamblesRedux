@@ -1,12 +1,20 @@
 ---
 {
-title: "Rockmandash Reviews: Never 7: The End of Infinity [Visual Novel]",
-tags: ["Rockmandash Reviews", "FuwaReviews", "Never 7", "Infinity Series", "Visual Novels", "AniTAY", "Tayclassic"],
-authors: ['reikaze'],
-published: '2015-03-17T00:30:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Never 7: The End of Infinity [Visual Novel]",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "FuwaReviews",
+      "Never 7",
+      "Infinity Series",
+      "Visual Novels",
+      "AniTAY",
+      "Tayclassic",
+    ],
+  published: "2015-03-17T00:30:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -32,14 +40,15 @@ oldArticle: true
 <img alt src="./1248096666025973645.png"/>
 
 <img alt src="./1248096666087137933.jpg"/><p class="sc-77igqf-0 bOfvBY">While the rest of the Infinity series is primarily a Sci-Fi series with other elements
-  thrown in for good measure, <em>Never </em>7 is the inverse of that, being a slice of life romance with Sci-Fi
-  elements thrown in for good measure. The story follows Makoto Ishihara, a college student who rarely attends his
-  classes, and due to this, he and the other other students (Yuka, Haruka, Saki, and Okuhiko) are sent to a “Seminar
-  Camp” on an island far away for a week during spring break as “punishment”. When he arrives on the island Makoto has a
-  dream where at the end of the week, a girl dies before his eyes, with a bell clutched in her hand. He wakes up from
-  the dream to find out that it’s the start of the week... and as he goes through it, he begins having premonitions of
-  future events, each one turning out correct. As the week goes on, events get stranger and stranger, and Makoto gets
-  more confused, curious on what is just going on....</p>
+thrown in for good measure, <em>Never </em>7 is the inverse of that, being a slice of life romance with Sci-Fi
+elements thrown in for good measure. The story follows Makoto Ishihara, a college student who rarely attends his
+classes, and due to this, he and the other other students (Yuka, Haruka, Saki, and Okuhiko) are sent to a “Seminar
+Camp” on an island far away for a week during spring break as “punishment”. When he arrives on the island Makoto has a
+dream where at the end of the week, a girl dies before his eyes, with a bell clutched in her hand. He wakes up from
+the dream to find out that it’s the start of the week... and as he goes through it, he begins having premonitions of
+future events, each one turning out correct. As the week goes on, events get stranger and stranger, and Makoto gets
+more confused, curious on what is just going on....</p>
+
 <p class="sc-77igqf-0 bOfvBY">While the premise sounds interesting, (and it is certainly interesting when it picks
   up) throughout a good majority of the game, it’s just a slice of life that just happens to have stranger than normal
   things going on. The Sci-Fi aspects like the infinity loop, cloning, premonitions, and cure that are introduced in
@@ -66,12 +75,13 @@ oldArticle: true
 <img alt src="./1248096666192693133.png"/>
 
 <img alt src="./1248096666243858317.jpg"/><p class="sc-77igqf-0 bOfvBY"><em>Never 7</em> is an pretty old VN, and it looks the part. It looks dated, with a low
-  resolution, an older style of character art, UI elements that scream the 90s (seriously? A rainbow textbox? <strong>WTF?)</strong>
-  and a complete absence of a UI for the menus, but it doesn’t look that bad in general because it’s pretty well drawn,
-  expresses emotions well, has clean lines, solid backgrounds (with an interesting painting/pencil sketch design), good
-  CG, and there’s no real main issues visually in the game. The game uses it’s visuals decently enough, and it never
-  detracts from your experience. <em>Never 7</em> doesn’t really have any issues with the way it looks, but there
-  weren’t anything that will really wow you either. Pretty middle of the road.</p>
+resolution, an older style of character art, UI elements that scream the 90s (seriously? A rainbow textbox? <strong>WTF?)</strong>
+and a complete absence of a UI for the menus, but it doesn’t look that bad in general because it’s pretty well drawn,
+expresses emotions well, has clean lines, solid backgrounds (with an interesting painting/pencil sketch design), good
+CG, and there’s no real main issues visually in the game. The game uses it’s visuals decently enough, and it never
+detracts from your experience. <em>Never 7</em> doesn’t really have any issues with the way it looks, but there
+weren’t anything that will really wow you either. Pretty middle of the road.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h114127"><a class="js_header-anchor" id=""></a><strong>Visuals -
   7.5/10</strong></h4>
 <img alt src="./1248096666301549965.png"/>
@@ -87,19 +97,20 @@ oldArticle: true
 <img alt src="./1248096666348165005.png"/>
 
 <img alt src="./1248096666406246797.jpg"/><p class="sc-77igqf-0 bOfvBY">No joke, when I first played this game, I abhorred it, loathed it, hated it. Coming
-  from<em> 999</em>,<em> Ever 17</em> and <em>Remember 11</em>, I had expectations for something great, something that
-  would be at least similar to the others... but when I saw a generic setting, the generic characters, the generic
-  story, I was extremely annoyed and angry at the game. The tension I loved, the immediate impact of the plot was gone,
-  and I was flabbergasted. Once I calmed down though, actually started to go through the game, and through one of the
-  decent routes in the game, I enjoyed the Sci-fi elements they had, the characters, their interactions, and the plot as
-  a whole. While it’s nothing special, there’s still enough here to entertain you and keep your attention, but it does
-  it no better than anything else like this.</p>
+from<em> 999</em>,<em> Ever 17</em> and <em>Remember 11</em>, I had expectations for something great, something that
+would be at least similar to the others... but when I saw a generic setting, the generic characters, the generic
+story, I was extremely annoyed and angry at the game. The tension I loved, the immediate impact of the plot was gone,
+and I was flabbergasted. Once I calmed down though, actually started to go through the game, and through one of the
+decent routes in the game, I enjoyed the Sci-fi elements they had, the characters, their interactions, and the plot as
+a whole. While it’s nothing special, there’s still enough here to entertain you and keep your attention, but it does
+it no better than anything else like this.</p>
 
 <img alt src="./1248096666457585037.png"/><p class="sc-77igqf-0 bOfvBY"><em>Never 7: The end of infinity</em>’s name is silly when you think about it: It’s not
-  <em>Never 7</em>, 7 is the only score I’d ever consider giving this game because it’s just so... average, and<em> End
-    of Infinity</em> doesn’t make sense either because it’s the beginning of the infinity series and it shows. Average
-  and aged doesn’t sound too great, but that’s the best way can describe about this game, and only those curious in the
-  origins of the infinity series should give it a shot. </p>
+<em>Never 7</em>, 7 is the only score I’d ever consider giving this game because it’s just so... average, and<em> End
+of Infinity</em> doesn’t make sense either because it’s the beginning of the infinity series and it shows. Average
+and aged doesn’t sound too great, but that’s the best way can describe about this game, and only those curious in the
+origins of the infinity series should give it a shot. </p>
+
 <h2 class="sc-1bwb26k-1 fvCjqJ" id="h114129"><a class="js_header-anchor" id=""></a>Overall - 7/10, Polarization
   +1.5, -1</h2>
 <img alt src="./xpq63kfovfiz2xne4ieu.png"/>

@@ -1,12 +1,18 @@
 ---
 {
-title: "RockmanDash Reviews: Cursed Sight [Visual Novel]",
-tags: ["Rockmandash Reviews", "FuwaReviews", "Sekai Project", "Cursed Sight", "Visual Novels"],
-authors: ['reikaze'],
-published: '2015-11-06T19:30:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash Reviews: Cursed Sight [Visual Novel]",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "FuwaReviews",
+      "Sekai Project",
+      "Cursed Sight",
+      "Visual Novels",
+    ],
+  published: "2015-11-06T19:30:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -37,14 +43,15 @@ oldArticle: true
 <img alt src="./1510496597648403347.png"/>
 
 <img alt src="./1510496597689451155.jpg"/><p class="sc-77igqf-0 bOfvBY">When I first saw this game, I was quite intrigued about it because of how the
-  game looked, how it stood out from the crowd. This may be because I’m not all that familiar with OELVNs, but a good
-  majority of them just don’t look that great, ranging from good to absolutely atrocious. <em>Cursed Sight </em>however,
-  contrary to the name, is an exception to this trend, with the visuals being the highlight of the VN in my opinion.
-  With detailed character art that looks fantastic, a unique and interesting world that distance itself from the crowd
-  with it’s own personality, and a cohesive design that blends everything well to make a great atmosphere, this work
-  looks pretty great. Everything about the visuals work well together to make a nice aesthetic and I really appreciated
-  the attention of detail put into this VN throughout (my favorite touch has to be the changing of the font in specific
-  situations XD).</p>
+game looked, how it stood out from the crowd. This may be because I’m not all that familiar with OELVNs, but a good
+majority of them just don’t look that great, ranging from good to absolutely atrocious. <em>Cursed Sight </em>however,
+contrary to the name, is an exception to this trend, with the visuals being the highlight of the VN in my opinion.
+With detailed character art that looks fantastic, a unique and interesting world that distance itself from the crowd
+with it’s own personality, and a cohesive design that blends everything well to make a great atmosphere, this work
+looks pretty great. Everything about the visuals work well together to make a nice aesthetic and I really appreciated
+the attention of detail put into this VN throughout (my favorite touch has to be the changing of the font in specific
+situations XD).</p>
+
 <p class="sc-77igqf-0 bOfvBY">I do have one complaint though, which you may see as a nitpick: while not 800x600,
   it’s in a 4:3 aspect ratio, which is kinda recredulous to me given the world we live in. It’s 2015, and nearly
   everyone has a widescreen 16:9 monitor, meaning that there’s some serious letter boxing on this game for most people.
@@ -75,12 +82,13 @@ oldArticle: true
   what it was, it could have used a bit more development. This is a VN, after all.</p>
 
 <img alt src="./1510496598400657555.jpg"/><p class="sc-77igqf-0 bOfvBY">The lack of development affects all aspects of the work: It’s the essence of
-  execution. You can have a masterful story to tell, but if you tell it poorly, then it won’t be a great experience. It
-  throws your sense of time completely out of whack, which is made worse given it’s time jump in the story, and it makes
-  events feel illogical, leaving the reader to wonder why an event happened, a big suspension of disbelief breaker.
-  Along with that the choices: while the story is linear throughout a large portion of the game, you have a few
-  selections near the end of the game and the way the story branches feel artificial, splitting up characters for the
-  sake of doing so, and the resulting events feel like they to have little or nothing to do with your decisions. </p>
+execution. You can have a masterful story to tell, but if you tell it poorly, then it won’t be a great experience. It
+throws your sense of time completely out of whack, which is made worse given it’s time jump in the story, and it makes
+events feel illogical, leaving the reader to wonder why an event happened, a big suspension of disbelief breaker.
+Along with that the choices: while the story is linear throughout a large portion of the game, you have a few
+selections near the end of the game and the way the story branches feel artificial, splitting up characters for the
+sake of doing so, and the resulting events feel like they to have little or nothing to do with your decisions. </p>
+
 <p class="sc-77igqf-0 bOfvBY">It’s also rather noticeable because of the slice of life execution, something I
   didn’t care for that much because it lead the writing to be a bit lost. <em>Cursed Sight </em>isn’t really a tight and
   focused story at times as it doesn’t have a real objective for large portions of the story and uses the day to day

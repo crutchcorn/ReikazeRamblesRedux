@@ -1,12 +1,21 @@
 ---
 {
-title: "Rockmandash Reviews: Remember 11: The Age of Infinity [Visual Novel] - ARCHIVE",
-tags: ["rockmandash reviews", "remember", "11", "the age of infinity", "rockmandash12", "tay", "visual novel", "review"],
-authors: ['reikaze'],
-published: '2014-02-21T13:00:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Remember 11: The Age of Infinity [Visual Novel] - ARCHIVE",
+  tags:
+    [
+      "rockmandash reviews",
+      "remember",
+      "11",
+      "the age of infinity",
+      "rockmandash12",
+      "tay",
+      "visual novel",
+      "review",
+    ],
+  published: "2014-02-21T13:00:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -33,9 +42,10 @@ oldArticle: true
   pretty good job at. Is this as good as or better than Ever 17? Let's find out! </p>
 
 <img alt src="./19gegtjoxrxdmjpg.jpg"/><h4 class="sc-1bwb26k-1 fvCjqJ" id="h114393"><a class="js_header-anchor" id=""></a><strong>WARNING: This review will
-  reference the </strong><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-visu-1504908037",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-visu-1504908037" rel="noopener noreferrer" target="_blank"><strong>Ever 17 review</strong></a></span><strong> a lot, so
-  you should Watch/Read that first!</strong></h4>
+reference the </strong><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-visu-1504908037",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-visu-1504908037" rel="noopener noreferrer" target="_blank"><strong>Ever 17 review</strong></a></span><strong> a lot, so
+you should Watch/Read that first!</strong></h4>
 <img alt src="./19gegtjovy0pwpng.png"/>
+
 <p class="sc-77igqf-0 bOfvBY">The plot is this game's strength, and its Achilles heel at the same time. The game's
   structured much more like the Zero Escape games than the other games in the Infinity series, even though this is the
   3rd game in the infinity series. The game takes place in 2 places in 2 different times with 2 main charecters, and

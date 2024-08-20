@@ -1,12 +1,11 @@
 ---
 {
-title: "Ani-Debate Blip",
-tags: [],
-authors: ['reikaze'],
-published: '2014-09-08T01:45:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Ani-Debate Blip",
+  tags: [],
+  published: "2014-09-08T01:45:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

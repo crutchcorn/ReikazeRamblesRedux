@@ -1,12 +1,11 @@
 ---
 {
-title: "News from AX - Sekai Project Panel Drops a Bombshell",
-tags: ["AX 2016", "Sekai Project", "Visual Novels"],
-authors: ['reikaze'],
-published: '2016-07-06T18:52:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "News from AX - Sekai Project Panel Drops a Bombshell",
+  tags: ["AX 2016", "Sekai Project", "Visual Novels"],
+  published: "2016-07-06T18:52:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -77,9 +76,10 @@ oldArticle: true
   ever get a localization, which they said that they don’t know, only to announce it seconds later. </p>
 
 <img alt src="./eahettede94t5kbdcwyo.jpg"/><p class="sc-77igqf-0 bOfvBY">They then had technical difficulties, to the point that they had dovac pull up
-  the last few trailers on YouTube to stream for us (after Boku to Koisuru Ponkotsu Akuma, they announced SakuSaku)
-  which combined with the horrible con internet and them <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://imgur.com/T9E18UM",{"metric25":1}]]' href="http://imgur.com/T9E18UM" rel="noopener noreferrer" target="_blank">trying to stream on their iPad</a></span>
-  led to freezes being inevitable. </p>
+the last few trailers on YouTube to stream for us (after Boku to Koisuru Ponkotsu Akuma, they announced SakuSaku)
+which combined with the horrible con internet and them <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://imgur.com/T9E18UM",{"metric25":1}]]' href="http://imgur.com/T9E18UM" rel="noopener noreferrer" target="_blank">trying to stream on their iPad</a></span>
+led to freezes being inevitable. </p>
+
 <p class="sc-77igqf-0 bOfvBY">They even joked about the fact that if it gets any worse, they’ll have to do it in
   interpretative dance, which is kinda a good way to see panel in a nutshell. This will be remembered for the bombshell
   of Baldr Sky (<em>Which is awesome!!)</em>, but outside of that announcement, for those in the audience or watching

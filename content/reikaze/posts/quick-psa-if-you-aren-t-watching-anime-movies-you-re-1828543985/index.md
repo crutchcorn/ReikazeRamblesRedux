@@ -1,12 +1,11 @@
 ---
 {
-title: "",
-tags: [],
-authors: ['reikaze'],
-published: '2018-08-23T03:29:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "",
+  tags: [],
+  published: "2018-08-23T03:29:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

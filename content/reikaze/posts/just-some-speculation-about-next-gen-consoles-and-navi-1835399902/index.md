@@ -1,12 +1,22 @@
 ---
 {
-title: "Just Some Speculation about Next Gen Consoles and Navi",
-tags: ["E3 2019", "E3", "AMD", "Navi", "Project Scarlett", "PS5", "Next Gen", "Next Gen Playstation", "Rockmandash Rambles"],
-authors: ['reikaze'],
-published: '2019-06-11T02:32:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Just Some Speculation about Next Gen Consoles and Navi",
+  tags:
+    [
+      "E3 2019",
+      "E3",
+      "AMD",
+      "Navi",
+      "Project Scarlett",
+      "PS5",
+      "Next Gen",
+      "Next Gen Playstation",
+      "Rockmandash Rambles",
+    ],
+  published: "2019-06-11T02:32:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -49,11 +59,12 @@ oldArticle: true
   for CPU and GPU upgrades. Why? Thank stagnant pricing.</p>
 
 <img alt src="./mbklmvkm2cix31feyvtn.jpg"/><p class="sc-77igqf-0 bOfvBY"> Ever since Polaris (RX 480/RX 470) and Nvidia’s Pascal (GTX 10XX series) came
-  out, we’ve seen basically stagnant price to performance, and the 5700 cards still didn’t change that. Priced basically
-  just like how Vega was at launch and priced just like RTX, Navi changes nothing for price to performance even though
-  every generation that’s basically the bare minimum you’d expect from a new GPU. For me, tech should aim to do the
-  impossible, or making amazing experiences available to as many people as possible. These past generations fly against
-  this philosophy, which is a real shame given how much the generations before that have worked to do that. </p>
+out, we’ve seen basically stagnant price to performance, and the 5700 cards still didn’t change that. Priced basically
+just like how Vega was at launch and priced just like RTX, Navi changes nothing for price to performance even though
+every generation that’s basically the bare minimum you’d expect from a new GPU. For me, tech should aim to do the
+impossible, or making amazing experiences available to as many people as possible. These past generations fly against
+this philosophy, which is a real shame given how much the generations before that have worked to do that. </p>
+
 <p class="sc-77igqf-0 bOfvBY">Even with next gen looming, price to performance is stagnant. We need more
   performance to run higher resolutions and higher frame rates, to reach the lofty goals that MS and Sony are aiming
   for. With the 5700, we’re still not coming close, and at a much higher price. We’re about what, double GPU perf of an

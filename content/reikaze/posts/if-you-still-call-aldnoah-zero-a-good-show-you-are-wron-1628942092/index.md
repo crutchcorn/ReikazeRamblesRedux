@@ -1,12 +1,11 @@
 ---
 {
-title: "If you still call Aldnoah.Zero a good show you are wrong.",
-tags: ["Aldnoah.Zero", "TAY-CLASSIC", "THAT WAS DUMB"],
-authors: ['reikaze'],
-published: '2014-08-30T21:08:16-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "If you still call Aldnoah.Zero a good show you are wrong.",
+  tags: ["Aldnoah.Zero", "TAY-CLASSIC", "THAT WAS DUMB"],
+  published: "2014-08-30T21:08:16-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

@@ -1,12 +1,11 @@
 ---
 {
-title: "RockmanDash Reviews: Root Double: Before Crime * After Days [Visual Novel]",
-tags: ["Rockmandash Reviews", "FuwaReviews", "Visual Novel", "Root Double"],
-authors: ['reikaze'],
-published: '2016-06-06T19:19:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash Reviews: Root Double: Before Crime * After Days [Visual Novel]",
+  tags: ["Rockmandash Reviews", "FuwaReviews", "Visual Novel", "Root Double"],
+  published: "2016-06-06T19:19:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -34,12 +33,13 @@ oldArticle: true
 <img alt src="./vq8lodjilgrio7ixssrs.png"/>
 
 <img alt src="./je7y9lxsd6i3dunezkyk.jpg"/><p class="sc-77igqf-0 bOfvBY">Let’s get this out of the way: <em>Root Double </em>is a well-written work and
-  definitely one of the best VNs available in the west (or on Steam), but this is almost to be expected—something you
-  could have figured out if you looked into the staff of this work. With a great premise, interesting twists, well
-  developed characters, and a phenomenally executed final route, this is definitely a Visual Novel that has a story that
-  shouldn’t be missed, but before you start playing this game, you should know this fact about it: <em>Root Double </em>is
-  a work that actively prioritizes the writing, but is fixated on its goal of making a great story to the point that the
-  decisions it makes can hinder one’s experience of the work.<br/></p>
+definitely one of the best VNs available in the west (or on Steam), but this is almost to be expected—something you
+could have figured out if you looked into the staff of this work. With a great premise, interesting twists, well
+developed characters, and a phenomenally executed final route, this is definitely a Visual Novel that has a story that
+shouldn’t be missed, but before you start playing this game, you should know this fact about it: <em>Root Double </em>is
+a work that actively prioritizes the writing, but is fixated on its goal of making a great story to the point that the
+decisions it makes can hinder one’s experience of the work.<br/></p>
+
 <p class="sc-77igqf-0 bOfvBY">To understand why this is the case, we need to understand the premise of story
   itself and how it is executed, which is tricky given how much the plot of <em>Root Double</em> can diverge from its
   original premise. <em>Root Double</em> has a story that drastically changes throughout your course with it, with many
@@ -72,12 +72,13 @@ oldArticle: true
   a great example of a work in this genre. </p>
 
 <img alt src="./xssgcfoaifkhc2xmucv0.jpg"/><p class="sc-77igqf-0 bOfvBY">For those of you who haven’t experienced the staples of Sci-Fi VNs through the
-  <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798?rev=1465255392639",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798?rev=1465255392639" rel="noopener noreferrer" target="_blank"><em>Infinity</em> and <em>Zero Escape</em></a></span> series, what
-  you can expect from <em>Root Double </em>is a story primarily based on mystery and tension, handling them with a
-  specific style that is distinct in comparison to other VNs and mediums. It’s a thrilling and engaging style of
-  writing, with an emphasis on aspects relating to the story and those attributes I mentioned earlier, and it utilizes
-  the medium to its fullest potential, implementing perspective in a way that is near impossible to achieve in other
-  mediums.<br/></p>
+<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798?rev=1465255392639",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798?rev=1465255392639" rel="noopener noreferrer" target="_blank"><em>Infinity</em> and <em>Zero Escape</em></a></span> series, what
+you can expect from <em>Root Double </em>is a story primarily based on mystery and tension, handling them with a
+specific style that is distinct in comparison to other VNs and mediums. It’s a thrilling and engaging style of
+writing, with an emphasis on aspects relating to the story and those attributes I mentioned earlier, and it utilizes
+the medium to its fullest potential, implementing perspective in a way that is near impossible to achieve in other
+mediums.<br/></p>
+
 <p class="sc-77igqf-0 bOfvBY"><br/>For those of you who have played these games, you’re going to be right at home
   with <em>Root Double</em>, as they have a very similar style, given the people who made them and the premise itself
   (like the return of an evil pharmaceutical company , lol), but <em>Zero Escape</em> diehards may be a bit disappointed
@@ -97,18 +98,19 @@ oldArticle: true
   experience in general is pretty awesome, and I really had a great time with the VN for the most part. </p>
 
 <img alt src="./t7evm5lwa2rjb6jzd3cr.jpg"/><p class="sc-77igqf-0 bOfvBY">That being said, the style of the story and decisions regarding the experience
-  that was made in <em>Root Double</em> adds some quirks to the game, some being positive, but many of them being a
-  negative. This game can feel like it’s info-dumping at times, the structure occasionally makes no sense, it can be
-  thematically inconsistent, and worst of all, this game has an Achilles heel, as it struggles to keep the suspension of
-  disbelief in tact. The source of these issues? The decision to emphasize the story over the experience. This game is
-  weird in the fact that many of the criticisms one may have during their playthrough of <em>Root Double </em>often
-  contribute to some payoff later, which makes for a consistent story with an inconsistent experience—one that can take
-  you out of the game and is just one example of what this game does. Another is in the second route (√B), while mostly
-  a slice of life route, but it flip-flops between two different times, one past and one present, while the one in the
-  past slowly approaches the time in the present. In the context of the experience, the best way to do this would be to
-  be a linear chronological experience that is consistent, but they went back and forth because they wanted to execute a
-  specific plot twist. This twist was absolutely fantastic, but they could have executed it better in a way that did not
-  compromise the experience, and as is it was not worth the expense to the experience.</p>
+that was made in <em>Root Double</em> adds some quirks to the game, some being positive, but many of them being a
+negative. This game can feel like it’s info-dumping at times, the structure occasionally makes no sense, it can be
+thematically inconsistent, and worst of all, this game has an Achilles heel, as it struggles to keep the suspension of
+disbelief in tact. The source of these issues? The decision to emphasize the story over the experience. This game is
+weird in the fact that many of the criticisms one may have during their playthrough of <em>Root Double </em>often
+contribute to some payoff later, which makes for a consistent story with an inconsistent experience—one that can take
+you out of the game and is just one example of what this game does. Another is in the second route (√B), while mostly
+a slice of life route, but it flip-flops between two different times, one past and one present, while the one in the
+past slowly approaches the time in the present. In the context of the experience, the best way to do this would be to
+be a linear chronological experience that is consistent, but they went back and forth because they wanted to execute a
+specific plot twist. This twist was absolutely fantastic, but they could have executed it better in a way that did not
+compromise the experience, and as is it was not worth the expense to the experience.</p>
+
 <p class="sc-77igqf-0 bOfvBY"><br/>The other aspects listed are just annoying, like literal exposition dumps in the
   form of class lectures on topics that pretty much everyone knows about, instead of the aspects that aren’t common
   knowledge or something they made up. I don’t need an explanation of what nuclear radiation is, nor does anyone else in
@@ -131,28 +133,29 @@ oldArticle: true
 <img alt src="./tus88qzgslefphmoipea.png"/>
 
 <img alt src="./vrejuzf8btkxdzalemys.jpg"/><p class="sc-77igqf-0 bOfvBY"> While most Visual Novels have very limited gameplay in the form of selecting
-  options, <em>Root Double</em> does a bit more than through the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://www.siliconera.com/2016/04/28/guide-story-emotion-not-choice-root-double-crime-days-xtend-edition/",{"metric25":1}]]' href="http://www.siliconera.com/2016/04/28/guide-story-emotion-not-choice-root-double-crime-days-xtend-edition/" rel="noopener noreferrer" target="_blank">Senses Sympathy System</a></span>, which is (as mentioned previously) a
-  form of gameplay that integrates the themes of trust into your decision making process. On the top-right corner, there
-  exists a little hexagon for this system whenever you need to make a choice, and whenever you use it, you need to dial
-  a sense value on a slider based on how much you trust each character and how much emotion and awareness you think the
-  characters need to have. While doing this, you also need to consider the importance of the decision, which is
-  indicated by the color of the lines, with blue being not that important, yellow being a caution and red being a life
-  or death situation. That being said, while it’s well-integrated into the game, looking nice and adding to the story,
-  as an aspect of gameplay, it is essentially a glorified and overly-convoluted choice system that is more frustrating
-  than enjoyable. This is due to some flaws that are fundamental to the nature of the system; attributes that make it
-  unclear what you’re doing. You are just picking a value from min to max, you never have any idea on what your value
-  does, and it’s flat-out inconsistent at times, combining senses, emotions, trust, et cetera, into one system in a way
-  that is impossible to know what any of it does. This makes the decision-making process flat-out frustrating at times,
-  and while this system seems cool from an outside perspective or a story perspective, it’s another example of story
-  over experience, a frustrating system that <em>Root Double</em> probably would have been better without (and kinda is,
-  given that you can go through regular decisions after you finish the true routes of the respective route you want to
-  go through). </p>
+options, <em>Root Double</em> does a bit more than through the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://www.siliconera.com/2016/04/28/guide-story-emotion-not-choice-root-double-crime-days-xtend-edition/",{"metric25":1}]]' href="http://www.siliconera.com/2016/04/28/guide-story-emotion-not-choice-root-double-crime-days-xtend-edition/" rel="noopener noreferrer" target="_blank">Senses Sympathy System</a></span>, which is (as mentioned previously) a
+form of gameplay that integrates the themes of trust into your decision making process. On the top-right corner, there
+exists a little hexagon for this system whenever you need to make a choice, and whenever you use it, you need to dial
+a sense value on a slider based on how much you trust each character and how much emotion and awareness you think the
+characters need to have. While doing this, you also need to consider the importance of the decision, which is
+indicated by the color of the lines, with blue being not that important, yellow being a caution and red being a life
+or death situation. That being said, while it’s well-integrated into the game, looking nice and adding to the story,
+as an aspect of gameplay, it is essentially a glorified and overly-convoluted choice system that is more frustrating
+than enjoyable. This is due to some flaws that are fundamental to the nature of the system; attributes that make it
+unclear what you’re doing. You are just picking a value from min to max, you never have any idea on what your value
+does, and it’s flat-out inconsistent at times, combining senses, emotions, trust, et cetera, into one system in a way
+that is impossible to know what any of it does. This makes the decision-making process flat-out frustrating at times,
+and while this system seems cool from an outside perspective or a story perspective, it’s another example of story
+over experience, a frustrating system that <em>Root Double</em> probably would have been better without (and kinda is,
+given that you can go through regular decisions after you finish the true routes of the respective route you want to
+go through). </p>
 
 <img alt src="./sszceeh1f7jyf3vph2ak.jpg"/><p class="sc-77igqf-0 bOfvBY">That being said, this is a Visual Novel, and the selection mechanism isn’t the
-  only the only important aspect of the gameplay, as route structure is just as important to the game as any other
-  attributes that are considered gameplay. Like Nakazawa’s previous works (<em>Ever 17, I/O</em>), <em>Root Double</em>
-  doesn’t particularly go with a typical VN structure that you are used to, but this is a bit more traditional than
-  those. This game is broken up into five separate routes,√A through √E, in a linear fashion. For your information,<br/>
+only the only important aspect of the gameplay, as route structure is just as important to the game as any other
+attributes that are considered gameplay. Like Nakazawa’s previous works (<em>Ever 17, I/O</em>), <em>Root Double</em>
+doesn’t particularly go with a typical VN structure that you are used to, but this is a bit more traditional than
+those. This game is broken up into five separate routes,√A through √E, in a linear fashion. For your information,<br/>
+
 </p>
 
 <ul class="sc-1lmbno3-0 dpuHif" data-style="Bullet" data-type="List">
@@ -171,26 +174,27 @@ oldArticle: true
 </ul>
 
 <img alt src="./i5i8vkv4qx8p3shlvxnq.jpg"/><p class="sc-77igqf-0 bOfvBY">They’re all solid routes and the way they interact together structurally is
-  solid, but there’s a weird quirk with them: You really should be going from √A to √E linearly, but the game gives you
-  an option to start from √B, which I highly recommend you not to do. Also, each routes have their own bad ends that are
-  independent from the other routes and the decisions you make in them. The bad ends are some of the best I’ve seen, so
-  I highly recommend you check them out. Also, the game has some nice touches, like the fact that the game automatically
-  quicksaves which makes the experience that much more hassle free and it can tell you how to get back to where you’re
-  supposed to similar to Taiga Dojo from <em>Fate/stay night,</em> so even though the game can seem to be frustrating
-  due to the weird choice system. the gameplay experience is not too bad overall.<br/></p>
+solid, but there’s a weird quirk with them: You really should be going from √A to √E linearly, but the game gives you
+an option to start from √B, which I highly recommend you not to do. Also, each routes have their own bad ends that are
+independent from the other routes and the decisions you make in them. The bad ends are some of the best I’ve seen, so
+I highly recommend you check them out. Also, the game has some nice touches, like the fact that the game automatically
+quicksaves which makes the experience that much more hassle free and it can tell you how to get back to where you’re
+supposed to similar to Taiga Dojo from <em>Fate/stay night,</em> so even though the game can seem to be frustrating
+due to the weird choice system. the gameplay experience is not too bad overall.<br/></p>
 
 <hr class="gcp5ez-0 hKlTiw"/>
 <img alt src="./xfe1xq0xkdw8x2jrilsk.png"/>
 
 <img alt src="./ocjlfnt2xoceji3sudfc.jpg"/><p class="sc-77igqf-0 bOfvBY"><em>Root Double</em>, as a work that focuses solely on the story, has a
-  presentation that serves to present the story to you; nothing more, nothing less. At no moment in time can you point
-  to <em>Root Double </em>and say that it looks particularly bad, but I’d be hard-pressed to say that it was overly
-  impressive, either. (There’s a few scenes that come to mind, of course). In general, the issue with this game is that
-  it’s not all that inspired when it comes to visuals, serving up a nice, but uninspired, anime style. Given that<em>
-    Root Double</em> was made in 2012, the Visuals some of the sharpest and cleanest out there because it’s much more
-  modern than most VNs, but if you’ve played a modern Sci-Fi VN or seen a Sci-Fi anime in the past few years, you
-  probably have a good idea on how this looks. <em>Root Double </em>represents the atmosphere and setting well, but the
-  visuals aren’t a standout feature of the game and only serves to do its job for the most part.</p>
+presentation that serves to present the story to you; nothing more, nothing less. At no moment in time can you point
+to <em>Root Double </em>and say that it looks particularly bad, but I’d be hard-pressed to say that it was overly
+impressive, either. (There’s a few scenes that come to mind, of course). In general, the issue with this game is that
+it’s not all that inspired when it comes to visuals, serving up a nice, but uninspired, anime style. Given that<em>
+Root Double</em> was made in 2012, the Visuals some of the sharpest and cleanest out there because it’s much more
+modern than most VNs, but if you’ve played a modern Sci-Fi VN or seen a Sci-Fi anime in the past few years, you
+probably have a good idea on how this looks. <em>Root Double </em>represents the atmosphere and setting well, but the
+visuals aren’t a standout feature of the game and only serves to do its job for the most part.</p>
+
 <div class="ooo3c9-0 PpIMM has-video media-large embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/PLN8CWHevq2r0kWT58QSkSni6ujLN2HBWK" width="560"></iframe><span class="js_recommend" data-chomp-id="PLN8CWHevq2r0kWT58QSkSni6ujLN2HBWK" data-recommend-id="youtube://PLN8CWHevq2r0kWT58QSkSni6ujLN2HBWK" data-recommended="false" id="youtube-PLN8CWHevq2r0kWT58QSkSni6ujLN2HBWK"></span></span></div><p class="sc-77igqf-0 bOfvBY">I’d say the sound of this game follows the same philosophy as well, managing to do its job,
   but only to enhance the story. While the music is pretty solid all around, never sounding like it’s out of place or
   irritating (like the visuals), most of the OST is slice of life or atmospheric, which doesn’t sound that particularly

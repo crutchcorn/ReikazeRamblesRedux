@@ -1,12 +1,23 @@
 ---
 {
-title: "Kairosoft Stole All My Free Time Again with Anime Studio Story",
-tags: ["Rockmandash Rambles", "Rockmandash Reviews", "Kairosoft", "Game Dev Story", "Anime Studio Story", "Tayclassic", "AniTAY", "Simulation", "Mobile", "Android"],
-authors: ['reikaze'],
-published: '2015-02-12T21:30:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Kairosoft Stole All My Free Time Again with Anime Studio Story",
+  tags:
+    [
+      "Rockmandash Rambles",
+      "Rockmandash Reviews",
+      "Kairosoft",
+      "Game Dev Story",
+      "Anime Studio Story",
+      "Tayclassic",
+      "AniTAY",
+      "Simulation",
+      "Mobile",
+      "Android",
+    ],
+  published: "2015-02-12T21:30:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -59,39 +70,39 @@ oldArticle: true
   should do well, being perfect for the mobile platform.</p>
 
 <img alt src="./oztv7qbnibkkiape3zsl.jpg"/><p class="sc-77igqf-0 bOfvBY">They've also really nailed the whole easy to learn, difficult to master thing
-  about making these, which makes it that much more enjoyable. From what I know about the process of making anime (which
-  is pretty limited, but it counts for something, right?), I feel like they've captured making anime well while
-  simplifying it for the sake of the game: you pick a station (which will determine who will see it, starting off from a
-  web service and going up), you decide between a setting and two themes, (in which the combination choices are near
-  endless and influence the quality of the show a lot) and the Director, who starts the show off. Once that's done, your
-  staff will make the anime, as represented by 4 values: Writing, Characters, Visuals and Sound, which will all
-  significantly influence the quality of the show. Also, while you are doing that, you need to keep track of the stamina
-  of your employees, create new main characters for your studio (which characters influence the quality of the show and
-  how well it does), rent facilities that will improve the production of the show (which is so much better than the item
-  system of Game Dev Story IMO, but makes it a bit easier), keep track of your fans, and events that are happening
-  around you that will influence the production. While there's no server crash like in <em>Game Dev Story</em>, the
-  process is relatively similar to that game, and it works really well as it's simple and fun, but complex enough that
-  you can mess hours in to make the perfect shows. </p>
+about making these, which makes it that much more enjoyable. From what I know about the process of making anime (which
+is pretty limited, but it counts for something, right?), I feel like they've captured making anime well while
+simplifying it for the sake of the game: you pick a station (which will determine who will see it, starting off from a
+web service and going up), you decide between a setting and two themes, (in which the combination choices are near
+endless and influence the quality of the show a lot) and the Director, who starts the show off. Once that's done, your
+staff will make the anime, as represented by 4 values: Writing, Characters, Visuals and Sound, which will all
+significantly influence the quality of the show. Also, while you are doing that, you need to keep track of the stamina
+of your employees, create new main characters for your studio (which characters influence the quality of the show and
+how well it does), rent facilities that will improve the production of the show (which is so much better than the item
+system of Game Dev Story IMO, but makes it a bit easier), keep track of your fans, and events that are happening
+around you that will influence the production. While there's no server crash like in <em>Game Dev Story</em>, the
+process is relatively similar to that game, and it works really well as it's simple and fun, but complex enough that
+you can mess hours in to make the perfect shows. </p>
 
 <img alt src="./ll5pt1lxzvxrc8vpgbjq.png"/><p class="sc-77igqf-0 bOfvBY">I think that the reason why I like this and <em>Game Dev Story</em> a lot more
-  than with the other games from Kairosoft was the difficulty curve that is just nailed down so well here and was
-  fundamentally different in the others because what they were simulating was pretty different. <em>Anime Studio
-    Story</em> and <em>Game Dev Story </em>are both about making stuff, and you have the versatility to make whatever
-  fake thing you want while keeping up with a difficulty curve: with the others, you were a lot more limited in what you
-  could do and it felt bogged down. This game allows your creativity to go free (with restrictions of course, as you
-  aren't really making an anime, and you're limited to the tools the game offers) and I really enjoy it. It's the
-  perfect little mobile simulation game, and it's full of little things that it does right that allows you to have so
-  much fun with it, enough fun that makes you overlook the game. It has the charm with the 16 bit visuals and sound
-  (plus, if you don't like the music, you can mute it and play your own in the background) to keep you smiling and
-  coming. it's a game that does everything I want it to do right, and little more. The rest are niceties that just make
-  the experience better.</p>
+than with the other games from Kairosoft was the difficulty curve that is just nailed down so well here and was
+fundamentally different in the others because what they were simulating was pretty different. <em>Anime Studio
+Story</em> and <em>Game Dev Story </em>are both about making stuff, and you have the versatility to make whatever
+fake thing you want while keeping up with a difficulty curve: with the others, you were a lot more limited in what you
+could do and it felt bogged down. This game allows your creativity to go free (with restrictions of course, as you
+aren't really making an anime, and you're limited to the tools the game offers) and I really enjoy it. It's the
+perfect little mobile simulation game, and it's full of little things that it does right that allows you to have so
+much fun with it, enough fun that makes you overlook the game. It has the charm with the 16 bit visuals and sound
+(plus, if you don't like the music, you can mute it and play your own in the background) to keep you smiling and
+coming. it's a game that does everything I want it to do right, and little more. The rest are niceties that just make
+the experience better.</p>
 
 <img alt src="./uthxvwgug6wzxktkkndq.png"/><p class="sc-77igqf-0 bOfvBY">To sum this game up, it's <em>Game Dev Story </em>with anime. That's about it,
-  and <strong>I LOVE IT FOR THAT</strong>. It's just as entertaining, it's just as addicting, it's just as charming,
-  it's everything I loved about <em>Game Dev Story </em>but with anime, which is enough to really change the whole ball
-  game again and keep it interesting. It knows that if it if it ain't broke, don't fix it, and it's one of my favorite
-  games on mobile because of it. If you ever felt like playing a simulator game of an Anime Studio, get this right now,
-  and while you're at it, get <em>Game Dev Story </em>if you've never played it before.</p>
+and <strong>I LOVE IT FOR THAT</strong>. It's just as entertaining, it's just as addicting, it's just as charming,
+it's everything I loved about <em>Game Dev Story </em>but with anime, which is enough to really change the whole ball
+game again and keep it interesting. It knows that if it if it ain't broke, don't fix it, and it's one of my favorite
+games on mobile because of it. If you ever felt like playing a simulator game of an Anime Studio, get this right now,
+and while you're at it, get <em>Game Dev Story </em>if you've never played it before.</p>
 
 <hr class="gcp5ez-0 hKlTiw"/><p class="sc-77igqf-0 bOfvBY"><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/",{"metric25":1}]]' href="http://rockmandash12.kinja.com/" rel="noopener noreferrer" target="_blank"><em>Rockmandash </em></a></span><em>is
   a reader on </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://tay.kotaku.com/",{"metric25":1}]]' href="http://tay.kotaku.com/"><em>TAY</em></a></span><em> that finds himself writing a lot

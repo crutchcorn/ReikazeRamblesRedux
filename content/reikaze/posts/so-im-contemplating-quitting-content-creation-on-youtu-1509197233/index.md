@@ -1,12 +1,21 @@
 ---
 {
-title: "Thinking of quitting YouTube....",
-tags: ["Rockmandash12", "Content ID", "TayClassic", "Rant", "Angry", "Quit", "YouTube", "sadness"],
-authors: ['reikaze'],
-published: '2014-01-26T03:22:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Thinking of quitting YouTube....",
+  tags:
+    [
+      "Rockmandash12",
+      "Content ID",
+      "TayClassic",
+      "Rant",
+      "Angry",
+      "Quit",
+      "YouTube",
+      "sadness",
+    ],
+  published: "2014-01-26T03:22:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

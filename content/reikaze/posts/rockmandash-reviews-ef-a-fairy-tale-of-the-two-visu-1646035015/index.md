@@ -1,12 +1,22 @@
 ---
 {
-title: "Rockmandash Reviews: ef - a fairy tale of the two [Visual Novel & Anime]",
-tags: ["Rockmandash Reviews", "Ani-TAY", "Tay Classic", "ef", "A Fairy Tale of the Two", "Tale of Memories", "Tale of Melodies", "Visual Novel", "Anime"],
-authors: ['reikaze'],
-published: '2014-10-23T23:20:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: ef - a fairy tale of the two [Visual Novel & Anime]",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "Ani-TAY",
+      "Tay Classic",
+      "ef",
+      "A Fairy Tale of the Two",
+      "Tale of Memories",
+      "Tale of Melodies",
+      "Visual Novel",
+      "Anime",
+    ],
+  published: "2014-10-23T23:20:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -45,14 +55,15 @@ oldArticle: true
   topics, but you may run into an important spoiler, or some light spoilers.</strong></p>
 
 <img alt src="./1387775008365488817.jpg"/><p class="sc-77igqf-0 bOfvBY"><em>Ef - a fairy tale of the two </em>is actually a compilation of 2 separate VN’s: <em>ef
-  - the first tale &amp; ef - the latter tale</em>, which are comprised of 7 chapters in total. It’s hard to give a plot
-  summary really because every chapter has their own separate story and telling you all of that would spoil the game and
-  only give a partial look at the game, but I’ll try my best to give you the gist of it. It’s really split into two
-  separate stories that converge: Prologue, and 5-7 is one story surrounding the tragic relationship between Amamiya
-  Yuuko, a mysterious girl dressed like a nun, and Himura Yuu, a mysterious gentleman who is somehow attached to the
-  church where Yuuko first appears while 1-4 are romances focused on high schoolers in the town, each kinda relating to
-  each other. I’m going to talk about them in the order they are told for the sake of convenience, then do an overview
-  of my thoughts.</p>
+
+- the first tale &amp; ef - the latter tale</em>, which are comprised of 7 chapters in total. It’s hard to give a plot
+summary really because every chapter has their own separate story and telling you all of that would spoil the game and
+only give a partial look at the game, but I’ll try my best to give you the gist of it. It’s really split into two
+separate stories that converge: Prologue, and 5-7 is one story surrounding the tragic relationship between Amamiya
+Yuuko, a mysterious girl dressed like a nun, and Himura Yuu, a mysterious gentleman who is somehow attached to the
+church where Yuuko first appears while 1-4 are romances focused on high schoolers in the town, each kinda relating to
+each other. I’m going to talk about them in the order they are told for the sake of convenience, then do an overview
+of my thoughts.</p>
 <p class="sc-77igqf-0 bOfvBY"><em>Ef - the first tale</em> is the first half of the game (Prologue, Ch1 &amp;
   Ch2), and it’s pretty much nothing but a fairy tale. While it has a nice romance that shows hints of something deeper
   happening, it’s just that... a nice romance. It’s a beautiful story, but <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://tay.kotaku.com/dexs-review-the-princess-and-the-pilot-1530878039",{"metric25":1}]]' href="http://tay.kotaku.com/dexs-review-the-princess-and-the-pilot-1530878039">it’s a type of</a></span><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://tay.kotaku.com/the-garden-of-words-the-ani-tay-review-1524606376",{"metric25":1}]]' href="http://tay.kotaku.com/the-garden-of-words-the-ani-tay-review-1524606376"> story that</a></span> <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://tay.kotaku.com/ani-tay-golden-time-review-and-discussion-1556588276",{"metric25":1}]]' href="http://tay.kotaku.com/ani-tay-golden-time-review-and-discussion-1556588276">we’ve seen before</a></span>. It
@@ -63,8 +74,9 @@ oldArticle: true
   really memorable, and it could have done better.</p>
 
 <img alt src="./1387775008449076913.png"/><p class="sc-77igqf-0 bOfvBY">If <em>ef - the first tale</em> was just a simple fairy tale, <em>ef - the latter tale
-  (Ch3-7) </em>steps that up a notch but stumbles: it’s better written and has a brilliant subversion... but it also has
-  issues that inhibit the whole story.</p>
+(Ch3-7) </em>steps that up a notch but stumbles: it’s better written and has a brilliant subversion... but it also has
+issues that inhibit the whole story.</p>
+
 <p class="sc-77igqf-0 bOfvBY"><em>Ef - the latter tale</em> starts strong with Chapter 3, which is a beautiful
   tale of memories and troubled relationships. I don’t want to discuss the plot too much because that’s spoiler
   territory, but the situation that the writers put in place is very interesting, and the writing in general is improved
@@ -82,12 +94,13 @@ oldArticle: true
   chapters feel pointless because of how boring they are in comparison.</p>
 
 <img alt src="./1387775008649652657.png"/><p class="sc-77igqf-0 bOfvBY">If the other chapters were fairy tales, chapter 5 and 6 was reality coming out of nowhere
-  and running you over. The bleak and morbid view on reality that it shows due to the horrible events that occur is
-  shocking, engaging, and a genuine surprise, given how generic some of the chapters were. I generally state that shows
-  that try to to be dark usually aren’t, as most edgy shows don’t have anything to back up the edgy tone
-  thematically.<em> Ef </em>is the opposite of that; it gives off a lighthearted vibe, but it has dark and bleak themes
-  that whack you when you least expect it. The way it’s issues is executed gloriously.. but bleakly, making it something
-  that blew my mind while screaming how horrible it was.</p>
+and running you over. The bleak and morbid view on reality that it shows due to the horrible events that occur is
+shocking, engaging, and a genuine surprise, given how generic some of the chapters were. I generally state that shows
+that try to to be dark usually aren’t, as most edgy shows don’t have anything to back up the edgy tone
+thematically.<em> Ef </em>is the opposite of that; it gives off a lighthearted vibe, but it has dark and bleak themes
+that whack you when you least expect it. The way it’s issues is executed gloriously.. but bleakly, making it something
+that blew my mind while screaming how horrible it was.</p>
+
 <p class="sc-77igqf-0 bOfvBY"> The way the story elements was executed and flowed, however... not so great. It has
   good character interactions and writing that is actually entertaining in comparison to the other chapters, but it’s
   <em>ef</em>, and it wouldn’t be <em>ef</em> without writing issues. The style of storytelling they went with in was
@@ -104,9 +117,10 @@ oldArticle: true
 <img alt src="./1387775008859085745.jpg"/>
 
 <img alt src="./1387775008792652721.png"/><p class="sc-77igqf-0 bOfvBY"><em>Ef - a fairy tale of the two</em> is interesting to talk about when it comes to the
-  writing. It’s solid overall, and absolutely fantastic at points, but it always shot itself in the foot. From the
-  generic-ness of the story, to something like flow that gets in the way... it has these tragic flaws that keep it from
-  being so much more.</p>
+writing. It’s solid overall, and absolutely fantastic at points, but it always shot itself in the foot. From the
+generic-ness of the story, to something like flow that gets in the way... it has these tragic flaws that keep it from
+being so much more.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h106631"><a class="js_header-anchor" id=""></a>Writing - 7.5/10</h4>
 <hr class="gcp5ez-0 hKlTiw"/>
 <img alt src="./1387775008933252785.png"/>
@@ -124,14 +138,15 @@ oldArticle: true
   no anime, but it’s the little things like this that count and I really appreciate it.</p>
 
 <img alt src="./1387775009128287153.jpg"/><p class="sc-77igqf-0 bOfvBY">Really, I cannot state this enough: <em>ef - a fairy tale of the two</em> has
-  great art, with all the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://tvtropes.org/pmwiki/pmwiki.php/Main/SceneryPorn",{"metric25":1}]]' href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SceneryPorn" rel="noopener noreferrer" target="_blank">Scenery Porn</a></span> that you’d expect from a work
-  associated with Makoto Shinkai. The character art is just as great too; while they give off the typical anime look,
-  they look great, and they fit in extremely well with the world around them. It’s a VN that’s full of really great art,
-  and everything is pleasing to the eye. The best word that can describe the visuals of this game (and the whole work as
-  a whole) is beautiful... it’s seriously beautiful. There is one notable thing that isn’t really a positive: it’s an
-  eroge, so <strong>CUE THE OBLIGITORY EROGE WARNING HERE</strong>, but you can turn it on and off so it’s not a
-  deterrent from playing. When it skips an H-scene, the game give a description of what happens, so you aren’t missing
-  anything, and I wish more games had that.</p>
+great art, with all the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://tvtropes.org/pmwiki/pmwiki.php/Main/SceneryPorn",{"metric25":1}]]' href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SceneryPorn" rel="noopener noreferrer" target="_blank">Scenery Porn</a></span> that you’d expect from a work
+associated with Makoto Shinkai. The character art is just as great too; while they give off the typical anime look,
+they look great, and they fit in extremely well with the world around them. It’s a VN that’s full of really great art,
+and everything is pleasing to the eye. The best word that can describe the visuals of this game (and the whole work as
+a whole) is beautiful... it’s seriously beautiful. There is one notable thing that isn’t really a positive: it’s an
+eroge, so <strong>CUE THE OBLIGITORY EROGE WARNING HERE</strong>, but you can turn it on and off so it’s not a
+deterrent from playing. When it skips an H-scene, the game give a description of what happens, so you aren’t missing
+anything, and I wish more games had that.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h106632"><a class="js_header-anchor" id=""></a><em>Visuals - 10/10</em></h4>
 <hr class="gcp5ez-0 hKlTiw"/>
 <img alt src="./1387775009410288817.png"/>
@@ -184,11 +199,12 @@ oldArticle: true
   tension because the light hearted tone counteracts that.<br/></p>
 
 <img alt src="./1387775009570419633.png"/><p class="sc-77igqf-0 bOfvBY">Throughout <em>ef</em>, my anticipation rose for something that would eventually crash, and
-  this is an experience that I don’t really appreciate. The Prologue built it up, then Ch1-2 made it fall. Chapter 3
-  built it up, then Chapter 4 made it fall. Chapter 5 did that to itself, consistently shooting itself in the foot,
-  etc.This is one of my personal gripes in a story: a good part of a story doesn’t completely justify a poor execution
-  in other parts, because you still had to experience the poor execution... and by doing this constantly, it just made
-  me feel very lukewarm about the game in general.</p>
+this is an experience that I don’t really appreciate. The Prologue built it up, then Ch1-2 made it fall. Chapter 3
+built it up, then Chapter 4 made it fall. Chapter 5 did that to itself, consistently shooting itself in the foot,
+etc.This is one of my personal gripes in a story: a good part of a story doesn’t completely justify a poor execution
+in other parts, because you still had to experience the poor execution... and by doing this constantly, it just made
+me feel very lukewarm about the game in general.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h106634"><a class="js_header-anchor" id=""></a><em>Enjoyment - 6/10</em></h4>
 <hr class="gcp5ez-0 hKlTiw"/>
 <img alt src="./1387775009595950513.png"/>
@@ -226,14 +242,15 @@ oldArticle: true
 </p>
 
 <img alt src="./1387775012016482737.jpg"/><p class="sc-77igqf-0 bOfvBY">The biggest change that Shaft made was the presentation. Shaft’s experimental and sharp art
-  style is passable, but in comparison, they are nowhere near the quality of the original. At times, the visuals can be
-  very distracting, taking away from the experience, which is a total failure to me. At other times it’s more tame, but
-  there are things that prevent it from being as nice as Midori’s visuals. The story was written for a very smooth feel,
-  and the harsh lines and colors of the adaptation dampens the experience in my eyes. The atmosphere is shattered which
-  it gets rid of that feeling of a seamless transition between arcs, breaks the flow and emotion of a story, and makes
-  the scenes less memorable and impactful. Besides... The original VN was extremely beautiful already, why change it?
-  It’s almost like change for the sake of change, which kinda is the theme of this whole adaptation; lots of change that
-  isn’t for better or for the worse, just different.</p>
+style is passable, but in comparison, they are nowhere near the quality of the original. At times, the visuals can be
+very distracting, taking away from the experience, which is a total failure to me. At other times it’s more tame, but
+there are things that prevent it from being as nice as Midori’s visuals. The story was written for a very smooth feel,
+and the harsh lines and colors of the adaptation dampens the experience in my eyes. The atmosphere is shattered which
+it gets rid of that feeling of a seamless transition between arcs, breaks the flow and emotion of a story, and makes
+the scenes less memorable and impactful. Besides... The original VN was extremely beautiful already, why change it?
+It’s almost like change for the sake of change, which kinda is the theme of this whole adaptation; lots of change that
+isn’t for better or for the worse, just different.</p>
+
 <div class="ooo3c9-0 PpIMM has-video media-large embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/PLA7CB8D79649968B3" width="560"></iframe><span class="js_recommend" data-chomp-id="PLA7CB8D79649968B3" data-recommend-id="youtube://PLA7CB8D79649968B3" data-recommended="false" id="youtube-PLA7CB8D79649968B3"></span></span></div><p class="sc-77igqf-0 bOfvBY">One thing that didn’t change was the music. Tenmon still does the music, and lots are
   straight from the VN. It’s just as powerful as it was there, but due to the changes in, it creates a dissonance
   between the sound and visuals, which was something that bothered me, but never was a big deal in the end; it’s still
@@ -256,6 +273,7 @@ oldArticle: true
 <img alt src="./1387775012157618609.png"/>
 
 <video autoplay="" loop="" muted=""><source src="./1387775012193587889.mp4" type="video/mp4"/></video>
+
 <hr class="gcp5ez-0 hKlTiw"/><p class="sc-77igqf-0 bOfvBY"><strong>Copyright Disclaimer:</strong> Under Title 17, Section
   107 of United States Copyright law, reviews are protected under fair use. This is a review, and as such, all media
   used in this review is used for the sole purpose of review and commentary under the terms of fair use. All footage,

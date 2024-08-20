@@ -1,12 +1,11 @@
 ---
 {
-title: "AniTAY At AX - The Nekopara /Sayori Panel AKA Fun Times w/ Yoshimune-san's Trolling",
-tags: ["AniTAY", "AX 2016", "Muv-Luv", "Nekopara", "Sekai Project", "Deciga"],
-authors: ['reikaze'],
-published: '2016-07-06T20:08:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "AniTAY At AX - The Nekopara /Sayori Panel AKA Fun Times w/ Yoshimune-san's Trolling",
+  tags: ["AniTAY", "AX 2016", "Muv-Luv", "Nekopara", "Sekai Project", "Deciga"],
+  published: "2016-07-06T20:08:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -61,10 +60,10 @@ oldArticle: true
   laughed.</p>
 
 <img alt src="./deidoruaptowtttixpms.jpg"/><p class="sc-77igqf-0 bOfvBY">From BETA in maid outfits to “research purposes”, “the proper way to hold a boob
-  mousepad” and Nekopara Alternative, the rest of the panel was lots of fun and lots of laughing, a whole hour of
-  Yoshimune-san poking fun at the material and Sayori-san herself. The panel wasn’t really a source of news, but many
-  people there were engrossed and entertained by Sayori-san’s past and Yoshimune-san’s humor. It was a fun time to
-  behold and I’m glad I was able to experience it.</p>
+mousepad” and Nekopara Alternative, the rest of the panel was lots of fun and lots of laughing, a whole hour of
+Yoshimune-san poking fun at the material and Sayori-san herself. The panel wasn’t really a source of news, but many
+people there were engrossed and entertained by Sayori-san’s past and Yoshimune-san’s humor. It was a fun time to
+behold and I’m glad I was able to experience it.</p>
 
 <hr class="gcp5ez-0 hKlTiw"/><p class="sc-77igqf-0 bOfvBY"><em>You’re reading Ani-TAY, the anime-focused portion of
   Kotaku’s community-run blog, Talk Amongst Yourselves. Ani-TAY is a non-professional blog whose writers love everything

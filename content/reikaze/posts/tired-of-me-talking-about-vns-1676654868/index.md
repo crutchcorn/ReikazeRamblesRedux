@@ -1,12 +1,19 @@
 ---
 {
-title: "Tired of Me Talking about VN's?",
-tags: ["FuwaFM", "Podcast", "Ever 17", "Rockmandash Rambles", "TAYCLASSIC", "AniTAY"],
-authors: ['reikaze'],
-published: '2014-12-30T20:05:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Tired of Me Talking about VN's?",
+  tags:
+    [
+      "FuwaFM",
+      "Podcast",
+      "Ever 17",
+      "Rockmandash Rambles",
+      "TAYCLASSIC",
+      "AniTAY",
+    ],
+  published: "2014-12-30T20:05:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

@@ -1,12 +1,11 @@
 ---
 {
-title: "Phoenix : My AMD PC Build",
-tags: ["Rockmandash Rambles", "PC"],
-authors: ['reikaze'],
-published: '2017-05-05T21:40:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Phoenix : My AMD PC Build",
+  tags: ["Rockmandash Rambles", "PC"],
+  published: "2017-05-05T21:40:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -41,26 +40,27 @@ oldArticle: true
   in a ay that cares about the consumer once again.</p>
 
 <img alt src="./upwnbef2owrv4ikruqd0.jpg"/><p class="sc-77igqf-0 bOfvBY">When FX flopped, I decided to get a 3570k as an upgrade (which was great!) but I
-  accidentally killed my z77 board I had my i5 on. I got fed up with the lack of more than 4 cores on a mainstream
-  platform, as I was getting into video production (and I’m a computer engineering student so I figured eventually a
-  class would use the power… not yet anyways) so the instead of buying a new board, I sold the i5 got a Xeon x5660 which
-  could OC as the net cost of moving was cheaper than getting a new board. It’s a great chip for the price and does the
-  job, but that was a compromise of gaming for productivity, and now with Ryzen I can have the best of both worlds, and
-  it would serve as a significant upgrade from either intel chips even if I didn’t buy the xeon. With the ideal phenom
-  in a modern age, and my prosumer/gamer focus in the way I use my PC, my latest upgrade from an aging intel to ryzen is
-  a no brainer, and given that it’s a spiritual successor to phenom ii in so many ways, I thought it would be only
-  fitting to make my new rig an homage to that lineup as well. Enter Phoenix.</p>
+accidentally killed my z77 board I had my i5 on. I got fed up with the lack of more than 4 cores on a mainstream
+platform, as I was getting into video production (and I’m a computer engineering student so I figured eventually a
+class would use the power… not yet anyways) so the instead of buying a new board, I sold the i5 got a Xeon x5660 which
+could OC as the net cost of moving was cheaper than getting a new board. It’s a great chip for the price and does the
+job, but that was a compromise of gaming for productivity, and now with Ryzen I can have the best of both worlds, and
+it would serve as a significant upgrade from either intel chips even if I didn’t buy the xeon. With the ideal phenom
+in a modern age, and my prosumer/gamer focus in the way I use my PC, my latest upgrade from an aging intel to ryzen is
+a no brainer, and given that it’s a spiritual successor to phenom ii in so many ways, I thought it would be only
+fitting to make my new rig an homage to that lineup as well. Enter Phoenix.</p>
 
 <img alt src="./fcvboxbzvlosemxkpyfs.jpg"/><p class="sc-77igqf-0 bOfvBY">I think Phoenix is a perfect name for this rig, in sync with the Ryzen spirit
-  while echoing the Phenom past. The rig I put together is basically a dream build at reasonable prices (I strive for
-  price to performance over absolute best though sooo), and I’m really happy with how it ended up. I decided to get a
-  Ryzen 1600 as it’s the bang for the buck king when it comes to high performance CPUs, does everything I really need to
-  do and it pairs nicely with my R9 Fury. If I need more cores in what I can do, I can always upgrade to Zen2 or later
-  when that comes. The complete specs, and the list on PC Part Picker: <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://pcpartpicker.com/list/bXdYzM",{"metric25":1}]]' href="https://pcpartpicker.com/list/bXdYzM" rel="noopener noreferrer" target="_blank">https://pcpartpicker.com/list/bXdYzM</a></span><br/><br/>CPU:
-  Ryzen 1600<br/>Cooler: Lepa Aquachanger 240<br/>Motherboard: MSI Tomahawk B350<br/>RAM: Corsair Vengence LED (Red) 3000
-  mhz<br/>GPU: Sapphire Nitro R9 Fury<br/>CASE: Rosewill Cullinan/Anidees Ai Crystal<br/>SSD: Sandisk Extreme II 240gb
-  SSD<br/>HDD: WD Blue 1TB<br/>NZXT Hale832 750w PSU<br/>Other: Gigabyte GC-WB867D-I<br/>Other: Deepcool RGB 350 <br/><br/>In
-  this imgur album, I process the build, and show some pics. I think it looks fantastic, and I’m in love. check it out!
+while echoing the Phenom past. The rig I put together is basically a dream build at reasonable prices (I strive for
+price to performance over absolute best though sooo), and I’m really happy with how it ended up. I decided to get a
+Ryzen 1600 as it’s the bang for the buck king when it comes to high performance CPUs, does everything I really need to
+do and it pairs nicely with my R9 Fury. If I need more cores in what I can do, I can always upgrade to Zen2 or later
+when that comes. The complete specs, and the list on PC Part Picker: <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://pcpartpicker.com/list/bXdYzM",{"metric25":1}]]' href="https://pcpartpicker.com/list/bXdYzM" rel="noopener noreferrer" target="_blank">https://pcpartpicker.com/list/bXdYzM</a></span><br/><br/>CPU:
+Ryzen 1600<br/>Cooler: Lepa Aquachanger 240<br/>Motherboard: MSI Tomahawk B350<br/>RAM: Corsair Vengence LED (Red) 3000
+mhz<br/>GPU: Sapphire Nitro R9 Fury<br/>CASE: Rosewill Cullinan/Anidees Ai Crystal<br/>SSD: Sandisk Extreme II 240gb
+SSD<br/>HDD: WD Blue 1TB<br/>NZXT Hale832 750w PSU<br/>Other: Gigabyte GC-WB867D-I<br/>Other: Deepcool RGB 350 <br/><br/>In
+this imgur album, I process the build, and show some pics. I think it looks fantastic, and I’m in love. check it out!
+
 </p>
 
 <aside class="sc-1rh3ayr-6 jfFNjl inset--story branded-item branded-item--kinja" data-commerce-source="inset"><a class="sc-1out364-0 hMndXN sc-1rh3ayr-2 lcMGRt inset--story__thumb js_link" data-ga='[["Permalink page click","Permalink page click - inset photo"]]' href="http://imgur.com/a/unKV8" rel="noopener noreferrer" target="_blank">

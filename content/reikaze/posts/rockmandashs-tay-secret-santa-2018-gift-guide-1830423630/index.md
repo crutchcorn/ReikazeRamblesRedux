@@ -1,12 +1,11 @@
 ---
 {
-title: "RockmanDash's TAY Secret Santa 2018 Gift Guide",
-tags: ["Secret Santa", "Secret Santa 2018"],
-authors: ['reikaze'],
-published: '2018-11-13T19:07:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash's TAY Secret Santa 2018 Gift Guide",
+  tags: ["Secret Santa", "Secret Santa 2018"],
+  published: "2018-11-13T19:07:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

@@ -1,12 +1,23 @@
 ---
 {
-title: "Rockmandash Reviews: Muv Luv Alternative: Total Eclipse [Anime]",
-tags: ["rockmandash reviews", "muv-luv", "extra", "alternative", "total eclipse", "ani-tay", "review", "mecha", "attack on titan", "tay-classic"],
-authors: ['reikaze'],
-published: '2014-06-04T18:10:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Muv Luv Alternative: Total Eclipse [Anime]",
+  tags:
+    [
+      "rockmandash reviews",
+      "muv-luv",
+      "extra",
+      "alternative",
+      "total eclipse",
+      "ani-tay",
+      "review",
+      "mecha",
+      "attack on titan",
+      "tay-classic",
+    ],
+  published: "2014-06-04T18:10:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -36,14 +47,15 @@ oldArticle: true
 </aside>
 
 <img alt src="./bzn8zmgebltocnsxly1d.png"/><p class="sc-77igqf-0 bOfvBY"> Just judging this anime by the name alone, Muv-Luv Alternative: Total Eclipse is
-  exactly what you think this is: a side story to Muv-Luv Alternative. As a side story to Alternative, it manages to be
-  pretty similar to alternative in writing style, characters, etc, but it manages to be different enough so fans of the
-  series will still get entertainment out of this show without retreading water..... But the style is very similar. The
-  character interactions are equally as awesome (later on), the harem is equally as large, the shipping is just as fun,
-  the human reaction to the BETA is just as interesting, etc. If you want to know what that's like, check out some of
-  the Alternative Reviews on TAY, but for those who are too lazy to go and read that, It's a alternate history mecha
-  that does character development really well. To give you an idea of the plot, i'll just snag MAL's plot summary
-  here.</p>
+exactly what you think this is: a side story to Muv-Luv Alternative. As a side story to Alternative, it manages to be
+pretty similar to alternative in writing style, characters, etc, but it manages to be different enough so fans of the
+series will still get entertainment out of this show without retreading water..... But the style is very similar. The
+character interactions are equally as awesome (later on), the harem is equally as large, the shipping is just as fun,
+the human reaction to the BETA is just as interesting, etc. If you want to know what that's like, check out some of
+the Alternative Reviews on TAY, but for those who are too lazy to go and read that, It's a alternate history mecha
+that does character development really well. To give you an idea of the plot, i'll just snag MAL's plot summary
+here.</p>
+
 <blockquote class="sc-8hxd3p-0 nvIqO" data-type="BlockQuote"><p class="sc-77igqf-0 bOfvBY"> "Since 1973, an invasion of
   aliens known as BETA upon Earth is driving human civilization into nearly collapse. Facing an enormous mass of enemy
   force, mankind has developed large humanoid arms called as Tactical Surface Fighters and deployed them to its defense
@@ -88,9 +100,10 @@ oldArticle: true
   leads becoming extremely weak around him. Oh, you anime tropes, you had to find your way in somehow.</p>
 
 <img alt src="./xrsooaixw90io99dvinr.jpg"/><p class="sc-77igqf-0 bOfvBY"> The character interactions as a whole threw me off in general, as they did a bad
-  job at dealing with interactions in general, with everyone giving Yuuya crap for not being Japanese even though he was
-  born in america, and grew up in the deep south. I think Cash907 summed up my gripes with the character interactions
-  quite well.</p>
+job at dealing with interactions in general, with everyone giving Yuuya crap for not being Japanese even though he was
+born in america, and grew up in the deep south. I think Cash907 summed up my gripes with the character interactions
+quite well.</p>
+
 <blockquote class="sc-8hxd3p-0 nvIqO" data-type="BlockQuote"><p class="sc-77igqf-0 bOfvBY"> "I have plenty of mixed race
   friends... they nor anyone else gives a damn, so why is this such a huge thing for Japan? Are they that racist that
   the issue takes up a huge portion of the series?" </p></blockquote>
@@ -110,17 +123,18 @@ oldArticle: true
 <img alt src="./xbaoi8fxa3juxe7vjp8m.png"/>
 
 <img alt src="./tf5qxiieg9hscty7ttii.jpg"/><p class="sc-77igqf-0 bOfvBY"> The Visuals in Muv-Luv Alternative: Total Eclipse is good. The animation isn't
-  mind blowing like some other mechs I've seen, but that was expected because the production was handled by Ixtl and
-  Satelight, who aren't really well known for their animation being totally great, but man the gradient fan in me loves
-  it and in my opinion, this is one of the better jobs they did. It's passable animation for most of the time when they
-  aren't in a battle and sometimes gets a visual bump during combat but overall it's pretty truthful to the source. If
-  you don't mind CG, The BETA and Mechs were nice and I believed they did a good job with them, especially on the Mech
-  vs Mech scenes, but never to the point that it was mind blowing. One thing that has to be mentioned and which is big
-  problem with the visuals in this is the unnecessary top fan service… which didn't really bother me because of
-  suspension of disbelief, and the fact that Alternative explains why the suits are so fanservice-y, but that bit isn't
-  explained in the anime, re-enforcing my beliefs that this show is dependent on alternative…. but if that was the only
-  issue, this really wouldn't be too bad. Total Eclipse likes to show fanservice whenever something important isn't
-  happening, and this habit leads to unnecessary shots that get grating and detract from the experience.</p>
+mind blowing like some other mechs I've seen, but that was expected because the production was handled by Ixtl and
+Satelight, who aren't really well known for their animation being totally great, but man the gradient fan in me loves
+it and in my opinion, this is one of the better jobs they did. It's passable animation for most of the time when they
+aren't in a battle and sometimes gets a visual bump during combat but overall it's pretty truthful to the source. If
+you don't mind CG, The BETA and Mechs were nice and I believed they did a good job with them, especially on the Mech
+vs Mech scenes, but never to the point that it was mind blowing. One thing that has to be mentioned and which is big
+problem with the visuals in this is the unnecessary top fan service… which didn't really bother me because of
+suspension of disbelief, and the fact that Alternative explains why the suits are so fanservice-y, but that bit isn't
+explained in the anime, re-enforcing my beliefs that this show is dependent on alternative…. but if that was the only
+issue, this really wouldn't be too bad. Total Eclipse likes to show fanservice whenever something important isn't
+happening, and this habit leads to unnecessary shots that get grating and detract from the experience.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h118612"><a class="js_header-anchor" id=""></a>Visuals - 7.5/10</h4>
 <img alt src="./t8of29o1vxs2tihwdhn0.png"/>
 <p class="sc-77igqf-0 bOfvBY"> The audio is the in a same situation as it's good. The soundtrack is mostly

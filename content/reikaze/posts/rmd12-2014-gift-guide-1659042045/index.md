@@ -1,12 +1,11 @@
 ---
 {
-title: "Rockmandash12's 2014 Gift Guide",
-tags: ["Secret Santa 2014"],
-authors: ['reikaze'],
-published: '2014-11-14T20:28:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash12's 2014 Gift Guide",
+  tags: ["Secret Santa 2014"],
+  published: "2014-11-14T20:28:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

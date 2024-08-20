@@ -1,12 +1,19 @@
 ---
 {
-title: "Rockmandash Reviews: Fate/hollow ataraxia [Visual Novel]",
-tags: ["rockmandash reviews", "fate hollow ataraxia", "fate", "type moon", "review", "Type-Moon Marathon"],
-authors: ['reikaze'],
-published: '2014-08-03T20:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Fate/hollow ataraxia [Visual Novel]",
+  tags:
+    [
+      "rockmandash reviews",
+      "fate hollow ataraxia",
+      "fate",
+      "type moon",
+      "review",
+      "Type-Moon Marathon",
+    ],
+  published: "2014-08-03T20:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -88,14 +95,15 @@ oldArticle: true
 <img alt src="./qyomnbefip4tovwuiy9a.png"/>
 
 <img alt src="./uhpnnugfc9muxivl3n06.jpg"/><p class="sc-77igqf-0 bOfvBY"> Due to <em>Fate/hollow ataraxia's</em> interesting way of plot progression, this
-  creates an interesting means of gameplay. It creates a semi-linear plot, with the main plot being broke into chapters
-  and told in a straight line, but for all the side stories, it's very open: you can do most of the events in any order
-  you feel like. You switch between the perspectives of Bazett and Shirou; at the beginning of each chapter you have the
-  kinetic novel-like Bazett segments, then you play with Shirou for the rest of it. When you are playing Shirou, it's 4
-  days, each day broken up into 4 segments (morning, noon, afternoon, night) in which you see one event. Each character
-  represents an event and when there's an event you haven't seen, there's either a NEW or ! that pops up. All ! events
-  are for the story, while the NEW ones are just things on the side. The big kicker to the gameplay? Saves act as
-  quick-saves and you can't make a ton of them, and you have to continue where you were at. </p>
+creates an interesting means of gameplay. It creates a semi-linear plot, with the main plot being broke into chapters
+and told in a straight line, but for all the side stories, it's very open: you can do most of the events in any order
+you feel like. You switch between the perspectives of Bazett and Shirou; at the beginning of each chapter you have the
+kinetic novel-like Bazett segments, then you play with Shirou for the rest of it. When you are playing Shirou, it's 4
+days, each day broken up into 4 segments (morning, noon, afternoon, night) in which you see one event. Each character
+represents an event and when there's an event you haven't seen, there's either a NEW or ! that pops up. All ! events
+are for the story, while the NEW ones are just things on the side. The big kicker to the gameplay? Saves act as
+quick-saves and you can't make a ton of them, and you have to continue where you were at. </p>
+
 <p class="sc-77igqf-0 bOfvBY"> This system of gameplay gives you a lot of control on the pace you want to go at:
   you can fool around with all the Slice of Life side scenes, and have slower SoL pacing, or you can go straight to the
   important stuff and have a very tight, almost thriller-esque story. I did a mix of the two depending on my mood, and I
@@ -106,14 +114,15 @@ oldArticle: true
 <img alt src="./es82fq9twmqc7escmwtq.png"/>
 
 <img alt src="./jy5j3peo1t6uaphjm2yy.jpg"/><p class="sc-77igqf-0 bOfvBY"> If you haven't noticed, this game is pretty. While a good majority of art is
-  just carryovers from Fate/stay night, but all the new stuff is amazing and there's quite a bit. This is really the
-  first truly modern Type-Moon work in my eyes, and it has some absolutely beautiful CG. Even though it's only a year
-  after F/SN, it's aged so much better. It's so polished, beautiful and detailed; It's a game with style, one that uses
-  style to get over technological feats. I also really appreciate all the visual effects this game has, like the simple
-  omake-esque art, to more advanced things like bokeh, and it really spices it up makes the visuals into something
-  special. Even b etter than that though... is those amazing fight scenes. While being a Visual Novel, they have so much
-  art, and the motion is so fluid that it's like watching an anime. The archer fight with saber was just brilliant...
-  It's fantastic and I love it. </p>
+just carryovers from Fate/stay night, but all the new stuff is amazing and there's quite a bit. This is really the
+first truly modern Type-Moon work in my eyes, and it has some absolutely beautiful CG. Even though it's only a year
+after F/SN, it's aged so much better. It's so polished, beautiful and detailed; It's a game with style, one that uses
+style to get over technological feats. I also really appreciate all the visual effects this game has, like the simple
+omake-esque art, to more advanced things like bokeh, and it really spices it up makes the visuals into something
+special. Even b etter than that though... is those amazing fight scenes. While being a Visual Novel, they have so much
+art, and the motion is so fluid that it's like watching an anime. The archer fight with saber was just brilliant...
+It's fantastic and I love it. </p>
+
 <p class="sc-77igqf-0 bOfvBY"> Also, just like its predecessor, This is an eroge... soo.. <strong> QUE THE
   OBLIGATORY EROGE WARNING HERE</strong>. That being said, most of the H scenes are completely optional, which is nice
   but there's one at the end of the game that you'll have to get through to finish the story, so be aware of that.</p>
@@ -130,10 +139,11 @@ oldArticle: true
 <img alt src="./p7xcjc5yd7op9w8ptwmr.png"/>
 
 <img alt src="./lvnhuy6rmiv6tnyshalb.jpg"/><p class="sc-77igqf-0 bOfvBY"> My issue with so much of Type-Moon stuff is that a good majority have a huge
-  flaw. Tsukihime has it's low production values, <em>Kara no Kyoukai</em> has an insanely high barrier of entry, <em>Fate/stay
-    night</em> is way too long for it's own good, and <em>Fate/Zero</em> was really boring due to the characters. <em>Fate/hollow
-    ataraxia</em> has none of this. Unlike the others, this game is constantly trying to entertain you, and I've been
-  entertained. Fate/hollow ataraxia is probably the most fun I've ever had playing a VN.... totally serious here.</p>
+flaw. Tsukihime has it's low production values, <em>Kara no Kyoukai</em> has an insanely high barrier of entry, <em>Fate/stay
+night</em> is way too long for it's own good, and <em>Fate/Zero</em> was really boring due to the characters. <em>Fate/hollow
+ataraxia</em> has none of this. Unlike the others, this game is constantly trying to entertain you, and I've been
+entertained. Fate/hollow ataraxia is probably the most fun I've ever had playing a VN.... totally serious here.</p>
+
 <p class="sc-77igqf-0 bOfvBY"> I first played this on the 3.1 official translation, and only got about 40 percent
   through the game because the translation wasn't anywhere close to done. Even though I never even got close to
   finishing it, I loved the hell out of it, and I called it my favorite type moon work.... with 40% DONE! When I went to

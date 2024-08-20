@@ -1,12 +1,11 @@
 ---
 {
-title: "The Disappointment that is AMD",
-tags: ["Opinion", "PC", "AMD", "Rockmandash Rambles"],
-authors: ['reikaze'],
-published: '2015-06-25T01:22:02-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "The Disappointment that is AMD",
+  tags: ["Opinion", "PC", "AMD", "Rockmandash Rambles"],
+  published: "2015-06-25T01:22:02-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

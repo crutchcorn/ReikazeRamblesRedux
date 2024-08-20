@@ -1,12 +1,20 @@
 ---
 {
-title: "Rockmandash’s Top 5 Anime of Summer 2015",
-tags: ["AniTAY", "Summer 2015", "Top 5", "Top lists", "Top 10", "Anime", "Rockmandash Rambles"],
-authors: ['reikaze'],
-published: '2015-10-05T10:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash’s Top 5 Anime of Summer 2015",
+  tags:
+    [
+      "AniTAY",
+      "Summer 2015",
+      "Top 5",
+      "Top lists",
+      "Top 10",
+      "Anime",
+      "Rockmandash Rambles",
+    ],
+  published: "2015-10-05T10:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

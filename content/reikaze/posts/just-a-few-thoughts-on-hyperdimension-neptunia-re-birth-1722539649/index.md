@@ -1,12 +1,11 @@
 ---
 {
-title: "Just a Few Thoughts on Hyperdimension Neptunia Re;Birth 1",
-tags: ["Tayclassic", "Hyperdimension Neptunia"],
-authors: ['reikaze'],
-published: '2015-08-06T15:19:36-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Just a Few Thoughts on Hyperdimension Neptunia Re;Birth 1",
+  tags: ["Tayclassic", "Hyperdimension Neptunia"],
+  published: "2015-08-06T15:19:36-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -27,13 +26,14 @@ oldArticle: true
   both the Japanese voices and English voices doing a great job, but I prefer the Japanese voices.</p>
 
 <img alt src="./1373952929798843208.jpg"/><p class="sc-77igqf-0 bOfvBY">That being said, game has a few issues outside of the writing that’s kept me from loving
-  it: Gameplay issues.<br/><br/>There are very little variations in design outside of the main aspects as levels are
-  rehashes of others with the exact same lvl design, character recolors are rampant, and so on. It makes the game feel
-  more boring than it actually is, and I really wish they had more variation here. Also, This game is a grindfest. Even
-  if you play normally, you can’t just beat enemies as you go, you’ll need to backtrack and grind grind grind.... It’s
-  really boring and the thing that’s really holding me back from really loving it. </p>
+it: Gameplay issues.<br/><br/>There are very little variations in design outside of the main aspects as levels are
+rehashes of others with the exact same lvl design, character recolors are rampant, and so on. It makes the game feel
+more boring than it actually is, and I really wish they had more variation here. Also, This game is a grindfest. Even
+if you play normally, you can’t just beat enemies as you go, you’ll need to backtrack and grind grind grind.... It’s
+really boring and the thing that’s really holding me back from really loving it. </p>
 
 <img alt src="./1373952929854700616.jpg"/><p class="sc-77igqf-0 bOfvBY">Other than that though, this game is pretty fun and I had a good time with it. If you can
-  get it for cheap (and it’s on sale often), you should pick it up! it’s rather different than other games and it’s
-  quite fun :)</p>
+get it for cheap (and it’s on sale often), you should pick it up! it’s rather different than other games and it’s
+quite fun :)</p>
+
 </div>

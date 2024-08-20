@@ -1,12 +1,23 @@
 ---
 {
-title: "A Visual Novel Fan's Opinion on Eroge",
-tags: ["Opinion", "Rockmandash Rambles", "Visual Novels", "Eroge", "Storytelling", "H scenes", "Observation Deck", "TAY-Classic", "Ani-TAY", "Visual Novel"],
-authors: ['reikaze'],
-published: '2015-01-22T17:30:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "A Visual Novel Fan's Opinion on Eroge",
+  tags:
+    [
+      "Opinion",
+      "Rockmandash Rambles",
+      "Visual Novels",
+      "Eroge",
+      "Storytelling",
+      "H scenes",
+      "Observation Deck",
+      "TAY-Classic",
+      "Ani-TAY",
+      "Visual Novel",
+    ],
+  published: "2015-01-22T17:30:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -226,11 +237,11 @@ oldArticle: true
 </aside>
 
 <img alt src="./pnarnljzbu7ilf6ak8nc.jpg"/><p class="sc-77igqf-0 bOfvBY">Plus, in our modern day society, sex doesn't necessarily correlate to a close
-  bond as there's a lot of people who have casual sex, as stuff like <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","https://kotaku.com/school-days-hq-is-a-beautiful-shocking-yet-flawed-tit-5937487",{"metric25":1}]]' href="https://kotaku.com/school-days-hq-is-a-beautiful-shocking-yet-flawed-tit-5937487"><em>School Days</em> </a></span>would
-  tell you. As for themes of sexuality in a story, I'm sure that we've all seen stories that have shown themes relating
-  to sexuality and pulling it off very well without actually having any mature content, and VNs can certainly do so.
-  With them in, they risk alienating the player (which they almost do in my situation), and it's really not a tasteful
-  way to execute it. </p>
+bond as there's a lot of people who have casual sex, as stuff like <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","https://kotaku.com/school-days-hq-is-a-beautiful-shocking-yet-flawed-tit-5937487",{"metric25":1}]]' href="https://kotaku.com/school-days-hq-is-a-beautiful-shocking-yet-flawed-tit-5937487"><em>School Days</em> </a></span>would
+tell you. As for themes of sexuality in a story, I'm sure that we've all seen stories that have shown themes relating
+to sexuality and pulling it off very well without actually having any mature content, and VNs can certainly do so.
+With them in, they risk alienating the player (which they almost do in my situation), and it's really not a tasteful
+way to execute it. </p>
 
 <aside class="sc-1rh3ayr-6 jfFNjl inset--story branded-item branded-item--kotaku" data-commerce-source="inset"><a class="sc-1out364-0 hMndXN sc-1rh3ayr-2 lnnjIC inset--story__thumb js_link" data-ga='[["Permalink page click","Permalink page click - inset photo"]]' href="https://kotaku.com/school-days-hq-is-a-beautiful-shocking-yet-flawed-tit-5937487" rel="noopener noreferrer" target="_blank">
 <img alt src="./18gjsvntlrc1ijpg.jpg"/>

@@ -1,12 +1,20 @@
 ---
 {
-title: "Countdown to AX: Experiencing Real Zero Escape",
-tags: ["Anime Expo 2016", "Real Zero Escape", "Rockmandash Rambles", "Zero Escape", "Scrap Entertainment", "Countdown to AX", "AX 2016"],
-authors: ['reikaze'],
-published: '2016-06-30T14:45:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Countdown to AX: Experiencing Real Zero Escape",
+  tags:
+    [
+      "Anime Expo 2016",
+      "Real Zero Escape",
+      "Rockmandash Rambles",
+      "Zero Escape",
+      "Scrap Entertainment",
+      "Countdown to AX",
+      "AX 2016",
+    ],
+  published: "2016-06-30T14:45:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

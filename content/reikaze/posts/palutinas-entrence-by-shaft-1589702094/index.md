@@ -1,12 +1,11 @@
 ---
 {
-title: "Palutina's Anime Entrence to SSB by Shaft",
-tags: ["Ani-Tay", "Anime Palutina", "E3", "Smash Bros", "Nintendo", "SHAFT"],
-authors: ['reikaze'],
-published: '2014-06-11T22:53:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Palutina's Anime Entrence to SSB by Shaft",
+  tags: ["Ani-Tay", "Anime Palutina", "E3", "Smash Bros", "Nintendo", "SHAFT"],
+  published: "2014-06-11T22:53:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

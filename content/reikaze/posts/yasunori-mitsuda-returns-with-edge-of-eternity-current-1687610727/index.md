@@ -1,12 +1,11 @@
 ---
 {
-title: "Edge of Eternity: An interesting Console JRPG on Kickstarter",
-tags: ["Kickstarter", "JRPG", "Yasunori Mitsuda"],
-authors: ['reikaze'],
-published: '2015-02-23T20:48:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Edge of Eternity: An interesting Console JRPG on Kickstarter",
+  tags: ["Kickstarter", "JRPG", "Yasunori Mitsuda"],
+  published: "2015-02-23T20:48:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

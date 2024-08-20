@@ -1,12 +1,23 @@
 ---
 {
-title: "Music in Media: Influencing your Experiences",
-tags: ["Music in Media", "Rockmandash Rambles", "Tay-Classic", "Music", "Games", "Soundtrack", "Discussion", "Influence", "Experience", "Part 1"],
-authors: ['reikaze'],
-published: '2014-11-11T03:45:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Music in Media: Influencing your Experiences",
+  tags:
+    [
+      "Music in Media",
+      "Rockmandash Rambles",
+      "Tay-Classic",
+      "Music",
+      "Games",
+      "Soundtrack",
+      "Discussion",
+      "Influence",
+      "Experience",
+      "Part 1",
+    ],
+  published: "2014-11-11T03:45:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

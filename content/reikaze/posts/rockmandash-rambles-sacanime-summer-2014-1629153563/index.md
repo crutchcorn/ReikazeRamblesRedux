@@ -1,12 +1,22 @@
 ---
 {
-title: "Rockmandash Rambles: SacAnime Summer 2014!",
-tags: ["Rockmandash Rambles", "Tay Classic", "Ani-TAY", "Convention", "SacAnime", "2014", "Rockmandash", "Anime", "Popular"],
-authors: ['reikaze'],
-published: '2014-08-31T22:11:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Rambles: SacAnime Summer 2014!",
+  tags:
+    [
+      "Rockmandash Rambles",
+      "Tay Classic",
+      "Ani-TAY",
+      "Convention",
+      "SacAnime",
+      "2014",
+      "Rockmandash",
+      "Anime",
+      "Popular",
+    ],
+  published: "2014-08-31T22:11:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

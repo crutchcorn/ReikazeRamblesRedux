@@ -1,12 +1,18 @@
 ---
 {
-title: "RockmanDash Reviews: Zero Escape: The Nonary Games",
-tags: ["RockmanDash Reviews", "Zero Escape", "999", "Virtues Last Reward", "Visual Novels"],
-authors: ['reikaze'],
-published: '2017-03-25T10:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash Reviews: Zero Escape: The Nonary Games",
+  tags:
+    [
+      "RockmanDash Reviews",
+      "Zero Escape",
+      "999",
+      "Virtues Last Reward",
+      "Visual Novels",
+    ],
+  published: "2017-03-25T10:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -39,13 +45,13 @@ oldArticle: true
   provide some of the most rewarding and best-written twists you can find on an electronic device. </p>
 
 <img alt src="./xvwtjzag0m26rzzpfg2m.jpg"/><p class="sc-77igqf-0 bOfvBY"> That being said, the original game in the series has not aged well: <em>999</em>
-  was originally a DS game and thanks to that system’s “impressive” 256 × 192 screen resolution, this game doesn’t look
-  particularly amazing, especially in the age of retina displays and Ultra High Definition. Also, since the only release
-  of <em>999</em> outside of the original was the iOS version which, while in HD, didn’t include any of the gameplay...
-  which is a huge aspect of the game. Anyone interested in playing this game was stuck with the unfortunate decision
-  between two compromised experiences. While <em>Virtue’s Last Reward</em> is mostly untouched, there are a lot of
-  changes that went into the <em>999</em> remastering, making it the definitive version of the game. Just some of these
-  are: </p>
+was originally a DS game and thanks to that system’s “impressive” 256 × 192 screen resolution, this game doesn’t look
+particularly amazing, especially in the age of retina displays and Ultra High Definition. Also, since the only release
+of <em>999</em> outside of the original was the iOS version which, while in HD, didn’t include any of the gameplay...
+which is a huge aspect of the game. Anyone interested in playing this game was stuck with the unfortunate decision
+between two compromised experiences. While <em>Virtue’s Last Reward</em> is mostly untouched, there are a lot of
+changes that went into the <em>999</em> remastering, making it the definitive version of the game. Just some of these
+are: </p>
 
 <img alt src="./uitwir7faihodml0pzll.jpg"/>
 <ul class="sc-1lmbno3-0 dpuHif" data-style="Bullet" data-type="List">
@@ -86,11 +92,12 @@ oldArticle: true
 </ul>
 
 <img alt src="./xfu8drwmtueh2saubywy.jpg"/><p class="sc-77igqf-0 bOfvBY">Along with all of these changes, <em>Zero Escape: The Nonary Games </em>also
-  fixes the problem of the game being limited to handhelds, allowing you to play<em> 999</em> and<em> Virtue’s Last
-    Reward </em>on many more systems than before. This allows a lot more people the opportunity to play it, and as an
-  example, many in the Visual Novel community only have Windows devices. Before the release, the only system you could
-  play the trilogy on was the 3DS, but now you can also play all of the games on Vita and PC, as well as serving to
-  introduce the series to consoles (PS4).</p>
+fixes the problem of the game being limited to handhelds, allowing you to play<em> 999</em> and<em> Virtue’s Last
+Reward </em>on many more systems than before. This allows a lot more people the opportunity to play it, and as an
+example, many in the Visual Novel community only have Windows devices. Before the release, the only system you could
+play the trilogy on was the 3DS, but now you can also play all of the games on Vita and PC, as well as serving to
+introduce the series to consoles (PS4).</p>
+
 <p class="sc-77igqf-0 bOfvBY">These changes really help the experience, making the game more enjoyable and less
   frustrating to play. First, while the art in <em>999</em> was never its selling point, the revamped artwork looks
   great for the most part (especially on the Vita I’ve been playing it on) as it keeps the PS1-esque charm of the game

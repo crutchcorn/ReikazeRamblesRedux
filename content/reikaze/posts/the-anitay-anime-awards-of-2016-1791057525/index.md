@@ -1,12 +1,19 @@
 ---
 {
-title: "The AniTAY Anime Awards of 2016",
-tags: ["The AniTAY Anime Awards", "2016", "AniTAY", "Anime", "AniTAY Collaboration", "Ani-tay collaboration"],
-authors: ['reikaze'],
-published: '2017-01-12T13:20:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "The AniTAY Anime Awards of 2016",
+  tags:
+    [
+      "The AniTAY Anime Awards",
+      "2016",
+      "AniTAY",
+      "Anime",
+      "AniTAY Collaboration",
+      "Ani-tay collaboration",
+    ],
+  published: "2017-01-12T13:20:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -97,6 +104,7 @@ oldArticle: true
 <img alt src="./s38mhcumjbngozkzmysy.jpg"/>
 
 <video autoplay="" loop="" muted=""><source src="./bf2lg3fom4d55ijghfy2.mp4" type="video/mp4"/></video>
+
 <hr class="gcp5ez-0 hKlTiw"/><h4 class="sc-1bwb26k-1 fvCjqJ" id="h102004"><a class="js_header-anchor" id=""></a>Reader’s
   Pick for Best Female Character: Rem &amp; Megumin (<em>Re:Zero</em> &amp; <em>Konosuba</em>)</h4>
 <img alt src="./ihbxpafkmgphjr5n5tat.jpg"/>

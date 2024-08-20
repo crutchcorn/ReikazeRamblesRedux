@@ -1,12 +1,11 @@
 ---
 {
-title: "RockmanDash's Top 10 Anime of 2016",
-tags: ["Rockmandash Rambles", "Top Lists", "Anime", "AniTAY", "2016"],
-authors: ['reikaze'],
-published: '2017-01-01T02:34:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash's Top 10 Anime of 2016",
+  tags: ["Rockmandash Rambles", "Top Lists", "Anime", "AniTAY", "2016"],
+  published: "2017-01-01T02:34:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

@@ -1,12 +1,11 @@
 ---
 {
-title: "AniDebate? Let's try to get this started up again.",
-tags: ["AniTAY", "Ani-Debate", "AniDebate"],
-authors: ['reikaze'],
-published: '2015-01-08T19:02:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "AniDebate? Let's try to get this started up again.",
+  tags: ["AniTAY", "Ani-Debate", "AniDebate"],
+  published: "2015-01-08T19:02:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

@@ -1,12 +1,19 @@
 ---
 {
-title: "Rockmandash Reviews: Go! Go! Nippon! My First Trip to Japan [Visual Novel]",
-tags: ["rockmandash reviews", "go go nippon", "japan", "weeaboo", "visual novel", "review"],
-authors: ['reikaze'],
-published: '2014-03-29T13:02:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Go! Go! Nippon! My First Trip to Japan [Visual Novel]",
+  tags:
+    [
+      "rockmandash reviews",
+      "go go nippon",
+      "japan",
+      "weeaboo",
+      "visual novel",
+      "review",
+    ],
+  published: "2014-03-29T13:02:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -41,9 +48,10 @@ oldArticle: true
   period.</p>
 
 <img alt src="./xkv70zrcccvcb1mxfiyd.jpg"/><h4 class="sc-1bwb26k-1 fvCjqJ" id="h120360"><a class="js_header-anchor" id=""></a>Writing - 4/10</h4><h3 class="sc-1bwb26k-1 fvCjqJ" id="h120361"><a class="js_header-anchor" id=""></a>Length</h3><p class="sc-77igqf-0 bOfvBY"> The Time/Entertainment ratio is really low. This game has a total length of 2 hours. TWO
-  HOURS. Let that sink into you. You can finish this in one sitting. And that’s playing through the whole game, going to
-  a total of SIX locations. this game is way too short, and Anybody who accepts this is long enough needs to be
-  strangled.</p>
+HOURS. Let that sink into you. You can finish this in one sitting. And that’s playing through the whole game, going to
+a total of SIX locations. this game is way too short, and Anybody who accepts this is long enough needs to be
+strangled.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h120362"><a class="js_header-anchor" id=""></a>Length - 2/10</h4><h3 class="sc-1bwb26k-1 fvCjqJ" id="h120363"><a class="js_header-anchor" id=""></a>Information dump</h3><p class="sc-77igqf-0 bOfvBY"> This game is a tour guide. The game dumps a ton of information about the issue...
   including very basic things that any fan of Japanese culture should know about. What confuses me about this is 2
   things:</p>
@@ -61,7 +69,8 @@ oldArticle: true
 </ol>
 
 <img alt src="./av1ey3uhouvwx8ykqrxj.png"/><p class="sc-77igqf-0 bOfvBY"> Pretty much most of this game is an info dump, and I found this annoying. I’ve
-  learned a bit from it, but doesn’t make up for it all my facepalming.</p>
+learned a bit from it, but doesn’t make up for it all my facepalming.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h120364"><a class="js_header-anchor" id=""></a>Information Dump - 4/10</h4><h3 class="sc-1bwb26k-1 fvCjqJ" id="h120365"><a class="js_header-anchor" id=""></a>Low budget assets</h3><p class="sc-77igqf-0 bOfvBY"> This game screams low budget. From the about 3 songs played, to the little variety in
   character frames..... Ugh this game is meh. In both aspects, Go Go Nippon! is lacking. It doesn’t have enough music,
   there’s not enough art, and they aren’t that great in either category. The music is pretty meh, and visuals are

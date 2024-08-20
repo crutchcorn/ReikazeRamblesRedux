@@ -1,12 +1,21 @@
 ---
 {
-title: "Rockmandash's State of the Review Address - Key Marathon",
-tags: ["Rockmandash12", "Reviews", "State of the Review Adress", "Key Marathon", "Announcement", "Ugghhhhhhhhh", "It'll be tedious", "but it'll be fun."],
-authors: ['reikaze'],
-published: '2014-03-31T00:02:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash's State of the Review Address - Key Marathon",
+  tags:
+    [
+      "Rockmandash12",
+      "Reviews",
+      "State of the Review Adress",
+      "Key Marathon",
+      "Announcement",
+      "Ugghhhhhhhhh",
+      "It'll be tedious",
+      "but it'll be fun.",
+    ],
+  published: "2014-03-31T00:02:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

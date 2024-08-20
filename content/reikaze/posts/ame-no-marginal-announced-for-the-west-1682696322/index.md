@@ -1,12 +1,20 @@
 ---
 {
-title: "Ame no Marginal Announced by Sekai Project",
-tags: ["Sekai Project", "Visual Novel", "Visual Novels", "Translation", "Narcissu", "Stage-Nana", "Ame no Marginal"],
-authors: ['reikaze'],
-published: '2015-01-29T22:00:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Ame no Marginal Announced by Sekai Project",
+  tags:
+    [
+      "Sekai Project",
+      "Visual Novel",
+      "Visual Novels",
+      "Translation",
+      "Narcissu",
+      "Stage-Nana",
+      "Ame no Marginal",
+    ],
+  published: "2015-01-29T22:00:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

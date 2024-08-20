@@ -1,12 +1,11 @@
 ---
 {
-title: "The Best Review is now out. We can all give up.",
-tags: ["April Fools 2015", "lol", "Digibro"],
-authors: ['reikaze'],
-published: '2015-04-01T20:05:07-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "The Best Review is now out. We can all give up.",
+  tags: ["April Fools 2015", "lol", "Digibro"],
+  published: "2015-04-01T20:05:07-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

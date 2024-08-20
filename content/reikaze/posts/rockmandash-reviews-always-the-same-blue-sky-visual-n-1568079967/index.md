@@ -1,12 +1,19 @@
 ---
 {
-title: "Rockmandash Reviews: Always The Same Blue Sky [Visual Novel]",
-tags: ["rockmandash reviews", "indie", "visual novel", "tay-classic", "lackluster", "always the same blue sky"],
-authors: ['reikaze'],
-published: '2014-04-30T20:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Always The Same Blue Sky [Visual Novel]",
+  tags:
+    [
+      "rockmandash reviews",
+      "indie",
+      "visual novel",
+      "tay-classic",
+      "lackluster",
+      "always the same blue sky",
+    ],
+  published: "2014-04-30T20:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -35,10 +42,11 @@ oldArticle: true
   reason they like each other is because the writer wanted it to be that way.</p>
 
 <img alt src="./g9ny7ty1zaptg2qldafv.jpg"/><p class="sc-77igqf-0 bOfvBY"> The writing would have been much better if this game did a better job connecting
-  the plot; actually showing the world, characters, plot etc. instead of throwing random scenarios. Another con is the
-  length: this game is short. Very short. You can finish this in about 10-20 minutes. Don't get me wrong; I don't mind
-  short VNs. I loved the heck out of Planetarian, but that had the charm, great world building, interesting characters,
-  etc. In ATSBS, the writing is pretty meh, and there is so much they could have done to improve it. </p>
+the plot; actually showing the world, characters, plot etc. instead of throwing random scenarios. Another con is the
+length: this game is short. Very short. You can finish this in about 10-20 minutes. Don't get me wrong; I don't mind
+short VNs. I loved the heck out of Planetarian, but that had the charm, great world building, interesting characters,
+etc. In ATSBS, the writing is pretty meh, and there is so much they could have done to improve it. </p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h117229"><a class="js_header-anchor" id=""></a>Writing - 5/10</h4>
 <img alt src="./703121630207845802.png"/>
 <p class="sc-77igqf-0 bOfvBY"> Always the Same Blue Sky is a Short kinetic novel. This means there is no gameplay
@@ -48,13 +56,14 @@ oldArticle: true
 <img alt src="./j3schqkecvykqvh6cgas.png"/>
 
 <img alt src="./703121641407516842.jpg"/><p class="sc-77igqf-0 bOfvBY">I don't really know what to think about the visuals on this game. It's water colored nicety
-  in a pretty high resolution, but the whole game looks pretty generic. There's something that really bothers me about
-  this game's visuals, I guess it's just not my taste. The Art style is nice, but it's just not my cup of tea. I didn't
-  like the character art... but my biggest gripe was about the visuals was that I felt like it needed more art, and in
-  general it could have been improved. The game runs on the Ren'py visual novel engine, and I'm not too keen on how the
-  engine looks in general, but in this game the UI is not scaled well, as the text, the text-box and any of the UI
-  elements felt too small, no matter what device I was playing. ATSBS does some things right, but others horribly wrong
-  when it comes to visuals. </p>
+in a pretty high resolution, but the whole game looks pretty generic. There's something that really bothers me about
+this game's visuals, I guess it's just not my taste. The Art style is nice, but it's just not my cup of tea. I didn't
+like the character art... but my biggest gripe was about the visuals was that I felt like it needed more art, and in
+general it could have been improved. The game runs on the Ren'py visual novel engine, and I'm not too keen on how the
+engine looks in general, but in this game the UI is not scaled well, as the text, the text-box and any of the UI
+elements felt too small, no matter what device I was playing. ATSBS does some things right, but others horribly wrong
+when it comes to visuals. </p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h117231"><a class="js_header-anchor" id=""></a>Visuals - 7/10</h4>
 <img alt src="./yeooatmyeowqmcr5niby.png"/>
 <p class="sc-77igqf-0 bOfvBY"> The music is pretty charming, and calming. It's charming, but it suffers through

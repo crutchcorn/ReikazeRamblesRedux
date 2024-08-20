@@ -1,12 +1,23 @@
 ---
 {
-title: "Rockmandash Reviews: Kara no Kyoukai: The Garden of Sinners [Anime]",
-tags: ["rockmandash reviews", "rockmandash12", "kara no kyoukai", "marathon", "type moon", "ufotable", "yuki kajiura", "ani-tay", "ani-tay review", "Type-Moon Marathon"],
-authors: ['reikaze'],
-published: '2014-02-18T03:25:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Kara no Kyoukai: The Garden of Sinners [Anime]",
+  tags:
+    [
+      "rockmandash reviews",
+      "rockmandash12",
+      "kara no kyoukai",
+      "marathon",
+      "type moon",
+      "ufotable",
+      "yuki kajiura",
+      "ani-tay",
+      "ani-tay review",
+      "Type-Moon Marathon",
+    ],
+  published: "2014-02-18T03:25:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -84,11 +95,12 @@ oldArticle: true
 <img alt src="./1313370283956161684.png"/>
 
 <img alt src="./1313370284381928340.jpg"/><p class="sc-77igqf-0 bOfvBY">It might be ballzy to say this, but tied with Redline, Kara no Kyoukai is the
-  pinnacle of Japanese animation, the best that Japanese animation has to offer. With gradients all over the place,
-  great lighting, excellent character art, fluid animation, great atmosphere, etc. The gritty atmosphere of the
-  animation perfectly matches with the gritty atmosphere of the writing. This anime is the best looking anime so far.
-  Nothing but praise about this… it’s absolutely outstanding how great this looks. Everything about it’s visuals… is
-  perfection.</p>
+pinnacle of Japanese animation, the best that Japanese animation has to offer. With gradients all over the place,
+great lighting, excellent character art, fluid animation, great atmosphere, etc. The gritty atmosphere of the
+animation perfectly matches with the gritty atmosphere of the writing. This anime is the best looking anime so far.
+Nothing but praise about this… it’s absolutely outstanding how great this looks. Everything about it’s visuals… is
+perfection.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h121203"><a class="js_header-anchor" id=""></a>Visuals - 10/10</h4>
 <img alt src="./1313370284447462548.png"/>
 <p class="sc-77igqf-0 bOfvBY">There are series that use music to a comedic effect, series that use music to get
@@ -106,11 +118,12 @@ oldArticle: true
 <img alt src="./1313370284496656532.png"/>
 
 <img alt src="./1313370284777810068.jpg"/><p class="sc-77igqf-0 bOfvBY">The Plot has a high barrier of entry, but once you can get through that, it’s a
-  roller coaster of amazing experiences. I’m a big fan of the music and the visuals, they did a really good job with the
-  gradients and lighting which makes me happy. All fight scenes were epic. You cannot describe the feeling of those
-  fight scenes without mentioning the word EPIC. I don’t care for the out of order storytelling, but when you understand
-  everything, the plot becomes very enjoyable. Movies 3, 5 and 7 really took the cake in writing and action; they were
-  amazing. Kara no Kyoukai is an excellent and enjoyable show, once you understand it.</p>
+roller coaster of amazing experiences. I’m a big fan of the music and the visuals, they did a really good job with the
+gradients and lighting which makes me happy. All fight scenes were epic. You cannot describe the feeling of those
+fight scenes without mentioning the word EPIC. I don’t care for the out of order storytelling, but when you understand
+everything, the plot becomes very enjoyable. Movies 3, 5 and 7 really took the cake in writing and action; they were
+amazing. Kara no Kyoukai is an excellent and enjoyable show, once you understand it.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h121205"><a class="js_header-anchor" id=""></a>Enjoyment - 9/10</h4>
 <img alt src="./1313370284859865492.png"/>
 <p class="sc-77igqf-0 bOfvBY">Kara no Kyoukai is the quintessence of Modern Anime. It does so much right, even if

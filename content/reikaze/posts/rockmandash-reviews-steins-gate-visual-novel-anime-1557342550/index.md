@@ -1,12 +1,20 @@
 ---
 {
-title: "Rockmandash Reviews: Steins;Gate [Visual Novel & Anime]",
-tags: ["Rockmandash Reviews", "Steins;Gate", "Visual Novel", "TAY", "Ani-TAY", "Anime", "Video Review"],
-authors: ['reikaze'],
-published: '2014-04-03T12:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Steins;Gate [Visual Novel & Anime]",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "Steins;Gate",
+      "Visual Novel",
+      "TAY",
+      "Ani-TAY",
+      "Anime",
+      "Video Review",
+    ],
+  published: "2014-04-03T12:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

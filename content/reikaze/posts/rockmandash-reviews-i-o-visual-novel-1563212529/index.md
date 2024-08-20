@@ -1,12 +1,11 @@
 ---
 {
-title: "Rockmandash Reviews: I/O [Visual Novel]",
-tags: ["rockmandash reviews", "io", "visual novel", "review", "ani-tay"],
-authors: ['reikaze'],
-published: '2014-04-14T19:25:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: I/O [Visual Novel]",
+  tags: ["rockmandash reviews", "io", "visual novel", "review", "ani-tay"],
+  published: "2014-04-14T19:25:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -71,10 +70,11 @@ oldArticle: true
 <img alt src="./wy9oow5olytlqophctdz.png"/>
 
 <img alt src="./696950678638524962.jpg"/><p class="sc-77igqf-0 bOfvBY"> The visuals in I/O are average at best. There’s a lot here, so that’s no problem, but the
-  quality of the art itself could be better in my opinion. The character art is jarring, especially at the beginning,
-  but you’ll get used to it. I think there’s a lot of missed potential here, they could have built a beautiful sci-fi
-  looking world, but it looks very modest. Some things look dated, like the cell phone calls, the 4:3 monitors
-  everywhere, and the typography. Visually, it’s kinda dated.</p>
+quality of the art itself could be better in my opinion. The character art is jarring, especially at the beginning,
+but you’ll get used to it. I think there’s a lot of missed potential here, they could have built a beautiful sci-fi
+looking world, but it looks very modest. Some things look dated, like the cell phone calls, the 4:3 monitors
+everywhere, and the typography. Visually, it’s kinda dated.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h113804"><a class="js_header-anchor" id=""></a>Visuals - 7.5/10</h4>
 <img alt src="./tyurpcaqohpfzd0wvncj.png"/>
 <div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/hqlE63-ppKQ" width="560"></iframe><span class="js_recommend" data-chomp-id="hqlE63-ppKQ" data-recommend-id="youtube://hqlE63-ppKQ" data-recommended="false" id="youtube-hqlE63-ppKQ"></span></span></div><p class="sc-77igqf-0 bOfvBY"> The soundtrack is brilliant. The music is done by Onoken, and he did a great job. This is
@@ -101,8 +101,8 @@ oldArticle: true
 <img alt src="./rv0avmnl6jo7v6oetrzv.png"/>
 
 <img alt src="./696950706504418850.png"/><p class="sc-77igqf-0 bOfvBY"> You might have noticed that I implemented a polarization thing in the overall score.
-  That’s what I think the difference of opinion will be, and it can go up to 2-3 points. I kinda snagged the idea while
-  reading up reviews. Now that i’m finally done with that, onto <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://dexomega.kinja.com/dex-where-do-i-start-with-muv-luv-1561900783",{"metric25":1}]]' href="http://dexomega.kinja.com/dex-where-do-i-start-with-muv-luv-1561900783" rel="noopener noreferrer" target="_blank">Muv-Luv</a></span>! </p>
+That’s what I think the difference of opinion will be, and it can go up to 2-3 points. I kinda snagged the idea while
+reading up reviews. Now that i’m finally done with that, onto <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://dexomega.kinja.com/dex-where-do-i-start-with-muv-luv-1561900783",{"metric25":1}]]' href="http://dexomega.kinja.com/dex-where-do-i-start-with-muv-luv-1561900783" rel="noopener noreferrer" target="_blank">Muv-Luv</a></span>! </p>
 
 <hr class="gcp5ez-0 hKlTiw"/><p class="sc-77igqf-0 bOfvBY"><strong>Copyright Disclaimer:</strong> Under Title 17, Section
   107 of United States Copyright law, reviews are protected under fair use. This is a review, and as such, all media

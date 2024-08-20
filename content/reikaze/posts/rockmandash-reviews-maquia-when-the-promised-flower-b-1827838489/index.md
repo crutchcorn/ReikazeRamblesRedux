@@ -1,12 +1,19 @@
 ---
 {
-title: "Rockmandash Reviews: Maquia: When the Promised Flower Blooms",
-tags: ["Rockmandash Reviews", "Maquia", "Anime Movie", "AniTAY", "Anime", "Review"],
-authors: ['reikaze'],
-published: '2018-07-24T14:30:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Maquia: When the Promised Flower Blooms",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "Maquia",
+      "Anime Movie",
+      "AniTAY",
+      "Anime",
+      "Review",
+    ],
+  published: "2018-07-24T14:30:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -71,25 +78,26 @@ oldArticle: true
   movie. </p>
 
 <img alt src="./trtdzjuztyseoynekz0s.jpg"/><p class="sc-77igqf-0 bOfvBY">This is all amplified by that the story of the movie being far too ambitious to
-  fit into a 2 hour movie, and the movie crams things next to each other in a way that felt jolted and unenjoyable. <em>Maquia</em>
-  is split into the time periods of Ariel’s life, covering when he was an infant, when he was a little kid, when he was
-  a teenager and when he was a young adult, but because there’s only 2 hours for a film, each of the time periods felt
-  constrained, with nothing getting real development. The movie is a very thematically consistent one, and manages to
-  extract thematic meaning out of each era to make the work satisfying in the end, but that’s about it. The time periods
-  were too short to get a real sense of what the world was like, too short to feel engaging and absorbing, but the big
-  issue is... It wasn’t nearly enough time to develop the characters, which is a huge issue given that this movie is all
-  about the characters.<br/></p>
+fit into a 2 hour movie, and the movie crams things next to each other in a way that felt jolted and unenjoyable. <em>Maquia</em>
+is split into the time periods of Ariel’s life, covering when he was an infant, when he was a little kid, when he was
+a teenager and when he was a young adult, but because there’s only 2 hours for a film, each of the time periods felt
+constrained, with nothing getting real development. The movie is a very thematically consistent one, and manages to
+extract thematic meaning out of each era to make the work satisfying in the end, but that’s about it. The time periods
+were too short to get a real sense of what the world was like, too short to feel engaging and absorbing, but the big
+issue is... It wasn’t nearly enough time to develop the characters, which is a huge issue given that this movie is all
+about the characters.<br/></p>
 
 <img alt src="./idckkjke2brwyqa3afuk.png"/><p class="sc-77igqf-0 bOfvBY">This lack of development in regards to the characters is frustrating because
-  there’s so many characters you would love to see and engage with, but you almost ever get any time to really get to
-  know them. A great example was the characters of Leilia and Medmel:</p><p class="sc-77igqf-0 bOfvBY"><br/><strong>(SPOILER
-  ALERT - LIGHT SPOILERS START HERE)</strong></p><p class="sc-77igqf-0 bOfvBY">Leilia is a friend of Maquia’s and was
-  kidnapped by the nation of Mezarte, one of the most prominent locations in the world of <em>Maquia</em>. Mezarte’s
-  king forces her to have a child with the prince of the nation, Medmel being said child. Their dynamic is fascinating
-  and engaging, leading to what is by far my favorite part of the movie at the end, but they get almost no screen time.
-  Medmel for example is literally in only two scenes, and each scene she is in is powerful and moving because of the
-  themes their relationships represent, but we don’t know anything about them and what they are like besides a handful
-  of moments they are on the screen.</p>
+there’s so many characters you would love to see and engage with, but you almost ever get any time to really get to
+know them. A great example was the characters of Leilia and Medmel:</p><p class="sc-77igqf-0 bOfvBY"><br/><strong>(SPOILER
+ALERT - LIGHT SPOILERS START HERE)</strong></p><p class="sc-77igqf-0 bOfvBY">Leilia is a friend of Maquia’s and was
+kidnapped by the nation of Mezarte, one of the most prominent locations in the world of <em>Maquia</em>. Mezarte’s
+king forces her to have a child with the prince of the nation, Medmel being said child. Their dynamic is fascinating
+and engaging, leading to what is by far my favorite part of the movie at the end, but they get almost no screen time.
+Medmel for example is literally in only two scenes, and each scene she is in is powerful and moving because of the
+themes their relationships represent, but we don’t know anything about them and what they are like besides a handful
+of moments they are on the screen.</p>
+
 <p class="sc-77igqf-0 bOfvBY"><strong>(SPOILER ALERT - SPOILERS END HERE)</strong></p>
 <img alt src="./yqxosw3rwyxzwdo5t5e9.jpg"/>
 <p class="sc-77igqf-0 bOfvBY">Compound this with the fact that <em>Maquia</em> also has a pretty big cast, with
@@ -107,24 +115,25 @@ oldArticle: true
   truly appreciate. </p>
 
 <img alt src="./s8nbcbkwpuiygoncr7q0.jpg"/><p class="sc-77igqf-0 bOfvBY">All of this hampered my experience to a certain extent that throughout the first
-  third of the film. I honestly felt like I wasn’t going to enjoy the movie. The lack of character development, the
-  consistent, poorly-executed time skips, and the feeling that it’s just going through the motions is usually a recipe
-  for disaster… And despite that, I still found myself enjoying <em>Maquia</em> quite a bit. I think if you try to judge
-  <em>Maquia</em> in a traditional and/or objective manner, it becomes impossible to say it’s a good film because the
-  movie screws up so much of what is considered good film making. Thanks to the themes and emotions that this movie
-  builds up, however - due to the gripping nature of the work and <em>Mari Okada magic</em> - <em>Maquia</em> provides
-  an experience so enjoyable that it makes you wonder what good even means. The movie shines in the second half, where
-  everything builds up to be oh so satisfying, with a release of catharsis that’s done in a superb manner. Everything
-  <em>clicks</em>, everything is built up in a way that is satisfying to see, and the way it displays and wraps up the
-  themes to show to you… It might be heavy-handed, but it’s amazing. It’s also obviously a tear-jerker, and some of
-  those scenes are hard to resist crying. If a work of fiction manages to make you cry, it has to be doing something,
-  right…? Right?<br/></p>
+third of the film. I honestly felt like I wasn’t going to enjoy the movie. The lack of character development, the
+consistent, poorly-executed time skips, and the feeling that it’s just going through the motions is usually a recipe
+for disaster… And despite that, I still found myself enjoying <em>Maquia</em> quite a bit. I think if you try to judge
+<em>Maquia</em> in a traditional and/or objective manner, it becomes impossible to say it’s a good film because the
+movie screws up so much of what is considered good film making. Thanks to the themes and emotions that this movie
+builds up, however - due to the gripping nature of the work and <em>Mari Okada magic</em> - <em>Maquia</em> provides
+an experience so enjoyable that it makes you wonder what good even means. The movie shines in the second half, where
+everything builds up to be oh so satisfying, with a release of catharsis that’s done in a superb manner. Everything
+<em>clicks</em>, everything is built up in a way that is satisfying to see, and the way it displays and wraps up the
+themes to show to you… It might be heavy-handed, but it’s amazing. It’s also obviously a tear-jerker, and some of
+those scenes are hard to resist crying. If a work of fiction manages to make you cry, it has to be doing something,
+right…? Right?<br/></p>
 
 <img alt src="./shqwxgpkjstflj7ajitq.jpg"/><p class="sc-77igqf-0 bOfvBY"><em>Maquia</em> is a movie that gets better the more you let it sink in - it’s
-  very multifaceted and full of substance and because of that, it shines. When you think back on movies, you don’t
-  remember trips in execution but the substance and meaning that the work provides. For example, while the beginning of
-  Maquia and wanting to be a mother is rather contrived, there’s so much to this work that contributes to how Maquia
-  thinks and acts in the end, and analysing that is an absolute blast. <br/></p>
+very multifaceted and full of substance and because of that, it shines. When you think back on movies, you don’t
+remember trips in execution but the substance and meaning that the work provides. For example, while the beginning of
+Maquia and wanting to be a mother is rather contrived, there’s so much to this work that contributes to how Maquia
+thinks and acts in the end, and analysing that is an absolute blast. <br/></p>
+
 <p class="sc-77igqf-0 bOfvBY">If you truly love a movie despite its flaws, who is to say that it’s a bad movie? Is
   a movie’s ability to make the viewer look past the flaws be considered a justification to call the movie objectively
   good, or does the flaws it has cement itself as a bad film? If a film you enjoy is a bad movie, then what makes a good

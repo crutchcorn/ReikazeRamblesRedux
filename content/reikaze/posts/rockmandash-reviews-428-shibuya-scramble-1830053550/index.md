@@ -1,12 +1,11 @@
 ---
 {
-title: "RockmanDash Reviews: 428: Shibuya Scramble",
-tags: ["428", "Visual Novel", "Rockmandash Reviews", "428 Shibuya Scramble"],
-authors: ['reikaze'],
-published: '2018-10-28T02:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash Reviews: 428: Shibuya Scramble",
+  tags: ["428", "Visual Novel", "Rockmandash Reviews", "428 Shibuya Scramble"],
+  published: "2018-10-28T02:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -74,32 +73,33 @@ oldArticle: true
   the kidnapping of his daughter.. All of them were great, and I got attached to all of them.</p>
 
 <img alt src="./kzxi3vkp5hn4mbweyaid.jpg"/><p class="sc-77igqf-0 bOfvBY">A key part of how this is even possible is thanks to the interesting and unique
-  way that 428 handles characters and story progression: instead of one lead character, 428 follows all the of
-  aforementioned characters with their individual stories, going together in parallel but merging all the time. The
-  easiest way to explain the story structure is rope: they’re all technically separated stories, but they weave in
-  together back and forth to make a giant cohesive story that flows all together. These stories affect each other, and
-  we see that through the story, and through the gameplay, adding a feeling of livelihood that isn’t possible without
-  this structure. This leads to frustrating moments of in regards to gameplay(which we’ll get to later), but because of
-  this structure we get really diverse, compelling stories that mesh surprisingly well. We get hilarious comedy, we get
-  a deeply introspective story, we get down to earth moments, there’s so much to 428, it perfectly captures the modern
-  human experience, and I absolutely love it.</p>
+way that 428 handles characters and story progression: instead of one lead character, 428 follows all the of
+aforementioned characters with their individual stories, going together in parallel but merging all the time. The
+easiest way to explain the story structure is rope: they’re all technically separated stories, but they weave in
+together back and forth to make a giant cohesive story that flows all together. These stories affect each other, and
+we see that through the story, and through the gameplay, adding a feeling of livelihood that isn’t possible without
+this structure. This leads to frustrating moments of in regards to gameplay(which we’ll get to later), but because of
+this structure we get really diverse, compelling stories that mesh surprisingly well. We get hilarious comedy, we get
+a deeply introspective story, we get down to earth moments, there’s so much to 428, it perfectly captures the modern
+human experience, and I absolutely love it.</p>
 
 <img alt src="./xhj2uswskdh3wczhjew7.jpg"/><p class="sc-77igqf-0 bOfvBY">A great example of 428’s strengths meshing together is a scene with Tama’s boss
-  Yanagishita. Yanagishita is one of my favorite characters in the game - he’s basically a wacky snake oil salesperson,
-  and is usually played for laughs, but at 13:40, he’s the center of one of the most touching moments in the game to me
-  - he’s down on his luck, with his event completely flopping and no real way to pay for his dept... but even given this
+Yanagishita. Yanagishita is one of my favorite characters in the game - he’s basically a wacky snake oil salesperson,
+and is usually played for laughs, but at 13:40, he’s the center of one of the most touching moments in the game to me
+
+- he’s down on his luck, with his event completely flopping and no real way to pay for his dept... but even given this
   he’s still optimistic through the end - comedy moving to serious extremely seamlessly, in a way that adds so much
   relatability and human touch to the story, something most works simply don’t have.<br/></p>
 
 <img alt src="./v1fiqovfj7oabd5upj3h.jpg"/><p class="sc-77igqf-0 bOfvBY">Adding to my adoration of 428 is that game has this magical ability rarely found
-  in visual novels to keep every moment engaging. While some fans may bemoan the idea of Slice of Life, I believe that
-  is not because of the concept but because Visual novels execute Slice of Life poorly: Slice of Life normally in visual
-  novels are either repetitive or flat out boring scenes. This is absolutely not the case with 428: it’s a game that
-  kept me wanting to read more and more because I enjoyed the moment to moment experience so damn much. The writing in
-  this game is phenomenal, and the fantastic translation by Kevin Frane and the others on the localization team means
-  the charm and character are conveyed in spectacular fashion. The game is written with so much character, with moments
-  of excitement and intrigue to the point that it’s very hard to put down. Engaging story, relatable cast, enjoyable
-  experience, touching moments - what more could you want from a game?<br/></p>
+in visual novels to keep every moment engaging. While some fans may bemoan the idea of Slice of Life, I believe that
+is not because of the concept but because Visual novels execute Slice of Life poorly: Slice of Life normally in visual
+novels are either repetitive or flat out boring scenes. This is absolutely not the case with 428: it’s a game that
+kept me wanting to read more and more because I enjoyed the moment to moment experience so damn much. The writing in
+this game is phenomenal, and the fantastic translation by Kevin Frane and the others on the localization team means
+the charm and character are conveyed in spectacular fashion. The game is written with so much character, with moments
+of excitement and intrigue to the point that it’s very hard to put down. Engaging story, relatable cast, enjoyable
+experience, touching moments - what more could you want from a game?<br/></p>
 
 <hr class="gcp5ez-0 hKlTiw"/>
 <img alt src="./uh2ufc3m8xwlj302z1ol.png"/>

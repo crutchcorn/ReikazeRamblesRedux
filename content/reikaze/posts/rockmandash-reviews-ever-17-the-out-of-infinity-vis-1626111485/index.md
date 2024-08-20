@@ -1,12 +1,20 @@
 ---
 {
-title: "Rockmandash Reviews+: Ever 17: The Out of Infinity [Visual Novel]",
-tags: ["Rockmandash Reviews", "Ever 17", "Visual Novels", "Infinity Series", "Zero Escape", "Uchikoshi", "Amazing"],
-authors: ['reikaze'],
-published: '2014-11-03T21:30:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews+: Ever 17: The Out of Infinity [Visual Novel]",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "Ever 17",
+      "Visual Novels",
+      "Infinity Series",
+      "Zero Escape",
+      "Uchikoshi",
+      "Amazing",
+    ],
+  published: "2014-11-03T21:30:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -33,11 +41,12 @@ oldArticle: true
 <img alt src="./1306104797466052266.png"/>
 
 <img alt src="./1306104797492973226.jpg"/><p class="sc-77igqf-0 bOfvBY"> Ever 17 is one of those stories that was so impactful to me that it bent my
-  perception of how I viewed storytelling, and it redefined what I thought a good story was. It was an essential part of
-  my <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://tay.kotaku.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739",{"metric25":1}]]' href="http://tay.kotaku.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739">entry into the Visual Novel genre</a></span>,
-  and it’s a game that I will always hold in high regard due to the fantastic execution of the story. <em>Ever 17</em>
-  has a premise that holds unbelievable potential and the best part is that it nails the execution, squeezing all the
-  setting has to offer (if you can get into it).</p>
+perception of how I viewed storytelling, and it redefined what I thought a good story was. It was an essential part of
+my <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://tay.kotaku.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739",{"metric25":1}]]' href="http://tay.kotaku.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739">entry into the Visual Novel genre</a></span>,
+and it’s a game that I will always hold in high regard due to the fantastic execution of the story. <em>Ever 17</em>
+has a premise that holds unbelievable potential and the best part is that it nails the execution, squeezing all the
+setting has to offer (if you can get into it).</p>
+
 <p class="sc-77igqf-0 bOfvBY">It’s a Kotaro Uchikoshi story through and through. Almost everything about the
   writing that people loved from the <em>Zero Escape</em> series originated from <em>Ever 17</em> (and the infinity
   series as a whole). The interesting premise, story progression, awesome concepts, amazing atmosphere, great mystery,
@@ -58,16 +67,17 @@ oldArticle: true
   started skipping on my first playthrough.</p>
 
 <img alt src="./1306104797872267178.jpg"/><p class="sc-77igqf-0 bOfvBY">On the flipside, this time is used to develop the characters, and when they are developed
-  in used in their routes, it can lead to great things. This is one thing that Ever 17 has over it’s spiritual
-  successors: it has characters that are actually memorable. In <em>Ever 17</em>, there are 5 routes, 4 focused on one
-  heroine (Two under Takeshi’s perspective, and the other Two under Kid’s perspective), with the last one (Coco’s route)
-  serving as a true route that combines everything you’ve experienced into one amazing story. The character arcs are
-  great because they both develop the heroine and the main character, and the interactions between said characters are
-  interesting due to interesting aspects in the characters, and solid chemistry. It even has some enjoyable romance!
-  (it’s not the main focus, but it’s still enjoyable.) While the characters basic personalities may be kinda
-  archetypical, they all develop into something a bit more than a typical archetypical character, and they all have
-  interesting and unique about them which ties into the story. They are all memorable to me, and they are all great
-  characters that I love to see.</p>
+in used in their routes, it can lead to great things. This is one thing that Ever 17 has over it’s spiritual
+successors: it has characters that are actually memorable. In <em>Ever 17</em>, there are 5 routes, 4 focused on one
+heroine (Two under Takeshi’s perspective, and the other Two under Kid’s perspective), with the last one (Coco’s route)
+serving as a true route that combines everything you’ve experienced into one amazing story. The character arcs are
+great because they both develop the heroine and the main character, and the interactions between said characters are
+interesting due to interesting aspects in the characters, and solid chemistry. It even has some enjoyable romance!
+(it’s not the main focus, but it’s still enjoyable.) While the characters basic personalities may be kinda
+archetypical, they all develop into something a bit more than a typical archetypical character, and they all have
+interesting and unique about them which ties into the story. They are all memorable to me, and they are all great
+characters that I love to see.</p>
+
 <p class="sc-77igqf-0 bOfvBY">If character interactions are the meat of the plot, the mystery would be what pushes
   the story forward. The intrigue they build with the differences in the routes, the concepts they cover that don’t
   really get explanation, the weird things that shouldn’t happen, the other characters, they all urge you on. You never
@@ -90,12 +100,13 @@ oldArticle: true
   world with this beautiful water theme, and creating the feeling that you are trapped underwater.</p>
 
 <img alt src="./1306104798118680746.jpg"/><p class="sc-77igqf-0 bOfvBY">Due to the routes being pretty similar to the others, your experiences add up,
-  and you learn more and more about these characters and this world. When Coco’s route comes by, it uses everything you
-  know to blow you away like a roller coaster. The last route is intriguing, interesting, exhilarating, and amazing with
-  a glorious ending that answers almost any question you could throw at it. It’s one of the best I’ve seen. The ending
-  is sort of like a Charles Dickens book, but not done in a dated way; everything’s wrapped up in a neat little bow,
-  creating a satisfying conclusion. The best part? If you want more, there is an audio novel that is like an
-  epilogue.</p>
+and you learn more and more about these characters and this world. When Coco’s route comes by, it uses everything you
+know to blow you away like a roller coaster. The last route is intriguing, interesting, exhilarating, and amazing with
+a glorious ending that answers almost any question you could throw at it. It’s one of the best I’ve seen. The ending
+is sort of like a Charles Dickens book, but not done in a dated way; everything’s wrapped up in a neat little bow,
+creating a satisfying conclusion. The best part? If you want more, there is an audio novel that is like an
+epilogue.</p>
+
 <p class="sc-77igqf-0 bOfvBY">All of these aspects culminate to create a well written story with lots of depth and
   intrigue. Ever 17 is one of my favorite stories I’ve ever experienced, and due to the writing, it was a blast to
   experience. There’s the pacing that may bother some out there, but I didn’t really find anything wrong with it. I wish
@@ -103,9 +114,10 @@ oldArticle: true
 <img alt src="./1306104798297618858.png"/>
 
 <img alt src="./1306104798364933034.jpg"/><p class="sc-77igqf-0 bOfvBY">As of writing this review,<em> Ever 17</em> is the second oldest visual novel I
-  have reviewed (The oldest being Tsukihime), originally coming out in 2002… and unlike what you would think, it hasn’t
-  aged that badly when it comes to Visuals. In fact, many aspects of the visuals in <em>Ever 17</em> are still very
-  pleasing to the eye, and it holds its ground in extremely well.</p>
+have reviewed (The oldest being Tsukihime), originally coming out in 2002… and unlike what you would think, it hasn’t
+aged that badly when it comes to Visuals. In fact, many aspects of the visuals in <em>Ever 17</em> are still very
+pleasing to the eye, and it holds its ground in extremely well.</p>
+
 <p class="sc-77igqf-0 bOfvBY">I can’t help but enjoy how it looks because it’s an underwater abandoned theme park,
   which is two great looking concepts (abandoned complexes, and water) put together to make a combo that looks pleasing
   to the eye. The water themes and the industrial aspects of LeMU are done pretty well, and the anime-esque CG was done
@@ -170,13 +182,14 @@ oldArticle: true
 <img alt src="./1306104798603466410.png"/>
 
 <img alt src="./v9s06u0mljd7u1yfkfcn.jpg"/><p class="sc-77igqf-0 bOfvBY">I’m pretty sure I gushed over it enough in this review, but if it hasn’t sunk in,
-  I love <em>Ever 17</em>. It hits all the buttons on what I’d find enjoyable: the writing style is one I fell in love
-  with, I’m a big fan of the soundtrack, the atmosphere is something to die for, the characters are fantastic, and the
-  last route... that was something else. Everything about Coco’s route was just so amazing, seeing all the time you sank
-  being resolved in an extremely interesting way was the greatest thing ever. I was so blown away by it that I <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://tay.kotaku.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739",{"metric25":1}]]' href="http://tay.kotaku.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739">fell in love with a genre</a></span>
-  then started doing internet reviews about it. (Yes, this was my inspiration for reviews and that’s why my original
-  review for this was the first review I had done). It’s impacted how I enjoy a story, and it’s an essential part of who
-  I am.</p>
+I love <em>Ever 17</em>. It hits all the buttons on what I’d find enjoyable: the writing style is one I fell in love
+with, I’m a big fan of the soundtrack, the atmosphere is something to die for, the characters are fantastic, and the
+last route... that was something else. Everything about Coco’s route was just so amazing, seeing all the time you sank
+being resolved in an extremely interesting way was the greatest thing ever. I was so blown away by it that I <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://tay.kotaku.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739",{"metric25":1}]]' href="http://tay.kotaku.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739">fell in love with a genre</a></span>
+then started doing internet reviews about it. (Yes, this was my inspiration for reviews and that’s why my original
+review for this was the first review I had done). It’s impacted how I enjoy a story, and it’s an essential part of who
+I am.</p>
+
 <p class="sc-77igqf-0 bOfvBY">Also, I didn’t think this warranted it’s own segment, but I found it interesting:
   <em>Ever 17</em> got a manga adaptation. It’s a pretty low budget, poorly done manga, but it exists, and the fact that
   it does makes me happy.</p><h4 class="sc-1bwb26k-1 fvCjqJ" id="h116526"><a class="js_header-anchor" id=""></a>Enjoyment

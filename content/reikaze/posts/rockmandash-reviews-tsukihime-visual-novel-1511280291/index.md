@@ -1,12 +1,24 @@
 ---
 {
-title: "Rockmandash Reviews: Tsukihime [Visual Novel]",
-tags: ["rockmandash reviews", "tayclassic", "fate stay night", "tsukihime", "lunar", "legend", "tay review", "type-moon", "type-moon marathon", "rockmandash", "visual novel"],
-authors: ['reikaze'],
-published: '2014-01-28T18:08:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Tsukihime [Visual Novel]",
+  tags:
+    [
+      "rockmandash reviews",
+      "tayclassic",
+      "fate stay night",
+      "tsukihime",
+      "lunar",
+      "legend",
+      "tay review",
+      "type-moon",
+      "type-moon marathon",
+      "rockmandash",
+      "visual novel",
+    ],
+  published: "2014-01-28T18:08:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

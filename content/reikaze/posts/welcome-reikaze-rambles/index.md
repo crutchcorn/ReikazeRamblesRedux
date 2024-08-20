@@ -1,15 +1,15 @@
 ---
 {
-    title: "Welcome to Reikaze Rambles!",
-    description: "An introduction to Reikaze Rambles/RockmanDash Reviews",
-    published: '2020-11-17T12:00:00.000Z',
-    authors: ['reikaze'],
-    tags: ['welcome', 'announcements'],
-    attached: [],
-    license: 'cc-by-4',
-    oldArticle: false
+  title: "Welcome to Reikaze Rambles!",
+  description: "An introduction to Reikaze Rambles/RockmanDash Reviews",
+  published: "2020-11-17T12:00:00.000Z",
+  tags: ["welcome", "announcements"],
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: false,
 }
 ---
+
 ![hey this is new and a test!](./CnQ1J0G.png)
 
 Welcome to a potential new home for RockmanDash Reviews! This is Reikaze Rambles, a site that i've built with the help of my friend [@crutchcorn](https://twitter.com/crutchcorn) from [Unicorn Utterances](https://unicorn-utterances.com/) because of the uncertainty of the Kinja platform as a whole. Thanks to the whole Deadspin/Kotaku thing, I've decided to at the very least build up options, and this is one of them.

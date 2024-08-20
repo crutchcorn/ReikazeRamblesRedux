@@ -1,12 +1,21 @@
 ---
 {
-title: "Where did variety in games go?",
-tags: ["Rockmandash Rambles", "Variety", "in", "gaming", "AAA", "Indie", "Nintendo", "FPS"],
-authors: ['reikaze'],
-published: '2014-06-10T23:44:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Where did variety in games go?",
+  tags:
+    [
+      "Rockmandash Rambles",
+      "Variety",
+      "in",
+      "gaming",
+      "AAA",
+      "Indie",
+      "Nintendo",
+      "FPS",
+    ],
+  published: "2014-06-10T23:44:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

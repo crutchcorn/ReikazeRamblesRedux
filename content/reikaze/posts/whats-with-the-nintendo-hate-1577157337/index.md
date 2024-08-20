@@ -1,12 +1,20 @@
 ---
 {
-title: "Rockmandash Rambles: What's with the Nintendo hate lately?",
-tags: ["Tay-Classic", "Opinion", "Nintendo", "fun", "hate", "why", "Mario Kart 8"],
-authors: ['reikaze'],
-published: '2014-05-15T19:15:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Rambles: What's with the Nintendo hate lately?",
+  tags:
+    [
+      "Tay-Classic",
+      "Opinion",
+      "Nintendo",
+      "fun",
+      "hate",
+      "why",
+      "Mario Kart 8",
+    ],
+  published: "2014-05-15T19:15:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

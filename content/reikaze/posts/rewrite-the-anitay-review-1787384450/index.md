@@ -1,12 +1,21 @@
 ---
 {
-title: "Rewrite : The AniTAY Review",
-tags: ["AniTay", "The Ani-TAY Review", "Key Marathon", "Key", "Rewrite", "Visual novels", "Visual Novel", "RockmanDash Reviews"],
-authors: ['reikaze'],
-published: '2016-10-06T15:45:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rewrite : The AniTAY Review",
+  tags:
+    [
+      "AniTay",
+      "The Ani-TAY Review",
+      "Key Marathon",
+      "Key",
+      "Rewrite",
+      "Visual novels",
+      "Visual Novel",
+      "RockmanDash Reviews",
+    ],
+  published: "2016-10-06T15:45:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -46,6 +55,7 @@ oldArticle: true
 
 <img alt src="./yc7bx59cz3sgp0hibjnk.png"/><p class="sc-77igqf-0 bOfvBY"><strong><em>Rewritten into Randomness</em></strong><br/></p>
 <img alt src="./op8rpilglhenuoimnu7p.png"/>
+
 <p class="sc-77igqf-0 bOfvBY">…. And you get an adaptation that is a failure, a pain to watch. Visual Novels are a
   fundamentally different medium than Anime, and even if you have aspects hat work well in a Visual Novel, they don’t
   necessarily work well in anime. Just to give you some idea about how they differ: In Visual novels, sometimes you have
@@ -61,18 +71,19 @@ oldArticle: true
   it was just plain boring.</p>
 
 <img alt src="./vzutlw2tz0fwee9ht04d.jpg"/><p class="sc-77igqf-0 bOfvBY">The primary reason? Poor handling of the Common Route, or the existence of the
-  Common Route by itself. Visual Novels have this thing called a common route, an intersection that all routes branch
-  off of, and it’s almost all slice of life, getting to know the cast before you go into their personal story. This
-  anime was doing common route for more than half of the first season, but it still had to cut a lot of material due to
-  the length of the original and you can feel it: developments are contrived, characters feel flat, you don’t understand
-  any of the relationships between the characters, the scenes become boring due to the combination of all of these
-  aspects, etc. You can’t really rush slice of life while keeping it interesting, by truncating the story you do not
-  have the time to demonstrate average life, context of the characters, or the time to get to know them. They could have
-  made this work by completely overhauling the common route until it barely represented what we saw in the VN, putting
-  the enjoyment of the work itself over the accuracy of the adaptation, but that didn’t happen.</p>
+Common Route by itself. Visual Novels have this thing called a common route, an intersection that all routes branch
+off of, and it’s almost all slice of life, getting to know the cast before you go into their personal story. This
+anime was doing common route for more than half of the first season, but it still had to cut a lot of material due to
+the length of the original and you can feel it: developments are contrived, characters feel flat, you don’t understand
+any of the relationships between the characters, the scenes become boring due to the combination of all of these
+aspects, etc. You can’t really rush slice of life while keeping it interesting, by truncating the story you do not
+have the time to demonstrate average life, context of the characters, or the time to get to know them. They could have
+made this work by completely overhauling the common route until it barely represented what we saw in the VN, putting
+the enjoyment of the work itself over the accuracy of the adaptation, but that didn’t happen.</p>
 
 <img alt src="./iffjyomobt3urowpe4nx.jpg"/><p class="sc-77igqf-0 bOfvBY">The situation with <em>Rewrite</em> is made worse given the structure of the
-  Visual Novel: From my Visual Novel Review:<br/></p>
+Visual Novel: From my Visual Novel Review:<br/></p>
+
 <blockquote class="sc-8hxd3p-0 nvIqO" data-type="BlockQuote"><p class="sc-77igqf-0 bOfvBY"><em>﻿Rewrite is Key’s longest
   visual novel to date: It has a total of 7 routes, with each having a very different writing style due to them having
   different authors.</em></p></blockquote>

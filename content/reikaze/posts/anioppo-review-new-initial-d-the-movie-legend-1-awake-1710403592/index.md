@@ -1,12 +1,11 @@
 ---
 {
-title: "AniOppo Review: New Initial D The Movie Legend 1 -AWAKENING-",
-tags: ["AniOppo", "AniTAY", "Review", "Initial D"],
-authors: ['reikaze'],
-published: '2015-06-10T13:58:36-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "AniOppo Review: New Initial D The Movie Legend 1 -AWAKENING-",
+  tags: ["AniOppo", "AniTAY", "Review", "Initial D"],
+  published: "2015-06-10T13:58:36-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

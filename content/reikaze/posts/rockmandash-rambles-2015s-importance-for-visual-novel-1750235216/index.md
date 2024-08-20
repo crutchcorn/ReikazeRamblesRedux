@@ -1,12 +1,20 @@
 ---
 {
-title: "RockmanDash Rambles - 2015's Importance for Visual Novels in the West",
-tags: ["Rockmandash Rambles", "Rockmandash12", "Visual Novels", "Opinion", "2015", "West", "Localization"],
-authors: ['reikaze'],
-published: '2015-12-29T23:13:49-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash Rambles - 2015's Importance for Visual Novels in the West",
+  tags:
+    [
+      "Rockmandash Rambles",
+      "Rockmandash12",
+      "Visual Novels",
+      "Opinion",
+      "2015",
+      "West",
+      "Localization",
+    ],
+  published: "2015-12-29T23:13:49-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

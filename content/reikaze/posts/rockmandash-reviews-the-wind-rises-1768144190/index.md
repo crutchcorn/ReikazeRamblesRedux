@@ -1,12 +1,11 @@
 ---
 {
-title: "RockmanDash Reviews+: The Wind Rises",
-tags: ["The Wind Rises", "April Fools"],
-authors: ['reikaze'],
-published: '2016-04-01T12:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash Reviews+: The Wind Rises",
+  tags: ["The Wind Rises", "April Fools"],
+  published: "2016-04-01T12:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

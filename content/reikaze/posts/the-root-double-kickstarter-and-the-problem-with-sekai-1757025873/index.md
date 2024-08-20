@@ -1,12 +1,21 @@
 ---
 {
-title: "The Root Double Kickstarter and The Problem With Sekai Project",
-tags: ["Rockmandash Rambles", "Visual Novel", "Root Double", "Sekai Project", "Root Double Before Crime After Days", "Kickstarter", "Rant", "AniTAY"],
-authors: ['reikaze'],
-published: '2016-02-04T13:00:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "The Root Double Kickstarter and The Problem With Sekai Project",
+  tags:
+    [
+      "Rockmandash Rambles",
+      "Visual Novel",
+      "Root Double",
+      "Sekai Project",
+      "Root Double Before Crime After Days",
+      "Kickstarter",
+      "Rant",
+      "AniTAY",
+    ],
+  published: "2016-02-04T13:00:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -38,32 +47,32 @@ oldArticle: true
   brings excitement, except for the most important part of the puzzle: Sekai Project.</p>
 
 <img alt src="./zmbigpod07edx5zavakc.jpg"/><p class="sc-77igqf-0 bOfvBY">Sekai Project is a really important part of the visual novel community, but its
-  importance does not come without a cost. As I mentioned in my <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-rambles-2015s-importance-for-visual-novel-1750235216",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-rambles-2015s-importance-for-visual-novel-1750235216" rel="noopener noreferrer" target="_blank">2015’s Importance for Visual Novels in the West </a></span>article, Sekai
-  Project essentially took the western visual novel market that was nearly nonexistent and kickstarted it, but that was
-  a big picture look at the situation; while they were a force that has greatly improved how VNs are considered in the
-  west, it has not been smooth sailing for them. As time has past, it has been shown that even though they started it
-  all and consistently bring over great visual novels, the way they do it, primarily though their kickstarters, has not
-  been smooth at all. They have a really bad habit of putting out new kickstarters out constantly, to the dismay of many
-  fans (which, unlike many people like to believe, probably isn’t detrimental to the progress of other VNs because Sekai
-  Project since they have pretty much separate teams for every project). They have a fair amount of poorly advertised
-  and managed kickstarters that either barely make it or fail, like <em>Narcissu</em> or their magical boy kickstarter
-  respectively. They run into what seems to be a never ending amount of controversy or issues during the kickstarter
-  even when the kickstarters are doing fine financially, like the Grisaia dakimakura and boxart issues. Even when their
-  kickstarters have no problems, they’ve also had countless issues delivering what they promised to people: a few
-  examples being any of the Vita versions they promised or whole kickstarters themselves, with the game <em>World End
-    Economica</em> (which was written by the author of <em>Spice &amp; Wolf</em>, for those interested) being the
-  biggest sticking point to many. <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://cythoplazma.wordpress.com/2016/01/29/sekai-projects-unwanted-child/",{"metric25":1}]]' href="https://cythoplazma.wordpress.com/2016/01/29/sekai-projects-unwanted-child/" rel="noopener noreferrer" target="_blank">It’s been consistently delayed time and time again since it’s Kickstarter in mid-2014</a></span>.
-  (The last update told us they translated a whole 3% of the 3rd game that is left, and they got a new translator.
-  Again.) Add this all up, and it tells you a message of failure - Sekai Project isn’t running their kickstarters that
-  well, and have been constantly screwing up, while agitating and alienating people in the community.</p>
+importance does not come without a cost. As I mentioned in my <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-rambles-2015s-importance-for-visual-novel-1750235216",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-rambles-2015s-importance-for-visual-novel-1750235216" rel="noopener noreferrer" target="_blank">2015’s Importance for Visual Novels in the West </a></span>article, Sekai
+Project essentially took the western visual novel market that was nearly nonexistent and kickstarted it, but that was
+a big picture look at the situation; while they were a force that has greatly improved how VNs are considered in the
+west, it has not been smooth sailing for them. As time has past, it has been shown that even though they started it
+all and consistently bring over great visual novels, the way they do it, primarily though their kickstarters, has not
+been smooth at all. They have a really bad habit of putting out new kickstarters out constantly, to the dismay of many
+fans (which, unlike many people like to believe, probably isn’t detrimental to the progress of other VNs because Sekai
+Project since they have pretty much separate teams for every project). They have a fair amount of poorly advertised
+and managed kickstarters that either barely make it or fail, like <em>Narcissu</em> or their magical boy kickstarter
+respectively. They run into what seems to be a never ending amount of controversy or issues during the kickstarter
+even when the kickstarters are doing fine financially, like the Grisaia dakimakura and boxart issues. Even when their
+kickstarters have no problems, they’ve also had countless issues delivering what they promised to people: a few
+examples being any of the Vita versions they promised or whole kickstarters themselves, with the game <em>World End
+Economica</em> (which was written by the author of <em>Spice &amp; Wolf</em>, for those interested) being the
+biggest sticking point to many. <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://cythoplazma.wordpress.com/2016/01/29/sekai-projects-unwanted-child/",{"metric25":1}]]' href="https://cythoplazma.wordpress.com/2016/01/29/sekai-projects-unwanted-child/" rel="noopener noreferrer" target="_blank">It’s been consistently delayed time and time again since it’s Kickstarter in mid-2014</a></span>.
+(The last update told us they translated a whole 3% of the 3rd game that is left, and they got a new translator.
+Again.) Add this all up, and it tells you a message of failure - Sekai Project isn’t running their kickstarters that
+well, and have been constantly screwing up, while agitating and alienating people in the community.</p>
 
 <img alt src="./c6oeorf1fjxltiahuztk.jpg"/><p class="sc-77igqf-0 bOfvBY">Their actions have pretty much guaranteed that you’ll probably come across a dose
-  of hostility thrown around when talking about anything related to Sekai Project. Even <em>Root Double</em>, a game
-  that has had almost unanimous praise, gets bashed just because it’s being published by Sekai Project, with people
-  saying things like “Hope they fail, so SP learns to finish what they have before starting something else.” and “Such a
-  scummy company. Dovac (The CEO of Sekai Project) is a sociopath.” While the statements are harsh and some may just
-  attribute it to trolling, the worst part about this story is that they are completely justified, as Sekai Project has
-  once again screwed up something that they have participated in.</p>
+of hostility thrown around when talking about anything related to Sekai Project. Even <em>Root Double</em>, a game
+that has had almost unanimous praise, gets bashed just because it’s being published by Sekai Project, with people
+saying things like “Hope they fail, so SP learns to finish what they have before starting something else.” and “Such a
+scummy company. Dovac (The CEO of Sekai Project) is a sociopath.” While the statements are harsh and some may just
+attribute it to trolling, the worst part about this story is that they are completely justified, as Sekai Project has
+once again screwed up something that they have participated in.</p>
 
 <hr class="gcp5ez-0 hKlTiw"/>
 <img alt src="mqrhvcft691q199s1lmb.jpg"/>
@@ -98,25 +107,25 @@ oldArticle: true
   well! A small Sci-Fi VN isn’t going to be able to compete.</p>
 
 <img alt src="./xj9x64pizjn4tfjyevig.png"/><p class="sc-77igqf-0 bOfvBY">So, how could they hit this number? When you look at the track record of Sekai
-  Project’s kickstarters of works that do not have large, pre-existing fan bases, their kickstarters usually get around
-  ~1,500 people, give or take a few hundred people. Given that number, this means that they expected an average of 90
-  dollars per person, but there was no way they’d hit that average without good upper tiers and early on their upper
-  tiers were abysmal - it was one of the most common complaints of the kickstarter. Even though the kickstarter was
-  updated many times, <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://prefundia.com/projects/view/root-double-before-crime-after-days-xtend-edition-heading-west/7236/",{"metric25":1}]]' href="http://prefundia.com/projects/view/root-double-before-crime-after-days-xtend-edition-heading-west/7236/" rel="noopener noreferrer" target="_blank">you can see the Prefundia</a></span> <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://prefundia.com/projects/view/root-double-before-crime-after-days-xtend-edition-heading-west/7236/",{"metric25":1}]]' href="http://prefundia.com/projects/view/root-double-before-crime-after-days-xtend-edition-heading-west/7236/" rel="noopener noreferrer" target="_blank">page</a></span> to look at what the kickstarter was like earlier on in the
-  campaign and you can see how the tiers were a bad value. So even if people were interested in the product, the tiers
-  didn’t justify contributing so much. The worst part was when Sekai Project essentially punched fans in the gut midway
-  through - Many people were asking for a Vita version because many people interested in <em>Root Double</em> aren’t the
-  people who traditionally hang around in the VN community and have Windows tablets. They’re the people in the Vita
-  community who like JRPGs or story-based games (plus, people in the Vita community are looking for every possibility to
-  play on it, so that is in the best interests of Sekai Project). When they announced the Vita tier, they limited it to
-  225 dollars or up.<strong> WHY WOULD YOU DO THAT???</strong></p>
+Project’s kickstarters of works that do not have large, pre-existing fan bases, their kickstarters usually get around
+~1,500 people, give or take a few hundred people. Given that number, this means that they expected an average of 90
+dollars per person, but there was no way they’d hit that average without good upper tiers and early on their upper
+tiers were abysmal - it was one of the most common complaints of the kickstarter. Even though the kickstarter was
+updated many times, <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://prefundia.com/projects/view/root-double-before-crime-after-days-xtend-edition-heading-west/7236/",{"metric25":1}]]' href="http://prefundia.com/projects/view/root-double-before-crime-after-days-xtend-edition-heading-west/7236/" rel="noopener noreferrer" target="_blank">you can see the Prefundia</a></span> <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://prefundia.com/projects/view/root-double-before-crime-after-days-xtend-edition-heading-west/7236/",{"metric25":1}]]' href="http://prefundia.com/projects/view/root-double-before-crime-after-days-xtend-edition-heading-west/7236/" rel="noopener noreferrer" target="_blank">page</a></span> to look at what the kickstarter was like earlier on in the
+campaign and you can see how the tiers were a bad value. So even if people were interested in the product, the tiers
+didn’t justify contributing so much. The worst part was when Sekai Project essentially punched fans in the gut midway
+through - Many people were asking for a Vita version because many people interested in <em>Root Double</em> aren’t the
+people who traditionally hang around in the VN community and have Windows tablets. They’re the people in the Vita
+community who like JRPGs or story-based games (plus, people in the Vita community are looking for every possibility to
+play on it, so that is in the best interests of Sekai Project). When they announced the Vita tier, they limited it to
+225 dollars or up.<strong> WHY WOULD YOU DO THAT???</strong></p>
 
 <img alt src="./hkyclrwrraykxefjij6b.png"/><p class="sc-77igqf-0 bOfvBY">With the updates at the end, spending more made much more sense, but that brings
-  us to another issue: Why were they frantically updating it at the end in the first place? Why not just put the effort
-  in preparing it at the beginning of the kickstarter and save all of this stress? I honestly don’t know, but if I had
-  to make an educated guess, I’d say it’s Sekai Project not caring enough, acting like a failing student until they
-  realize they aren’t going to pass the class so they rush to do as well as possible. There’s also another possibility,
-  but this one isn’t nearly as pretty: the potential reason that they do these kickstarters.<br/></p>
+us to another issue: Why were they frantically updating it at the end in the first place? Why not just put the effort
+in preparing it at the beginning of the kickstarter and save all of this stress? I honestly don’t know, but if I had
+to make an educated guess, I’d say it’s Sekai Project not caring enough, acting like a failing student until they
+realize they aren’t going to pass the class so they rush to do as well as possible. There’s also another possibility,
+but this one isn’t nearly as pretty: the potential reason that they do these kickstarters.<br/></p>
 
 <hr class="gcp5ez-0 hKlTiw"/>
 <img alt src="d3a5xqpyvtbpr3hghwz4.jpg"/>
@@ -140,17 +149,17 @@ oldArticle: true
   is understandable, but isn’t that great of a deal for us. </p>
 
 <img alt src="./icklvbii66mqkyjfnktc.jpg"/><p class="sc-77igqf-0 bOfvBY"> You may not think that this is a big deal, as they run a business, but this
-  means that along with being incompetent at management, they are anti-consumer, their business model isn’t sustainable,
-  as this means that they aren’t able to take hits in sales if something goes wrong. Also, this means they have major
-  structural issues with the company that prevents them from running in a proper manner, and they are abusing
-  Kickstarter, treating it as a glorified pre-ordering system. This is absolutely horrible to me as the sales should
-  determine how a game should do, not a KS, and the fact they did a kickstarter in general isn’t the greatest of news
-  for this one. They asked too much, they failed to advertise this well, the rewards are a joke, and it’s coming out
-  anyways. There’s a laundry list of issues with Sekai Project and the Kickstarter make it hard to justify supporting
-  things people love. I personally still backed the kickstarter, given that some of the people involved worked on some
-  of my favorite works, but even through my fanboy glasses I can see the cracks and issues of a company that’s led the
-  charge of visual novels through this kickstarter. From the surface, they seem perfectly fine, but the more you look
-  in, the more deficiencies you see. </p>
+means that along with being incompetent at management, they are anti-consumer, their business model isn’t sustainable,
+as this means that they aren’t able to take hits in sales if something goes wrong. Also, this means they have major
+structural issues with the company that prevents them from running in a proper manner, and they are abusing
+Kickstarter, treating it as a glorified pre-ordering system. This is absolutely horrible to me as the sales should
+determine how a game should do, not a KS, and the fact they did a kickstarter in general isn’t the greatest of news
+for this one. They asked too much, they failed to advertise this well, the rewards are a joke, and it’s coming out
+anyways. There’s a laundry list of issues with Sekai Project and the Kickstarter make it hard to justify supporting
+things people love. I personally still backed the kickstarter, given that some of the people involved worked on some
+of my favorite works, but even through my fanboy glasses I can see the cracks and issues of a company that’s led the
+charge of visual novels through this kickstarter. From the surface, they seem perfectly fine, but the more you look
+in, the more deficiencies you see. </p>
 
 <hr class="gcp5ez-0 hKlTiw"/><p class="sc-77igqf-0 bOfvBY"><em>You’re reading Rockmandash Reviews, a blog focused on
   everything revolving Visual Novels. If you want to read more of my writing, check out </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/",{"metric25":1}]]' href="http://anitay.kinja.com/" rel="noopener noreferrer" target="_blank"><em>AniTAY</em></a></span><em>

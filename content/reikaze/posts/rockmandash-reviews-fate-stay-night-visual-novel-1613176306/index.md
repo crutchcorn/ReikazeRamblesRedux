@@ -1,12 +1,20 @@
 ---
 {
-title: "Rockmandash Reviews+: Fate/stay night [Visual Novel]",
-tags: ["rockmandash reviews", "reviews", "fate stay night", "nasuverse", "type moon", "visual novel", "Type-Moon Marathon"],
-authors: ['reikaze'],
-published: '2014-08-04T12:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews+: Fate/stay night [Visual Novel]",
+  tags:
+    [
+      "rockmandash reviews",
+      "reviews",
+      "fate stay night",
+      "nasuverse",
+      "type moon",
+      "visual novel",
+      "Type-Moon Marathon",
+    ],
+  published: "2014-08-04T12:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -29,12 +37,13 @@ oldArticle: true
 <img alt src="./hfouvthmswci2uapsmln.png"/>
 
 <img alt src="./wg2t9zlqkyi0mcbnx0v4.jpg"/><p class="sc-77igqf-0 bOfvBY"><em>Fate/stay night</em> is a well crafted story, with a stellar world, great
-  writing and and an amazing premise. It's famous for this premise, and for a good reason: it's about a
-  Fight-to-the-death tournament called The Fifth Holy Grail War (which isn't really a war....) where people known as
-  masters fight with Heroes throughout history, known as servants, for a chance to get the Holy Grail, which grants
-  their wishes. Each servant is one of the 7 classes, Saber, Archer, Lancer, Berserker, Rider, Assassin, and Caster. If
-  you didn't get that, well, this game has a lot of exposition to explain that basic premise, so you won't be totally
-  lost. The premise is one of the stronger parts of the game, and it's so brilliant that it's spawned a large franchise.
+writing and and an amazing premise. It's famous for this premise, and for a good reason: it's about a
+Fight-to-the-death tournament called The Fifth Holy Grail War (which isn't really a war....) where people known as
+masters fight with Heroes throughout history, known as servants, for a chance to get the Holy Grail, which grants
+their wishes. Each servant is one of the 7 classes, Saber, Archer, Lancer, Berserker, Rider, Assassin, and Caster. If
+you didn't get that, well, this game has a lot of exposition to explain that basic premise, so you won't be totally
+lost. The premise is one of the stronger parts of the game, and it's so brilliant that it's spawned a large franchise.
+
 </p>
 <p class="sc-77igqf-0 bOfvBY">While <em>Fate/stay night</em> may seem like just an action story due to the
   premise, it's more than that. It is a story about grand ideals, and motivations of characters, which is something I
@@ -99,27 +108,29 @@ oldArticle: true
 <img alt src="./j2ab6jeztqjmdcjqhgux.png"/>
 
 <img alt src="./ed2ws6jqc2pwtyjl54sa.jpg"/><p class="sc-77igqf-0 bOfvBY">Normally, When I do my reviews, I have Pacing integrated into my Writing segment.
-  The thing is though... this VN is really long, and is way too long for most people. One big thing that separates word
-  based mediums like Visual Novels and books from their anime and manga counterparts is length. Visual novels are much
-  longer to flesh out the world and characters, and this one is no exception… it uses that time to flesh out the world
-  and it's very memorable... but My first run of it took about a month of daily reading, and that's something most
-  people are unwilling to do. If you are not a fan of reading, stay far away: it's about a million words of text, and
-  it's definitely feels like it. Due to the length it feels really slow paced when you are playing, and at times you
-  might lose interest. It's not the worst pacing I've seen though; a lot of the fluff does make the experience better,
-  and usually is entertaining and engaging enough that it keeps your attention most of the time but the pacing is a
-  glaring flaw in a great game. In comparison, I thought that the 2006 anime was a more manageable size and had better
-  pacing, and I hope the UBW remake and Heaven's feel movie improve on this. </p>
+The thing is though... this VN is really long, and is way too long for most people. One big thing that separates word
+based mediums like Visual Novels and books from their anime and manga counterparts is length. Visual novels are much
+longer to flesh out the world and characters, and this one is no exception… it uses that time to flesh out the world
+and it's very memorable... but My first run of it took about a month of daily reading, and that's something most
+people are unwilling to do. If you are not a fan of reading, stay far away: it's about a million words of text, and
+it's definitely feels like it. Due to the length it feels really slow paced when you are playing, and at times you
+might lose interest. It's not the worst pacing I've seen though; a lot of the fluff does make the experience better,
+and usually is entertaining and engaging enough that it keeps your attention most of the time but the pacing is a
+glaring flaw in a great game. In comparison, I thought that the 2006 anime was a more manageable size and had better
+pacing, and I hope the UBW remake and Heaven's feel movie improve on this. </p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h120995"><a class="js_header-anchor" id=""></a><strong>Pacing - 7/10 </strong>
 </h4>
 <img alt src="./rolvygjhvwztvmcfpubh.png"/>
 
 <img alt src="./836321976769608364.jpg"/><p class="sc-77igqf-0 bOfvBY"> It's been 10 years. While there are parts that shine visually, overall it just looks about
-  average now. There's nothing wrong with it: everything is crisp, memorable, detailed and does it's job well, I just
-  wish that it had a better style, or was more aesthetically appealing, like later Type-Moon works. The designs of the
-  characters, especially the servants are intricate, detailed, and are pretty memorable. While most of the CG looks
-  pretty good, most of it doesn't really stand out. Also there's one thing that needs to be mentioned about the visuals,
-  and that is the fact that this is an eroge... soo.. <strong>CUE THE OBLIGITORY EROGE WARNING HERE. </strong>While the
-  plot hasn't been hit by age, the visuals have. What was once great, is now just average.</p>
+average now. There's nothing wrong with it: everything is crisp, memorable, detailed and does it's job well, I just
+wish that it had a better style, or was more aesthetically appealing, like later Type-Moon works. The designs of the
+characters, especially the servants are intricate, detailed, and are pretty memorable. While most of the CG looks
+pretty good, most of it doesn't really stand out. Also there's one thing that needs to be mentioned about the visuals,
+and that is the fact that this is an eroge... soo.. <strong>CUE THE OBLIGITORY EROGE WARNING HERE. </strong>While the
+plot hasn't been hit by age, the visuals have. What was once great, is now just average.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h120996"><a class="js_header-anchor" id=""></a><strong>Visuals -
   7.5/10 </strong></h4>
 <img alt src="./nfokbjcrvfemdreulysm.png"/>
@@ -137,13 +148,14 @@ oldArticle: true
 <img alt src="./mxvmd5q52mpq7a68upsq.png"/>
 
 <img alt src="./836321977370289836.jpg"/><p class="sc-77igqf-0 bOfvBY">Honestly, I didn't really care for F/SN at the beginning. I'm not the biggest fan of
-  fantasy, but the more I played, and the I let it sink in, the better it gets. Like I said earlier, it's the gateway
-  drug into the Nasuverse;the more you dip your toes in, and the more you go through it, the more you will fall in love
-  with the game and the series. The fights, the night patrols, the character development, the world building, the lore:
-  they all build up into something great, and you'll grow to love it. That being said, the pacing can hamper your
-  experience: it's slow, long and at times, it'll make you wish you were just at that next action scene or plot twist.
-  Even with the slow pacing, it's still a really well executed story. I really did love this game, and after I finished
-  this, I had the feeling of the void and accomplishment. If a game can do either of those, it's a winner.</p>
+fantasy, but the more I played, and the I let it sink in, the better it gets. Like I said earlier, it's the gateway
+drug into the Nasuverse;the more you dip your toes in, and the more you go through it, the more you will fall in love
+with the game and the series. The fights, the night patrols, the character development, the world building, the lore:
+they all build up into something great, and you'll grow to love it. That being said, the pacing can hamper your
+experience: it's slow, long and at times, it'll make you wish you were just at that next action scene or plot twist.
+Even with the slow pacing, it's still a really well executed story. I really did love this game, and after I finished
+this, I had the feeling of the void and accomplishment. If a game can do either of those, it's a winner.</p>
+
 <p class="sc-77igqf-0 bOfvBY">If you want more of my personal opinions on F/SN, check out my <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://rockmandash12.kinja.com/rockmandash-rambles-fate-stay-night-hype-1633708239",{"metric25":1}]]' href="https://rockmandash12.kinja.com/rockmandash-rambles-fate-stay-night-hype-1633708239" rel="noopener noreferrer" target="_blank">rambles article</a></span>.</p>
 <aside class="sc-1rh3ayr-6 jfFNjl inset--story branded-item branded-item--kinja" data-commerce-source="inset"><a class="sc-1out364-0 hMndXN sc-1rh3ayr-2 lcMGRt inset--story__thumb js_link" data-ga='[["Permalink page click","Permalink page click - inset photo"]]' href="https://rockmandash12.kinja.com/rockmandash-rambles-fate-stay-night-hype-1633708239" rel="noopener noreferrer" target="_blank">
 <img alt src="./897304880894929218.jpg"/>

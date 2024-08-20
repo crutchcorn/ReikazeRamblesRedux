@@ -1,12 +1,11 @@
 ---
 {
-title: "A Rock's Experience at Anime Expo 2017",
-tags: ["Anime Expo", "AX2017"],
-authors: ['reikaze'],
-published: '2017-07-09T14:21:10-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "A Rock's Experience at Anime Expo 2017",
+  tags: ["Anime Expo", "AX2017"],
+  published: "2017-07-09T14:21:10-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -61,19 +60,20 @@ oldArticle: true
 <img alt src="./vamewbfbuq8wvphgewcz.jpg"/>
 
 <img alt src="./zzaqtzcn98a5loy8iz8z.jpg"/><p class="sc-77igqf-0 bOfvBY">Which leads me to the next thing... Stuff to buy. Whille the con was pretty
-  similar in what they offered, there was some pretty noticeable differences for me: Visual Novels at the con. Nothing
-  will ever beat the <em>Ever 17 </em>copy I managed to get last year, but Retro Saikou is definitely aiming to. CT SFC
-  complete, Ys Oath, Rewrite, JP Gold and JP Ruby complete, all reasonably priced, with White Album 2 to spice things
-  up? damn. If I saw this last year, I would have done the same. Was looking for something like this for years, and I
-  finally got it. I’ve never been able to physically buy a shit ton of VNs like this, and I’m super happy with what I
-  got. I blew a lot of money though, hopefully this doesn’t become a thing. </p>
+similar in what they offered, there was some pretty noticeable differences for me: Visual Novels at the con. Nothing
+will ever beat the <em>Ever 17 </em>copy I managed to get last year, but Retro Saikou is definitely aiming to. CT SFC
+complete, Ys Oath, Rewrite, JP Gold and JP Ruby complete, all reasonably priced, with White Album 2 to spice things
+up? damn. If I saw this last year, I would have done the same. Was looking for something like this for years, and I
+finally got it. I’ve never been able to physically buy a shit ton of VNs like this, and I’m super happy with what I
+got. I blew a lot of money though, hopefully this doesn’t become a thing. </p>
 
 <img alt src="./dnyjjyzvzhqziabohuoc.jpg"/><p class="sc-77igqf-0 bOfvBY">All of this adds up to an overall worse experience than last year, but in the
-  end, AX is AX. There’s nothing quite like the perfect blend of crazy crowds, the hub of visual novels AX has become,
-  cosplayers, and world premieres. I would love to go again, and I most likely will, but I hope this isn’t a trend that
-  continues. As more and more come, the more AX changes. An embrace of the west, the ever-changing anime and VN industry
-  will have it always be different. Games will be stronger than ever, but the VN industry is growing stagnant more and
-  more. Anime is an unpredictable ebb and flow.... It’s all up to the staff to make the con great though, and hopefully
-  it’ll be better in the future. They have serious problems to deal with, and I hope at least some of them will be fixed
-  to make it a better experience. <br/></p>
+end, AX is AX. There’s nothing quite like the perfect blend of crazy crowds, the hub of visual novels AX has become,
+cosplayers, and world premieres. I would love to go again, and I most likely will, but I hope this isn’t a trend that
+continues. As more and more come, the more AX changes. An embrace of the west, the ever-changing anime and VN industry
+will have it always be different. Games will be stronger than ever, but the VN industry is growing stagnant more and
+more. Anime is an unpredictable ebb and flow.... It’s all up to the staff to make the con great though, and hopefully
+it’ll be better in the future. They have serious problems to deal with, and I hope at least some of them will be fixed
+to make it a better experience. <br/></p>
+
 </div>

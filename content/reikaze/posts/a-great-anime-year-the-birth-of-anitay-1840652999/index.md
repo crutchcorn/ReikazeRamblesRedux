@@ -1,12 +1,19 @@
 ---
 {
-title: "2014: A Great Anime Year & The Birth of AniTAY",
-tags: ["DECADE IN REVIEW", "Anime Decade in Review", "Anime", "#retrospective", "2014", "Rockmandash Rambles"],
-authors: ['reikaze'],
-published: '2019-12-30T09:00:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "2014: A Great Anime Year & The Birth of AniTAY",
+  tags:
+    [
+      "DECADE IN REVIEW",
+      "Anime Decade in Review",
+      "Anime",
+      "#retrospective",
+      "2014",
+      "Rockmandash Rambles",
+    ],
+  published: "2019-12-30T09:00:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -78,14 +85,15 @@ oldArticle: true
   they do every now and then.<br/></p>
 
 <img alt src="./bucqggg7q9j9tnpnxs5f.jpg"/><p class="sc-77igqf-0 bOfvBY">Even the smaller shows were fun too - <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://tay.kinja.com/the-pilots-love-song-the-ani-tay-review-1555500259",{"metric25":1}]]' href="https://tay.kinja.com/the-pilots-love-song-the-ani-tay-review-1555500259" rel="noopener noreferrer" target="_blank"><em>The Pilot’s Love Song</em></a></span> was a surprisingly beautiful romantic drama that
-  many in AniTAY had a blast with,<em> </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://tay.kinja.com/silver-spoon-the-ani-tay-review-1557927076",{"metric25":1}]]' href="https://tay.kinja.com/silver-spoon-the-ani-tay-review-1557927076" rel="noopener noreferrer" target="_blank"><em>Silver Spoon 2nd season</em></a></span><em> </em>from
-  the writer of <em>Full Metal Alchemist</em> continued it’s excellent slice of life, Sakura Trick was a master class in
-  yuri, if you enjoy dirty humor<em> Seitokai Yakuindomo </em>was a show you really should have been watching, <em>Inori
-    Kon Kon </em>was one of the most enjoyable shows I’ve seen through a cute slice of life,<em> </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://tay.kinja.com/tonari-no-seki-kun-the-ani-tay-review-1581524248",{"metric25":1}]]' href="https://tay.kinja.com/tonari-no-seki-kun-the-ani-tay-review-1581524248" rel="noopener noreferrer" target="_blank"><em>Tonaro no Seki Kun</em></a></span> is one of my favorite shorts to this day with<em>,
-    Nobunaga the Fool</em> was an absolutely batshit show that is about Nobunaga but has the Satelight craziness. There
-  was plenty of entertaining stuff in shows that I didn’t watch too: <em>World Conquest Zvezda Plot</em> had a cult
-  following that really adored it, <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://tay.kinja.com/witch-craft-works-the-ani-tay-review-1552369867",{"metric25":1}]]' href="https://tay.kinja.com/witch-craft-works-the-ani-tay-review-1552369867" rel="noopener noreferrer" target="_blank"><em>Witch Craft Works</em></a></span>, <em>Hamatora
-    The Animation</em> were also fairly well received. </p>
+many in AniTAY had a blast with,<em> </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://tay.kinja.com/silver-spoon-the-ani-tay-review-1557927076",{"metric25":1}]]' href="https://tay.kinja.com/silver-spoon-the-ani-tay-review-1557927076" rel="noopener noreferrer" target="_blank"><em>Silver Spoon 2nd season</em></a></span><em> </em>from
+the writer of <em>Full Metal Alchemist</em> continued it’s excellent slice of life, Sakura Trick was a master class in
+yuri, if you enjoy dirty humor<em> Seitokai Yakuindomo </em>was a show you really should have been watching, <em>Inori
+Kon Kon </em>was one of the most enjoyable shows I’ve seen through a cute slice of life,<em> </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://tay.kinja.com/tonari-no-seki-kun-the-ani-tay-review-1581524248",{"metric25":1}]]' href="https://tay.kinja.com/tonari-no-seki-kun-the-ani-tay-review-1581524248" rel="noopener noreferrer" target="_blank"><em>Tonaro no Seki Kun</em></a></span> is one of my favorite shorts to this day with<em>,
+Nobunaga the Fool</em> was an absolutely batshit show that is about Nobunaga but has the Satelight craziness. There
+was plenty of entertaining stuff in shows that I didn’t watch too: <em>World Conquest Zvezda Plot</em> had a cult
+following that really adored it, <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://tay.kinja.com/witch-craft-works-the-ani-tay-review-1552369867",{"metric25":1}]]' href="https://tay.kinja.com/witch-craft-works-the-ani-tay-review-1552369867" rel="noopener noreferrer" target="_blank"><em>Witch Craft Works</em></a></span>, <em>Hamatora
+The Animation</em> were also fairly well received. </p>
+
 <p class="sc-77igqf-0 bOfvBY">For AniTAY, Winter 2014 was a defining moment for the community: 3 of us, <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://tay.kinja.com/dexs-five-anime-of-winter-2014-you-should-be-watching-1521420484",{"metric25":1}]]' href="https://tay.kinja.com/dexs-five-anime-of-winter-2014-you-should-be-watching-1521420484" rel="noopener noreferrer" target="_blank">Dex</a></span>, <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://tay.kinja.com/fruitys-winter-anime-perspective-1521356755",{"metric25":1}]]' href="https://tay.kinja.com/fruitys-winter-anime-perspective-1521356755" rel="noopener noreferrer" target="_blank">Fruitydrinks</a></span>
   (we miss you!) and <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://tay.kinja.com/kodas-six-more-winter-2014-anime-worth-watching-1524099965",{"metric25":1}]]' href="https://tay.kinja.com/kodas-six-more-winter-2014-anime-worth-watching-1524099965" rel="noopener noreferrer" target="_blank">Koda</a></span> wrote anime lists that all did
   exceedingly well. We as a community looked at that though and were like - let’s make sure this never happens again and
@@ -105,10 +113,11 @@ oldArticle: true
   show, the animation is extremely unique, etc. All in all, it’s another Yuasa great and comes highly recommended. </p>
 
 <img alt src="./rcsiseklivdvfeoo37q0.png"/><p class="sc-77igqf-0 bOfvBY">Probably AniTAY’s favorite of the season, <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/the-kawai-complex-guide-to-manors-and-hostel-behavior-1594442961",{"metric25":1}]]' href="https://anitay.kinja.com/the-kawai-complex-guide-to-manors-and-hostel-behavior-1594442961" rel="noopener noreferrer" target="_blank"><em>The Kawai Complex Guide to Manors and Hostel Behavior</em></a></span> had an amazing
-  cast of characters with great comedy, and a really beautiful art style and romance. Unfortunately, this was the age of
-  magical high school shows, and we got the biggest name in that genre - <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/the-irregular-at-magic-high-school-the-ani-tay-review-1651151319",{"metric25":1}]]' href="https://anitay.kinja.com/the-irregular-at-magic-high-school-the-ani-tay-review-1651151319" rel="noopener noreferrer" target="_blank"><em>The Irregular at Magic High School</em></a></span>. Fun times with japanese atomic
-  batman and oniichan, we got a show with the main lead tatsuya acting like he wasn’t good at stuff then proceed to
-  wreck everyone’s shit.</p>
+cast of characters with great comedy, and a really beautiful art style and romance. Unfortunately, this was the age of
+magical high school shows, and we got the biggest name in that genre - <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/the-irregular-at-magic-high-school-the-ani-tay-review-1651151319",{"metric25":1}]]' href="https://anitay.kinja.com/the-irregular-at-magic-high-school-the-ani-tay-review-1651151319" rel="noopener noreferrer" target="_blank"><em>The Irregular at Magic High School</em></a></span>. Fun times with japanese atomic
+batman and oniichan, we got a show with the main lead tatsuya acting like he wasn’t good at stuff then proceed to
+wreck everyone’s shit.</p>
+
 <p class="sc-77igqf-0 bOfvBY">Who could forget Jojo’s, which had Part 3, <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/jojos-bizarre-adventure-stardust-crusaders-the-anitay-1713076402",{"metric25":1}]]' href="https://anitay.kinja.com/jojos-bizarre-adventure-stardust-crusaders-the-anitay-1713076402" rel="noopener noreferrer" target="_blank"><em>Stardust Crusaders </em></a></span>air this season. Full of action and Ham, the series
   has become a favorite among the anime community, with many people considering this part to be where it “gets good”.
   <em>Knights of Sidonia</em> was a completely CG SciFi anime that turned a lot of heads<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://www.animenewsnetwork.com/interest/2014-06-20/metal-gear-hideo-kojima-praises-knights-of-sidonia-anime/.75701",{"metric25":1}]]' href="https://www.animenewsnetwork.com/interest/2014-06-20/metal-gear-hideo-kojima-praises-knights-of-sidonia-anime/.75701" rel="noopener noreferrer" target="_blank"> including Hideo Kojima</a></span> for its gripping narrative, unique
@@ -130,10 +139,10 @@ oldArticle: true
   ol friends at satelight.</p>
 
 <img alt src="./hta8pazuto5fdis7f0ae.jpg"/><p class="sc-77igqf-0 bOfvBY"> With all of these shows, how could we have kept up with them? Maybe, an article
-  telling us the best anime that’s worth watching, perhaps? Welcome to the birth of the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/the-twelve-anime-of-spring-2014-worth-watching-1564569045",{"metric25":1}]]' href="https://anitay.kinja.com/the-twelve-anime-of-spring-2014-worth-watching-1564569045" rel="noopener noreferrer" target="_blank">AniTAY Collab</a></span>, the list of anime worth watching that season! This one was huge,
-  as it was AniTAY’s very first and did extremely well, wracking up ~35k reads. This season was also the birth of AniTAY
-  proper, as before this season AniTAY was a tag on TAY. While there was some controversy in the creation of the blog
-  itself, the community that’s grown as a result of this decision is nothing but amazing. </p>
+telling us the best anime that’s worth watching, perhaps? Welcome to the birth of the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/the-twelve-anime-of-spring-2014-worth-watching-1564569045",{"metric25":1}]]' href="https://anitay.kinja.com/the-twelve-anime-of-spring-2014-worth-watching-1564569045" rel="noopener noreferrer" target="_blank">AniTAY Collab</a></span>, the list of anime worth watching that season! This one was huge,
+as it was AniTAY’s very first and did extremely well, wracking up ~35k reads. This season was also the birth of AniTAY
+proper, as before this season AniTAY was a tag on TAY. While there was some controversy in the creation of the blog
+itself, the community that’s grown as a result of this decision is nothing but amazing. </p>
 
 <hr class="gcp5ez-1 egkUKA"/><h3 class="sc-1bwb26k-1 fvCjqJ" id="h101697"><a class="js_header-anchor" id=""></a>Summer
   2014</h3>
@@ -151,21 +160,22 @@ oldArticle: true
   Nozaki Kun this was a one-two punch for anyone who liked comedies, and as a fan of anime comedy, this was my jam. </p>
 
 <img alt src="./wy0odxwtvfyzr1qa9qkb.jpg"/><p class="sc-77igqf-0 bOfvBY"> Probably the most important show to this community as a whole, <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/aldnoah-zero-the-ani-tay-review-1637330529",{"metric25":1}]]' href="https://anitay.kinja.com/aldnoah-zero-the-ani-tay-review-1637330529" rel="noopener noreferrer" target="_blank"><em>Aldnoah Zero</em></a></span> had characters so bad that it spawned the community we
-  lovingly refer to as the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://getslained.kinja.com/",{"metric25":1}]]' href="https://getslained.kinja.com/" rel="noopener noreferrer" target="_blank">Animsasochists</a></span>
-  with their <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://get-slained.kinja.com/the-2014-golden-slaine-awards-1783295261",{"metric25":1}]]' href="https://get-slained.kinja.com/the-2014-golden-slaine-awards-1783295261" rel="noopener noreferrer" target="_blank">Golden Slaine Awards</a></span>. Supposedly written by Gen Urobuchi, it
-  was a hot mess of a mecha show that has the most unlikable, dumbest characters in existence. I’ll like to just say
-  here that I told everyone it was going to be shit from the beginning. <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/akame-ga-kill-the-ani-tay-review-1671140613",{"metric25":1}]]' href="https://anitay.kinja.com/akame-ga-kill-the-ani-tay-review-1671140613" rel="noopener noreferrer" target="_blank"><em>Akame ga Kill</em> </a></span>was the show everyone was talking about this season - a
-  show about a band of assassins and their conflict. I thought it was fun but needlessly “dark”, and wrote an article
-  about that called <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/dark-serious-anime-a-paradigm-of-disappoint-1655310470",{"metric25":1}]]' href="https://anitay.kinja.com/dark-serious-anime-a-paradigm-of-disappoint-1655310470" rel="noopener noreferrer" target="_blank"><em>“Dark &amp; Serious” Anime - A Paradigm of Disappointment</em></a></span>,
-  which is still one of my most viewed and favorite articles to this day. Zankyou no Terror was another Shinichiro
-  Watanabe show about a group of terrorists, I felt like it was a bit style over substance but plenty of people loved
-  it. </p>
+lovingly refer to as the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://getslained.kinja.com/",{"metric25":1}]]' href="https://getslained.kinja.com/" rel="noopener noreferrer" target="_blank">Animsasochists</a></span>
+with their <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://get-slained.kinja.com/the-2014-golden-slaine-awards-1783295261",{"metric25":1}]]' href="https://get-slained.kinja.com/the-2014-golden-slaine-awards-1783295261" rel="noopener noreferrer" target="_blank">Golden Slaine Awards</a></span>. Supposedly written by Gen Urobuchi, it
+was a hot mess of a mecha show that has the most unlikable, dumbest characters in existence. I’ll like to just say
+here that I told everyone it was going to be shit from the beginning. <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/akame-ga-kill-the-ani-tay-review-1671140613",{"metric25":1}]]' href="https://anitay.kinja.com/akame-ga-kill-the-ani-tay-review-1671140613" rel="noopener noreferrer" target="_blank"><em>Akame ga Kill</em> </a></span>was the show everyone was talking about this season - a
+show about a band of assassins and their conflict. I thought it was fun but needlessly “dark”, and wrote an article
+about that called <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/dark-serious-anime-a-paradigm-of-disappoint-1655310470",{"metric25":1}]]' href="https://anitay.kinja.com/dark-serious-anime-a-paradigm-of-disappoint-1655310470" rel="noopener noreferrer" target="_blank"><em>“Dark &amp; Serious” Anime - A Paradigm of Disappointment</em></a></span>,
+which is still one of my most viewed and favorite articles to this day. Zankyou no Terror was another Shinichiro
+Watanabe show about a group of terrorists, I felt like it was a bit style over substance but plenty of people loved
+it. </p>
 
 <img alt src="./kbke2ebblntb65n7mtye.jpg"/><p class="sc-77igqf-0 bOfvBY"><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/sword-online-ii-phantom-bullet-the-ani-tay-review-1656712327",{"metric25":1}]]' href="https://anitay.kinja.com/sword-online-ii-phantom-bullet-the-ani-tay-review-1656712327" rel="noopener noreferrer" target="_blank"><em>Sword Art Online II</em></a></span> was
-  the continuation of the ever popular Sword Art Online and this time we had a very feminine looking Kirito and guns! I
-  thought quality wise it was pretty good SAO but I’m sure there are plenty that would disagree with me. KyoAni, not
-  content with one season of a free cash stream, made another season of <em>Free! </em>In the form of <em>Free!: Eternal
-    Summer</em>, and of course many people fawned over the hot dudes.</p>
+the continuation of the ever popular Sword Art Online and this time we had a very feminine looking Kirito and guns! I
+thought quality wise it was pretty good SAO but I’m sure there are plenty that would disagree with me. KyoAni, not
+content with one season of a free cash stream, made another season of <em>Free! </em>In the form of <em>Free!: Eternal
+Summer</em>, and of course many people fawned over the hot dudes.</p>
+
 <p class="sc-77igqf-0 bOfvBY">As for other shows: If you seriously, actually loathed yourself and wanted to
   inflict pain to your soul, <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/glasslip-ani-tay-review-and-discussion-1641880502",{"metric25":1}]]' href="https://anitay.kinja.com/glasslip-ani-tay-review-and-discussion-1641880502" rel="noopener noreferrer" target="_blank"><em>Glasslip</em></a></span> was the
   show for you! PA Works put a lot of production value and effort into its presentation as it is a very nice looking and
@@ -210,10 +220,11 @@ oldArticle: true
   back to the late 90’s/early 2000s style shows that basically </p>
 
 <img alt src="./yl3s9gzhw2m0zb7ozpl4.jpg"/><p class="sc-77igqf-0 bOfvBY">While people weren’t really high up on it as it was airing,<em> </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/shirobako-the-ani-tay-review-1691227634",{"metric25":1}]]' href="https://anitay.kinja.com/shirobako-the-ani-tay-review-1691227634" rel="noopener noreferrer" target="_blank"><em>Shirobako</em></a></span>
-  has quickly become a favorite in the anime community, being an incredible and relatable slice of life anime about
-  making anime. Legitimately one of my favorites of the year, PA Works really knocked it out of the park with this one.
-  In this season we would see KyoAni again knocking it out of the park with their brilliant<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/ani-tay-review-amagi-brilliant-park-1676761418",{"metric25":1}]]' href="https://anitay.kinja.com/ani-tay-review-amagi-brilliant-park-1676761418" rel="noopener noreferrer" target="_blank"><em> Amagi Brilliant Park</em></a></span>. An incredibly fun comedy slice of life show
-  with a quirky cast, the was a blast and the show was a fun watch throughout.</p>
+has quickly become a favorite in the anime community, being an incredible and relatable slice of life anime about
+making anime. Legitimately one of my favorites of the year, PA Works really knocked it out of the park with this one.
+In this season we would see KyoAni again knocking it out of the park with their brilliant<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/ani-tay-review-amagi-brilliant-park-1676761418",{"metric25":1}]]' href="https://anitay.kinja.com/ani-tay-review-amagi-brilliant-park-1676761418" rel="noopener noreferrer" target="_blank"><em> Amagi Brilliant Park</em></a></span>. An incredibly fun comedy slice of life show
+with a quirky cast, the was a blast and the show was a fun watch throughout.</p>
+
 <p class="sc-77igqf-0 bOfvBY">This season had no shortage of shows - the sheer quantity of this season makes it
   hard to talk about it all, but let’s rapid fire these:<em> </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/1649271584",{"metric25":1}]]' href="https://anitay.kinja.com/1649271584" rel="noopener noreferrer" target="_blank"><em>Twin-tail</em></a></span><em> </em>was a fun fanservice romp that blends magical girl
   power rangers with a silly obsession with Twin Tails. If you were looking for a trashy harem, you could do a lot worse

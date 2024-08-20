@@ -1,15 +1,15 @@
 ---
 {
-    title: "Welcome to Reikaze Rambles!",
-    description: "An introduction to Reikaze Rambles/RockmanDash Reviews",
-    published: '2020-11-19T12:00:00.000Z',
-    authors: ['reikaze'],
-    tags: ['welcome', 'announcements'],
-    attached: [],
-    license: 'cc-by-4',
-    oldArticle: false
+  title: "Welcome to Reikaze Rambles!",
+  description: "An introduction to Reikaze Rambles/RockmanDash Reviews",
+  published: "2020-11-19T12:00:00.000Z",
+  tags: ["welcome", "announcements"],
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: false,
 }
 ---
+
 ![](yt.png)
 
 Well, it’s an end of an era. So much has happened in 2020, to me, and to the world, and to the Rockmandash Reviews that I have been putting out for years. It’s time for a change though, some I have been eagerly awaiting for, and others I’m extremely terrified for, but out of all the change, the support for this content has been consistent and I owe it to you all to let you know what’s going on.
@@ -39,4 +39,4 @@ If you guys would be willing to support me monetarily through something like Pat
 
 I’m in a bit of a crossroads and I’m not really 100% sure how to proceed in the future. First and foremost- if you’re not following @ReikazeRambles on Twitter, please do - I spend a ton of time rambling about all sorts of visual novels, games, and media if I don’t have time to put a proper review up. I could go full force with my new reikaze rambles site, or dedicate myself to youtube, but both are much more difficult tasks than what I’ve encountered in the past relying on anitay and kinja. I’d love to make this a bigger part of my life but I can’t sustain myself with this content so it’s going to remain a side project in the near future and I do not know how much time and effort I can dedicate to it. I’ve also been thinking of setting up a discord as a place to talk and hang out about random stuff but I do not know how much people would be interested in that, but I have the link here.
 
-2020 has been a rough year for all of us and for me it’s been a lot of change. I’ve had exciting opportunities but also the fear of the unknown has been looming all over my life. More than ever, I would love some feedback on what I should do in the future, and where you guys would want my content to go in the future. This has been the state of RockmanDash Reviews for 2020, and the last post on Rockmandash12.kinja.com, I’m gonna miss it. This has been Reikaze, signing off. 
+2020 has been a rough year for all of us and for me it’s been a lot of change. I’ve had exciting opportunities but also the fear of the unknown has been looming all over my life. More than ever, I would love some feedback on what I should do in the future, and where you guys would want my content to go in the future. This has been the state of RockmanDash Reviews for 2020, and the last post on Rockmandash12.kinja.com, I’m gonna miss it. This has been Reikaze, signing off.

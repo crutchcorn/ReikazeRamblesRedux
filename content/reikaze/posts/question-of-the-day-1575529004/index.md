@@ -1,12 +1,11 @@
 ---
 {
-title: "Question of the Day!",
-tags: ["QOTD", "Question of the day", "Rockmandash12"],
-authors: ['reikaze'],
-published: '2014-05-13T14:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Question of the Day!",
+  tags: ["QOTD", "Question of the day", "Rockmandash12"],
+  published: "2014-05-13T14:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

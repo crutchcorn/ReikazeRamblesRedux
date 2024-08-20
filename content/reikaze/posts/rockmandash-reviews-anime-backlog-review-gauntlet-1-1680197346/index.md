@@ -1,12 +1,22 @@
 ---
 {
-title: "Rockmandash Reviews: Anime Backlog Review Gauntlet #1",
-tags: ["Rockmandash Reviews", "AniTAY", "Anime Backlog Review Gauntlet", "Backlog", "Perfect Blue", "Death Billards", "Black Lagoon", "Tokyo Magnitude 8.0", "Time of Eve"],
-authors: ['reikaze'],
-published: '2015-01-19T12:00:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Anime Backlog Review Gauntlet #1",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "AniTAY",
+      "Anime Backlog Review Gauntlet",
+      "Backlog",
+      "Perfect Blue",
+      "Death Billards",
+      "Black Lagoon",
+      "Tokyo Magnitude 8.0",
+      "Time of Eve",
+    ],
+  published: "2015-01-19T12:00:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

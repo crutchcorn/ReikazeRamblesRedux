@@ -1,12 +1,20 @@
 ---
 {
-title: "Let's Ani-Debate! Ani-Debate Annoucement Topic",
-tags: ["ani-tay", "ani-debate", "skype", "fun", "heated", "debate", "aldnoahzero"],
-authors: ['reikaze'],
-published: '2014-08-15T16:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Let's Ani-Debate! Ani-Debate Annoucement Topic",
+  tags:
+    [
+      "ani-tay",
+      "ani-debate",
+      "skype",
+      "fun",
+      "heated",
+      "debate",
+      "aldnoahzero",
+    ],
+  published: "2014-08-15T16:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -67,9 +75,10 @@ oldArticle: true
   I dungoofed :/</p>
 
 <img alt src="./p0yx3ua45n0m0w5g2ehi.png"/><h2 class="sc-1bwb26k-1 fvCjqJ" id="h116566"><a class="js_header-anchor" id=""></a>Plans for the Future</h2><p class="sc-77igqf-0 bOfvBY">This is a community event I'm really am looking forward to, because it'll be fun, and it'll
-  lead to interesting discussions. That being said, there may be times I won't be able to do the moderation due to IRL
-  commitments, and if anybody wants to do an Ani-Debate without me, go ahead. If anybody picks up my slack, just make
-  sure to follow the format that I use, and use the Ani-Debate Assets that I'll post in the near future. ATM, the assets
-  are a work in progress, and won't be finalized until we actually do one of these. I hope you like it, and I hope it
-  comes out well!</p>
+lead to interesting discussions. That being said, there may be times I won't be able to do the moderation due to IRL
+commitments, and if anybody wants to do an Ani-Debate without me, go ahead. If anybody picks up my slack, just make
+sure to follow the format that I use, and use the Ani-Debate Assets that I'll post in the near future. ATM, the assets
+are a work in progress, and won't be finalized until we actually do one of these. I hope you like it, and I hope it
+comes out well!</p>
+
 </div>

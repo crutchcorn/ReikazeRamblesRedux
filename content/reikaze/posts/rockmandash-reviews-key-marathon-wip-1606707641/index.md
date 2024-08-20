@@ -1,12 +1,24 @@
 ---
 {
-title: "Rockmandash Reviews: Key Marathon",
-tags: ["rockmandash reviews", "key", "marathon", "kanon", "clannad", "planetarian", "rewrite", "little busters", "tomoyo after", "air", "angel beats"],
-authors: ['reikaze'],
-published: '2014-07-17T15:17:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Key Marathon",
+  tags:
+    [
+      "rockmandash reviews",
+      "key",
+      "marathon",
+      "kanon",
+      "clannad",
+      "planetarian",
+      "rewrite",
+      "little busters",
+      "tomoyo after",
+      "air",
+      "angel beats",
+    ],
+  published: "2014-07-17T15:17:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

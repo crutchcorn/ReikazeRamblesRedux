@@ -1,12 +1,11 @@
 ---
 {
-title: "The Strange World of Twitch Pokemon",
-tags: ["rockmandash", "tay", "reviews", "Pokemon", "tay-classic", "twitch"],
-authors: ['reikaze'],
-published: '2014-02-17T12:57:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "The Strange World of Twitch Pokemon",
+  tags: ["rockmandash", "tay", "reviews", "Pokemon", "tay-classic", "twitch"],
+  published: "2014-02-17T12:57:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -37,4 +36,5 @@ oldArticle: true
   split into partisan lines, the trolls vs the people who actually want to play the game. it makes me sad. :(</p>
 
 <img alt src="./19fzjgr1btn05png.png"/><p class="sc-77igqf-0 bOfvBY">This is the weird, strangely political and very world of twitch pokemon.</p>
+
 </div>

@@ -1,12 +1,19 @@
 ---
 {
-title: "Lucid9 is Promising, but Unpolished",
-tags: ["Preview", "Visual Novel", "Fuwanovel", "Lucid9", "Rockmandash Rambles", "TAY-Classic"],
-authors: ['reikaze'],
-published: '2014-10-26T21:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Lucid9 is Promising, but Unpolished",
+  tags:
+    [
+      "Preview",
+      "Visual Novel",
+      "Fuwanovel",
+      "Lucid9",
+      "Rockmandash Rambles",
+      "TAY-Classic",
+    ],
+  published: "2014-10-26T21:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

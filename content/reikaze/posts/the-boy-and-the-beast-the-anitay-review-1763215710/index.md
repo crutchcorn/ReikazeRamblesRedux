@@ -1,12 +1,20 @@
 ---
 {
-title: "The Boy and the Beast : The AniTAY Review",
-tags: ["The AniTAY Review", "The Boy and the Beast", "Rockmandash Reviews", "Movie", "Mamoru Hosoda", "AniTAY", "Tayclassic"],
-authors: ['reikaze'],
-published: '2016-03-09T00:00:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "The Boy and the Beast : The AniTAY Review",
+  tags:
+    [
+      "The AniTAY Review",
+      "The Boy and the Beast",
+      "Rockmandash Reviews",
+      "Movie",
+      "Mamoru Hosoda",
+      "AniTAY",
+      "Tayclassic",
+    ],
+  published: "2016-03-09T00:00:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -43,28 +51,28 @@ oldArticle: true
   favorite parts of the story. </p>
 
 <img alt src="./jzewc3t4bogkuxjyvck5.jpg"/><p class="sc-77igqf-0 bOfvBY"><em>The Boy and the Beast </em>first and foremost though,<em> </em>is a film
-  about growing up, about growth and camaraderie, a happy and upbeat story with a fair bit of comedy about family and
-  how those around you influence you. Everyone here wants to be stronger, they want to improve themselves to beat the
-  challenges they have to confront. Seeing this strengthening of the self and others is almost awe inspiring, with every
-  character bettering each other (even if some of the characters are rather one dimensional). Also, I’d like to say that
-  <em>The Boy and the Beast </em>handles it’s themes really well, better than most films I’ve seen recently: it doesn’t
-  necessarily shove down its themes of strength and growth down your throats, but it does make them prominent. It truly
-  feels like every scene was focused around them, and this is something I rather appreciated.<br/></p>
+about growing up, about growth and camaraderie, a happy and upbeat story with a fair bit of comedy about family and
+how those around you influence you. Everyone here wants to be stronger, they want to improve themselves to beat the
+challenges they have to confront. Seeing this strengthening of the self and others is almost awe inspiring, with every
+character bettering each other (even if some of the characters are rather one dimensional). Also, I’d like to say that
+<em>The Boy and the Beast </em>handles it’s themes really well, better than most films I’ve seen recently: it doesn’t
+necessarily shove down its themes of strength and growth down your throats, but it does make them prominent. It truly
+feels like every scene was focused around them, and this is something I rather appreciated.<br/></p>
 
 <img alt src="./ce82qhmqj6qg1eljcaat.jpg"/><p class="sc-77igqf-0 bOfvBY">The effects of these themes is that it is a movie that gets you to care about the
-  characters, and it consistently has great character interactions. While our main duo of Ren/Kyuuta and Kumatetsu steal
-  the show and put a smile on the face of the viewers every time they are on the screen, every time any of the
-  characters interact, they build off on each other. They interact in a way that feels authentic while being
-  entertaining, they feel like they are truly growing and interacting in a way that people who had those personalities
-  would, and it’s limited cast allows you to get to know the personalities of those in the movie and enjoy them all.
-  Through it’s great characters, the work gets you to care about the story it provides, and the way it handles this is
-  rather amazing in my opinion.</p>
+characters, and it consistently has great character interactions. While our main duo of Ren/Kyuuta and Kumatetsu steal
+the show and put a smile on the face of the viewers every time they are on the screen, every time any of the
+characters interact, they build off on each other. They interact in a way that feels authentic while being
+entertaining, they feel like they are truly growing and interacting in a way that people who had those personalities
+would, and it’s limited cast allows you to get to know the personalities of those in the movie and enjoy them all.
+Through it’s great characters, the work gets you to care about the story it provides, and the way it handles this is
+rather amazing in my opinion.</p>
 
 <img alt src="./x7vy9boaihnwzvgljho1.jpg"/><p class="sc-77igqf-0 bOfvBY">Overall though, <em>The Boy and the Beast </em>is another well polished Mamoru
-  Hosoda coming of age film, one that will please anyone who liked his films and more: it’s a well executed story that
-  is moving and engaging, one of the most enjoyable stories I’ve seen and it’s one that’ll appeal to many. It’s a movie
-  full of character and charm that’ll get anyone interested in the film, and it’s a blast to watch while maintaining the
-  quality we all expect from it.</p>
+Hosoda coming of age film, one that will please anyone who liked his films and more: it’s a well executed story that
+is moving and engaging, one of the most enjoyable stories I’ve seen and it’s one that’ll appeal to many. It’s a movie
+full of character and charm that’ll get anyone interested in the film, and it’s a blast to watch while maintaining the
+quality we all expect from it.</p>
 
 <hr class="gcp5ez-0 hKlTiw"/><h3 class="sc-1bwb26k-1 fvCjqJ" id="h110517"><a class="js_header-anchor" id=""></a><em>The
   Boy and the Beast </em>is Hosoda’s Best Looking Film Yet</h3>
@@ -87,14 +95,14 @@ oldArticle: true
   traditional anime film. I just wish all anime could be this nice visually, but that’s a pipe dream.<br/></p>
 
 <img alt src="./wpz65fusviz09mz4wdgc.jpg"/><p class="sc-77igqf-0 bOfvBY">Speaking of things that I wish all works could have but is impossible, I have to
-  mention how much I appreciate the shot composition, and how much it made a difference. Most directors nowadays don’t
-  really pay that much attention to visually directing the shot and using the frame nearly as much as Hosoda does in
-  this work (IMO), and Hosoda uses it so well that one of his previous works, <em>Wolf Children</em>, got a great video
-  by <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://www.youtube.com/watch?v=pdSKot0psNg",{"metric25":1}]]' href="https://www.youtube.com/watch?v=pdSKot0psNg" rel="noopener noreferrer" target="_blank"><em>Every Frame a Painting</em></a></span><em> </em>which
-  explained how great some of it’s shots are. (this video being just a specific shot actually.) The way that Hosoda uses
-  the position of the scene to enhance your experience of the events or even tell stories is absolutely fantastic and
-  impressed me consistently throughout the film. If you go and watch this film, you’re in for a treat with the visuals,
-  as they are some of the best animation has to offer.<br/></p>
+mention how much I appreciate the shot composition, and how much it made a difference. Most directors nowadays don’t
+really pay that much attention to visually directing the shot and using the frame nearly as much as Hosoda does in
+this work (IMO), and Hosoda uses it so well that one of his previous works, <em>Wolf Children</em>, got a great video
+by <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://www.youtube.com/watch?v=pdSKot0psNg",{"metric25":1}]]' href="https://www.youtube.com/watch?v=pdSKot0psNg" rel="noopener noreferrer" target="_blank"><em>Every Frame a Painting</em></a></span><em> </em>which
+explained how great some of it’s shots are. (this video being just a specific shot actually.) The way that Hosoda uses
+the position of the scene to enhance your experience of the events or even tell stories is absolutely fantastic and
+impressed me consistently throughout the film. If you go and watch this film, you’re in for a treat with the visuals,
+as they are some of the best animation has to offer.<br/></p>
 
 <hr class="gcp5ez-0 hKlTiw"/><h3 class="sc-1bwb26k-1 fvCjqJ" id="h110518"><a class="js_header-anchor" id=""></a>The Dub
   is Pretty Great</h3>
@@ -108,8 +116,9 @@ oldArticle: true
   better than their TV counterparts for anime). </p>
 
 <img alt src="./v6dp574ixaazrf5rwgng.png"/><h3 class="sc-1bwb26k-1 fvCjqJ" id="h110519"><a class="js_header-anchor" id=""></a>The Story Isn’t Exactly
-  Perfect...</h3>
+Perfect...</h3>
 <img alt src="./depsvbfk8eyzxnw6hhjj.jpg"/>
+
 <p class="sc-77igqf-0 bOfvBY">... because as much praise as I give it, it’s not a perfect film, and it’s weakest
   parts are the writing issues. These issues aren’t gamebreaking perse, but they do effect how one experiences the film.
   The most notable is the fact that it’s not all that original - we have a traditional coming of age story with a
@@ -126,8 +135,8 @@ oldArticle: true
   interesting way. These aren’t something that’s going to break the movie, but it’s definitely worth mentioning.</p>
 
 <img alt src="./m6dfrmxjbo6c7f0fq8y1.png"/><p class="sc-77igqf-0 bOfvBY">Also, the antagonist that was essentially pulled out of nowhere at the end, while
-  making sense thematically, felt rather forced and like a bunch of BS. You still have something you can improve
-  Hosoda!</p>
+making sense thematically, felt rather forced and like a bunch of BS. You still have something you can improve
+Hosoda!</p>
 
 <hr class="gcp5ez-0 hKlTiw"/><h3 class="sc-1bwb26k-1 fvCjqJ" id="h110520"><a class="js_header-anchor" id=""></a><strong>The
   Background Music is entirely in the Background</strong></h3>

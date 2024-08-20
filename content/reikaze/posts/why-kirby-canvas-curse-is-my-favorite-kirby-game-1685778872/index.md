@@ -1,12 +1,11 @@
 ---
 {
-title: "Why Kirby Canvas Curse is My Favorite Kirby Game",
-tags: ["Kirby", "Canvas Curse", "Nintendo", "Tayclassic", "favorite"],
-authors: ['reikaze'],
-published: '2015-02-20T16:43:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Why Kirby Canvas Curse is My Favorite Kirby Game",
+  tags: ["Kirby", "Canvas Curse", "Nintendo", "Tayclassic", "favorite"],
+  published: "2015-02-20T16:43:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

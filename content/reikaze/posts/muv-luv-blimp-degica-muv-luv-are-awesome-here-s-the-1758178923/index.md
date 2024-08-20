@@ -1,12 +1,11 @@
 ---
 {
-title: "",
-tags: ["muv-luv"],
-authors: ['reikaze'],
-published: '2016-02-09T21:29:24-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "",
+  tags: ["muv-luv"],
+  published: "2016-02-09T21:29:24-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

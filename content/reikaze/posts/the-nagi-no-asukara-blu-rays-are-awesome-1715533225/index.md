@@ -1,12 +1,11 @@
 ---
 {
-title: "The Nagi no Asukara Blu-Rays are Awesome!",
-tags: ["AniTAY", "Unboxing", "Nagi no Asukara", "NIS America"],
-authors: ['reikaze'],
-published: '2015-07-02T19:15:56-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "The Nagi no Asukara Blu-Rays are Awesome!",
+  tags: ["AniTAY", "Unboxing", "Nagi no Asukara", "NIS America"],
+  published: "2015-07-02T19:15:56-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

@@ -1,12 +1,19 @@
 ---
 {
-title: "RockmanDash Reviews: Zero Time Dilemma - The End of A Dream",
-tags: ["Rockmandash Reviews", "Zero Escape", "Zero Time Dilemma", "Fuwareviews", "Visual Novel", "Uchikoshi"],
-authors: ['reikaze'],
-published: '2016-08-10T17:30:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash Reviews: Zero Time Dilemma - The End of A Dream",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "Zero Escape",
+      "Zero Time Dilemma",
+      "Fuwareviews",
+      "Visual Novel",
+      "Uchikoshi",
+    ],
+  published: "2016-08-10T17:30:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -53,39 +60,39 @@ oldArticle: true
 <img alt src="./hrzxfu3st9ub0yk1ckta.png"/>
 
 <img alt src="./grqhamevnnwhtf68xyaz.jpg"/><p class="sc-77igqf-0 bOfvBY">When talking about the story of <em>Zero Time Dilemma</em>, everything is rather
-  familiar, yet also so alien at the same time. The premise of <em>Zero Time Dilemma</em> is basically everything you
-  would expect with yet another Extreme escape game, this time picking up right where <em>Virtue’s Last Reward</em>
-  ended <strong>(AKA THIS IS A BAD STARTING POINT)</strong>, set in the Nevada Test Facility. In this facility, our cast
-  of characters is forced to play what’s called the Decision game, the most straightforward of the series. Simply put,
-  you make decisions that put you or another in a life or death situation, and 6 people need to die before anyone can
-  escape. What really makes the Decision game tick however is how it is combined with the fragment system: In
-  <em>ZTD</em>, the cast is broken up into 3 teams and the teams only have consciousness and memories in 90 in game
-  blocks, (with the player experiencing each fragment in random order) and the effect of this is that the emphasis of
-  the story is moved away from a sweeping narrative to the individual decisions and specific scenarios itself. While not
-  as flashy as the others premises, the combination of the Decision game and the Fragment system provide an unique and
-  interesting fantastic foundation that provides an engaging experience, but is hampered by several aspects of the
-  execution: the fragment system itself, retconning of expectations, and limited resources that prevent this game from
-  being as great as the rest.<br/></p>
+familiar, yet also so alien at the same time. The premise of <em>Zero Time Dilemma</em> is basically everything you
+would expect with yet another Extreme escape game, this time picking up right where <em>Virtue’s Last Reward</em>
+ended <strong>(AKA THIS IS A BAD STARTING POINT)</strong>, set in the Nevada Test Facility. In this facility, our cast
+of characters is forced to play what’s called the Decision game, the most straightforward of the series. Simply put,
+you make decisions that put you or another in a life or death situation, and 6 people need to die before anyone can
+escape. What really makes the Decision game tick however is how it is combined with the fragment system: In
+<em>ZTD</em>, the cast is broken up into 3 teams and the teams only have consciousness and memories in 90 in game
+blocks, (with the player experiencing each fragment in random order) and the effect of this is that the emphasis of
+the story is moved away from a sweeping narrative to the individual decisions and specific scenarios itself. While not
+as flashy as the others premises, the combination of the Decision game and the Fragment system provide an unique and
+interesting fantastic foundation that provides an engaging experience, but is hampered by several aspects of the
+execution: the fragment system itself, retconning of expectations, and limited resources that prevent this game from
+being as great as the rest.<br/></p>
 
 <img alt src="./sdmzf3itt8obuzf48fb3.jpg"/><p class="sc-77igqf-0 bOfvBY">While the flaws aren’t something that will affect everyone who plays it, as the
-  game is still pretty solid for the most part, it’s just impossible to state the importance of the flaws, starting with
-  the issues the fragment system itself creates.This system is the defining trait of <em>Zero Time Dilemma</em>, root of
-  the greatness of the game, yet also the biggest issue this game has.<em> </em>It’s a system that dramatically changes
-  the game, one that that can get you into the thick of things really quickly, leading to a great early and mid game,
-  but because the story is disjointed as none of the scenes serve to develop anything. This is because you are going in
-  a random order, making explanations harder: each fragment has to quickly focus on one aspect, without the ability to
-  connect explanations because they are self contained. It’s like a string of short stories that slowly move towards an
-  ending, a less enjoyable experience that is harder to remember and less engaging. In my opinion, if they cut the
-  fragments at a certain point and just let it continue linearly for a long stretch of the game (like Coco route long, a
-  good extra 10 hours), it could have been very enjoyable, but that isn’t what happened here. Also, They touted the
-  mystery from the system as an advantage, but the fact that you don’t truly know anything can simply be a big downside
-  later on when you need to know the plot elements in a cohesive fashion to understand and enjoy the story. <br/></p>
+game is still pretty solid for the most part, it’s just impossible to state the importance of the flaws, starting with
+the issues the fragment system itself creates.This system is the defining trait of <em>Zero Time Dilemma</em>, root of
+the greatness of the game, yet also the biggest issue this game has.<em> </em>It’s a system that dramatically changes
+the game, one that that can get you into the thick of things really quickly, leading to a great early and mid game,
+but because the story is disjointed as none of the scenes serve to develop anything. This is because you are going in
+a random order, making explanations harder: each fragment has to quickly focus on one aspect, without the ability to
+connect explanations because they are self contained. It’s like a string of short stories that slowly move towards an
+ending, a less enjoyable experience that is harder to remember and less engaging. In my opinion, if they cut the
+fragments at a certain point and just let it continue linearly for a long stretch of the game (like Coco route long, a
+good extra 10 hours), it could have been very enjoyable, but that isn’t what happened here. Also, They touted the
+mystery from the system as an advantage, but the fact that you don’t truly know anything can simply be a big downside
+later on when you need to know the plot elements in a cohesive fashion to understand and enjoy the story. <br/></p>
 
 <img alt src="./rzbtuah5ahkqw5qqmfpy.jpg"/><p class="sc-77igqf-0 bOfvBY">Another issue this game has is an incapability to handle expectations. Unlike the
-  other games in the series, <em>Zero Time Dilemma</em> is built around expectations, a fulfillment of experiences we
-  previously had. <em>Zero Time Dilemma</em> was billed as a sequel for <em>VLR</em>, and it was a necessary one: For
-  the Zero Escape series to be truly complete, <em>Zero Time Dilemma</em> needed to conclude the cliffhanger that <em>VLR </em>left
-  us.<br/></p>
+other games in the series, <em>Zero Time Dilemma</em> is built around expectations, a fulfillment of experiences we
+previously had. <em>Zero Time Dilemma</em> was billed as a sequel for <em>VLR</em>, and it was a necessary one: For
+the Zero Escape series to be truly complete, <em>Zero Time Dilemma</em> needed to conclude the cliffhanger that <em>VLR </em>left
+us.<br/></p>
 
 <hr class="gcp5ez-0 hKlTiw"/><h2 class="sc-1bwb26k-1 fvCjqJ" id="h106802"><a class="js_header-anchor" id=""></a>- WARNING
   <em>VLR</em> SPOILER AHEAD -</h2>
@@ -130,18 +137,19 @@ oldArticle: true
   builds up which leads to an unsatisfying end, making it seem like they copped out.</p>
 
 <img alt src="./nqamqqagdxh0lungj2ne.jpg"/><p class="sc-77igqf-0 bOfvBY">Given all this, one may think that every issue with the game is systematic, but I
-  feel that many are due to the fact that this game is rushed, a possible <em>Zero Time Dilemma</em> that the staff had
-  to deal with. I say this because a lot of the choices they made easily could have been effective stylistically if it
-  was smoothed out by more time and more effort. For an example, the fragments like I mentioned before: they could have
-  crafted fragments into a beautiful tale that blew our minds by having the fragments come together in the end. The
-  ending and late game as a whole could have been a lot better, explaining the core of the story instead of using cheap
-  Deus Ex Machinas, and they could have even made the entire work as a whole more enjoyable given more effort put into
-  aspects like presentation or using the concepts in the story better, etc. To me, it felt like the key difference
-  between the games, more the story elements, was that <em>ZTD</em> threw out was the craftsmanship that made the
-  previous works stand out, the scripting of a beautiful narrative that built up into an amazing experience. While this
-  work was billed as more philosophical than the previous works in the past, the philosophical and SciFi elements that
-  spiced up the series are much more sparse in nature, the work is much shorter with less explanation in general, etc.
-  More time could have helped this game and it’s rushed nature is something that cannot be overlooked.<br/></p>
+feel that many are due to the fact that this game is rushed, a possible <em>Zero Time Dilemma</em> that the staff had
+to deal with. I say this because a lot of the choices they made easily could have been effective stylistically if it
+was smoothed out by more time and more effort. For an example, the fragments like I mentioned before: they could have
+crafted fragments into a beautiful tale that blew our minds by having the fragments come together in the end. The
+ending and late game as a whole could have been a lot better, explaining the core of the story instead of using cheap
+Deus Ex Machinas, and they could have even made the entire work as a whole more enjoyable given more effort put into
+aspects like presentation or using the concepts in the story better, etc. To me, it felt like the key difference
+between the games, more the story elements, was that <em>ZTD</em> threw out was the craftsmanship that made the
+previous works stand out, the scripting of a beautiful narrative that built up into an amazing experience. While this
+work was billed as more philosophical than the previous works in the past, the philosophical and SciFi elements that
+spiced up the series are much more sparse in nature, the work is much shorter with less explanation in general, etc.
+More time could have helped this game and it’s rushed nature is something that cannot be overlooked.<br/></p>
+
 <p class="sc-77igqf-0 bOfvBY">And of course… the ending. </p>
 <hr class="gcp5ez-0 hKlTiw"/><h2 class="sc-1bwb26k-1 fvCjqJ" id="h106804"><a class="js_header-anchor" id=""></a>-
   <em>ZTD</em> SPOILERS AHOY! -</h2>
@@ -180,39 +188,40 @@ oldArticle: true
 <img alt src="./c3gsuaed7fhqp9kheanl.png"/>
 
 <img alt src="./v7dybtbyltl5hkltfeeu.jpg"/><p class="sc-77igqf-0 bOfvBY">About the gameplay for Zero Time Dilemma… it’s there, and pretty much the same as
-  before? I never really played the Zero Escape series for the gameplay, and <em>Zero Time Dilemma </em>does nothing
-  really different or special with the gameplay: it’s mostly the same as <em>VLR</em>. It’s worth noting though that
-  what I did talk about last time, the flowchart, is less integrated as a form of gameplay and decision making than the
-  past, it’s something more akin to the normal flow chart that plots out your progression than something that impacts
-  how you experience the game. I have little to say about the puzzles too: they were mostly the same for the most part
-  and I enjoyed them just as much as the last time. Others say that the puzzles got easier, but as I suck with the
-  puzzles anyways, it was equally as hard as before. I appreciate that it’s not just like every other VN without
-  gameplay, but I really don’t have much to say here.<br/></p>
+before? I never really played the Zero Escape series for the gameplay, and <em>Zero Time Dilemma </em>does nothing
+really different or special with the gameplay: it’s mostly the same as <em>VLR</em>. It’s worth noting though that
+what I did talk about last time, the flowchart, is less integrated as a form of gameplay and decision making than the
+past, it’s something more akin to the normal flow chart that plots out your progression than something that impacts
+how you experience the game. I have little to say about the puzzles too: they were mostly the same for the most part
+and I enjoyed them just as much as the last time. Others say that the puzzles got easier, but as I suck with the
+puzzles anyways, it was equally as hard as before. I appreciate that it’s not just like every other VN without
+gameplay, but I really don’t have much to say here.<br/></p>
 
 <hr class="gcp5ez-0 hKlTiw"/>
 <img alt src="./eqywvolooqhypyh02n4c.png"/>
 
 <img alt src="./yxjunvvmmpwbuklosjn7.jpg"/><p class="sc-77igqf-0 bOfvBY">The presentation of this game is ultimately filled with drastic changes, but in
-  my opinion I don’t feel like they drastically affect the experience. One thing is clear though, and that is that the
-  game got hit with a budget cut, meaning that the presentation is even less impressive than in the past. <em>ZTD</em>
-  retains the same game engine as <em>VLR</em>, and thus the 3D models, but it uses the model in the form of cinematics,
-  fully scripted and animated scenes instead of the typical visual novel affair. It’s a good change in theory,
-  emphasizing the narrative of the game and making it more appealing to the aspect of the gaming market that gets turned
-  off by the amount of reading that comes with the VNs. In practice however, it means less information and a loss of
-  control in regards to pace with jerky and inconsistent visuals due to poor directing. The biggest effect of this is
-  that because everything’s cinematic, it can make the game feel too fast or too slow depending on how you are, for me
-  it felt too fast, as they quickly went through plot events without really explaining it in detail, which was
-  emphasized by the cinematic nature. It’s not all bad though, as when it’s done well, it can be seriously impressive,
-  making the world feel even more alive and immersive than before, but it’s not done all that well in general. The other
-  noteworthy change is the new aesthetic that while looks cleaner and sharper, it also looks blander, and less
-  remarkable. It’s a nice change that spices things up for the series, but it brings along an uninspiring design that is
-  much more muted than before, thus making the game less impressive and less engaging than the past). (It also has the
-  interesting side effect of making it harder to recognize cosplayers.) I’m mixed on the presentation and changes in
-  general, but ultimately it’s not a key aspect of the game and is mostly livable. Also, just a tip: do not skip,
-  regardless of how you’re feeling. It’ll disorient you and make your experience much less engaging. Like movies or TV
-  shows, you have make sure your full attention is on it and skipping throws this off. With print, you can read slowly,
-  get distracted etc, but with cinematics you need to always be paying attention or else you will feel disconnected from
-  the game or miss important plot points.<br/></p>
+my opinion I don’t feel like they drastically affect the experience. One thing is clear though, and that is that the
+game got hit with a budget cut, meaning that the presentation is even less impressive than in the past. <em>ZTD</em>
+retains the same game engine as <em>VLR</em>, and thus the 3D models, but it uses the model in the form of cinematics,
+fully scripted and animated scenes instead of the typical visual novel affair. It’s a good change in theory,
+emphasizing the narrative of the game and making it more appealing to the aspect of the gaming market that gets turned
+off by the amount of reading that comes with the VNs. In practice however, it means less information and a loss of
+control in regards to pace with jerky and inconsistent visuals due to poor directing. The biggest effect of this is
+that because everything’s cinematic, it can make the game feel too fast or too slow depending on how you are, for me
+it felt too fast, as they quickly went through plot events without really explaining it in detail, which was
+emphasized by the cinematic nature. It’s not all bad though, as when it’s done well, it can be seriously impressive,
+making the world feel even more alive and immersive than before, but it’s not done all that well in general. The other
+noteworthy change is the new aesthetic that while looks cleaner and sharper, it also looks blander, and less
+remarkable. It’s a nice change that spices things up for the series, but it brings along an uninspiring design that is
+much more muted than before, thus making the game less impressive and less engaging than the past). (It also has the
+interesting side effect of making it harder to recognize cosplayers.) I’m mixed on the presentation and changes in
+general, but ultimately it’s not a key aspect of the game and is mostly livable. Also, just a tip: do not skip,
+regardless of how you’re feeling. It’ll disorient you and make your experience much less engaging. Like movies or TV
+shows, you have make sure your full attention is on it and skipping throws this off. With print, you can read slowly,
+get distracted etc, but with cinematics you need to always be paying attention or else you will feel disconnected from
+the game or miss important plot points.<br/></p>
+
 <div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/NOZ4RYY3Kbg" width="560"></iframe><span class="js_recommend" data-chomp-id="NOZ4RYY3Kbg" data-recommend-id="youtube://NOZ4RYY3Kbg" data-recommended="false" id="youtube-NOZ4RYY3Kbg"></span></span></div><p class="sc-77igqf-0 bOfvBY">One place that doesn’t get a lot of changes however, is the soundtrack, which is a good and
   bad thing. We have amazing Shinji Hosoe return once again, and once again we have another score that comprises of
   remixes. He does yet another fantastic job with what he remixes, and the score is amazing for the most part, but not
@@ -239,12 +248,12 @@ oldArticle: true
 <img alt src="./pgi5ojzxuwxzvfvjyuek.png"/>
 
 <img alt src="./f0dtrep6no2e6xjzwccd.jpg"/><p class="sc-77igqf-0 bOfvBY"><em>Zero Time Dilemma</em> is a game that many have truly enjoyed, but is a step
-  below the rest of the series, the end of the dream. It is the game we all desired, a closure to this fantastic series,
-  but it has issues throughout the game ones that may disappoint you if you’re a diehard fan, and an ending that can be
-  infuriating to many. Even given that though, this is a miracle of a game and still Zero Escape, a solid game that is
-  much better than nothing. If you have an inkling of interest for this game, it’s an experience worth having regardless
-  and I highly recommend it. To me, it’s a disappointing end, the <em>Remember 11 </em>of the Zero Escape series, but
-  ultimately, I’m glad it exists. I just wish that the snail wasn’t there.<br/></p>
+below the rest of the series, the end of the dream. It is the game we all desired, a closure to this fantastic series,
+but it has issues throughout the game ones that may disappoint you if you’re a diehard fan, and an ending that can be
+infuriating to many. Even given that though, this is a miracle of a game and still Zero Escape, a solid game that is
+much better than nothing. If you have an inkling of interest for this game, it’s an experience worth having regardless
+and I highly recommend it. To me, it’s a disappointing end, the <em>Remember 11 </em>of the Zero Escape series, but
+ultimately, I’m glad it exists. I just wish that the snail wasn’t there.<br/></p>
 
 <img alt src="./cavqgpvgzf8gu6vxbgu1.png"/>
 <hr class="gcp5ez-0 hKlTiw"/><p class="sc-77igqf-0 bOfvBY"><strong><em>Copyright Disclaimer:</em></strong><em> Under

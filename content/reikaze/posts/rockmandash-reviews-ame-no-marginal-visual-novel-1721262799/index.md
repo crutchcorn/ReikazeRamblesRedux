@@ -1,12 +1,21 @@
 ---
 {
-title: "Rockmandash Reviews: Ame no Marginal [Visual Novel]",
-tags: ["Rockmandash Reviews", "Ame no Marginal", "Narcissu", "AniTAY", "Tayclassic", "FuwaReviews", "Visual Novel", "Sekai Project"],
-authors: ['reikaze'],
-published: '2015-08-04T20:50:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Ame no Marginal [Visual Novel]",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "Ame no Marginal",
+      "Narcissu",
+      "AniTAY",
+      "Tayclassic",
+      "FuwaReviews",
+      "Visual Novel",
+      "Sekai Project",
+    ],
+  published: "2015-08-04T20:50:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -43,12 +52,13 @@ oldArticle: true
   that keeps you moving on, keeps you engaged with the story and the world. </p>
 
 <img alt src="./1396310173948347939.png"/><p class="sc-77igqf-0 bOfvBY">The story, while it does have it’s lighthearted aspects, is just as melancholy as you would
-  expect and along with the somber atmosphere this story has, allows the work to push out it’s themes in a rather
-  powerful way. The themes themselves, like dealing with forces out of your control, are really interesting and
-  engrossing, handled extremely well. The way it it ponders with the ideas of forced bondage by religious cult,
-  suffering, lasting pain that will never change in a world of an infinite now, forgiveness and a life of loneliness
-  create a large impact on the readers, get them to think about the world, how we deal with others, and a relationship
-  between a person and untouchable forces were done extremely well and were very strong.</p>
+expect and along with the somber atmosphere this story has, allows the work to push out it’s themes in a rather
+powerful way. The themes themselves, like dealing with forces out of your control, are really interesting and
+engrossing, handled extremely well. The way it it ponders with the ideas of forced bondage by religious cult,
+suffering, lasting pain that will never change in a world of an infinite now, forgiveness and a life of loneliness
+create a large impact on the readers, get them to think about the world, how we deal with others, and a relationship
+between a person and untouchable forces were done extremely well and were very strong.</p>
+
 <p class="sc-77igqf-0 bOfvBY">That being said, there’s one thing that I believe is a huge issue in the writing,
   keeping this game from being something truly special, something memorable and something amazing. While the story is
   written well with strong themes, it’s a bit of missed potential: it’s extremely short (being about a 2-8 hour read),

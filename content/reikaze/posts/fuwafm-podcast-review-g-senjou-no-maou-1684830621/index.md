@@ -1,12 +1,11 @@
 ---
 {
-title: "FuwaFM Podcast Review: G-Senjou no Maou",
-tags: ["FuwaFM", "G-Senjou no Maou", "AniTAY", "TAYCLASSIC"],
-authors: ['reikaze'],
-published: '2015-02-09T20:58:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "FuwaFM Podcast Review: G-Senjou no Maou",
+  tags: ["FuwaFM", "G-Senjou no Maou", "AniTAY", "TAYCLASSIC"],
+  published: "2015-02-09T20:58:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

@@ -1,12 +1,20 @@
 ---
 {
-title: "Rockmandash Reviews: Infinity & Zero Escape Marathon [DONE!]",
-tags: ["Rockmandash Reviews", "Infinity", "Zero Escape", "Kotaro Uchikoshi", "Ever 17", "Remember 11", "Punchline"],
-authors: ['reikaze'],
-published: '2014-11-30T20:53:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Infinity & Zero Escape Marathon [DONE!]",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "Infinity",
+      "Zero Escape",
+      "Kotaro Uchikoshi",
+      "Ever 17",
+      "Remember 11",
+      "Punchline",
+    ],
+  published: "2014-11-30T20:53:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

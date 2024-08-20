@@ -1,12 +1,19 @@
 ---
 {
-title: "Top Ten Most Popular Ani-TAY \"Top\" Lists",
-tags: ["Ani-TAY Collaboration", "TAY-Classic", "Anime", "AniTAY", "Ani-TAY", "TAY"],
-authors: ['reikaze'],
-published: '2015-01-15T12:00:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: 'Top Ten Most Popular Ani-TAY "Top" Lists',
+  tags:
+    [
+      "Ani-TAY Collaboration",
+      "TAY-Classic",
+      "Anime",
+      "AniTAY",
+      "Ani-TAY",
+      "TAY",
+    ],
+  published: "2015-01-15T12:00:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

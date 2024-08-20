@@ -1,12 +1,20 @@
 ---
 {
-title: "Ace Of Diamond Seasons 1 & 2 : The AniTAY Review",
-tags: ["The AniTAY Review", "Rockmandash Reviews", "AniTAY", "Winter 2016", "Sports Anime", "Ace of Diamond", "Diamond no Ace"],
-authors: ['reikaze'],
-published: '2016-03-28T09:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Ace Of Diamond Seasons 1 & 2 : The AniTAY Review",
+  tags:
+    [
+      "The AniTAY Review",
+      "Rockmandash Reviews",
+      "AniTAY",
+      "Winter 2016",
+      "Sports Anime",
+      "Ace of Diamond",
+      "Diamond no Ace",
+    ],
+  published: "2016-03-28T09:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

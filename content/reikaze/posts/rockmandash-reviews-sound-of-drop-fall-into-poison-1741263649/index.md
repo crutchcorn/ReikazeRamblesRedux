@@ -1,12 +1,11 @@
 ---
 {
-title: "RockmanDash Reviews: Sound of Drop - fall into poison [Visual Novel]",
-tags: ["Rockmandash Reviews", "FuwaReviews", "Visual Novels", "AniTAY"],
-authors: ['reikaze'],
-published: '2015-11-10T23:00:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash Reviews: Sound of Drop - fall into poison [Visual Novel]",
+  tags: ["Rockmandash Reviews", "FuwaReviews", "Visual Novels", "AniTAY"],
+  published: "2015-11-10T23:00:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -25,18 +24,19 @@ oldArticle: true
 <img alt src="./1513818381376775973.png"/>
 
 <img alt src="./1513818381435805733.jpg"/><p class="sc-77igqf-0 bOfvBY">The premise is rather strong: In the beautiful Manten Aquarium, there lies
-  something deeper under the beautiful tranquil surface that it has, a tragedy that our main character Mayumi has been
-  avoiding for years. You see, 5 years ago, her younger sister Mari mysteriously disappeared in this aquarium, and
-  Mayumi’s life hasn’t been since... but thanks to her best friend Himeno who is determined to learn about the rumors
-  that are spreading, Mayumi heads back to this aquarium. What awaits Mayumi however is nothing but horror, a twisted
-  aquarium with everything she has to face and more, with everything out for lust and logic defying feats of insanity
-  happening all over the place.</p>
+something deeper under the beautiful tranquil surface that it has, a tragedy that our main character Mayumi has been
+avoiding for years. You see, 5 years ago, her younger sister Mari mysteriously disappeared in this aquarium, and
+Mayumi’s life hasn’t been since... but thanks to her best friend Himeno who is determined to learn about the rumors
+that are spreading, Mayumi heads back to this aquarium. What awaits Mayumi however is nothing but horror, a twisted
+aquarium with everything she has to face and more, with everything out for lust and logic defying feats of insanity
+happening all over the place.</p>
 
 <img alt src="./1513818381479632677.jpg"/><p class="sc-77igqf-0 bOfvBY">And it does this insanity well, as it is a horror game, after all. While the
-  horror is usually your typical the jump scare affair, isn’t really that bad for the most part and can be genuinely
-  effective at times (but it’s no <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/project-hydra-attends-a-corpse-party-for-tortured-souls-1668527219/all#_ga=1.9428919.389453316.1446074032",{"metric25":1}]]' href="http://anitay.kinja.com/project-hydra-attends-a-corpse-party-for-tortured-souls-1668527219/all#_ga=1.9428919.389453316.1446074032" rel="noopener noreferrer" target="_blank"><em>Corpse</em></a></span><em> </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://www.kotaku.com.au/2012/01/reader-review-corpse-party/",{"metric25":1}]]' href="http://www.kotaku.com.au/2012/01/reader-review-corpse-party/"><em>Party</em></a></span><em> or </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://kotaku.com/kara-no-shojo-the-kotaku-review-1486926848",{"metric25":1}]]' href="http://kotaku.com/kara-no-shojo-the-kotaku-review-1486926848"><em>Kara no</em></a></span><em> </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://kotaku.com/kara-no-shojo-the-second-episode-the-kotaku-review-1740205675",{"metric25":1}]]' href="http://kotaku.com/kara-no-shojo-the-second-episode-the-kotaku-review-1740205675"><em>Shoujo</em></a></span><em>). </em>The
-  scenes are effectively written to create a sense of tension and really make the tone and atmosphere of this game work
-  pretty well due to the great handling of tension and the horror of the world making the story moving and engaging.</p>
+horror is usually your typical the jump scare affair, isn’t really that bad for the most part and can be genuinely
+effective at times (but it’s no <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/project-hydra-attends-a-corpse-party-for-tortured-souls-1668527219/all#_ga=1.9428919.389453316.1446074032",{"metric25":1}]]' href="http://anitay.kinja.com/project-hydra-attends-a-corpse-party-for-tortured-souls-1668527219/all#_ga=1.9428919.389453316.1446074032" rel="noopener noreferrer" target="_blank"><em>Corpse</em></a></span><em> </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://www.kotaku.com.au/2012/01/reader-review-corpse-party/",{"metric25":1}]]' href="http://www.kotaku.com.au/2012/01/reader-review-corpse-party/"><em>Party</em></a></span><em> or </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://kotaku.com/kara-no-shojo-the-kotaku-review-1486926848",{"metric25":1}]]' href="http://kotaku.com/kara-no-shojo-the-kotaku-review-1486926848"><em>Kara no</em></a></span><em> </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://kotaku.com/kara-no-shojo-the-second-episode-the-kotaku-review-1740205675",{"metric25":1}]]' href="http://kotaku.com/kara-no-shojo-the-second-episode-the-kotaku-review-1740205675"><em>Shoujo</em></a></span><em>). </em>The
+scenes are effectively written to create a sense of tension and really make the tone and atmosphere of this game work
+pretty well due to the great handling of tension and the horror of the world making the story moving and engaging.</p>
+
 <p class="sc-77igqf-0 bOfvBY">Also, the reactions from the characters along with the insanity that comes with
   being in a twisted environment are great. The characters in general are pretty good too: while some (like the MC) can
   come off as flat at times, most of them get some really great development and are fleshed out to the point you can get
@@ -47,14 +47,15 @@ oldArticle: true
   world.</p>
 
 <img alt src="./1513818381552644389.jpg"/><p class="sc-77igqf-0 bOfvBY">There’s just one big problem with the story.... You see, <em>Sound of Drop</em>
-  has a <strong>really bad habit</strong> of mentioning one thing then moving on haphazardly, using excuses to progress
-  instead of explaining anything, even if what it has to explain is interesting and engaging. At times this means that
-  the story is rushed, and at others it’s just a poor transition. You could chalk it up to the mystery aspect of the
-  game, and I thought for a while it was because it was a mystery, but they just do a poor job at explaining nearly
-  everything, from the surroundings around you. The explanation on the setting is uses urban myth as an excuse to the
-  point that it’s not really believable, bad end happen extremely abruptly, there’s no real sense of flow between a lot
-  of the scenes, etc. There’s so many examples in which it just flows poorly, doesn’t hint when it should or flat out
-  fails to inform the player, which can potentially ruin the experience.</p>
+has a <strong>really bad habit</strong> of mentioning one thing then moving on haphazardly, using excuses to progress
+instead of explaining anything, even if what it has to explain is interesting and engaging. At times this means that
+the story is rushed, and at others it’s just a poor transition. You could chalk it up to the mystery aspect of the
+game, and I thought for a while it was because it was a mystery, but they just do a poor job at explaining nearly
+everything, from the surroundings around you. The explanation on the setting is uses urban myth as an excuse to the
+point that it’s not really believable, bad end happen extremely abruptly, there’s no real sense of flow between a lot
+of the scenes, etc. There’s so many examples in which it just flows poorly, doesn’t hint when it should or flat out
+fails to inform the player, which can potentially ruin the experience.</p>
+
 <p class="sc-77igqf-0 bOfvBY">One of the worst offenders is how it handles transitions with endings, just kicking
   you back to the title screen without a word. Normally this wouldn’t be too big of a problem, but this game has a NG+
   because of the steam release, and the additions is a not an insignificant part of the game. I assumed I was done with
@@ -79,12 +80,13 @@ oldArticle: true
 <img alt src="./1513818381613081637.png"/>
 
 <img alt src="./1513818381685120805.jpg"/><p class="sc-77igqf-0 bOfvBY">When I read that the developers of this game aiueoKompany were indie, I was
-  honestly surprised by that given the quality of the game and the visuals. <em>Sound of Drop </em>looks absolutely
-  fantastic for an indie VN, and pretty much every aspect of it shines here: it has great backgrounds and absolutely
-  beautiful artwork overall, detailed character art, CG that is varied and really adds to the experience, nice UI
-  elements, a well done font, and the game is always a treat for the eyes. The best part about the visuals have to be
-  how consistent and cohesive they are, helping to create an amazing atmosphere that really gets you sucked into the
-  game. Really though, nothing but praise for the visuals of the game though, as it was done very well.</p>
+honestly surprised by that given the quality of the game and the visuals. <em>Sound of Drop </em>looks absolutely
+fantastic for an indie VN, and pretty much every aspect of it shines here: it has great backgrounds and absolutely
+beautiful artwork overall, detailed character art, CG that is varied and really adds to the experience, nice UI
+elements, a well done font, and the game is always a treat for the eyes. The best part about the visuals have to be
+how consistent and cohesive they are, helping to create an amazing atmosphere that really gets you sucked into the
+game. Really though, nothing but praise for the visuals of the game though, as it was done very well.</p>
+
 <p class="sc-77igqf-0 bOfvBY">One odd thing I want to mention though is that unlike most VNs which is completely
   first person, this game actually shows the main character in the frame. It’s not a necessarily bad, just a bit weird
   because a lot of VNs avoid that and only show the main character in special occasions or to use it as a plot
@@ -104,11 +106,12 @@ oldArticle: true
 <img alt src="./1513818382609550117.png"/>
 
 <img alt src="./1513818382678004517.jpg"/><p class="sc-77igqf-0 bOfvBY">As you can tell from this review, the experience has it’s ups and downs. Yes, the
-  work is extremely flawed, with a story that frustrates and suffers because of it’s poor flow, but it’s not that bad of
-  an experience because it nails the atmosphere, with it’s writing and presentation, keeping you engaged with the game.
-  Even with it’s flaws, playing this game, and being in this world is really a pleasurable experience: Tension is high,
-  the world is beautiful, everything blends together to make this a believable world, etc, I quite enjoyed my time with
-  it.</p>
+work is extremely flawed, with a story that frustrates and suffers because of it’s poor flow, but it’s not that bad of
+an experience because it nails the atmosphere, with it’s writing and presentation, keeping you engaged with the game.
+Even with it’s flaws, playing this game, and being in this world is really a pleasurable experience: Tension is high,
+the world is beautiful, everything blends together to make this a believable world, etc, I quite enjoyed my time with
+it.</p>
+
 <p class="sc-77igqf-0 bOfvBY">It also does a lot of the little things right to keep the player enjoying the work.
   Take for example, this bad end screen:</p>
 <img alt src="./1513818382734064933.jpg"/>

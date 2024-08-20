@@ -1,12 +1,19 @@
 ---
 {
-title: "Rockmandash Reviews+: Remember 11: The Age of Infinity [Visual Novel]",
-tags: ["Remember 11", "Visual Novels", "FuwaReviews", "Infinity Series", "Uchikoshi", "Ending"],
-authors: ['reikaze'],
-published: '2015-02-23T03:40:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews+: Remember 11: The Age of Infinity [Visual Novel]",
+  tags:
+    [
+      "Remember 11",
+      "Visual Novels",
+      "FuwaReviews",
+      "Infinity Series",
+      "Uchikoshi",
+      "Ending",
+    ],
+  published: "2015-02-23T03:40:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -50,27 +57,28 @@ oldArticle: true
   SPHIA that is out for him. (or perhaps a hidden culprit?)</p>
 
 <img alt src="./1341173074752824100.jpg"/><p class="sc-77igqf-0 bOfvBY">Shortly after, Kokoro and Satoru realize that they are somehow exchanging bodies,
-  and need to trust each other to live. Will they both survive the deadly situations, and solve the mystery of why all
-  of this is happening, or how it’s even happening at all? It’s questions like this that <em>Remember 11 </em>executes
-  so well, as it creates a beautiful mystery based around the situation the characters are in, and an amazing atmosphere
-  that I fell in love with, which is always at the edge of life, yet in an unnatural calm. The atmosphere is just done
-  so well, and it’s just something that Uchikoshi excels at, being matched by very few out there. I truly felt like I
-  was trapped with them, and my life was on the brink of existence… seriously impressive. It created an amazing
-  narrative that just flowed with the story in the best way possible, and I adored it. This great atmosphere is
-  ever-present throughout the game, and even enhanced because the main characters need to fight between the outside
-  world and what’s going on inside their mind: What’s happening during the gaps, and what is happening with the world?
-  It’s all very interesting and very enjoyable.</p>
+and need to trust each other to live. Will they both survive the deadly situations, and solve the mystery of why all
+of this is happening, or how it’s even happening at all? It’s questions like this that <em>Remember 11 </em>executes
+so well, as it creates a beautiful mystery based around the situation the characters are in, and an amazing atmosphere
+that I fell in love with, which is always at the edge of life, yet in an unnatural calm. The atmosphere is just done
+so well, and it’s just something that Uchikoshi excels at, being matched by very few out there. I truly felt like I
+was trapped with them, and my life was on the brink of existence… seriously impressive. It created an amazing
+narrative that just flowed with the story in the best way possible, and I adored it. This great atmosphere is
+ever-present throughout the game, and even enhanced because the main characters need to fight between the outside
+world and what’s going on inside their mind: What’s happening during the gaps, and what is happening with the world?
+It’s all very interesting and very enjoyable.</p>
 
 <img alt src="./1341173075316538660.jpg"/><p class="sc-77igqf-0 bOfvBY"> the writing is pretty much really solid in almost every way, and it’s quite hard to find
-  faults. The sci-fi aspects and ideals that this game runs with, like the mind swapping, how one would react when they
-  are claimed to be dead, what an identity is (<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://en.wikipedia.org/wiki/Dissociative_identity_disorder",{"metric25":1}]]' href="http://en.wikipedia.org/wiki/Dissociative_identity_disorder" rel="noopener noreferrer" target="_blank">Dissociative Identity Disorder</a></span>
-  is extremely interesting and this game handled it extremely well), and the core essence of survival were all aspects
-  that I appreciated quite a bit. The way it handles sanity and mental psyche in general was really just solid and
-  entertaining, and really I loved how thought provoking the game was. The characters and interactions are interesting
-  and engaging as well,and a majority of them even are really likable too! (Except Lin Mayazumi. She deserved to die.
-  Damn lawyers...) The pacing is extremely solid and much more thrilling, especially in comparison to <em>Ever 17</em>.
-  <em>Remember 11 </em>is a brilliant ride that was executed extremely well with phenomenal writing, but there’s
-  one<strong> BIG</strong> issue with the writing of<em> Remember 11</em> that wrecked it all….</p>
+faults. The sci-fi aspects and ideals that this game runs with, like the mind swapping, how one would react when they
+are claimed to be dead, what an identity is (<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://en.wikipedia.org/wiki/Dissociative_identity_disorder",{"metric25":1}]]' href="http://en.wikipedia.org/wiki/Dissociative_identity_disorder" rel="noopener noreferrer" target="_blank">Dissociative Identity Disorder</a></span>
+is extremely interesting and this game handled it extremely well), and the core essence of survival were all aspects
+that I appreciated quite a bit. The way it handles sanity and mental psyche in general was really just solid and
+entertaining, and really I loved how thought provoking the game was. The characters and interactions are interesting
+and engaging as well,and a majority of them even are really likable too! (Except Lin Mayazumi. She deserved to die.
+Damn lawyers...) The pacing is extremely solid and much more thrilling, especially in comparison to <em>Ever 17</em>.
+<em>Remember 11 </em>is a brilliant ride that was executed extremely well with phenomenal writing, but there’s
+one<strong> BIG</strong> issue with the writing of<em> Remember 11</em> that wrecked it all….</p>
+
 <h2 class="sc-1bwb26k-1 fvCjqJ" id="h116001"><a class="js_header-anchor" id=""></a><strong>THE WORST GODDAMN
   ENDING I’VE EVER SEEN IN MY LIFE. </strong></h2>
 <img alt src="./1341173075384470820.jpg"/>
@@ -112,17 +120,18 @@ oldArticle: true
 <img alt src="./1341173075966058276.png"/>
 
 <img alt src="./1341173076332023588.jpg"/><p class="sc-77igqf-0 bOfvBY">Rarely do VNs look as nice as <em>Remember 11</em> does after such a long period
-  of time, and rarely do games in general age as well as this one does. This game is 10 years old, and it looks even
-  better than titles that come out today... and they didn’t even have a big budget! What they managed to do with the
-  visuals is absolutely outstanding, managing to perfectly craft a world with characters that feel in place and feel
-  like actual characters while also nailing the atmosphere and the backgrounds perfectly. The character designs just
-  look great in general, showing a wide range of emotions while having an aesthetic feel (that is something you don’t
-  really see) while being very enjoyable and interesting to see in action (Yes, this VN has animations!). The visuals
-  take the tone for what it wants to do and combine it with a fantastic soundtrack to make this an interesting and
-  amazing experience, one that just flows extremely well. The UI is quite nice as well, something I don’t really get to
-  say for any game, and I really appreciate the visuals throughout. I really like the style of this, and it’s just so
-  polished. The animations and effects in the game were really nice touches as well, and I really have just praise for
-  it. </p>
+of time, and rarely do games in general age as well as this one does. This game is 10 years old, and it looks even
+better than titles that come out today... and they didn’t even have a big budget! What they managed to do with the
+visuals is absolutely outstanding, managing to perfectly craft a world with characters that feel in place and feel
+like actual characters while also nailing the atmosphere and the backgrounds perfectly. The character designs just
+look great in general, showing a wide range of emotions while having an aesthetic feel (that is something you don’t
+really see) while being very enjoyable and interesting to see in action (Yes, this VN has animations!). The visuals
+take the tone for what it wants to do and combine it with a fantastic soundtrack to make this an interesting and
+amazing experience, one that just flows extremely well. The UI is quite nice as well, something I don’t really get to
+say for any game, and I really appreciate the visuals throughout. I really like the style of this, and it’s just so
+polished. The animations and effects in the game were really nice touches as well, and I really have just praise for
+it. </p>
+
 <p class="sc-77igqf-0 bOfvBY">Let me put into context on why I’m so impressed: This was a PS2 game, coming out in
   2004. That’s the same age as<em> Fate/stay night</em>, but it looks quite a bit better, still looking great today.
   Yes, there’s been better out since this game like<em> Steins;Gate</em>, <em>Eden*</em> and<em> Rewrite</em>, but those
@@ -144,14 +153,15 @@ oldArticle: true
 <img alt src="./1341173076433724708.png"/>
 
 <img alt src="./1341173076790870052.jpg"/><p class="sc-77igqf-0 bOfvBY">There’s nothing more painful than something building up your hopes and dreams,
-  making you fall in love with it, then stabbing you in the back when it’s done with you. Going through this process
-  typically is much much more painful than something bad, and it makes you question yourself. It makes you wonder, what
-  went wrong, what happened? It’s things like this that sticks in your mind, and it’s these thoughts that will always
-  surface whenever I think about <em>Remember 11</em>. It was the closest to perfection I’ve ever seen. I was engaged in
-  the characters, in the world. I was sucked into the narrative, and I loved it. The atmosphere was rich and beautiful,
-  and everything was to my liking, just a bit more than my current favorite game, <em>999</em>, but like everything else
-  it was too good to be true. What was quickly escalating to be one of my favorite games collapsed under the pressure,
-  due to a lack of funding. It’s a damn shame. <strong>IT’S A DAMN SHAME.</strong></p>
+making you fall in love with it, then stabbing you in the back when it’s done with you. Going through this process
+typically is much much more painful than something bad, and it makes you question yourself. It makes you wonder, what
+went wrong, what happened? It’s things like this that sticks in your mind, and it’s these thoughts that will always
+surface whenever I think about <em>Remember 11</em>. It was the closest to perfection I’ve ever seen. I was engaged in
+the characters, in the world. I was sucked into the narrative, and I loved it. The atmosphere was rich and beautiful,
+and everything was to my liking, just a bit more than my current favorite game, <em>999</em>, but like everything else
+it was too good to be true. What was quickly escalating to be one of my favorite games collapsed under the pressure,
+due to a lack of funding. It’s a damn shame. <strong>IT’S A DAMN SHAME.</strong></p>
+
 <p class="sc-77igqf-0 bOfvBY">When you are so close to perfection, only for everything to collapse like this, it
   makes for a confusing state of affairs. Do I love it, or do I hate it? I don’t know....</p><h4 class="sc-1bwb26k-1 fvCjqJ" id="h116005"><a class="js_header-anchor" id=""></a>Enjoyment - 8/10</h4>
 <img alt src="./1341173076869529380.png"/>

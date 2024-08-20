@@ -1,12 +1,11 @@
 ---
 {
-title: "Rockmandash's Beginner's Guide to Visual Novels Updates + Video!",
-tags: ["rockmandash", "visual novels", "beginners guide"],
-authors: ['reikaze'],
-published: '2014-08-12T12:54:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash's Beginner's Guide to Visual Novels Updates + Video!",
+  tags: ["rockmandash", "visual novels", "beginners guide"],
+  published: "2014-08-12T12:54:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

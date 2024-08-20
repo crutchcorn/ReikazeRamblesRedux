@@ -1,12 +1,23 @@
 ---
 {
-title: "The Beautiful Geopolitical World Building of Trails' Crossbell Arc - Reikaze Rambles",
-tags: ["Reikaze Rambles", "Rockmandash Rambles", "RockmanDash Reviews", "AniTAY", "TAY", "Trails", "Kiseki", "Crossbell", "Trails From Zero", "Trails To Azure"],
-authors: ['reikaze'],
-published: '2020-07-06T21:30:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "The Beautiful Geopolitical World Building of Trails' Crossbell Arc - Reikaze Rambles",
+  tags:
+    [
+      "Reikaze Rambles",
+      "Rockmandash Rambles",
+      "RockmanDash Reviews",
+      "AniTAY",
+      "TAY",
+      "Trails",
+      "Kiseki",
+      "Crossbell",
+      "Trails From Zero",
+      "Trails To Azure",
+    ],
+  published: "2020-07-06T21:30:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -51,12 +62,13 @@ oldArticle: true
   created works that seem to come close.</p>
 
 <img alt src="./ij2ad2lrrgbzy8iksnro.jpg"/><p class="sc-77igqf-0 bOfvBY">Falcom, the small Japanese dev has managed to accomplish this, not with technical
-  tricks or graphical fidelity, but with attention to detail and excellent writing. NPCs aren’t just NPCs - they are
-  written as people who have their own lives. Everyone has their own story, “NPC”s are just people who you don’t have
-  direct involvement in the story. The places you visit feel incredibly alive because the individuals feel alive. The
-  places aren’t huge, but incredibly detailed - these aren’t giant empty husks but compact and fleshed locations that
-  feel like places where real people live. These places are also inherently weaved into the main story itself, with
-  important people being inherently linked to the place.<br/></p>
+tricks or graphical fidelity, but with attention to detail and excellent writing. NPCs aren’t just NPCs - they are
+written as people who have their own lives. Everyone has their own story, “NPC”s are just people who you don’t have
+direct involvement in the story. The places you visit feel incredibly alive because the individuals feel alive. The
+places aren’t huge, but incredibly detailed - these aren’t giant empty husks but compact and fleshed locations that
+feel like places where real people live. These places are also inherently weaved into the main story itself, with
+important people being inherently linked to the place.<br/></p>
+
 <p class="sc-77igqf-0 bOfvBY">The more time I spend away from Trails, the more I couldn’t help but be wowed about
   how incredible the world they’ve built was and how others simply just aren’t there. Locations aren’t just places you
   visit, but places people live, real cities that are alive, real nations that have real political differences and
@@ -86,11 +98,12 @@ oldArticle: true
   more.<br/></p>
 
 <img alt src="./tabnwh2ta0nhfltq8jsw.jpg"/><p class="sc-77igqf-0 bOfvBY">Compared to our world, It’s like the 2nd and 3rd industrial revolutions all
-  crammed into an incredibly short time period, and it leads to incredible variants in technology throughout the world,
-  even more so than ours - the location of Sky, Liberl, is a nation that has great air infrastructure with an airport in
-  every town but is a nation that hasn’t fully industrialized, and Erebonia is a nation with a vast rail network
-  connecting the giant empire together, but both feel Pre-World War 2 in technology in regards to infrastructure, for
-  the most part.</p>
+crammed into an incredibly short time period, and it leads to incredible variants in technology throughout the world,
+even more so than ours - the location of Sky, Liberl, is a nation that has great air infrastructure with an airport in
+every town but is a nation that hasn’t fully industrialized, and Erebonia is a nation with a vast rail network
+connecting the giant empire together, but both feel Pre-World War 2 in technology in regards to infrastructure, for
+the most part.</p>
+
 <p class="sc-77igqf-0 bOfvBY">Enter the city of Crossbell, a modern metropolis comparable to what we have in our
   world. Crossbell, in the world of Zemuria is incredibly special - while most of the world has bits and pieces of
   technology, Crossbell has everything - an airport, rail infrastructure, orbal cars and busses zipping around,
@@ -112,19 +125,20 @@ oldArticle: true
   the situation.</p>
 
 <img alt src="./voh0y2fsci0wxfdk1qjw.jpg"/><p class="sc-77igqf-0 bOfvBY">While technically politically closest to<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://www.youtube.com/watch?v=T49ERQDuBGc",{"metric25":1}]]' href="https://www.youtube.com/watch?v=T49ERQDuBGc" rel="noopener noreferrer" target="_blank"> Andora</a></span>, Hong
-  Kong is definitely the closest emotionally and situationally because of its situation as an economic gateway and hub,
-  the balance between Hong Kong’s British past and Chinese influence is a rather similar situation, and the uncertainty
-  and impending doom, the lack of having your own real voice in what happens in the land you love and live in, it’s all
-  eerily similar to the situation of Hong Kong and now with the protests. How important is the self-rule of Crossbell if
-  it’s effectively overruled by the two suzerain states?<br/><br/>Kashmir comes to mind because of its landlocked
-  existence between two warring powers and disputed nature. Hong Kong doesn’t have to deal with the impending doom of
-  being invaded by a nation if each other asserts more sovereignty over the nation, Kashmir does. The hostility between
-  nations is much more like a Kashmir situation than a Hong Kong situation.</p>
+Kong is definitely the closest emotionally and situationally because of its situation as an economic gateway and hub,
+the balance between Hong Kong’s British past and Chinese influence is a rather similar situation, and the uncertainty
+and impending doom, the lack of having your own real voice in what happens in the land you love and live in, it’s all
+eerily similar to the situation of Hong Kong and now with the protests. How important is the self-rule of Crossbell if
+it’s effectively overruled by the two suzerain states?<br/><br/>Kashmir comes to mind because of its landlocked
+existence between two warring powers and disputed nature. Hong Kong doesn’t have to deal with the impending doom of
+being invaded by a nation if each other asserts more sovereignty over the nation, Kashmir does. The hostility between
+nations is much more like a Kashmir situation than a Hong Kong situation.</p>
 
 <img alt src="./ljrvtq7o4jwb5fvhwq1k.jpg"/><p class="sc-77igqf-0 bOfvBY">Yet at the same time, Crossbell is unique - it has way more influence than both
-  Hong Kong or Kashmir - it has a premise and impact that is much more significant than each of those states - while it
-  doesn’t have much political power, it’s one of the most important economic hubs of the continent and as a result can
-  stand with the others in conferences like the West Zemuria Trade Conference which it hosts.</p>
+Hong Kong or Kashmir - it has a premise and impact that is much more significant than each of those states - while it
+doesn’t have much political power, it’s one of the most important economic hubs of the continent and as a result can
+stand with the others in conferences like the West Zemuria Trade Conference which it hosts.</p>
+
 <p class="sc-77igqf-0 bOfvBY">There’s something really compelling about a city like this, with the different
   feuding factions, with the technological advancement, it all adds up to be an incredibly intriguing location with
   depth, and heart. And the best part about all of this is that the way that Crossbell is implemented into the story
@@ -137,12 +151,13 @@ oldArticle: true
   of my favorite settings in fiction.</p>
 
 <img alt src="./gr16g9ia2pzg1nip39kl.jpg"/><p class="sc-77igqf-0 bOfvBY">In the Crossbell arc, events are driven by the nature of the Crossbell state, and
-  the political events of Crossbell are the important story elements of<em> Zero </em>and <em>Azure</em>. The Crossbell
-  arc isn’t a story driven by victory like so many other games. The games effectively immerse you in this political
-  reality and throughout your hours in this city you get to feel, stew and think about the political situations of this
-  city. All the events and characters feed into the story of the city. I can only think of a few times that a work has
-  effectively made the setting a character - <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://rockmandash12.kinja.com/rockmandash-reviews-428-shibuya-scramble-1830053550",{"metric25":1}]]' href="https://rockmandash12.kinja.com/rockmandash-reviews-428-shibuya-scramble-1830053550" rel="noopener noreferrer" target="_blank"><em>428: Shibuya Scramble</em></a></span>,
-  <em>Legend of the Galactic Heroes </em>comes to mind, and I’ve loved it every time.</p>
+the political events of Crossbell are the important story elements of<em> Zero </em>and <em>Azure</em>. The Crossbell
+arc isn’t a story driven by victory like so many other games. The games effectively immerse you in this political
+reality and throughout your hours in this city you get to feel, stew and think about the political situations of this
+city. All the events and characters feed into the story of the city. I can only think of a few times that a work has
+effectively made the setting a character - <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://rockmandash12.kinja.com/rockmandash-reviews-428-shibuya-scramble-1830053550",{"metric25":1}]]' href="https://rockmandash12.kinja.com/rockmandash-reviews-428-shibuya-scramble-1830053550" rel="noopener noreferrer" target="_blank"><em>428: Shibuya Scramble</em></a></span>,
+<em>Legend of the Galactic Heroes </em>comes to mind, and I’ve loved it every time.</p>
+
 <p class="sc-77igqf-0 bOfvBY">There’s no real “good or bad” guy, there’s political differences. Crossbell and the
   SSS are placed in a tricky situation where there’s no objective good, there’s powers in place that mean you can’t just
   win, and this grounded nature truly makes these games special. This fact has made Crossbell’s storytelling some of the

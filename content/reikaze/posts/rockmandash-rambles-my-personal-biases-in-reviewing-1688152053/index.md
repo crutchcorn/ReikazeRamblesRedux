@@ -1,12 +1,11 @@
 ---
 {
-title: "Rockmandash Rambles: My Personal Biases in Reviewing",
-tags: ["Rockmandash Rambles", "opinion", "bias", "Explaination"],
-authors: ['reikaze'],
-published: '2015-03-08T22:30:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Rambles: My Personal Biases in Reviewing",
+  tags: ["Rockmandash Rambles", "opinion", "bias", "Explaination"],
+  published: "2015-03-08T22:30:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

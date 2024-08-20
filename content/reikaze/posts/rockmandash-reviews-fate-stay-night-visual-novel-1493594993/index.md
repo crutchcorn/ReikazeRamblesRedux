@@ -1,12 +1,23 @@
 ---
 {
-title: "Rockmandash Reviews: Fate/Stay Night [Visual Novel]",
-tags: ["rockmandash reviews", "tayclassic", "fate stay night", "fate", "stay", "night", "tay review", "pilot", "type-moon", "visual novel"],
-authors: ['reikaze'],
-published: '2014-01-02T13:23:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Fate/Stay Night [Visual Novel]",
+  tags:
+    [
+      "rockmandash reviews",
+      "tayclassic",
+      "fate stay night",
+      "fate",
+      "stay",
+      "night",
+      "tay review",
+      "pilot",
+      "type-moon",
+      "visual novel",
+    ],
+  published: "2014-01-02T13:23:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

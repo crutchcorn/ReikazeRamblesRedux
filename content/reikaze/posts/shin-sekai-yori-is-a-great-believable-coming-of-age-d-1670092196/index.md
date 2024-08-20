@@ -1,12 +1,18 @@
 ---
 {
-title: "Shin Sekai Yori is a Great, Believable, Coming of Age Dystopian Anime",
-tags: ["Rockmandash Rambles", "Shin Sekai Yori", "Anime", "Ani-TAY", "Rockmandash Reviews"],
-authors: ['reikaze'],
-published: '2014-12-22T13:10:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Shin Sekai Yori is a Great, Believable, Coming of Age Dystopian Anime",
+  tags:
+    [
+      "Rockmandash Rambles",
+      "Shin Sekai Yori",
+      "Anime",
+      "Ani-TAY",
+      "Rockmandash Reviews",
+    ],
+  published: "2014-12-22T13:10:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -68,13 +74,14 @@ oldArticle: true
   of any others. (Come on guys! You know you want to do a dystopian! <strong>PLEASE???</strong>) </p>
 
 <img alt src="./vm37rojha7jhhkoqe6kv.jpg"/><p class="sc-77igqf-0 bOfvBY">That being said, <em>Shin Sekai Yori</em> is much more than a dystopian, if you
-  couldn't tell from the title: it's a really well done Coming of Age story. It tells the tale of a group of children
-  born in this society, and how they grow up with this world effecting them and they get ample development throughout
-  the work. You're in with them for the ride, starting from a clean slate, trying to curiously stumble through this
-  unknown, new world and it's done extremely well. Seeing these characters challenge the status quo of the world and
-  deal with the situations the story throws at them is quite engaging, and the way it's done is believable and . The
-  show has a dynamic to it where every aspect of the show serves to either develop the world or the characters we follow
-  which is something I wish I saw more often in anime. </p>
+couldn't tell from the title: it's a really well done Coming of Age story. It tells the tale of a group of children
+born in this society, and how they grow up with this world effecting them and they get ample development throughout
+the work. You're in with them for the ride, starting from a clean slate, trying to curiously stumble through this
+unknown, new world and it's done extremely well. Seeing these characters challenge the status quo of the world and
+deal with the situations the story throws at them is quite engaging, and the way it's done is believable and . The
+show has a dynamic to it where every aspect of the show serves to either develop the world or the characters we follow
+which is something I wish I saw more often in anime. </p>
+
 <p class="sc-77igqf-0 bOfvBY">There is no bad guy to the story, and even the characters that seem to be a bad guy
   are well rounded, interesting characters, executed in ways you would <strong>NEVER</strong> expect. It utilizes it's
   world to create a moral ambiguity where everyone is justified with their actions. It utilizes this ambiguity to make a
@@ -99,10 +106,10 @@ oldArticle: true
   that does exactly what it should.</p>
 
 <img alt src="./1042989631013408144.jpg"/><p class="sc-77igqf-0 bOfvBY">I managed to get this far without mentioning the ending? Better get onto that: it
-  was a nice change of pace, wrapping up everything it needed to, explaining stuff and actually having some falling
-  action (<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/tokyo-ghoul-the-ani-tay-review-1636678069",{"metric25":1}]]' href="https://anitay.kinja.com/tokyo-ghoul-the-ani-tay-review-1636678069" rel="noopener noreferrer" target="_blank">something that </a></span><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/akame-ga-kill-the-ani-tay-review-1671140613",{"metric25":1}]]' href="http://anitay.kinja.com/akame-ga-kill-the-ani-tay-review-1671140613" rel="noopener noreferrer" target="_blank">quite a few</a></span> <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/aldnoah-zero-the-ani-tay-review-1637330529",{"metric25":1}]]' href="http://anitay.kinja.com/aldnoah-zero-the-ani-tay-review-1637330529" rel="noopener noreferrer" target="_blank">shows nowadays can't</a></span>
+was a nice change of pace, wrapping up everything it needed to, explaining stuff and actually having some falling
+action (<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/tokyo-ghoul-the-ani-tay-review-1636678069",{"metric25":1}]]' href="https://anitay.kinja.com/tokyo-ghoul-the-ani-tay-review-1636678069" rel="noopener noreferrer" target="_blank">something that </a></span><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/akame-ga-kill-the-ani-tay-review-1671140613",{"metric25":1}]]' href="http://anitay.kinja.com/akame-ga-kill-the-ani-tay-review-1671140613" rel="noopener noreferrer" target="_blank">quite a few</a></span> <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/aldnoah-zero-the-ani-tay-review-1637330529",{"metric25":1}]]' href="http://anitay.kinja.com/aldnoah-zero-the-ani-tay-review-1637330529" rel="noopener noreferrer" target="_blank">shows nowadays can't</a></span>
 <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/chaika-the-coffin-princess-avenging-battle-the-ani-1669678729",{"metric25":1}]]' href="http://anitay.kinja.com/chaika-the-coffin-princess-avenging-battle-the-ani-1669678729" rel="noopener noreferrer" target="_blank">figure out</a></span> <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/terror-in-resonance-the-ani-tay-review-1640199423",{"metric25":1}]]' href="http://anitay.kinja.com/terror-in-resonance-the-ani-tay-review-1640199423" rel="noopener noreferrer" target="_blank">is a </a></span><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/tokyo-esp-the-ani-tay-review-1641119141",{"metric25":1}]]' href="http://anitay.kinja.com/tokyo-esp-the-ani-tay-review-1641119141" rel="noopener noreferrer" target="_blank">good thing</a></span>)
-  while being very satisfying. It ends in a way that shows really should end, and I appreciated it.</p>
+while being very satisfying. It ends in a way that shows really should end, and I appreciated it.</p>
 
 <aside class="sc-1rh3ayr-6 jfFNjl inset--story branded-item branded-item--kinja" data-commerce-source="inset"><a class="sc-1out364-0 hMndXN sc-1rh3ayr-2 lcMGRt inset--story__thumb js_link" data-ga='[["Permalink page click","Permalink page click - inset photo"]]' href="https://anitay.kinja.com/tokyo-ghoul-the-ani-tay-review-1636678069" rel="noopener noreferrer" target="_blank">
 <video autoplay="" loop="" muted=""><source src="./or9sskeryrsked2hr3vf.mp4" type="video/mp4"/></video>

@@ -1,12 +1,20 @@
 ---
 {
-title: "\"Dark & Serious\" Anime - A Paradigm of Disappointment",
-tags: ["Rockmandash Rambles", "Dark", "Serious", "Anime", "Discussion", "Opinion", "Disapointment"],
-authors: ['reikaze'],
-published: '2014-11-05T22:54:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: '"Dark & Serious" Anime - A Paradigm of Disappointment',
+  tags:
+    [
+      "Rockmandash Rambles",
+      "Dark",
+      "Serious",
+      "Anime",
+      "Discussion",
+      "Opinion",
+      "Disapointment",
+    ],
+  published: "2014-11-05T22:54:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -74,18 +82,18 @@ oldArticle: true
 </aside>
 
 <img alt src="./pv4dpzsmpt6a1bynub2x.jpg"/><p class="sc-77igqf-0 bOfvBY">I think it's important to create a distinction between the truly dark and the
-  shows stuck in the "grey space". I think people who enjoy this edgy type of show are tired of lightheartedness, but
-  are generally too afraid of truly dark works. This restricts the creators in how far these shows can go, and it
-  creates shows that have a dark ideal or dark execution, but not both. Passion, solid execution and strong ideals are
-  what make a good show great, and by forcing a work into this middle ground and entrapment of themes creates issues,
-  and dilutes the quality of the show. When a show tries to be dark, but has nothing to stand upon, it falls flat, and
-  it doesn't leave impact. An example would be killing off characters in <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","https://kotaku.com/why-i-can-t-bring-myself-to-enjoy-akame-ga-kill-1641986983",{"metric25":1}]]' href="https://kotaku.com/why-i-can-t-bring-myself-to-enjoy-akame-ga-kill-1641986983">Akame ga Kill</a></span>; yes,
-  a character died, and you mourn for them for a minute or two but what does that do for the show? Does it improve the
-  show or make it more memorable? Not really. When you see a truly dark show like Bokurano or Madoka Magica which make
-  these deaths impactful, meaningful and memorable so the deaths influence your mental state, and greatly impact the
-  structure of the show, you can't help but wonder why the first type exists. These elements of the show (death in
-  particular) should not be used haphazardly as they lose impact after use.. and they should be fully developed in order
-  to be done well. </p>
+shows stuck in the "grey space". I think people who enjoy this edgy type of show are tired of lightheartedness, but
+are generally too afraid of truly dark works. This restricts the creators in how far these shows can go, and it
+creates shows that have a dark ideal or dark execution, but not both. Passion, solid execution and strong ideals are
+what make a good show great, and by forcing a work into this middle ground and entrapment of themes creates issues,
+and dilutes the quality of the show. When a show tries to be dark, but has nothing to stand upon, it falls flat, and
+it doesn't leave impact. An example would be killing off characters in <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","https://kotaku.com/why-i-can-t-bring-myself-to-enjoy-akame-ga-kill-1641986983",{"metric25":1}]]' href="https://kotaku.com/why-i-can-t-bring-myself-to-enjoy-akame-ga-kill-1641986983">Akame ga Kill</a></span>; yes,
+a character died, and you mourn for them for a minute or two but what does that do for the show? Does it improve the
+show or make it more memorable? Not really. When you see a truly dark show like Bokurano or Madoka Magica which make
+these deaths impactful, meaningful and memorable so the deaths influence your mental state, and greatly impact the
+structure of the show, you can't help but wonder why the first type exists. These elements of the show (death in
+particular) should not be used haphazardly as they lose impact after use.. and they should be fully developed in order
+to be done well. </p>
 
 <aside class="sc-1rh3ayr-6 jfFNjl inset--story branded-item branded-item--kotaku" data-commerce-source="inset"><a class="sc-1out364-0 hMndXN sc-1rh3ayr-2 lnnjIC inset--story__thumb js_link" data-ga='[["Permalink page click","Permalink page click - inset photo"]]' href="https://kotaku.com/why-i-can-t-bring-myself-to-enjoy-akame-ga-kill-1641986983" rel="noopener noreferrer" target="_blank">
 <img alt src="./ekyix8pcgogsuffu0lcr.jpg"/>

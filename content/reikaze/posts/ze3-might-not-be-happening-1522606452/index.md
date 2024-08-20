@@ -1,12 +1,19 @@
 ---
 {
-title: "Zero Escape 3 Might not be happening....",
-tags: ["Rockmandash12", "tayclassic", "Zero", "Escape", "3", "NOOOOOOOOOOOOOOOOOOO"],
-authors: ['reikaze'],
-published: '2014-02-13T22:04:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Zero Escape 3 Might not be happening....",
+  tags:
+    [
+      "Rockmandash12",
+      "tayclassic",
+      "Zero",
+      "Escape",
+      "3",
+      "NOOOOOOOOOOOOOOOOOOO",
+    ],
+  published: "2014-02-13T22:04:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

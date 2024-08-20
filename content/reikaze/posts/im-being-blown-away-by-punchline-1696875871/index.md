@@ -1,12 +1,11 @@
 ---
 {
-title: "I'm Being Blown Away By Punch Line!",
-tags: ["Anime Impressions", "Spring 2015", "Uchikoshi", "Punch Line"],
-authors: ['reikaze'],
-published: '2015-04-09T19:55:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "I'm Being Blown Away By Punch Line!",
+  tags: ["Anime Impressions", "Spring 2015", "Uchikoshi", "Punch Line"],
+  published: "2015-04-09T19:55:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -36,10 +35,10 @@ oldArticle: true
   the secrets to why Earth will be destroyed and tries to save it!</p></blockquote>
 
 <img alt src="./1312309564327018530.png"/><p class="sc-77igqf-0 bOfvBY">Mind = Blown, right? I came in expecting a stupid, WTF show that has just a
-  ridiculous amount of fanservice, and I got that... but what I didn’t expect was how just well executed it was, and how
-  they would manage to infuse humor extremely well into such a premise. In hindsight, I probably should have put more
-  faith into MAPPA and Uchikoshi as they’ve<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/garo-the-animation-the-ani-tay-review-1695909572",{"metric25":1}]]' href="https://anitay.kinja.com/garo-the-animation-the-ani-tay-review-1695909572" rel="noopener noreferrer" target="_blank"> done</a></span> <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/rage-of-bahamut-genesis-the-ani-tay-review-1676327262",{"metric25":1}]]' href="https://anitay.kinja.com/rage-of-bahamut-genesis-the-ani-tay-review-1676327262" rel="noopener noreferrer" target="_blank">great</a></span> <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485",{"metric25":1}]]' href="https://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485" rel="noopener noreferrer" target="_blank">stuff</a></span>, but
-  with a premise like that, I had to be a little bit skeptical. </p>
+ridiculous amount of fanservice, and I got that... but what I didn’t expect was how just well executed it was, and how
+they would manage to infuse humor extremely well into such a premise. In hindsight, I probably should have put more
+faith into MAPPA and Uchikoshi as they’ve<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/garo-the-animation-the-ani-tay-review-1695909572",{"metric25":1}]]' href="https://anitay.kinja.com/garo-the-animation-the-ani-tay-review-1695909572" rel="noopener noreferrer" target="_blank"> done</a></span> <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/rage-of-bahamut-genesis-the-ani-tay-review-1676327262",{"metric25":1}]]' href="https://anitay.kinja.com/rage-of-bahamut-genesis-the-ani-tay-review-1676327262" rel="noopener noreferrer" target="_blank">great</a></span> <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485",{"metric25":1}]]' href="https://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485" rel="noopener noreferrer" target="_blank">stuff</a></span>, but
+with a premise like that, I had to be a little bit skeptical. </p>
 
 <aside class="sc-1rh3ayr-6 jfFNjl inset--story branded-item branded-item--kinja" data-commerce-source="inset"><a class="sc-1out364-0 hMndXN sc-1rh3ayr-2 lcMGRt inset--story__thumb js_link" data-ga='[["Permalink page click","Permalink page click - inset photo"]]' href="https://anitay.kinja.com/garo-the-animation-the-ani-tay-review-1695909572" rel="noopener noreferrer" target="_blank">
 <video autoplay="" loop="" muted=""><source src="./uohdbgi4rxsjt3uasad3.mp4" type="video/mp4"/></video>

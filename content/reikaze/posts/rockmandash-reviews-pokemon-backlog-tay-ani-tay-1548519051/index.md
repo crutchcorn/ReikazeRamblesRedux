@@ -1,12 +1,27 @@
 ---
 {
-title: "Rockmandash Reviews: Pokemon Backlog [Game, Manga & Anime]",
-tags: ["rockmandash reviews", "backlog", "pokemon", "tay", "ani-tay", "manga", "xy", "special", "origins", "review", "3ds", "ova", "rockmandash12", "rockmandash"],
-authors: ['reikaze'],
-published: '2014-03-20T22:39:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Pokemon Backlog [Game, Manga & Anime]",
+  tags:
+    [
+      "rockmandash reviews",
+      "backlog",
+      "pokemon",
+      "tay",
+      "ani-tay",
+      "manga",
+      "xy",
+      "special",
+      "origins",
+      "review",
+      "3ds",
+      "ova",
+      "rockmandash12",
+      "rockmandash",
+    ],
+  published: "2014-03-20T22:39:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -49,10 +64,11 @@ oldArticle: true
 <img alt src="./veutzyhjfhmdda8aejva.png"/>
 
 <img alt src="./kvlwqceiyzfscopzhwn1.jpg"/><p class="sc-77igqf-0 bOfvBY"> This is Pokémon how it should be. The game looks like a lower res version of XD
-  Gale of Darkness &amp; Coliseum, but its art style makes up for it. The UI looks great, the art style looks fantastic,
-  the Pokémon designs look great, and the new dynamic camera is great... I can go on for days about how good this game
-  looks. The art style is really suited for pokemon, and helps drive the game. It looks slightly worse on the 3DS, do to
-  it being blown up,but it shouldn't look too bad.</p>
+Gale of Darkness &amp; Coliseum, but its art style makes up for it. The UI looks great, the art style looks fantastic,
+the Pokémon designs look great, and the new dynamic camera is great... I can go on for days about how good this game
+looks. The art style is really suited for pokemon, and helps drive the game. It looks slightly worse on the 3DS, do to
+it being blown up,but it shouldn't look too bad.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h116452"><a class="js_header-anchor" id=""></a>Visuals - 9.5/10</h4>
 <img alt src="./ixnsasase5fyaky7jqeu.png"/>
 <p class="sc-77igqf-0 bOfvBY"> Pokemon X &amp; Y has a pretty good soundtrack, in the game. In context, it's some
@@ -72,8 +88,9 @@ oldArticle: true
 <img alt src="./e0raiyqlfmn9l9uooh5z.png"/>
 
 <img alt src="./aurjatmwy3vtczmirurw.png"/><h2 class="sc-1bwb26k-1 fvCjqJ" id="h116455"><a class="js_header-anchor" id=""></a>Pokémon Special - [Manga]
-  Review</h2>
+Review</h2>
 <img alt src="./gckeoqsark8uo6qndqg8.png"/>
+
 <p class="sc-77igqf-0 bOfvBY"> Pokémon Special is the Pokémon Manga. It's been running since the start of Pokémon
   and to me is the canon story of Pokémon. This is personally, my favorite manga series, and I have many fond memories
   with Pokemon Special.</p>
@@ -90,9 +107,10 @@ oldArticle: true
 <img alt src="./ldjsai7mgu37bawyhjgl.png"/>
 
 <img alt src="./mxlbpv5y1qrdie8k0zji.jpg"/><p class="sc-77igqf-0 bOfvBY"> The Art of Pokemon Special does it's job. It's charming, and I personally enjoy
-  it, but there's nothing really noteworthy about Pokemon special's art. It has a pretty consistent art because it's
-  been the same artist since the very beginning, but the art looks better in some arcs in comparison to others. It
-  doesn't really wow you at any time, but it never hinders it.</p>
+it, but there's nothing really noteworthy about Pokemon special's art. It has a pretty consistent art because it's
+been the same artist since the very beginning, but the art looks better in some arcs in comparison to others. It
+doesn't really wow you at any time, but it never hinders it.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h116457"><a class="js_header-anchor" id=""></a>Visuals - 7/10</h4>
 <img alt src="./hmb09x4alpybpjy3zo0o.png"/>
 <p class="sc-77igqf-0 bOfvBY"> I love Pokémon Special; It holds a special place in my hart as the definitive
@@ -108,9 +126,9 @@ oldArticle: true
 <img alt src="./l1ewh2rivgxwtljiqvqz.png"/>
 
 <img alt src="./xkujocs6jm9fwntcqk1z.png"/><h2 class="sc-1bwb26k-1 fvCjqJ" id="h116460"><a class="js_header-anchor" id=""></a>Pokémon Origins - [Anime
-  OVA] Review</h2><p class="sc-77igqf-0 bOfvBY"> Pokémon Origins is a 4 part OVA series made by Production IG based on
-  the original games. How does Production IG (who's done alot of work with nintendo) deal with the original games? Let's
-  find out!</p>
+OVA] Review</h2><p class="sc-77igqf-0 bOfvBY"> Pokémon Origins is a 4 part OVA series made by Production IG based on
+the original games. How does Production IG (who's done alot of work with nintendo) deal with the original games? Let's
+find out!</p>
 
 <img alt src="./udi8gsqoundtdtnepydu.png"/>
 <img alt src="./xpnq3ttleohk8fucoop8.png"/>

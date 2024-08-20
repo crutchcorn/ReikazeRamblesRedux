@@ -1,12 +1,11 @@
 ---
 {
-title: "AniTAY Spoilercast #1: Your Lie in April",
-tags: ["Podcast", "AniTAY Podcast", "Your Lie in April", "Spoilercast"],
-authors: ['reikaze'],
-published: '2015-04-07T20:41:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "AniTAY Spoilercast #1: Your Lie in April",
+  tags: ["Podcast", "AniTAY Podcast", "Your Lie in April", "Spoilercast"],
+  published: "2015-04-07T20:41:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

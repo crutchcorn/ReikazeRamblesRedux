@@ -1,12 +1,11 @@
 ---
 {
-title: "Storytime with Dexomega and Da Capo",
-tags: ["Da Capo", "AniTAY", "Storytime"],
-authors: ['reikaze'],
-published: '2015-03-07T23:15:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Storytime with Dexomega and Da Capo",
+  tags: ["Da Capo", "AniTAY", "Storytime"],
+  published: "2015-03-07T23:15:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

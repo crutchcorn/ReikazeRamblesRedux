@@ -1,12 +1,11 @@
 ---
 {
-title: "Rockmandash Reviews: Higurashi When They Cry Question Arcs (Chapters 1-4) [Visual Novel]",
-tags: ["RockmanDash Reviews", "Higurashi", "Visual novels"],
-authors: ['reikaze'],
-published: '2017-08-14T10:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Higurashi When They Cry Question Arcs (Chapters 1-4) [Visual Novel]",
+  tags: ["RockmanDash Reviews", "Higurashi", "Visual novels"],
+  published: "2017-08-14T10:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -92,13 +91,14 @@ oldArticle: true
   the you to care about the characters, and contrast of tone is used to a great effect.<br/></p>
 
 <img alt src="./goiifjjqldah7crh4nxr.jpg"/><p class="sc-77igqf-0 bOfvBY">Then there is the “Groundhog Day” approach that <em>Higurashi </em>takes: <em>Higurashi</em>
-  is broken into 8 different chapters, each chapter a unique spin on the story while building the mystery and intrigue
-  onto each other. Each arc adds something new to the experience, feeding you new information while unraveling more
-  mysteries, all working together to make a compelling experience that couldn’t be presented any other way. That being
-  said, there is a huge downside to this approach for now. The series is broken in half, with the first four chapters
-  being reviewed today known as the question arcs. These arcs are exactly what they say on the tin—serving only to build
-  the mystery and not really answer the dying questions the player might have, which can seriously hinder the experience
-  for some. If you’re interested in playing this, I’d wait until all 8 are out.</p>
+is broken into 8 different chapters, each chapter a unique spin on the story while building the mystery and intrigue
+onto each other. Each arc adds something new to the experience, feeding you new information while unraveling more
+mysteries, all working together to make a compelling experience that couldn’t be presented any other way. That being
+said, there is a huge downside to this approach for now. The series is broken in half, with the first four chapters
+being reviewed today known as the question arcs. These arcs are exactly what they say on the tin—serving only to build
+the mystery and not really answer the dying questions the player might have, which can seriously hinder the experience
+for some. If you’re interested in playing this, I’d wait until all 8 are out.</p>
+
 <div class="ooo3c9-0 PpIMM has-video media-large embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/PLB005D478D1E99E92%5B%2Fembed%5D" width="560"></iframe><span class="js_recommend" data-chomp-id="PLB005D478D1E99E92%5B%2Fembed%5D" data-recommend-id="youtube://PLB005D478D1E99E92%5B%2Fembed%5D" data-recommended="false" id="youtube-PLB005D478D1E99E92%5B%2Fembed%5D"></span></span></div><p class="sc-77igqf-0 bOfvBY">And last but not least are the side effects of the Sound Novel approach: the lack of
   choices and the art.</p>
 <p class="sc-77igqf-0 bOfvBY">While <em>Higurashi</em> is called a Sound Novel by 07th Expansion, there are more

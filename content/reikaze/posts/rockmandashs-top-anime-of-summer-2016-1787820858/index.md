@@ -1,12 +1,20 @@
 ---
 {
-title: "RockmanDash's Top Anime of Summer 2016",
-tags: ["rockmandash rambles", "rockmandash random", "Anitay", "anime", "Summer 2016", "top 10", "top lists"],
-authors: ['reikaze'],
-published: '2016-10-15T21:15:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash's Top Anime of Summer 2016",
+  tags:
+    [
+      "rockmandash rambles",
+      "rockmandash random",
+      "Anitay",
+      "anime",
+      "Summer 2016",
+      "top 10",
+      "top lists",
+    ],
+  published: "2016-10-15T21:15:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

@@ -1,12 +1,11 @@
 ---
 {
-title: "1984 Review",
-tags: ["Rockmandash Rambles", "TAY-Classic", "1984"],
-authors: ['reikaze'],
-published: '2014-11-17T20:05:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "1984 Review",
+  tags: ["Rockmandash Rambles", "TAY-Classic", "1984"],
+  published: "2014-11-17T20:05:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

@@ -1,12 +1,22 @@
 ---
 {
-title: "YU-NO is More Than Just an Old Visual Novel",
-tags: ["RockmanDash Reviews", "Rockmandash Rambles", "Visual novel", "Visual novels", "YU-NO", "PC-98", "Anime", "AniTAY", "FuwaReviews"],
-authors: ['reikaze'],
-published: '2019-06-20T09:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "YU-NO is More Than Just an Old Visual Novel",
+  tags:
+    [
+      "RockmanDash Reviews",
+      "Rockmandash Rambles",
+      "Visual novel",
+      "Visual novels",
+      "YU-NO",
+      "PC-98",
+      "Anime",
+      "AniTAY",
+      "FuwaReviews",
+    ],
+  published: "2019-06-20T09:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -89,13 +99,14 @@ oldArticle: true
   all that interesting or unique, it is a very likable cast that is engaging and does its job.</p>
 
 <video autoplay="" loop="" muted=""><source src="./tagvrovzn9djm9ikpdum.mp4" type="video/mp4"/></video><p class="sc-77igqf-0 bOfvBY">As for the sexual elements of the game, both suggestive and sex scenes pop up far
-  too frequently, which is incredibly distracting given <em>YU-NO</em>’s plot-focused nature. Every now and then it can
-  get a smile out of you (like this gif) but for the most part it doesn’t make the game better, and I definitely wish
-  there was less of it. A lot of it can just feel like sexual harassment and it’s pretty awkward to go through. In
-  regards to the explicit sex scenes that can be immersion-breaking, at least this will not be an issue with the remake
-  or anime given they are completely absent in those versions, but they remain a potential deal-breaker for for the
-  original, not because of the content itself but how it’s handled. I am genuinely not a fan and it’s my least favorite
-  part of the original release, but I get it if you like it.<br/></p>
+too frequently, which is incredibly distracting given <em>YU-NO</em>’s plot-focused nature. Every now and then it can
+get a smile out of you (like this gif) but for the most part it doesn’t make the game better, and I definitely wish
+there was less of it. A lot of it can just feel like sexual harassment and it’s pretty awkward to go through. In
+regards to the explicit sex scenes that can be immersion-breaking, at least this will not be an issue with the remake
+or anime given they are completely absent in those versions, but they remain a potential deal-breaker for for the
+original, not because of the content itself but how it’s handled. I am genuinely not a fan and it’s my least favorite
+part of the original release, but I get it if you like it.<br/></p>
+
 <p class="sc-77igqf-0 bOfvBY">Overall though? <em>YU-NO </em>is an epic of a story that does a lot and succeeds at
   more. With a compelling premise, a skilled handle on mystery, a focus on mechanics that makes it a compelling read,
   fun banter, and a gameplay system that is incredibly immersive, <em>YU-NO</em> has a fantastic story that has aged
@@ -192,33 +203,34 @@ oldArticle: true
   experience that matches or beats the original source, and <em>YU-NO</em> does that. </p>
 
 <img alt src="./x433imkryx68gnxbltzx.png"/><p class="sc-77igqf-0 bOfvBY"> The sped up nature is what I’d consider more a personal decision or coin flip
-  than something good or bad. It’s handled really well but there’s still the fact it is done that way at all: The anime
-  is missing scenes that might make continuity more confusing and certain scenes and characters may seem less developed
-  and engaging than if you’ve played the VN. The way they treat specific characters seems weird to me; for example, Mio,
-  the tsundere character kinda comes off as less likable character throughout the anime when she gets some nice
-  development in the VN.The characters seem a bit dumber in general because we aren’t seeing them do nearly as much
-  thinking and problem solving, small stuff like that. Cut content is not necessarily bad - sure it’s a different
-  experience, but as long as you make the anime experience a great one, there’s nothing wrong with changing things to
-  better fit the medium. Seeing a version as good as this given the amount of just garbage VN animes like
-  <em>Island</em>,<em> Rewrite,</em> etc. is really nice, it’s a great way to have people enjoy this story. </p>
+than something good or bad. It’s handled really well but there’s still the fact it is done that way at all: The anime
+is missing scenes that might make continuity more confusing and certain scenes and characters may seem less developed
+and engaging than if you’ve played the VN. The way they treat specific characters seems weird to me; for example, Mio,
+the tsundere character kinda comes off as less likable character throughout the anime when she gets some nice
+development in the VN.The characters seem a bit dumber in general because we aren’t seeing them do nearly as much
+thinking and problem solving, small stuff like that. Cut content is not necessarily bad - sure it’s a different
+experience, but as long as you make the anime experience a great one, there’s nothing wrong with changing things to
+better fit the medium. Seeing a version as good as this given the amount of just garbage VN animes like
+<em>Island</em>,<em> Rewrite,</em> etc. is really nice, it’s a great way to have people enjoy this story. </p>
 
 <img alt src="./v8427mi7bhhtraxzgffa.png"/><p class="sc-77igqf-0 bOfvBY"> Though, one change that really isn’t small is what they did to Takuya.
-  Apparently the anime director went out of his way to make the anime version more perverted, and you can really tell
-  that. They injected a ton of new perverted jokes, amplified the presentation of existing jokes, and they aren’t really
-  handled that well. The jokes make Takuya seem far less mature than his Visual Novel version. Sure the original Takuya
-  had his fair share of perverted moments but even in the VN I didn’t like most of them so more is not really a good
-  thing. It’s something that I find rather annoying and I think it could be a deal breaker for some people. It’s
-  incredibly out of place in many scenarios and just hard to watch, especially in 2019 given that a decent amount can be
-  seen just as sexual harassment.<br/></p>
+Apparently the anime director went out of his way to make the anime version more perverted, and you can really tell
+that. They injected a ton of new perverted jokes, amplified the presentation of existing jokes, and they aren’t really
+handled that well. The jokes make Takuya seem far less mature than his Visual Novel version. Sure the original Takuya
+had his fair share of perverted moments but even in the VN I didn’t like most of them so more is not really a good
+thing. It’s something that I find rather annoying and I think it could be a deal breaker for some people. It’s
+incredibly out of place in many scenarios and just hard to watch, especially in 2019 given that a decent amount can be
+seen just as sexual harassment.<br/></p>
 
 <img alt src="./ohqgkcpucspqtqns1oig.png"/><p class="sc-77igqf-0 bOfvBY">Also just worth mentioning: this isn’t exclusive to the anime but because it’s
-  based off of the remake the aesthetics are just not my cup of tea and I think the show’s less appealing as a result.
-  You can try to take out the 90s out of<em> YU-NO</em>, but any attempt to do so takes some of the charm out of the
-  work itself. The soundtrack isn’t the same, which some people have been complaining about but honestly, I don’t think
-  it’s a big deal at all. It might not be the same iconic and memorable score but in no way should it be considered a
-  deal breaker - it’s still absolutely fantastic and holds its own in regards to making an emotional and engaging
-  impact. The track in episode 9 with Mio comes to mind and is legitimately one of my favorite moments of the anime so
-  far. </p>
+based off of the remake the aesthetics are just not my cup of tea and I think the show’s less appealing as a result.
+You can try to take out the 90s out of<em> YU-NO</em>, but any attempt to do so takes some of the charm out of the
+work itself. The soundtrack isn’t the same, which some people have been complaining about but honestly, I don’t think
+it’s a big deal at all. It might not be the same iconic and memorable score but in no way should it be considered a
+deal breaker - it’s still absolutely fantastic and holds its own in regards to making an emotional and engaging
+impact. The track in episode 9 with Mio comes to mind and is legitimately one of my favorite moments of the anime so
+far. </p>
+
 <h3 class="sc-1bwb26k-1 fvCjqJ" id="h101660"><a class="js_header-anchor" id=""></a>Chapter 3: <em>YU-NO</em>’s
   Influence on The Industry, and Those That Came After It</h3>
 <img alt src="./fblwxjhsofgyp713xne0.png"/>
@@ -242,28 +254,29 @@ oldArticle: true
   time. </p>
 
 <img alt src="./u7r1cpzoqudbormctxhz.png"/><p class="sc-77igqf-0 bOfvBY">Thanks to Kanno and Umemoto‘s hard work, <em>YU-NO</em> was the real starting
-  point for developers to actually take the medium seriously. <em>YU-NO</em> proved that Visual Novels can be more than
-  Eroge and Nukige, that a compelling and engaging story could be made from this medium. The deep integration of story,
-  presentation, and gameplay become something that everyone wanted in the medium, and staff at the time responded by
-  hiring more talent, leading to more creativity and more risks. After the mid-90’s we’d see a rise in story based
-  Visual Novels from groups/companies like Key, AquaPlus/Leaf, Type-Moon, etc. and we’d see works that would take
-  stylistic cues from <em>YU-NO</em> with the massive branching plotlines and time travel stories like <em>Fate/stay
-    night</em> and <em>Steins;Gate</em>. Hell, there are direct examples of <em>YU-NO</em>’s influence with writers like
-  Jun Maeda (<em>Clannad</em>,<em> Kanon</em>, Air, etc.), Romeo Tanaka (<em>Rewrite</em>, <em>I/O</em>, <em>Humanity
-    has Declined</em>, etc.) Fumiaki Maruto (<em>White Album 2</em>, <em>Saekano</em>), and Tamiki Wakaki (T<em>he World
-    God Only Know</em>s) all are on record saying that <em>YU-NO</em> had a direct influence on their works, and I’m
-  sure there’s plenty more out there.</p>
+point for developers to actually take the medium seriously. <em>YU-NO</em> proved that Visual Novels can be more than
+Eroge and Nukige, that a compelling and engaging story could be made from this medium. The deep integration of story,
+presentation, and gameplay become something that everyone wanted in the medium, and staff at the time responded by
+hiring more talent, leading to more creativity and more risks. After the mid-90’s we’d see a rise in story based
+Visual Novels from groups/companies like Key, AquaPlus/Leaf, Type-Moon, etc. and we’d see works that would take
+stylistic cues from <em>YU-NO</em> with the massive branching plotlines and time travel stories like <em>Fate/stay
+night</em> and <em>Steins;Gate</em>. Hell, there are direct examples of <em>YU-NO</em>’s influence with writers like
+Jun Maeda (<em>Clannad</em>,<em> Kanon</em>, Air, etc.), Romeo Tanaka (<em>Rewrite</em>, <em>I/O</em>, <em>Humanity
+has Declined</em>, etc.) Fumiaki Maruto (<em>White Album 2</em>, <em>Saekano</em>), and Tamiki Wakaki (T<em>he World
+God Only Know</em>s) all are on record saying that <em>YU-NO</em> had a direct influence on their works, and I’m
+sure there’s plenty more out there.</p>
 
 <img alt src="./hcw1vt2i4kwfxcgtyvjk.png"/><p class="sc-77igqf-0 bOfvBY">In a way, the impact that<em> YU-NO</em> had on the medium is similar to the
-  impact that<em> </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://arstechnica.com/gaming/2010/05/masterpiece-final-fantasy-vii/",{"metric25":1}]]' href="https://arstechnica.com/gaming/2010/05/masterpiece-final-fantasy-vii/" rel="noopener noreferrer" target="_blank"><em>Final Fantasy VII</em> had on JRPGs in the west</a></span>:
-  it made people interested in this type of work, and influenced the rest of the industry to follow in its footsteps.
-  While FFVII made people in the west take JRPGs seriously, got the genre as a whole mainstream, lead/inspired a wave of
-  great JRPGs like <em>Chrono Chross </em>and <em>Grandia</em>.<em> YU-NO</em> got people in Japan to start taking
-  Visual Novels seriously, got story driven VNs into the mainstream and lead/inspired a wave of Visual Novel Classics
-  like<em> Kanon</em> and <em>Fate/stay night</em>. Even if you dismiss<em> YU-NO</em> as a work itself, there’s no
-  dismissing the impact it had on Visual Novels. It’s not an understatement to say that Visual Novels as we know it
-  would be nothing without it. I for one am grateful for all of its impacts because many of my favorite Visual Novels
-  wouldn’t exist without it, and the reason I care about the medium as a whole would be non-existent without it.</p>
+impact that<em> </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://arstechnica.com/gaming/2010/05/masterpiece-final-fantasy-vii/",{"metric25":1}]]' href="https://arstechnica.com/gaming/2010/05/masterpiece-final-fantasy-vii/" rel="noopener noreferrer" target="_blank"><em>Final Fantasy VII</em> had on JRPGs in the west</a></span>:
+it made people interested in this type of work, and influenced the rest of the industry to follow in its footsteps.
+While FFVII made people in the west take JRPGs seriously, got the genre as a whole mainstream, lead/inspired a wave of
+great JRPGs like <em>Chrono Chross </em>and <em>Grandia</em>.<em> YU-NO</em> got people in Japan to start taking
+Visual Novels seriously, got story driven VNs into the mainstream and lead/inspired a wave of Visual Novel Classics
+like<em> Kanon</em> and <em>Fate/stay night</em>. Even if you dismiss<em> YU-NO</em> as a work itself, there’s no
+dismissing the impact it had on Visual Novels. It’s not an understatement to say that Visual Novels as we know it
+would be nothing without it. I for one am grateful for all of its impacts because many of my favorite Visual Novels
+wouldn’t exist without it, and the reason I care about the medium as a whole would be non-existent without it.</p>
+
 <h3 class="sc-1bwb26k-1 fvCjqJ" id="h101661"><a class="js_header-anchor" id=""></a>Chapter 4/Conclusion: My
   experience with <em>YU-NO</em>, and How It All Comes Together</h3>
 <img alt src="./kiam20tfszcxsmnto32w.jpg"/>

@@ -1,12 +1,20 @@
 ---
 {
-title: "Rockmandash Reviews: Carnival Phantasm [Anime]",
-tags: ["rockmandash reviews", "rockmandash", "ani-tay", "reviews", "carnival phantasm", "type moon", "Type-Moon Marathon"],
-authors: ['reikaze'],
-published: '2014-03-17T23:09:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Carnival Phantasm [Anime]",
+  tags:
+    [
+      "rockmandash reviews",
+      "rockmandash",
+      "ani-tay",
+      "reviews",
+      "carnival phantasm",
+      "type moon",
+      "Type-Moon Marathon",
+    ],
+  published: "2014-03-17T23:09:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -33,40 +41,43 @@ oldArticle: true
 <img alt src="./svmtz4xkcc44quzrpffq.png"/>
 
 <img alt src="./896241082765792037.jpg"/><p class="sc-77igqf-0 bOfvBY"> As a comedy, it's sole purpose was to entertain. How did it do? FANTASTIC. I'm not going
-  to lie, writing this review was an excuse to watch Carnival Phantasm. I re-watch Carnival Phantasm on a regular basis,
-  because I love Carnival Phantasm. It's my go to comedy show when I'm in the dumps. It's just fantastic seeing all my
-  favorite characters interacting with characters they never would have interacted with in the first place, or watch
-  <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://tvtropes.org/pmwiki/pmwiki.php/Main/HilarityEnsues",{"metric25":1}]]' href="http://tvtropes.org/pmwiki/pmwiki.php/Main/HilarityEnsues" rel="noopener noreferrer" target="_blank">hilarity ensue</a></span>.
-  This show is quite silly, and when I say silly, I mean really silly. There are many skits in this that I adore, like
-  instead of F/SN characters battling it out in a brawl, they go racing with hilarious references everywhere, or seeing
-  Rin Tohsaka epicly fail at trying to record an episode on a Blu-Ray player. <strong>One big thing that will affect
-    your enjoyment is the fact that Carnival Phantasm is not a comedy series you can just jump into; It's necessary to
-    know about Fate Stay Night and Tsukihime, and you need knowledge of Melty Blood, F/SN, Tsukihime and the fan disks
-    to fully enjoy this series. </strong>The more you know about Type-Moon, the better it is. If you haven't seen
-  anything type moon, I'm afraid that you wouldn't find it too entertaining, but if you haven't, why are you interested
-  in this? It's a very enjoyable show, depending on who you are.</p>
+to lie, writing this review was an excuse to watch Carnival Phantasm. I re-watch Carnival Phantasm on a regular basis,
+because I love Carnival Phantasm. It's my go to comedy show when I'm in the dumps. It's just fantastic seeing all my
+favorite characters interacting with characters they never would have interacted with in the first place, or watch
+<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://tvtropes.org/pmwiki/pmwiki.php/Main/HilarityEnsues",{"metric25":1}]]' href="http://tvtropes.org/pmwiki/pmwiki.php/Main/HilarityEnsues" rel="noopener noreferrer" target="_blank">hilarity ensue</a></span>.
+This show is quite silly, and when I say silly, I mean really silly. There are many skits in this that I adore, like
+instead of F/SN characters battling it out in a brawl, they go racing with hilarious references everywhere, or seeing
+Rin Tohsaka epicly fail at trying to record an episode on a Blu-Ray player. <strong>One big thing that will affect
+your enjoyment is the fact that Carnival Phantasm is not a comedy series you can just jump into; It's necessary to
+know about Fate Stay Night and Tsukihime, and you need knowledge of Melty Blood, F/SN, Tsukihime and the fan disks
+to fully enjoy this series. </strong>The more you know about Type-Moon, the better it is. If you haven't seen
+anything type moon, I'm afraid that you wouldn't find it too entertaining, but if you haven't, why are you interested
+in this? It's a very enjoyable show, depending on who you are.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h110306"><a class="js_header-anchor" id=""></a><strong>Enjoyment -
   10/10</strong></h4>
 <img alt src="./kp0bbqkquizkbpqzzsrq.png"/>
 
 <img alt src="./896241082895522085.jpg"/><p class="sc-77igqf-0 bOfvBY">Carnival Phantasm is a nice and needed break from KnK and Fate Zero. This show is a
-  complete 180 from the dark series Type-Moon does; CP is one of the most light hearted anime I've ever seen. There is
-  no plot, it's 100% completely comedy in the form of short skits. It's very similar to how Full Metal Panic had the
-  Fumoffu OVA season which was amazing, yet season 2 was all serious. The fact that there is no overarching story in
-  Carnival Phantasm means that the essentially spend the whole time making fun of the series, and it's done very well:
-  most of the jokes are hilarious, and the situations the characters get in are great. All the characters in Carnival
-  phantasm are parodied and exaggerated versions of themselves, like how Saber loves food, and Lancer's incredibly bad
-  luck. It's a great way of extracting humor out of series that typically are pretty dark, and it makes the characters
-  very enjoyable. The writing is great for what it needs; a no frills, hilarious comedy.</p>
+complete 180 from the dark series Type-Moon does; CP is one of the most light hearted anime I've ever seen. There is
+no plot, it's 100% completely comedy in the form of short skits. It's very similar to how Full Metal Panic had the
+Fumoffu OVA season which was amazing, yet season 2 was all serious. The fact that there is no overarching story in
+Carnival Phantasm means that the essentially spend the whole time making fun of the series, and it's done very well:
+most of the jokes are hilarious, and the situations the characters get in are great. All the characters in Carnival
+phantasm are parodied and exaggerated versions of themselves, like how Saber loves food, and Lancer's incredibly bad
+luck. It's a great way of extracting humor out of series that typically are pretty dark, and it makes the characters
+very enjoyable. The writing is great for what it needs; a no frills, hilarious comedy.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h110307"><a class="js_header-anchor" id=""></a>Writing - 9/10</h4>
 <img alt src="./okwiiviiczriw9ike4wb.png"/>
 
 <img alt src="./aykbwgnp0m8c1nwcbl4d.jpg"/><p class="sc-77igqf-0 bOfvBY">As a comedy series, they didn't really go overboard on budget, so the show is
-  just average. Everything has a cute look to it, which is awesome and great but it doesn't stand out that much. It's
-  miles better than what Studio Deen *sigh* did, but it can't really hold a candle to Ufotable's visuals. One thing that
-  made me happy was finally being able to see the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://angryfreak.files.wordpress.com/2009/06/hisuisays.jpg",{"metric25":1}]]' href="http://angryfreak.files.wordpress.com/2009/06/hisuisays.jpg" rel="noopener noreferrer" target="_blank">Tsukihime characters in an anime, and they were done pretty well</a></span>.
-  I'm pretty happy that they were done very well the very first time they were animated. Carnival Phantasm's visuals get
-  the job done, in a very cute way, yet manage not to stray away from the source material. </p>
+just average. Everything has a cute look to it, which is awesome and great but it doesn't stand out that much. It's
+miles better than what Studio Deen _sigh_ did, but it can't really hold a candle to Ufotable's visuals. One thing that
+made me happy was finally being able to see the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://angryfreak.files.wordpress.com/2009/06/hisuisays.jpg",{"metric25":1}]]' href="http://angryfreak.files.wordpress.com/2009/06/hisuisays.jpg" rel="noopener noreferrer" target="_blank">Tsukihime characters in an anime, and they were done pretty well</a></span>.
+I'm pretty happy that they were done very well the very first time they were animated. Carnival Phantasm's visuals get
+the job done, in a very cute way, yet manage not to stray away from the source material. </p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h110308"><a class="js_header-anchor" id=""></a>Visuals - 7.5/10</h4>
 <img alt src="./y5x6ho3tefqwqqhmnqxe.png"/>
 <p class="sc-77igqf-0 bOfvBY"> As this is a comedy series and most of Type-Moon stuff is not, a good majority of

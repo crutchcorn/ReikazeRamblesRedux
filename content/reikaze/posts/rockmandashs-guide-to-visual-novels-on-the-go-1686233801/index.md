@@ -1,12 +1,19 @@
 ---
 {
-title: "Rockmandash's Guide to Visual Novels on the Go",
-tags: ["Visual Novels", "AniTAY", "Tayclassic", "on the go", "Rockmandash", "FuwaReviews"],
-authors: ['reikaze'],
-published: '2015-02-17T12:45:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash's Guide to Visual Novels on the Go",
+  tags:
+    [
+      "Visual Novels",
+      "AniTAY",
+      "Tayclassic",
+      "on the go",
+      "Rockmandash",
+      "FuwaReviews",
+    ],
+  published: "2015-02-17T12:45:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

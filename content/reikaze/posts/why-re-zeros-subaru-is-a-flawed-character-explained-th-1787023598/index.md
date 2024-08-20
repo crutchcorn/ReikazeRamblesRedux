@@ -1,12 +1,18 @@
 ---
 {
-title: "Why Re:Zero 's Subaru is a Flawed Character, Explained Through The Hero Complex & Fate/stay night",
-tags: ["RE:ZERO", "AniTay", "Rockmandash Rambles", "Summer 2016", "fate/stay night"],
-authors: ['reikaze'],
-published: '2016-09-23T19:30:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Why Re:Zero 's Subaru is a Flawed Character, Explained Through The Hero Complex & Fate/stay night",
+  tags:
+    [
+      "RE:ZERO",
+      "AniTay",
+      "Rockmandash Rambles",
+      "Summer 2016",
+      "fate/stay night",
+    ],
+  published: "2016-09-23T19:30:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -54,16 +60,16 @@ oldArticle: true
   you don’t care for Subaru. </p>
 
 <img alt src="./c2dmod5jv3sgtaxezxft.jpg"/><p class="sc-77igqf-0 bOfvBY">So, why would someone not like Subaru? Mainly, the execution of the themes of the
-  character. Re:Zero doesn’t delve much into the themes that makes it work, but with some observation I’d say that the
-  main theme is regarding character: Subaru is a main character with a Knight/Hero complex and the work builds on this.
-  He wants to save, and is desperate to do so. He idealizes the typical main character, and is genre savvy enough to
-  desire that, but not enough so to actually execute it. Early on, He has no powers, but desires to do so anyways and
-  rushes to try to save everyone without thinking it through, even though he has no ability to. And because it’s a
-  complex, he doesn’t know when to stop, leading it to build up and crush him down. This is the core theme of his
-  actions in the work, and it’s brilliant on paper, but what personally kills it for me is the execution: this should be
-  devastating, not frustrating. I’ve enjoyed devastation in works like <em>Code Geass </em>and <em>Steins;Gate</em> but
-  in those works the decisions were understandable. Here, they aren’t with his choices making no sense, done solely for
-  plot convenience.</p>
+character. Re:Zero doesn’t delve much into the themes that makes it work, but with some observation I’d say that the
+main theme is regarding character: Subaru is a main character with a Knight/Hero complex and the work builds on this.
+He wants to save, and is desperate to do so. He idealizes the typical main character, and is genre savvy enough to
+desire that, but not enough so to actually execute it. Early on, He has no powers, but desires to do so anyways and
+rushes to try to save everyone without thinking it through, even though he has no ability to. And because it’s a
+complex, he doesn’t know when to stop, leading it to build up and crush him down. This is the core theme of his
+actions in the work, and it’s brilliant on paper, but what personally kills it for me is the execution: this should be
+devastating, not frustrating. I’ve enjoyed devastation in works like <em>Code Geass </em>and <em>Steins;Gate</em> but
+in those works the decisions were understandable. Here, they aren’t with his choices making no sense, done solely for
+plot convenience.</p>
 
 <ul class="sc-1lmbno3-0 dpuHif" data-style="Bullet" data-type="List">
 <li>He has to die several times before realizing that he returned to the past after death.</li>

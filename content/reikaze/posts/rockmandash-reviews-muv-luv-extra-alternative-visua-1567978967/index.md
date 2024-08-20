@@ -1,12 +1,22 @@
 ---
 {
-title: "Rockmandash Reviews: Muv-Luv & Alternative [Visual Novel]",
-tags: ["rockmandash reviews", "muv-luv", "extra", "alternative", "ani-tay", "review", "mecha", "attack on titan", "tay-classic"],
-authors: ['reikaze'],
-published: '2014-05-07T01:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Muv-Luv & Alternative [Visual Novel]",
+  tags:
+    [
+      "rockmandash reviews",
+      "muv-luv",
+      "extra",
+      "alternative",
+      "ani-tay",
+      "review",
+      "mecha",
+      "attack on titan",
+      "tay-classic",
+    ],
+  published: "2014-05-07T01:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -68,11 +78,12 @@ oldArticle: true
   universe.</p>
 
 <img alt src="./z3kpgjvz8iyx5nx7nan4.jpg"/><p class="sc-77igqf-0 bOfvBY"><em>Alternative </em>emphasizes it’s unique and different world... and how they
-  built up this world is absolutely fantastic. It’s filled with engaging politics of the world, exposes on the military
-  environment in a remarkably engrossing manner,shows fascinating people with all sorts of problems, and makes you
-  immersed in the society that differs so much from what we’re used to. The best part about this interesting world is
-  that they go so in depth about it, and any world building you would ever want is here... its absolutely fantastic and
-  I wish that more works would build works this comprehensive. </p>
+built up this world is absolutely fantastic. It’s filled with engaging politics of the world, exposes on the military
+environment in a remarkably engrossing manner,shows fascinating people with all sorts of problems, and makes you
+immersed in the society that differs so much from what we’re used to. The best part about this interesting world is
+that they go so in depth about it, and any world building you would ever want is here... its absolutely fantastic and
+I wish that more works would build works this comprehensive. </p>
+
 <p class="sc-77igqf-0 bOfvBY">Plot wise, <em>Muv-Luv Alternative </em>is a military invasion story similar to the
   popular<em> Attack on Titan</em> but with good pacing and character development. While<em> Attack on Titan </em>focuses
   on objectives and the deaths of your favorite characters, <em>Muv-Luv </em>focuses on everything you can think of and
@@ -127,11 +138,12 @@ oldArticle: true
   localized version is in 16:9 like you’d expect</p>
 
 <img alt src="./b4abbp6eg7lxj0wawr15.jpg"/><p class="sc-77igqf-0 bOfvBY"> Alternative does a little bit better in this aspect and when you launch it up,
-  be prepared for a slight quality jump. The big difference though, is that Alternative has some niceties like 16:9* and
-  some of the best <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://www.youtube.com/watch?v=fbdVfJGRbfw",{"metric25":1}]]' href="https://www.youtube.com/watch?v=fbdVfJGRbfw" rel="noopener noreferrer" target="_blank">engrish</a></span>** I have seen in a long time. As for the sound,
-  some of the tracks are absolutely fantastic, and the timing of these great tracks is something to be admired, but a
-  majority of the soundtrack is just average. Alternative’s presentation is nice because it takes care of all the small
-  details, just like in the plot. Also, All the FMV’s have this nice 80's charm to it, and I dig it.</p>
+be prepared for a slight quality jump. The big difference though, is that Alternative has some niceties like 16:9\* and
+some of the best <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://www.youtube.com/watch?v=fbdVfJGRbfw",{"metric25":1}]]' href="https://www.youtube.com/watch?v=fbdVfJGRbfw" rel="noopener noreferrer" target="_blank">engrish</a></span>\*\* I have seen in a long time. As for the sound,
+some of the tracks are absolutely fantastic, and the timing of these great tracks is something to be admired, but a
+majority of the soundtrack is just average. Alternative’s presentation is nice because it takes care of all the small
+details, just like in the plot. Also, All the FMV’s have this nice 80's charm to it, and I dig it.</p>
+
 <p class="sc-77igqf-0 bOfvBY">** The official localization gave them proper voice actors, so this only applies for
   the FanTL</p>
 <div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/yAXEMvIHtT0" width="560"></iframe><span class="js_recommend" data-chomp-id="yAXEMvIHtT0" data-recommend-id="youtube://yAXEMvIHtT0" data-recommended="false" id="youtube-yAXEMvIHtT0"></span></span></div><p class="sc-77igqf-0 bOfvBY"> The character art, UI, voice acting and aesthetics in general are pretty much the same
@@ -140,13 +152,14 @@ oldArticle: true
   of the class. The voice actors are the same in all games and they do a pretty nice job in all of them.</p>
 
 <img alt src="./gp4teohnljwo2kgs0xm7.png"/><p class="sc-77igqf-0 bOfvBY">Normally, I’d just write a few paragraphs about my personal enjoyment of the
-  game, but Muv-Luv is an experience unlike anything else, and as a result it deeply resonated to me, to the point in
-  which keeping my thoughts contained here would do it a bit of injustice. I whole <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://rockmandash12.kinja.com/rockmandash-rambles-why-i-loved-muv-luv-but-you-might-1566859006",{"metric25":1}]]' href="https://rockmandash12.kinja.com/rockmandash-rambles-why-i-loved-muv-luv-but-you-might-1566859006" rel="noopener noreferrer" target="_blank">opinion piece on my experience with Muv-Luv</a></span> but if that’s too
-  long for you, I’ll say it here: It’s phenomenal and I love it. <br/></p>
+game, but Muv-Luv is an experience unlike anything else, and as a result it deeply resonated to me, to the point in
+which keeping my thoughts contained here would do it a bit of injustice. I whole <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://rockmandash12.kinja.com/rockmandash-rambles-why-i-loved-muv-luv-but-you-might-1566859006",{"metric25":1}]]' href="https://rockmandash12.kinja.com/rockmandash-rambles-why-i-loved-muv-luv-but-you-might-1566859006" rel="noopener noreferrer" target="_blank">opinion piece on my experience with Muv-Luv</a></span> but if that’s too
+long for you, I’ll say it here: It’s phenomenal and I love it. <br/></p>
 
 <img alt src="./711978613740308264.png"/><p class="sc-77igqf-0 bOfvBY"><em>2020 Edit Note</em>: I have a few thoughts here from when I wrote this article back in
-  2014 before the official localization, and I’m keeping them here for posterity’s sake, but know that it doesn’t apply
-  to the current game if you pick it up on steam. </p>
+2014 before the official localization, and I’m keeping them here for posterity’s sake, but know that it doesn’t apply
+to the current game if you pick it up on steam. </p>
+
 <p class="sc-77igqf-0 bOfvBY"><code>There are a few little things I want to say before I get into my personal
   thoughts on Muv-Luv, so i’ll say them here. Muv-Luv made me realize how dependent I am on fan translations, as there
   were parts that weren’t translated because of the engine, and I felt completely lost. This game hates windows 8 and
@@ -164,12 +177,13 @@ oldArticle: true
 <img alt src="./k28rkscvtlmwq7npsyej.png"/>
 
 <img alt src="./bkpnd3fdqxd9ecbdlumg.png"/><p class="sc-77igqf-0 bOfvBY">There’s some Muv-Luv Anime Spinoffs worth mentioning here: <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://tay.kotaku.com/preview/rockmandash-reviews-muv-luv-alternative-total-eclipse-1585812547?rev=1401861401",{"metric25":1}]]' href="http://tay.kotaku.com/preview/rockmandash-reviews-muv-luv-alternative-total-eclipse-1585812547?rev=1401861401"><em>Total Eclipse</em></a></span>
-  and <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/schwarzesmarken-the-ani-tay-review-1766320077",{"metric25":1}]]' href="https://anitay.kinja.com/schwarzesmarken-the-ani-tay-review-1766320077" rel="noopener noreferrer" target="_blank"><em>Schwarezmarken</em></a></span>, read these if you are interested.</p>
+and <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/schwarzesmarken-the-ani-tay-review-1766320077",{"metric25":1}]]' href="https://anitay.kinja.com/schwarzesmarken-the-ani-tay-review-1766320077" rel="noopener noreferrer" target="_blank"><em>Schwarezmarken</em></a></span>, read these if you are interested.</p>
 
 <img alt src="./vcshgha5alqretey7qvi.png"/><p class="sc-77igqf-0 bOfvBY"> I love <em>Muv-Luv</em>. It has it’s ups and downs, but it’s a prime example of
-  why Visual Novels is one of the best ways of storytelling, with some of the highest highs that I’ve ever experienced.
-  There’s an INCREDIBLY HIGH barrier of entry, but if you can get through them <em>Extra</em> and<em> Unlimited</em>,
-  you’ll have one of the best experiences of storytelling that any medium has to offer. </p>
+why Visual Novels is one of the best ways of storytelling, with some of the highest highs that I’ve ever experienced.
+There’s an INCREDIBLY HIGH barrier of entry, but if you can get through them <em>Extra</em> and<em> Unlimited</em>,
+you’ll have one of the best experiences of storytelling that any medium has to offer. </p>
+
 <p class="sc-77igqf-0 bOfvBY"> Also, if you want another opinion, check out Dexomega’s reviews on <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/muv-luv-the-tay-review-1541968420",{"metric25":1}]]' href="https://anitay.kinja.com/muv-luv-the-tay-review-1541968420" rel="noopener noreferrer" target="_blank"><em>Muv Luv</em></a></span>
   and <em>A</em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://tay.kotaku.com/muv-luv-alternative-the-tay-review-1546183909",{"metric25":1}]]' href="http://tay.kotaku.com/muv-luv-alternative-the-tay-review-1546183909"><em>lternative</em></a></span>.
 </p>

@@ -1,12 +1,11 @@
 ---
 {
-title: "Planetatian is now on Steam!",
-tags: ["undefined"],
-authors: ['reikaze'],
-published: '2014-09-12T14:59:09-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Planetatian is now on Steam!",
+  tags: ["undefined"],
+  published: "2014-09-12T14:59:09-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

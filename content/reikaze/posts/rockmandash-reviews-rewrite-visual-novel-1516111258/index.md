@@ -1,12 +1,21 @@
 ---
 {
-title: "Rockmandash Reviews: Rewrite [Visual Novel]",
-tags: ["rockmandash reviews", "rockmandash", "review", "tay", "tayclassic", "tay-classic", "rewrite", "visual novel"],
-authors: ['reikaze'],
-published: '2014-02-04T16:58:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Rewrite [Visual Novel]",
+  tags:
+    [
+      "rockmandash reviews",
+      "rockmandash",
+      "review",
+      "tay",
+      "tayclassic",
+      "tay-classic",
+      "rewrite",
+      "visual novel",
+    ],
+  published: "2014-02-04T16:58:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

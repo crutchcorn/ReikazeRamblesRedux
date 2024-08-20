@@ -1,12 +1,21 @@
 ---
 {
-title: "Ever 17 - The Out of Infinity - Himmel Edition Patch",
-tags: ["Visual Novels", "Ever 17", "Ever 17 The out of Infinity", "Rokumei City", "Himmel", "Forever 17", "Patch", "Rockmandash Rambles"],
-authors: ['reikaze'],
-published: '2018-11-17T15:37:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Ever 17 - The Out of Infinity - Himmel Edition Patch",
+  tags:
+    [
+      "Visual Novels",
+      "Ever 17",
+      "Ever 17 The out of Infinity",
+      "Rokumei City",
+      "Himmel",
+      "Forever 17",
+      "Patch",
+      "Rockmandash Rambles",
+    ],
+  published: "2018-11-17T15:37:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -45,32 +54,32 @@ oldArticle: true
   change it there.<br/></p>
 
 <img alt src="./p5nn4rbchtk1fios8xiw.png"/><p class="sc-77igqf-0 bOfvBY"><strong>4.</strong> More interestingly however, is when you right click, Himmel
-  edition has added a debug menu, which allows you to see a bunch of information that you wouldn’t be able to see
-  otherwise. Most of these might be useful, but there’s definitely one that is incredibly useful.<br/>There’s four
-  options - <em>Title display, Text read display, Character status display, </em>and <em>System Status
-    display. </em><br/><br/>Title display allows you to see the title of the section you’re reading, which helps you gauge
-  where you are in the story. Text read display shows you what part of text you’re reading- i’m not sure how useful
-  this’ll be for readers given how it’s shown, but it’s a nice to have. Same with system status display, this shows what
-  file you’re interacting with, probably won’t be useful for most readers. The big quality of life improvement here with
-  this debug menu is the character status display though- it allows you to see your character points. To get to the
-  character route you want and to get the character ending you want, you need to have a specific amount of points.
-  before you’d just have to make a note of how many points you had, but now you have an option to look at it whenever in
-  the game which is a really nice touch that I know I would have appreciated when I originally played through the
-  game.<br/></p>
+edition has added a debug menu, which allows you to see a bunch of information that you wouldn’t be able to see
+otherwise. Most of these might be useful, but there’s definitely one that is incredibly useful.<br/>There’s four
+options - <em>Title display, Text read display, Character status display, </em>and <em>System Status
+display. </em><br/><br/>Title display allows you to see the title of the section you’re reading, which helps you gauge
+where you are in the story. Text read display shows you what part of text you’re reading- i’m not sure how useful
+this’ll be for readers given how it’s shown, but it’s a nice to have. Same with system status display, this shows what
+file you’re interacting with, probably won’t be useful for most readers. The big quality of life improvement here with
+this debug menu is the character status display though- it allows you to see your character points. To get to the
+character route you want and to get the character ending you want, you need to have a specific amount of points.
+before you’d just have to make a note of how many points you had, but now you have an option to look at it whenever in
+the game which is a really nice touch that I know I would have appreciated when I originally played through the
+game.<br/></p>
 
 <img alt src="./u9wjlsr3gkyflnlbs7fh.png"/><p class="sc-77igqf-0 bOfvBY"><strong>5.</strong> A bunch of quality of life changes - There’s some options to
-  change character names - you and coco can be changed to yu and koko respectively. This change is mostly to clear up
-  confusion that the name “you” can cause, the second one is a preference thing. Himmel edition removed the prompt to
-  save system data, as it just automatically saves when you close the game or return to title. And last but not least
-  for engine changes, the Himmel patch fixed an issue when you click out of the window, the music would stop and
-  restart.<br/></p>
+change character names - you and coco can be changed to yu and koko respectively. This change is mostly to clear up
+confusion that the name “you” can cause, the second one is a preference thing. Himmel edition removed the prompt to
+save system data, as it just automatically saves when you close the game or return to title. And last but not least
+for engine changes, the Himmel patch fixed an issue when you click out of the window, the music would stop and
+restart.<br/></p>
 
 <hr class="gcp5ez-0 hKlTiw"/><h2 class="sc-1bwb26k-1 fvCjqJ" id="h96623"><a class="js_header-anchor" id=""></a>Graphical
   Changes</h2>
 <img alt src="./o4rhyvmrucs8icw8as0m.png"/>
 
 <img alt src="./sxscoovcggm2dbysse2c.png"/><p class="sc-77igqf-0 bOfvBY">There’s some graphical changes that Himmel made that make the game less dated
-  than it originally did. These are self explanatory so I’m just gonna show them to ya.<br/></p>
+than it originally did. These are self explanatory so I’m just gonna show them to ya.<br/></p>
 
 <ul class="sc-1lmbno3-0 dpuHif" data-style="Bullet" data-type="List">
 <li>Updated font</li>

@@ -1,12 +1,11 @@
 ---
 {
-title: "Anime That Jazz!",
-tags: ["anime", "jazz", "anime that jazz"],
-authors: ['reikaze'],
-published: '2014-07-22T16:40:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Anime That Jazz!",
+  tags: ["anime", "jazz", "anime that jazz"],
+  published: "2014-07-22T16:40:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

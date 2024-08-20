@@ -1,12 +1,11 @@
 ---
 {
-title: "Hello there, FuwaReviews!",
-tags: ["Visual Novels", "Fuwanovel", "FuwaReviews"],
-authors: ['reikaze'],
-published: '2015-02-19T18:33:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Hello there, FuwaReviews!",
+  tags: ["Visual Novels", "Fuwanovel", "FuwaReviews"],
+  published: "2015-02-19T18:33:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

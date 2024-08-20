@@ -1,12 +1,11 @@
 ---
 {
-title: "AMD Announces Polaris GPUs, the RX 470 & 460",
-tags: [],
-authors: ['reikaze'],
-published: '2016-06-13T15:18:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "AMD Announces Polaris GPUs, the RX 470 & 460",
+  tags: [],
+  published: "2016-06-13T15:18:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

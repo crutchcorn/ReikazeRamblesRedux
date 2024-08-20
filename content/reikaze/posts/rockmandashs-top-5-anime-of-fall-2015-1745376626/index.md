@@ -1,12 +1,20 @@
 ---
 {
-title: "RockmanDash's Top 5 Anime of Fall 2015",
-tags: ["Rockmandash Rambles", "Top lists", "Top 5", "Top 10", "Anime", "AniTAY", "Fall 2015"],
-authors: ['reikaze'],
-published: '2015-12-29T09:00:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash's Top 5 Anime of Fall 2015",
+  tags:
+    [
+      "Rockmandash Rambles",
+      "Top lists",
+      "Top 5",
+      "Top 10",
+      "Anime",
+      "AniTAY",
+      "Fall 2015",
+    ],
+  published: "2015-12-29T09:00:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -94,11 +102,11 @@ oldArticle: true
   formidable opponents.</p>
 
 <img alt src="./zjvay07lpeiz3kvzwcvi.jpg"/><p class="sc-77igqf-0 bOfvBY"><strong>Justification &amp; Thoughts: </strong>Yes, I realize there’s two shows
-  here. My list, my rules though, and I tend to combine similar things into one listing, with these being both sports
-  anime and second seasons. I know a lot of people don’t really care about sports anime, but as of late they’ve quickly
-  become one of my favorite anime genres as they have great characters and have the positives of Shounen shows without
-  many of the negatives. The ones airing this season are really great, and have been some of the shows I’ve enjoyed the
-  most as this season progressed. (also, I missed the really great <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/baby-steps-2-the-anitay-review-1728020664",{"metric25":1}]]' href="http://anitay.kinja.com/baby-steps-2-the-anitay-review-1728020664" rel="noopener noreferrer" target="_blank"><em>Baby Steps</em></a></span><em> </em>last season, so I gotta make up for that...)</p>
+here. My list, my rules though, and I tend to combine similar things into one listing, with these being both sports
+anime and second seasons. I know a lot of people don’t really care about sports anime, but as of late they’ve quickly
+become one of my favorite anime genres as they have great characters and have the positives of Shounen shows without
+many of the negatives. The ones airing this season are really great, and have been some of the shows I’ve enjoyed the
+most as this season progressed. (also, I missed the really great <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/baby-steps-2-the-anitay-review-1728020664",{"metric25":1}]]' href="http://anitay.kinja.com/baby-steps-2-the-anitay-review-1728020664" rel="noopener noreferrer" target="_blank"><em>Baby Steps</em></a></span><em> </em>last season, so I gotta make up for that...)</p>
 
 <hr class="gcp5ez-0 hKlTiw"/><h3 class="sc-1bwb26k-1 fvCjqJ" id="h108741"><a class="js_header-anchor" id=""></a><em><strong>1. One Punch
   Man</strong></em></h3>

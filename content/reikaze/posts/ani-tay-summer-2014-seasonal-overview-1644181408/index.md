@@ -1,12 +1,21 @@
 ---
 {
-title: "Ani-TAY Summer 2014 Seasonal Overview",
-tags: ["Ani-TAY", "Summer 2014", "Seasonal Overview", "Good", "Bad", "Collaberation", "Thoughts", "TAY-Classic"],
-authors: ['reikaze'],
-published: '2014-10-13T12:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Ani-TAY Summer 2014 Seasonal Overview",
+  tags:
+    [
+      "Ani-TAY",
+      "Summer 2014",
+      "Seasonal Overview",
+      "Good",
+      "Bad",
+      "Collaberation",
+      "Thoughts",
+      "TAY-Classic",
+    ],
+  published: "2014-10-13T12:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

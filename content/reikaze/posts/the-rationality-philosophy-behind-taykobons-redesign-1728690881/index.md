@@ -1,12 +1,11 @@
 ---
 {
-title: "The Rationality & Philosophy behind Taykōbon's Redesign",
-tags: ["Tayk\u014dbon", "Design", "Rockmandash12", "Rockmandash Rambles"],
-authors: ['reikaze'],
-published: '2015-09-04T00:56:42-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "The Rationality & Philosophy behind Taykōbon's Redesign",
+  tags: ["Tayk\u014dbon", "Design", "Rockmandash12", "Rockmandash Rambles"],
+  published: "2015-09-04T00:56:42-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -52,16 +51,16 @@ oldArticle: true
   the redesign with the taykōbon redesign, so it’s important to mention here.</p>
 
 <img alt src="./1416024136648893223.png"/><p class="sc-77igqf-0 bOfvBY">With Bookworm, I followed the few design elements I know: Keep it simple, have symbolism,
-  and keep it clean. Because of this, I started my design with a flag, and in this case, the iconic Japanese flag. I
-  found a white book icon and there it was... and it worked perfectly. I extended the red and white motif to the rest of
-  the elements because red evokes the feeling of japan as a nation due to the rising sun symbolism, so then I added a
-  dash of clean typography, (Futura MT for English and bolded Meiryo UI for Japanese) and there it is, a design that I
-  can say is symbolic, and one I was rather proud of. Sometimes, the simplest of things is the best of things.</p>
+and keep it clean. Because of this, I started my design with a flag, and in this case, the iconic Japanese flag. I
+found a white book icon and there it was... and it worked perfectly. I extended the red and white motif to the rest of
+the elements because red evokes the feeling of japan as a nation due to the rising sun symbolism, so then I added a
+dash of clean typography, (Futura MT for English and bolded Meiryo UI for Japanese) and there it is, a design that I
+can say is symbolic, and one I was rather proud of. Sometimes, the simplest of things is the best of things.</p>
 
 <img alt src="./1416024136836451367.png"/><p class="sc-77igqf-0 bOfvBY">本のワーム and Taykōbon are rather similar on concept with a LN focus and Japanese
-  naming scheme, so when I saw my half a year old assets, it made me wonder how could I keep my ethos for design while
-  improving Taykōbon? You can see this mindset when you look around the Taykōbon assets, but obviously, 本のワーム and
-  Taykōbon are totally different.</p>
+naming scheme, so when I saw my half a year old assets, it made me wonder how could I keep my ethos for design while
+improving Taykōbon? You can see this mindset when you look around the Taykōbon assets, but obviously, 本のワーム and
+Taykōbon are totally different.</p>
 
 <hr class="gcp5ez-0 hKlTiw"/><h3 class="sc-1bwb26k-1 fvCjqJ" id="h112171"><a class="js_header-anchor" id=""></a><em>&gt;Flaws
   &amp; Problems&gt;</em></h3>
@@ -102,33 +101,33 @@ oldArticle: true
   were better cuz national symbolism, and kinja’s albino so white backgrounds work better here.</p>
 
 <img alt src="./1416024137201963047.png"/><p class="sc-77igqf-0 bOfvBY">Unfortunately, my red color and larger Japanese text was shot down becuase 1)
-  it’s totally different than what’s currently there so it may confuse people and 2) All the people from Taykōbon
-  preferred the blue... so to the next mockup!</p>
+it’s totally different than what’s currently there so it may confuse people and 2) All the people from Taykōbon
+preferred the blue... so to the next mockup!</p>
 
 <img alt src="./1416024137422349351.png"/><p class="sc-77igqf-0 bOfvBY">This was a real quick and dirty edit, but already you can notice some of the
-  issues that ultimately led to changes in the main design. First of all, the Japanese design symbolism is gone so I had
-  to think of something else. There’s the issue of boldness too, as the english text is rather thick of a font and while
-  that worked as an undertext, it doesn’t work as primary. Also, I consider modern Japanese fonts to be rather sharp, so
-  the rather thick ikea like futura medium as is didn’t really fit the bill. Also, to keep the current design of the
-  headers, I’d have to do the white version and thus tweak the image around.</p>
+issues that ultimately led to changes in the main design. First of all, the Japanese design symbolism is gone so I had
+to think of something else. There’s the issue of boldness too, as the english text is rather thick of a font and while
+that worked as an undertext, it doesn’t work as primary. Also, I consider modern Japanese fonts to be rather sharp, so
+the rather thick ikea like futura medium as is didn’t really fit the bill. Also, to keep the current design of the
+headers, I’d have to do the white version and thus tweak the image around.</p>
 
 <img alt src="./1416024137518201895.jpg"/><p class="sc-77igqf-0 bOfvBY">I went to Japanese flag prefectural design because it fits with the elements I wanted and
-  because it’s what I found. There’s not many Japanese design elements floating around on the english web, or in
-  graphical design in general as Japan isn’t nearly as web design focused as we are and those there take western
-  influence because they are kinda paid peanuts.... so the prefectural flags are what I went for... and man are they
-  great. Usually with one or two colors, they are symbolic, clean and memorable, something I rather dug.. and the book
-  icon lended itself to an implantation like this. So, I was off to the races trying to make a good flag design to
-  implement a similar design to keep my ethos of this project, while satisfying what was needed for a good design for
-  the site.</p>
+because it’s what I found. There’s not many Japanese design elements floating around on the english web, or in
+graphical design in general as Japan isn’t nearly as web design focused as we are and those there take western
+influence because they are kinda paid peanuts.... so the prefectural flags are what I went for... and man are they
+great. Usually with one or two colors, they are symbolic, clean and memorable, something I rather dug.. and the book
+icon lended itself to an implantation like this. So, I was off to the races trying to make a good flag design to
+implement a similar design to keep my ethos of this project, while satisfying what was needed for a good design for
+the site.</p>
 
 <img alt src="./1416024137731486759.png"/><p class="sc-77igqf-0 bOfvBY">I dabbled with the idea of a blue circle like in the earlier red on white mockup, but to
-  keep it along with current Taykōbon, I did an outline instead, which fit the flag design better and offered a decent
-  pathway that I could work with. It has a thicker line though to keep with the lines of the book, the prefectural style
-  and other lines I did, so it is what it is. If I made it thicker, It would be a clone of my own logo, (which I took
-  the whole circle motif from Taykōbon when it came out...) so I tried to avoid that. When we tried<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://puu.sh/jKRl9/8d86863d5f.png",{"metric25":1}]]' href="http://puu.sh/jKRl9/8d86863d5f.png" rel="noopener noreferrer" target="_blank"> test headers</a></span> it
-  became painfully obvious my font choice wasn’t working, so I found a slimmed version, and tried again... and it worked
-  really well, fitting with my design... throw in caps and now it’s turning out really well, implimenting all of the
-  things I could really want out of the design.<br/></p>
+keep it along with current Taykōbon, I did an outline instead, which fit the flag design better and offered a decent
+pathway that I could work with. It has a thicker line though to keep with the lines of the book, the prefectural style
+and other lines I did, so it is what it is. If I made it thicker, It would be a clone of my own logo, (which I took
+the whole circle motif from Taykōbon when it came out...) so I tried to avoid that. When we tried<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://puu.sh/jKRl9/8d86863d5f.png",{"metric25":1}]]' href="http://puu.sh/jKRl9/8d86863d5f.png" rel="noopener noreferrer" target="_blank"> test headers</a></span> it
+became painfully obvious my font choice wasn’t working, so I found a slimmed version, and tried again... and it worked
+really well, fitting with my design... throw in caps and now it’s turning out really well, implimenting all of the
+things I could really want out of the design.<br/></p>
 
 <hr class="gcp5ez-0 hKlTiw"/><h3 class="sc-1bwb26k-1 fvCjqJ" id="h112173"><a class="js_header-anchor" id=""></a><em><strong>&gt;Finishing Touches&gt;</strong></em>
 </h3>

@@ -1,12 +1,11 @@
 ---
 {
-title: "Fate/stay night 2014.... Unlimited Blade Works + Heaven's Feel?",
-tags: ["Fate Stay Night", "2014", "Unlimited Blade Works", "Heaven's Feel"],
-authors: ['reikaze'],
-published: '2014-07-27T16:30:19-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Fate/stay night 2014.... Unlimited Blade Works + Heaven's Feel?",
+  tags: ["Fate Stay Night", "2014", "Unlimited Blade Works", "Heaven's Feel"],
+  published: "2014-07-27T16:30:19-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

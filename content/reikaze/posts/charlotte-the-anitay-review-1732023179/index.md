@@ -1,12 +1,19 @@
 ---
 {
-title: "Charlotte : The AniTAY Review",
-tags: ["The AniTAY Review", "Charlotte", "Key Marathon", "Rockmandash Reviews", "Anime", "Key"],
-authors: ['reikaze'],
-published: '2015-09-28T12:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Charlotte : The AniTAY Review",
+  tags:
+    [
+      "The AniTAY Review",
+      "Charlotte",
+      "Key Marathon",
+      "Rockmandash Reviews",
+      "Anime",
+      "Key",
+    ],
+  published: "2015-09-28T12:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -109,26 +116,28 @@ oldArticle: true
   have been a whole cour itself... it’s sporadic and a mess.</p>
 
 <video autoplay="" loop="" muted=""><source src="./1456859307855441809.mp4" type="video/mp4"/></video><p class="sc-77igqf-0 bOfvBY">Floating around <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://www.reddit.com/r/anime/comments/3mk09v/visual_representation_of_charlottes_pacing_and/",{"metric25":1}]]' href="https://www.reddit.com/r/anime/comments/3mk09v/visual_representation_of_charlottes_pacing_and/" rel="noopener noreferrer" target="_blank">/r/anime</a></span>,
-  this gif really demonstrates what it feels like watching <em>Charlotte</em>: watching and anticipating the event
-  you’ve been looking forward to come by, only for it to rush by and pull you down while continuing around you, and
-  developments falling flat on their face... it’s not the most pleasant experience. That being said, while it’s
-  ultimately a flawed experience, it’s not frustratingly flawed like angel beats because it knew some of its limits, not
-  to throw more characters than it new how to work with and actually develop those that are important... but it’s
-  another testament to the fact that Jun Maeda and other VN writers should probably be doing VNs along with <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/grisaia-no-kajitsu-the-anime-you-should-not-be-watchin-1651115065",{"metric25":1}]]' href="http://anitay.kinja.com/grisaia-no-kajitsu-the-anime-you-should-not-be-watchin-1651115065" rel="noopener noreferrer" target="_blank"><em>Grisaia</em></a></span><em>, </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/punch-line-the-ani-tay-review-1713427515#_ga=1.16346175.888615642.1438970662",{"metric25":1}]]' href="http://anitay.kinja.com/punch-line-the-ani-tay-review-1713427515#_ga=1.16346175.888615642.1438970662" rel="noopener noreferrer" target="_blank"><em>Punch Line</em></a></span>, <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/fate-stay-night-unlimited-blade-works-tv-is-beautifu-1642722982#_ga=1.83338399.888615642.1438970662",{"metric25":1}]]' href="http://rockmandash12.kinja.com/fate-stay-night-unlimited-blade-works-tv-is-beautifu-1642722982#_ga=1.83338399.888615642.1438970662" rel="noopener noreferrer" target="_blank"><em>Fate/stay night: Unlimited Blade Works</em></a></span>, and on and on
-  and on. If adapted right, like (<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-reviews-clannad-visual-novel-anime-1609437459/all#_ga=1.46179374.888615642.1438970662",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-reviews-clannad-visual-novel-anime-1609437459/all#_ga=1.46179374.888615642.1438970662" rel="noopener noreferrer" target="_blank"><em>Clannad</em></a></span>, <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://tay.kinja.com/dexs-review-white-album-2-1488422133",{"metric25":1}]]' href="http://tay.kinja.com/dexs-review-white-album-2-1488422133" rel="noopener noreferrer" target="_blank"><em>White Album 2</em></a></span>,
-  <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://tay.kinja.com/rockmandash-reviews-steins-gate-visual-novel-anime-1557342550",{"metric25":1}]]' href="http://tay.kinja.com/rockmandash-reviews-steins-gate-visual-novel-anime-1557342550" rel="noopener noreferrer" target="_blank"><em>Steins;Gate</em></a></span>, etc.), Visual Novels have the potential to be some
-  of the best in the medium, but if not, which is much more common, they crash and burn: Anime has time limits and is
-  serialized while VNs have a lot of time, along with elements like multiple branching routes. By adapting them or
-  adapting the writing style to anime, you run into the exact same issues all of these face: boring beginning, rushed
-  plot, flawed structure... not the best things for an anime, and pretty much everything i’ve been saying here and
-  throughout my anime reviews of these works. (<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://xjpegx.kinja.com/rewrite-anime-adaption-announced-1733174423#_ga=1.247426189.888615642.1438970662",{"metric25":1}]]' href="http://xjpegx.kinja.com/rewrite-anime-adaption-announced-1733174423#_ga=1.247426189.888615642.1438970662" rel="noopener noreferrer" target="_blank"><em>Rewrite ;-;</em></a></span><em>)</em>
+this gif really demonstrates what it feels like watching <em>Charlotte</em>: watching and anticipating the event
+you’ve been looking forward to come by, only for it to rush by and pull you down while continuing around you, and
+developments falling flat on their face... it’s not the most pleasant experience. That being said, while it’s
+ultimately a flawed experience, it’s not frustratingly flawed like angel beats because it knew some of its limits, not
+to throw more characters than it new how to work with and actually develop those that are important... but it’s
+another testament to the fact that Jun Maeda and other VN writers should probably be doing VNs along with <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/grisaia-no-kajitsu-the-anime-you-should-not-be-watchin-1651115065",{"metric25":1}]]' href="http://anitay.kinja.com/grisaia-no-kajitsu-the-anime-you-should-not-be-watchin-1651115065" rel="noopener noreferrer" target="_blank"><em>Grisaia</em></a></span><em>, </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/punch-line-the-ani-tay-review-1713427515#_ga=1.16346175.888615642.1438970662",{"metric25":1}]]' href="http://anitay.kinja.com/punch-line-the-ani-tay-review-1713427515#_ga=1.16346175.888615642.1438970662" rel="noopener noreferrer" target="_blank"><em>Punch Line</em></a></span>, <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/fate-stay-night-unlimited-blade-works-tv-is-beautifu-1642722982#_ga=1.83338399.888615642.1438970662",{"metric25":1}]]' href="http://rockmandash12.kinja.com/fate-stay-night-unlimited-blade-works-tv-is-beautifu-1642722982#_ga=1.83338399.888615642.1438970662" rel="noopener noreferrer" target="_blank"><em>Fate/stay night: Unlimited Blade Works</em></a></span>, and on and on
+and on. If adapted right, like (<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-reviews-clannad-visual-novel-anime-1609437459/all#_ga=1.46179374.888615642.1438970662",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-reviews-clannad-visual-novel-anime-1609437459/all#_ga=1.46179374.888615642.1438970662" rel="noopener noreferrer" target="_blank"><em>Clannad</em></a></span>, <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://tay.kinja.com/dexs-review-white-album-2-1488422133",{"metric25":1}]]' href="http://tay.kinja.com/dexs-review-white-album-2-1488422133" rel="noopener noreferrer" target="_blank"><em>White Album 2</em></a></span>,
+<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://tay.kinja.com/rockmandash-reviews-steins-gate-visual-novel-anime-1557342550",{"metric25":1}]]' href="http://tay.kinja.com/rockmandash-reviews-steins-gate-visual-novel-anime-1557342550" rel="noopener noreferrer" target="_blank"><em>Steins;Gate</em></a></span>, etc.), Visual Novels have the potential to be some
+of the best in the medium, but if not, which is much more common, they crash and burn: Anime has time limits and is
+serialized while VNs have a lot of time, along with elements like multiple branching routes. By adapting them or
+adapting the writing style to anime, you run into the exact same issues all of these face: boring beginning, rushed
+plot, flawed structure... not the best things for an anime, and pretty much everything i’ve been saying here and
+throughout my anime reviews of these works. (<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://xjpegx.kinja.com/rewrite-anime-adaption-announced-1733174423#_ga=1.247426189.888615642.1438970662",{"metric25":1}]]' href="http://xjpegx.kinja.com/rewrite-anime-adaption-announced-1733174423#_ga=1.247426189.888615642.1438970662" rel="noopener noreferrer" target="_blank"><em>Rewrite ;-;</em></a></span><em>)</em>
+
 </p>
 
 <img alt src="./1456859308109804177.png"/><p class="sc-77igqf-0 bOfvBY">Another original Key anime, another round of disappointment. While it has it’s moments, was
-  a fun experience and does a lot right, there’s too much it does wrong, wasted potential due to a piss poor structure
-  that includes stuff like wonky pacing, and a story that’s all over the place. I wanted to love it, but that isn’t the
-  case, a work that, while it didn’t piss me off to no end like <em>Angel Beats</em>, isn’t amazing but merely “good”.
-  What a work this is... </p>
+a fun experience and does a lot right, there’s too much it does wrong, wasted potential due to a piss poor structure
+that includes stuff like wonky pacing, and a story that’s all over the place. I wanted to love it, but that isn’t the
+case, a work that, while it didn’t piss me off to no end like <em>Angel Beats</em>, isn’t amazing but merely “good”.
+What a work this is... </p>
+
 <h3 class="sc-1bwb26k-1 fvCjqJ" id="h104160"><a class="js_header-anchor" id=""></a>Overall: 7.5/10, Polarization
   +1, - 3</h3>
 <img alt src="./1456859308197988241.png"/>

@@ -1,12 +1,19 @@
 ---
 {
-title: "Rockmandash Reviews: The Last Guardian",
-tags: ["Rockmandash Reviews", "Rockmandash12", "The Last Guardian", "Ps9", "April fools", "Reviewing something that doesn't exist is hard"],
-authors: ['reikaze'],
-published: '2014-04-01T03:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: The Last Guardian",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "Rockmandash12",
+      "The Last Guardian",
+      "Ps9",
+      "April fools",
+      "Reviewing something that doesn't exist is hard",
+    ],
+  published: "2014-04-01T03:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -89,4 +96,5 @@ oldArticle: true
 <img alt src="./jhjh0ekfoemcgm5pdz76.png"/>
 
 <img alt src="./gphlgkhw7da0zidhp9en.png"/><p class="sc-77igqf-0 bOfvBY">(btw if you haven't noticed yet, this is an April fools joke :D)</p>
+
 </div>

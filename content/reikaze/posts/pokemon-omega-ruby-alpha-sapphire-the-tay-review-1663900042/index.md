@@ -1,12 +1,19 @@
 ---
 {
-title: "Pokémon Omega Ruby & Alpha Sapphire : The TAY Review",
-tags: ["TAY-Review", "Tayclassic", "Pokemon", "Omega Ruby", "Alpha Sapphire", "Rockmandash Reviews"],
-authors: ['reikaze'],
-published: '2014-11-26T22:45:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Pokémon Omega Ruby & Alpha Sapphire : The TAY Review",
+  tags:
+    [
+      "TAY-Review",
+      "Tayclassic",
+      "Pokemon",
+      "Omega Ruby",
+      "Alpha Sapphire",
+      "Rockmandash Reviews",
+    ],
+  published: "2014-11-26T22:45:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -163,9 +170,9 @@ oldArticle: true
   things.</p>
 
 <img alt src="./1007417788740287559.png"/><p class="sc-77igqf-0 bOfvBY">Pokémon Omega Ruby &amp; Alpha sapphire are beautiful recreations of the third generation
-  for the Gameboy Advance. They use the strengths of the modern Pokémon games to improve on the style that the originals
-  had while keeping the feeling of the game intact. It's a great remake and it does what all good remakes really should
-  do.</p>
+for the Gameboy Advance. They use the strengths of the modern Pokémon games to improve on the style that the originals
+had while keeping the feeling of the game intact. It's a great remake and it does what all good remakes really should
+do.</p>
 
 <img alt src="./evmhew5nb8botvwwy4hh.png"/>
 </div>

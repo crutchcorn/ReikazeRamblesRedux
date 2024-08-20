@@ -1,12 +1,19 @@
 ---
 {
-title: "The State of Anime: How Legal Anime Streaming Went to Shit in 2017",
-tags: ["AniTAY", "Anime Strike", "Crunchyroll", "Anime Streaming", "Rant", "Rockmandash rambles"],
-authors: ['reikaze'],
-published: '2017-04-07T00:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "The State of Anime: How Legal Anime Streaming Went to Shit in 2017",
+  tags:
+    [
+      "AniTAY",
+      "Anime Strike",
+      "Crunchyroll",
+      "Anime Streaming",
+      "Rant",
+      "Rockmandash rambles",
+    ],
+  published: "2017-04-07T00:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -30,12 +37,12 @@ oldArticle: true
   watch, and in lower quality than before, all because of events that happened in the past few months.</p>
 
 <img alt src="./lwldl5xq5idxjecrzcxf.png"/><p class="sc-77igqf-0 bOfvBY">While not the only cause, the biggest cause is Anime Strike, which is Amazon’s
-  brand-new anime streaming service that only serves to make things worse. While there’s nothing wrong with a new player
-  in the market, there is something wrong with the way Amazon did this: Amazon brute-forced themselves into the market
-  without any regard or understanding of how the anime community works. Given that the anime industry in the west is
-  grown from a community that had to do less-than-legal things to get the shows they want, it takes quite a bit to
-  convince the community that legal anime is worth it… Anime Strike ignores this, making it much more likely that people
-  may pirate.<br/></p>
+brand-new anime streaming service that only serves to make things worse. While there’s nothing wrong with a new player
+in the market, there is something wrong with the way Amazon did this: Amazon brute-forced themselves into the market
+without any regard or understanding of how the anime community works. Given that the anime industry in the west is
+grown from a community that had to do less-than-legal things to get the shows they want, it takes quite a bit to
+convince the community that legal anime is worth it… Anime Strike ignores this, making it much more likely that people
+may pirate.<br/></p>
 
 <ul class="sc-1lmbno3-0 dpuHif" data-style="Bullet" data-type="List">
 <li><em><strong>Anime Strike makes it more inconvenient to watch anime:</strong> </em>This is a pro and con, as it
@@ -94,22 +101,22 @@ oldArticle: true
 <img alt src="mmosudp1boiekrbpfrcu.jpg"/>
 
 <img alt src="./hnpj2y2nur03ubrycnlr.png"/><p class="sc-77igqf-0 bOfvBY">Enter VRV. This is Crunchyroll’s parent company’s (Ellison/AT&amp;T) attemptto
-  make a unified platform, but Crunchyroll has not been subtle in advertising this new service. Giant pop-up ads appear
-  whenever you watch anime on your phone when there’s a lot of demand, hinting that the streams will be better on that
-  service. By shifting their attention to VRV, they are caring about the core CR experience less, and trying to push a
-  new service whenever something goes wrong. If this means what I think it means, this could be even going against the
-  ideals of net neutrality, prioritizing VRV customers over CR customers, basically paying for a fast lane to the anime
-  you want. If everyone started doing this, the internet would only get worse and worse, and there would be even less of
-  a reason to watch legal anime… And that’s ignoring the bitrate issue.</p>
+make a unified platform, but Crunchyroll has not been subtle in advertising this new service. Giant pop-up ads appear
+whenever you watch anime on your phone when there’s a lot of demand, hinting that the streams will be better on that
+service. By shifting their attention to VRV, they are caring about the core CR experience less, and trying to push a
+new service whenever something goes wrong. If this means what I think it means, this could be even going against the
+ideals of net neutrality, prioritizing VRV customers over CR customers, basically paying for a fast lane to the anime
+you want. If everyone started doing this, the internet would only get worse and worse, and there would be even less of
+a reason to watch legal anime… And that’s ignoring the bitrate issue.</p>
 
 <img alt src="./kw8drymoob56qll3gzx0.png"/><p class="sc-77igqf-0 bOfvBY"><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://medium.com/@Daiz/crunchyrolls-reduced-video-quality-is-deliberate-cost-cutting-at-the-expense-of-paying-customers-c86c6899033b",{"metric25":1}]]' href="https://medium.com/@Daiz/crunchyrolls-reduced-video-quality-is-deliberate-cost-cutting-at-the-expense-of-paying-customers-c86c6899033b" rel="noopener noreferrer" target="_blank">Thanks to the work of Daiz</a></span>,
-  we found out that Crunchyroll has been encoding episodes in a lower bitrate than before, making the quality of the
-  shows worse, all to save money and server demand for VRV’s launch. Bitrate is the number of bits that is processed in
-  the unit of time, but in effect, this means the amount of detail that is in a video. They cut the size of files in
-  half, and it shows, as anime look blockier, with less color detail, essentially looking noticeably worse in general.
-  There are a lot of comparisons on Reddit, and the difference is significant. Thanks to an outroar by the internet
-  community, they said they would switch to a better encoder, but this doesn’t fix existing shows, as those are still
-  much lower bitrate. <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://www.reddit.com/r/anime/comments/5yv8a7/crunchyroll_has_reduced_bitrate_by_4070_damaging/",{"metric25":1}]]' href="https://www.reddit.com/r/anime/comments/5yv8a7/crunchyroll_has_reduced_bitrate_by_4070_damaging/" rel="noopener noreferrer" target="_blank">Take a look if you’re interested.</a></span><br/></p>
+we found out that Crunchyroll has been encoding episodes in a lower bitrate than before, making the quality of the
+shows worse, all to save money and server demand for VRV’s launch. Bitrate is the number of bits that is processed in
+the unit of time, but in effect, this means the amount of detail that is in a video. They cut the size of files in
+half, and it shows, as anime look blockier, with less color detail, essentially looking noticeably worse in general.
+There are a lot of comparisons on Reddit, and the difference is significant. Thanks to an outroar by the internet
+community, they said they would switch to a better encoder, but this doesn’t fix existing shows, as those are still
+much lower bitrate. <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://www.reddit.com/r/anime/comments/5yv8a7/crunchyroll_has_reduced_bitrate_by_4070_damaging/",{"metric25":1}]]' href="https://www.reddit.com/r/anime/comments/5yv8a7/crunchyroll_has_reduced_bitrate_by_4070_damaging/" rel="noopener noreferrer" target="_blank">Take a look if you’re interested.</a></span><br/></p>
 
 <hr class="gcp5ez-1 egkUKA"/><p class="sc-77igqf-0 bOfvBY">In the past few years, there hasn’t been a lot of arguments
   for watching illegally other than you didn’t want to pay money. Anime was affordable and the legal option was more

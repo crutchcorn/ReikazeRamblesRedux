@@ -1,12 +1,11 @@
 ---
 {
-title: "My Type-Moon Marathon is pretty much complete!",
-tags: ["undefined"],
-authors: ['reikaze'],
-published: '2014-09-14T16:06:37-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "My Type-Moon Marathon is pretty much complete!",
+  tags: ["undefined"],
+  published: "2014-09-14T16:06:37-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

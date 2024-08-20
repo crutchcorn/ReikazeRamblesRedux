@@ -1,12 +1,21 @@
 ---
 {
-title: "Project Hydra Attends a Corpse Party for Tortured Souls",
-tags: ["Project Hydra", "Corpse Party", "Tortured Souls", "AniTAY", "OVA", "Anime", "Horror", "Gore"],
-authors: ['reikaze'],
-published: '2014-12-15T14:55:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Project Hydra Attends a Corpse Party for Tortured Souls",
+  tags:
+    [
+      "Project Hydra",
+      "Corpse Party",
+      "Tortured Souls",
+      "AniTAY",
+      "OVA",
+      "Anime",
+      "Horror",
+      "Gore",
+    ],
+  published: "2014-12-15T14:55:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -37,14 +46,15 @@ oldArticle: true
   called Book of Shadows), but <em>Tortured Souls</em> only follows the true end.</p>
 
 <img alt src="./1032601978022846123.jpg"/><p class="sc-77igqf-0 bOfvBY"><em>Corpse Party: Tortured Souls</em> is a very interesting adaptation. While I'd
-  personally recommend experiencing <em>Corpse Party</em> via the game because <em>Tortured Souls</em> has to rush the
-  story and it has quite a different direction, it uses what little time it has well by portraying what people would
-  expect from something called <em>Corpse Party</em>. What I mean by that is a lot of Corpses, gore, horror, gore,
-  supernatural elements, gore, psychological damage, gore, horrible deaths, gore, and a killer soundtrack. Did I mention
-  Gore? Yeah... there's a lot of that, making it absolutely perfect for Project Hydra, with the amazing reactions. It's
-  a horror slasher film in anime format, and it laughs at the idea of subtlety. Everything's notched up to 11, and if
-  you thought <em>Elfen Lied</em> and <em>Higurashi</em> was gory.... you are in for a treat. Now that you are in the
-  right mindset for these reviews/reactions, let's get this started!</p>
+personally recommend experiencing <em>Corpse Party</em> via the game because <em>Tortured Souls</em> has to rush the
+story and it has quite a different direction, it uses what little time it has well by portraying what people would
+expect from something called <em>Corpse Party</em>. What I mean by that is a lot of Corpses, gore, horror, gore,
+supernatural elements, gore, psychological damage, gore, horrible deaths, gore, and a killer soundtrack. Did I mention
+Gore? Yeah... there's a lot of that, making it absolutely perfect for Project Hydra, with the amazing reactions. It's
+a horror slasher film in anime format, and it laughs at the idea of subtlety. Everything's notched up to 11, and if
+you thought <em>Elfen Lied</em> and <em>Higurashi</em> was gory.... you are in for a treat. Now that you are in the
+right mindset for these reviews/reactions, let's get this started!</p>
+
 <p class="sc-77igqf-0 bOfvBY"> In the respective <strike>chopping</strike> order, we have Krakken_Unleashed,
   Protonstorm, Messiah, and thatsmypizza <strike>dying</strike> watching this show and then writing up a quip for
   Project Hydra. As for the formatting for the Project Hydra for <em>Corpse Party: Tortured Souls</em>, I decided that

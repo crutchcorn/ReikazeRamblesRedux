@@ -1,12 +1,11 @@
 ---
 {
-title: "So I heard you like Anime Openings... how about in string?",
-tags: ["Anime", "Music String", "Awesome", "channel"],
-authors: ['reikaze'],
-published: '2014-08-26T09:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "So I heard you like Anime Openings... how about in string?",
+  tags: ["Anime", "Music String", "Awesome", "channel"],
+  published: "2014-08-26T09:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

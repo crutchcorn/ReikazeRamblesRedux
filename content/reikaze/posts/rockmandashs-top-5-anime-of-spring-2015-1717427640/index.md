@@ -1,12 +1,12 @@
 ---
 {
-title: "Rockmandash's Top 5 Anime of Spring 2015",
-tags: ["Rockmandash Rambles", "Top 10", "Spring 2015", "AniTAY", "Tayclassic"],
-authors: ['reikaze'],
-published: '2015-07-13T13:25:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash's Top 5 Anime of Spring 2015",
+  tags:
+    ["Rockmandash Rambles", "Top 10", "Spring 2015", "AniTAY", "Tayclassic"],
+  published: "2015-07-13T13:25:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

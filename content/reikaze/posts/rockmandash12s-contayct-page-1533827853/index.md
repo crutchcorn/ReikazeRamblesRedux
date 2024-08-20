@@ -1,12 +1,11 @@
 ---
 {
-title: "Rockmandash12's ConTAYct Page",
-tags: ["contayct-list"],
-authors: ['reikaze'],
-published: '2014-02-28T18:35:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash12's ConTAYct Page",
+  tags: ["contayct-list"],
+  published: "2014-02-28T18:35:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

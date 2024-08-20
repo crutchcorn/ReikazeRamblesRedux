@@ -1,12 +1,11 @@
 ---
 {
-title: "Digibro's Guide To Visual Criticism in Anime",
-tags: ["Anime", "Digibro", "Analysis", "Visuals"],
-authors: ['reikaze'],
-published: '2015-02-14T00:04:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Digibro's Guide To Visual Criticism in Anime",
+  tags: ["Anime", "Digibro", "Analysis", "Visuals"],
+  published: "2015-02-14T00:04:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

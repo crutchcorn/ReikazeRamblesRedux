@@ -1,12 +1,18 @@
 ---
 {
-title: "Magic Kaito 1412 : The Ani-TAY Review",
-tags: ["Rockmandash Reviews", "The AniTAY Review", "Tayclassic", "AniTAY", "Magic Kaito"],
-authors: ['reikaze'],
-published: '2015-04-04T10:15:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Magic Kaito 1412 : The Ani-TAY Review",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "The AniTAY Review",
+      "Tayclassic",
+      "AniTAY",
+      "Magic Kaito",
+    ],
+  published: "2015-04-04T10:15:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -67,6 +73,7 @@ oldArticle: true
 </aside>
 
 <img alt src="./o51hc7uwrnwlejco1iyj.png"/><h4 class="sc-1bwb26k-1 fvCjqJ" id="h105178"><a class="js_header-anchor" id=""></a>Amazing/Annoying Audio</h4>
+
 <div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/Sf5BsDWHpEc" width="560"></iframe><span class="js_recommend" data-chomp-id="Sf5BsDWHpEc" data-recommend-id="youtube://Sf5BsDWHpEc" data-recommended="false" id="youtube-Sf5BsDWHpEc"></span></span></div><p class="sc-77igqf-0 bOfvBY">The Sound was really was the only aspect of this show that bothered me while watching. Some
   aspects were great, like the fantastic opening (which is really good, one of my favorites for the season), and most of
   the sound like the voice acting in general was pretty good but there are parts of this show that are absolutely
@@ -74,9 +81,9 @@ oldArticle: true
   Kaito's voice which is hit or miss, but this is really a small annoyance.</p>
 
 <img alt src="./ncfy7idsumsoynpsfswm.png"/><p class="sc-77igqf-0 bOfvBY">Kaito Kid isn't "Best anime evar" material, but it doesn't really need to be.
-  Even though it's not perfect, it's a show that is consistently entertaining, and it does enough to make this a really
-  fun watch. What else do you want? If you want a fun, entertaining show, you can't go wrong with<em> Magic Kaito
-    1412</em>.</p>
+Even though it's not perfect, it's a show that is consistently entertaining, and it does enough to make this a really
+fun watch. What else do you want? If you want a fun, entertaining show, you can't go wrong with<em> Magic Kaito
+1412</em>.</p>
 
 <img alt src="./wfvdyvvk6j15nv5sozto.png"/>
 <hr class="gcp5ez-0 hKlTiw"/><p class="sc-77igqf-0 bOfvBY"><em>Rockmandash is a frequent writer of Visual Novels and

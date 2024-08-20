@@ -1,12 +1,20 @@
 ---
 {
-title: "RockmanDash Reviews: Zero Escape: Virtue's Last Reward - A Nearly Perfect Experience",
-tags: ["Rockmandash Reviews", "Zero Escape", "Virtue's Last Reward", "Review", "FuwaReviews", "AniTAY", "Tayclassic"],
-authors: ['reikaze'],
-published: '2015-07-08T15:25:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash Reviews: Zero Escape: Virtue's Last Reward - A Nearly Perfect Experience",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "Zero Escape",
+      "Virtue's Last Reward",
+      "Review",
+      "FuwaReviews",
+      "AniTAY",
+      "Tayclassic",
+    ],
+  published: "2015-07-08T15:25:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -170,10 +178,10 @@ oldArticle: true
   great track, and I’m a big fan.</p>
 
 <img alt src="./1332363780095563440.jpg"/><p class="sc-77igqf-0 bOfvBY">Also, this game has full voice acting, and the North American localization even has a dual
-  audio option. During my first playthrough at launch, I played through the English voice acting and during my second
-  playthrough for review, I tried the Japanese voice acting. While I prefer the English voice acting because I’m more
-  familiar with it overall, the Japanese dub is just as great and it really is up to personal preference. Plus, you can
-  change the language really easily as it prompts you every time you go load up the save... pretty awesome. </p>
+audio option. During my first playthrough at launch, I played through the English voice acting and during my second
+playthrough for review, I tried the Japanese voice acting. While I prefer the English voice acting because I’m more
+familiar with it overall, the Japanese dub is just as great and it really is up to personal preference. Plus, you can
+change the language really easily as it prompts you every time you go load up the save... pretty awesome. </p>
 
 <hr class="gcp5ez-0 hKlTiw"/>
 <img alt src="1332363780158945200.png"/>

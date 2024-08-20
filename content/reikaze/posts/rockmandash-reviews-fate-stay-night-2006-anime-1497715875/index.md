@@ -1,12 +1,23 @@
 ---
 {
-title: "Rockmandash Reviews: Fate/stay night [2006 Anime]",
-tags: ["tayclassic", "rockmandash reviews", "anime", "anime reviews", "fatestay night", "fate stay night anime", "2006", "studio deen", "ani-tay", "Type-Moon Marathon"],
-authors: ['reikaze'],
-published: '2014-01-08T18:59:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Fate/stay night [2006 Anime]",
+  tags:
+    [
+      "tayclassic",
+      "rockmandash reviews",
+      "anime",
+      "anime reviews",
+      "fatestay night",
+      "fate stay night anime",
+      "2006",
+      "studio deen",
+      "ani-tay",
+      "Type-Moon Marathon",
+    ],
+  published: "2014-01-08T18:59:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -38,13 +49,14 @@ oldArticle: true
 <img alt src="./1291634712628828008.png"/>
 
 <img alt src="./1291634712726823784.jpg"/><p class="sc-77igqf-0 bOfvBY">It’s meh. Studio deen has a habit of going off model with shows, and even though it’s
-  better than say… higurashi, it’s not great either. In comparison to the source material, it’s pretty accurate, but
-  usually looks worse… especially the CG dragon. FSN’s visual novel has a few sex scenes, and what the anime did to get
-  around this was make a Sega Saturn quality CG Dragon which looked horrible, and it was just rubbish. The biggest
-  disappointment with the art in this show is the more detail you have in the video, the worse it looks. I first watched
-  this on a low quality stream and I didn’t think it looked too bad, then I watched a HD one and now that I can actually
-  see the details, I can see all of the flaws this show has, and that’s generally something that shouldn’t happen. I
-  have no other description for the animation other than its consistently worse than the visual novel.</p>
+better than say… higurashi, it’s not great either. In comparison to the source material, it’s pretty accurate, but
+usually looks worse… especially the CG dragon. FSN’s visual novel has a few sex scenes, and what the anime did to get
+around this was make a Sega Saturn quality CG Dragon which looked horrible, and it was just rubbish. The biggest
+disappointment with the art in this show is the more detail you have in the video, the worse it looks. I first watched
+this on a low quality stream and I didn’t think it looked too bad, then I watched a HD one and now that I can actually
+see the details, I can see all of the flaws this show has, and that’s generally something that shouldn’t happen. I
+have no other description for the animation other than its consistently worse than the visual novel.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h119895"><a class="js_header-anchor" id=""></a>Animation &amp; Art - 6/10</h4>
 <img alt src="./1291634712815088744.png"/>
 <div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/Qy7Q77ZD_ME" width="560"></iframe><span class="js_recommend" data-chomp-id="Qy7Q77ZD_ME" data-recommend-id="youtube://Qy7Q77ZD_ME" data-recommended="false" id="youtube-Qy7Q77ZD_ME"></span></span></div><p class="sc-77igqf-0 bOfvBY">This soundtrack is actually quite great. I really liked the first OP, it’s one of my
@@ -58,8 +70,9 @@ oldArticle: true
 <img alt src="./1291634712858246248.png"/>
 
 <img alt src="./1291634713012592488.jpg"/><p class="sc-77igqf-0 bOfvBY">I’ve watched this show twice. I didn’t care for it both times. It’s just not very
-  interesting in my opinion, but if you haven’t seen the source material I’d assume you would like it more than I
-  did.</p>
+interesting in my opinion, but if you haven’t seen the source material I’d assume you would like it more than I
+did.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h119897"><a class="js_header-anchor" id=""></a>Personal Enjoyment - 6/10</h4>
 <img alt src="./1291634713093933416.png"/>
 <p class="sc-77igqf-0 bOfvBY">This show is hard to talk about. It’s the polar opposite of the visual novel yet

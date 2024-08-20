@@ -1,12 +1,11 @@
 ---
 {
-title: "Rockmandash's Top 10 Favorite Visual Novels",
-tags: ["Top 10", "Visual Novels", "FuwaReviews", "AniTAY", "Tayclassic"],
-authors: ['reikaze'],
-published: '2015-05-11T19:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash's Top 10 Favorite Visual Novels",
+  tags: ["Top 10", "Visual Novels", "FuwaReviews", "AniTAY", "Tayclassic"],
+  published: "2015-05-11T19:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

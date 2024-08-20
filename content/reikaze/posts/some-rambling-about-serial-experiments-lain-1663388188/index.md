@@ -1,12 +1,21 @@
 ---
 {
-title: "Some Rambling about Serial Experiments Lain",
-tags: ["Rockmandash Rambles", "TAY-Classic", "Serial Experiments Lain", "Lain", "expiramental", "90's", "Anime", "Ani-TAY"],
-authors: ['reikaze'],
-published: '2014-11-25T16:39:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Some Rambling about Serial Experiments Lain",
+  tags:
+    [
+      "Rockmandash Rambles",
+      "TAY-Classic",
+      "Serial Experiments Lain",
+      "Lain",
+      "expiramental",
+      "90's",
+      "Anime",
+      "Ani-TAY",
+    ],
+  published: "2014-11-25T16:39:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -42,17 +51,17 @@ oldArticle: true
 </aside>
 
 <img alt src="./1005907274351798084.jpg"/><p class="sc-77igqf-0 bOfvBY">This show is a show that I enjoy, and it made my think about shows like this....
-  I miss shows like this where the creator can do whatever they want to without compromising on their ideals, or goals
-  with the show. With the way anime is, focused on what sells well instead of what's interesting or good, we'll never
-  get a show like this. Today, while we do get a lot of great anime (<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/this-is-one-of-the-best-eras-of-anime-stop-saying-it-s-1607791047",{"metric25":1}]]' href="https://anitay.kinja.com/this-is-one-of-the-best-eras-of-anime-stop-saying-it-s-1607791047" rel="noopener noreferrer" target="_blank">and I'll argue all day that this time in anime is pretty awesome</a></span>), but one
-  aspect I've noticed is that shows now are too afraid to embrace it's ideals, to go the full way out. They are too
-  afraid to be bold, to try something really out there. Producers, animation studios, etc are playing it safe: they
-  don't want to do experimental things (similar to the gaming industry, but not as bad...). The practice makes sense, as
-  making anime is expensive, and the investors want a return on the investments they make, but this compromises on the
-  experience on a show. We don't see a lot of these surreal shows like this nowadays... we don't see many shows that run
-  on philosophical ideals, or shows so surreal and doesn't give a fuck about what the audience thinks about it. (but
-  they do exist: F/Z is nihilism in a nutshell, Kaiba questions what a person is, Psycho Pass looks at a system
-  controlled by computers and what that entails to the psyche and the beliefs of society)</p>
+I miss shows like this where the creator can do whatever they want to without compromising on their ideals, or goals
+with the show. With the way anime is, focused on what sells well instead of what's interesting or good, we'll never
+get a show like this. Today, while we do get a lot of great anime (<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/this-is-one-of-the-best-eras-of-anime-stop-saying-it-s-1607791047",{"metric25":1}]]' href="https://anitay.kinja.com/this-is-one-of-the-best-eras-of-anime-stop-saying-it-s-1607791047" rel="noopener noreferrer" target="_blank">and I'll argue all day that this time in anime is pretty awesome</a></span>), but one
+aspect I've noticed is that shows now are too afraid to embrace it's ideals, to go the full way out. They are too
+afraid to be bold, to try something really out there. Producers, animation studios, etc are playing it safe: they
+don't want to do experimental things (similar to the gaming industry, but not as bad...). The practice makes sense, as
+making anime is expensive, and the investors want a return on the investments they make, but this compromises on the
+experience on a show. We don't see a lot of these surreal shows like this nowadays... we don't see many shows that run
+on philosophical ideals, or shows so surreal and doesn't give a fuck about what the audience thinks about it. (but
+they do exist: F/Z is nihilism in a nutshell, Kaiba questions what a person is, Psycho Pass looks at a system
+controlled by computers and what that entails to the psyche and the beliefs of society)</p>
 
 <aside class="sc-1rh3ayr-6 jfFNjl inset--story branded-item branded-item--kinja" data-commerce-source="inset"><a class="sc-1out364-0 hMndXN sc-1rh3ayr-2 lcMGRt inset--story__thumb js_link" data-ga='[["Permalink page click","Permalink page click - inset photo"]]' href="https://anitay.kinja.com/this-is-one-of-the-best-eras-of-anime-stop-saying-it-s-1607791047" rel="noopener noreferrer" target="_blank">
 <img alt src="./pitiavzys60byqvwx9i7.jpg"/>
@@ -70,15 +79,16 @@ oldArticle: true
   outdated and that's the most important part.</p>
 
 <img alt src="./1005907274402830404.jpg"/><p class="sc-77igqf-0 bOfvBY"><em>Lain</em> is a work of art, and it doesn't explain itself. It's a cyberpunk
-  mystery that does what it wants to do, without the influence of anyone else. It doesn't care if you don't know what it
-  wants it to do, it'll just continue to do what it wants to do. It's set out to get it's ideals out, and it does so in
-  a sporadic way. Normally themes are themes, left to be found by analysis. In<em> Serial Experiments Lain</em>, trippy
-  themes are central to the story. Personally, I was never really confused by <em>Lain</em>. It has a simple and
-  understandable method of storytelling which keeps this complex show from flying over the viewer's heads, via
-  straightforward plot progression. Almost everything about the show flows from one scene to another. Also, the fact we
-  follow IRL Lain throughout <em>Serial Experiments Lain</em> is a blessing, as we can get the story from a slightly
-  understandable way, due to the way that the story is explained to us and by the endless confusion she has. Also, I
-  love how information dense it is: it really feels like you are getting a lot more out of your 20 minutes than usual.
+mystery that does what it wants to do, without the influence of anyone else. It doesn't care if you don't know what it
+wants it to do, it'll just continue to do what it wants to do. It's set out to get it's ideals out, and it does so in
+a sporadic way. Normally themes are themes, left to be found by analysis. In<em> Serial Experiments Lain</em>, trippy
+themes are central to the story. Personally, I was never really confused by <em>Lain</em>. It has a simple and
+understandable method of storytelling which keeps this complex show from flying over the viewer's heads, via
+straightforward plot progression. Almost everything about the show flows from one scene to another. Also, the fact we
+follow IRL Lain throughout <em>Serial Experiments Lain</em> is a blessing, as we can get the story from a slightly
+understandable way, due to the way that the story is explained to us and by the endless confusion she has. Also, I
+love how information dense it is: it really feels like you are getting a lot more out of your 20 minutes than usual.
+
 </p>
 <p class="sc-77igqf-0 bOfvBY">The mystery is one of Lain's strong points. Nothing is clearly defined, and
   everything is left ambiguous. As you watch through the show, you really don't have a clue of who these people are, or
@@ -108,8 +118,9 @@ oldArticle: true
   you, it's up to you to come up with your own interpretation about it.</p>
 
 <img alt src="./1005907274501081924.png"/><p class="sc-77igqf-0 bOfvBY">That being said, there are parts I do have opinions on, and I'd like to talk about them.
-  (not concrete thoughts on the show, but my own personal opinions that are my bias thus I decided not to do a review of
-  this.)</p>
+(not concrete thoughts on the show, but my own personal opinions that are my bias thus I decided not to do a review of
+this.)</p>
+
 <p class="sc-77igqf-0 bOfvBY">First, the visuals: It has that 90's look and feel to it, and it's definitely dated.
   It's not amazing, but it does the job, with only the faces bothering me. I think it compliments the show in a way, but
   it could have been done better... but that's just me nitpicking, really.</p>

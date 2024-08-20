@@ -1,12 +1,19 @@
 ---
 {
-title: "Rockmandash's Top Ten Anime of 2014",
-tags: ["Rockmandash Rambles", "Top 10", "AniTAY", "Top 10 Anime of 2014", "2014", "Top Lists"],
-authors: ['reikaze'],
-published: '2014-12-30T12:00:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash's Top Ten Anime of 2014",
+  tags:
+    [
+      "Rockmandash Rambles",
+      "Top 10",
+      "AniTAY",
+      "Top 10 Anime of 2014",
+      "2014",
+      "Top Lists",
+    ],
+  published: "2014-12-30T12:00:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

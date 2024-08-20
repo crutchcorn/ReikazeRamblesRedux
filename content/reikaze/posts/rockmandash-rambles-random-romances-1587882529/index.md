@@ -1,12 +1,19 @@
 ---
 {
-title: "Rockmandash Rambles: Random Romances",
-tags: ["Rockmandash Rambles", "TAY-Classic", "My Teen Romantic Comedy SNAFU", "SNAFU. White Album 2", "Romance", "Ef"],
-authors: ['reikaze'],
-published: '2014-06-08T20:33:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Rambles: Random Romances",
+  tags:
+    [
+      "Rockmandash Rambles",
+      "TAY-Classic",
+      "My Teen Romantic Comedy SNAFU",
+      "SNAFU. White Album 2",
+      "Romance",
+      "Ef",
+    ],
+  published: "2014-06-08T20:33:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

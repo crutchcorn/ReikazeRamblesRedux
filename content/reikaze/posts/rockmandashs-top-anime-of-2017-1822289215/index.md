@@ -1,12 +1,11 @@
 ---
 {
-title: "RockmanDash's Top Anime of 2017",
-tags: ["Top Lists", "Rockmandash Rambles", "AniTAY", "Anime"],
-authors: ['reikaze'],
-published: '2018-01-22T23:58:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash's Top Anime of 2017",
+  tags: ["Top Lists", "Rockmandash Rambles", "AniTAY", "Anime"],
+  published: "2018-01-22T23:58:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

@@ -1,12 +1,22 @@
 ---
 {
-title: "Mekakucity Actors : Rockmandash's Ani-TAY Review",
-tags: ["rockmandash reviews", "ani-tay", "review", "tay classic", "mekakucity actors", "actors", "mekaku", "city", "bad"],
-authors: ['reikaze'],
-published: '2014-06-28T17:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Mekakucity Actors : Rockmandash's Ani-TAY Review",
+  tags:
+    [
+      "rockmandash reviews",
+      "ani-tay",
+      "review",
+      "tay classic",
+      "mekakucity actors",
+      "actors",
+      "mekaku",
+      "city",
+      "bad",
+    ],
+  published: "2014-06-28T17:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -35,6 +45,7 @@ oldArticle: true
   whenever they are on the screen.</p>
 
 <img alt src="./776980540718168905.png"/><h4 class="sc-1bwb26k-1 fvCjqJ" id="h117811"><a class="js_header-anchor" id=""></a>Soundtrack &amp; Pandering to the fans
+
 </h4>
 <div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/loLWOCl7nlk" width="560"></iframe><span class="js_recommend" data-chomp-id="loLWOCl7nlk" data-recommend-id="youtube://loLWOCl7nlk" data-recommended="false" id="youtube-loLWOCl7nlk"></span></span></div><p class="sc-77igqf-0 bOfvBY"> Mekaku City Actors is a show based on a series of songs done by Vocaloids. This is an
   important tidbit to know before you watch, as it can make or break the enjoyment of the show... and because it is
@@ -48,12 +59,12 @@ oldArticle: true
   what I've heard, this fanservice doesn't work at all due to the bad execution. </p>
 
 <img alt src="./mldqg6nvwxc31fugddhw.png"/><h3 class="sc-1bwb26k-1 fvCjqJ" id="h117812"><a class="js_header-anchor" id=""></a>Overly Shaft-y</h3><p class="sc-77igqf-0 bOfvBY"> If you have ever seen a show by Studio Shaft, you know what to expect: a unique visual
-  style, unconventional ways to display things, an emphasis on charecter development, and headtilts. Lots and lots of
-  headtilts. This is pretty pretty much true for the most part, but unlike Madoka or Monogatari which made them stand
-  out and help make the story enjoyable, Shaft's style detracts from the experience of Mekakucity Actors by being way
-  too overly headtilty in the first few episodes, distracting you from the story, and being so conversational that it
-  interferes with the plot. Also, here's a message to Shaft: <strong>I know you guys like your unique art styles, but
-    please do not try CGI again. It falls into the uncanny valley and looks bad.</strong></p>
+style, unconventional ways to display things, an emphasis on charecter development, and headtilts. Lots and lots of
+headtilts. This is pretty pretty much true for the most part, but unlike Madoka or Monogatari which made them stand
+out and help make the story enjoyable, Shaft's style detracts from the experience of Mekakucity Actors by being way
+too overly headtilty in the first few episodes, distracting you from the story, and being so conversational that it
+interferes with the plot. Also, here's a message to Shaft: <strong>I know you guys like your unique art styles, but
+please do not try CGI again. It falls into the uncanny valley and looks bad.</strong></p>
 
 <img alt src="./jok4o7ipbzf6pxdekg5d.jpg"/>
 <hr class="gcp5ez-0 hKlTiw"/><h3 class="sc-1bwb26k-1 fvCjqJ" id="h117813"><a class="js_header-anchor" id=""></a>No main
@@ -87,11 +98,11 @@ oldArticle: true
   couldn't, and thus you are confused and frustrated with the plot.</p>
 
 <img alt src="./y6c0wsjb9in2bhpmr8yf.jpg"/><p class="sc-77igqf-0 bOfvBY"> The cherry on top of this show is that they end almost EVERY episode on a
-  cliffhanger, thus pissing off the clueless viewer and giving less incentive to watch the show. I don't mind a
-  cliffhanger episode every once in a while, but EVERY EPISODE when it's essentially very minor stuff, its absolutely
-  infuriating, and it makes you want to drop this show. I think some of these problems can be fixed by marathoning this
-  show, as waiting a week for information is infuriating absolutely breaks up the pacing, and leaves you clueless, but
-  marathoning this show will not fix all of it's problems. </p>
+cliffhanger, thus pissing off the clueless viewer and giving less incentive to watch the show. I don't mind a
+cliffhanger episode every once in a while, but EVERY EPISODE when it's essentially very minor stuff, its absolutely
+infuriating, and it makes you want to drop this show. I think some of these problems can be fixed by marathoning this
+show, as waiting a week for information is infuriating absolutely breaks up the pacing, and leaves you clueless, but
+marathoning this show will not fix all of it's problems. </p>
 
 <hr class="gcp5ez-0 hKlTiw"/><h3 class="sc-1bwb26k-1 fvCjqJ" id="h117815"><a class="js_header-anchor" id=""></a>Personal
   Enjoyment</h3><p class="sc-77igqf-0 bOfvBY"> Mekakucity Actors is the prime example of what I want a show to be like,
@@ -105,10 +116,11 @@ oldArticle: true
   detracts from the story, and just ruins it.</p>
 
 <img alt src="./776963281152882090.png"/><p class="sc-77igqf-0 bOfvBY"> This show is bad. Stay far, far away. It had an interesting idea with a great cast, but
-  was ruined by source material, bad directing, and a combination of other factors. If anybody had any idea what
-  happened while watching Mekaku, i'll applaud you, but I'm pretty sure you didn't understand it at all, which was
-  really the biggest problem. I sure didn't. They fucked it up, so please don't watch it. If you are that much a die
-  hard shaft fan, go ahead, but it's not going to be a fun trip.</p>
+was ruined by source material, bad directing, and a combination of other factors. If anybody had any idea what
+happened while watching Mekaku, i'll applaud you, but I'm pretty sure you didn't understand it at all, which was
+really the biggest problem. I sure didn't. They fucked it up, so please don't watch it. If you are that much a die
+hard shaft fan, go ahead, but it's not going to be a fun trip.</p>
+
 <h3 class="sc-1bwb26k-1 fvCjqJ" id="h117816"><a class="js_header-anchor" id=""></a>Overall 5/10, Polarization
   +2.5, -1</h3>
 <img alt src="./arpoqlamehbbxwaxmpxy.png"/>

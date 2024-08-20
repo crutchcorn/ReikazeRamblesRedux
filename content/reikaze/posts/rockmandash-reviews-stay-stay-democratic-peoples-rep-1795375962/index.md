@@ -1,12 +1,16 @@
 ---
 {
-title: "RockmanDash Reviews: Stay! Stay! Democratic People's Republic of Korea! [Visual Novel]",
-tags: ["RockmanDash Reviews", "Stay! Stay! Democratic People's Republic of Korea", "Visual Novels"],
-authors: ['reikaze'],
-published: '2017-05-19T13:06:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash Reviews: Stay! Stay! Democratic People's Republic of Korea! [Visual Novel]",
+  tags:
+    [
+      "RockmanDash Reviews",
+      "Stay! Stay! Democratic People's Republic of Korea",
+      "Visual Novels",
+    ],
+  published: "2017-05-19T13:06:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

@@ -1,12 +1,17 @@
 ---
 {
-title: "Fate/stay night: Unlimited Blade Works First Impressions!",
-tags: ["Rockmandash Rambles", "Type Moon Marathon", "Fate/stay night", "first impressions"],
-authors: ['reikaze'],
-published: '2014-10-12T13:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Fate/stay night: Unlimited Blade Works First Impressions!",
+  tags:
+    [
+      "Rockmandash Rambles",
+      "Type Moon Marathon",
+      "Fate/stay night",
+      "first impressions",
+    ],
+  published: "2014-10-12T13:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -46,8 +51,8 @@ oldArticle: true
 </aside>
 
 <video autoplay="" loop="" muted=""><source src="./xdiaydrxwcjh5dos0peg.mp4" type="video/mp4"/></video><p class="sc-77igqf-0 bOfvBY"> The fight scenes are so lightning fast that it blows my mind. They have a high
-  standard of quality when it comes to visuals, and the result is stunning shows that that many studios *cough*<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-unlimited-blade-wo-1504755437",{"metric25":1}]]' href="https://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-unlimited-blade-wo-1504755437" rel="noopener noreferrer" target="_blank">DEEN</a></span>*cough* could only dream of, and I can only admire. It's
-  kinda surreal to see ufotable art with Fate/stay night, but I love it.</p>
+standard of quality when it comes to visuals, and the result is stunning shows that that many studios _cough_<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-unlimited-blade-wo-1504755437",{"metric25":1}]]' href="https://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-unlimited-blade-wo-1504755437" rel="noopener noreferrer" target="_blank">DEEN</a></span>_cough_ could only dream of, and I can only admire. It's
+kinda surreal to see ufotable art with Fate/stay night, but I love it.</p>
 
 <aside class="sc-1rh3ayr-6 jfFNjl inset--story branded-item branded-item--kinja" data-commerce-source="inset"><a class="sc-1out364-0 hMndXN sc-1rh3ayr-2 lcMGRt inset--story__thumb js_link" data-ga='[["Permalink page click","Permalink page click - inset photo"]]' href="https://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-unlimited-blade-wo-1504755437" rel="noopener noreferrer" target="_blank">
 <img alt src="1291273890055762608.png"/>
@@ -99,9 +104,10 @@ oldArticle: true
   room, not her dad's office. There's A LOT of those little scene changes like that, so it totally changes the show.</p>
 
 <img alt src="./lf2exn3gexh4qj1fzfmr.jpg"/><p class="sc-77igqf-0 bOfvBY"> Another thing is that the anime doesn't have a lot of the the inner monologue
-  from the who's the protagonist. So far, the show's handling it pretty well, so it isn't really a big deal, but this
-  kinda changes the the feeling of the story completely; I don't feel like I'm with the protagonist, I feel like an
-  observer. I feel like it'll have more monologue as we go on, but as is, it's different. </p>
+from the who's the protagonist. So far, the show's handling it pretty well, so it isn't really a big deal, but this
+kinda changes the the feeling of the story completely; I don't feel like I'm with the protagonist, I feel like an
+observer. I feel like it'll have more monologue as we go on, but as is, it's different. </p>
+
 <p class="sc-77igqf-0 bOfvBY"> It may be the music. Like I said before, the soundtrack is totally different, and
   it creates a different mood. The mood was essential to F/SN and this change may be throwing me off.</p><p class="sc-77igqf-0 bOfvBY"> I feel like it's missing something so far.. Maybe it's the inner monologue, maybe it's the
   music, but it feels off. I mean, It's still great, but it's definitely different and it feels kinda off to me. I hope

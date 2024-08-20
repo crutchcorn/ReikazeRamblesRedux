@@ -1,12 +1,11 @@
 ---
 {
-title: "Rockmandash Rambles: Fate/stay night Hype Video!",
-tags: ["Fate/stay night", "Hype"],
-authors: ['reikaze'],
-published: '2014-10-02T22:16:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Rambles: Fate/stay night Hype Video!",
+  tags: ["Fate/stay night", "Hype"],
+  published: "2014-10-02T22:16:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

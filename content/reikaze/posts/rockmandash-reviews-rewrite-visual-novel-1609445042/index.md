@@ -1,12 +1,11 @@
 ---
 {
-title: "Rockmandash Reviews+: Rewrite [Visual Novel]",
-tags: ["rockmandash reviews", "rewrite", "again", "key marathon"],
-authors: ['reikaze'],
-published: '2014-08-11T15:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews+: Rewrite [Visual Novel]",
+  tags: ["rockmandash reviews", "rewrite", "again", "key marathon"],
+  published: "2014-08-11T15:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -74,8 +73,9 @@ oldArticle: true
   route in the game.</p>
 
 <img alt src="./1395906708496412232.jpg"/><p class="sc-77igqf-0 bOfvBY"> Even though <em>Rewrite</em> was long, it kept my attention well, and that’s not
-  something I can really say for every VN out there that’s this long. While the length did feel a bit like a chore at
-  times, I wouldn’t say the pacing is slow; there’s just a lot of content to get through. </p>
+something I can really say for every VN out there that’s this long. While the length did feel a bit like a chore at
+times, I wouldn’t say the pacing is slow; there’s just a lot of content to get through. </p>
+
 <p class="sc-77igqf-0 bOfvBY"> What we got was good, but it was not what I would expect from key. The writing
   feels weaker than expected throughout most of the character but it was still pretty good, and the Moon and Terra
   routes help to make up for it because of how amazing they were. The biggest problem with Rewrite is that the writers

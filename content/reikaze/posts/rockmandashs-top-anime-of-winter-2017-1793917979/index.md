@@ -1,12 +1,11 @@
 ---
 {
-title: "RockmanDash's Top Anime of Winter 2017",
-tags: ["RockmanDash Rambles", "Top Lists", "anitay", "anime", "winter 2017"],
-authors: ['reikaze'],
-published: '2017-04-03T10:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash's Top Anime of Winter 2017",
+  tags: ["RockmanDash Rambles", "Top Lists", "anitay", "anime", "winter 2017"],
+  published: "2017-04-03T10:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

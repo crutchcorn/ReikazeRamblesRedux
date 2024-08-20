@@ -1,12 +1,23 @@
 ---
 {
-title: "Thanks, Kyoto Animation.",
-tags: ["Rockmandash Rambles", "Kyoto Animation Appreciation Week", "KyoAni Appreciation Week", "Kyoto animation", "clannad", "Clannad: After Story", "Disappearance of Haruhi Suzumiya", "haruhi", "haruhi suzumiya", "KyoAni"],
-authors: ['reikaze'],
-published: '2019-07-30T12:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Thanks, Kyoto Animation.",
+  tags:
+    [
+      "Rockmandash Rambles",
+      "Kyoto Animation Appreciation Week",
+      "KyoAni Appreciation Week",
+      "Kyoto animation",
+      "clannad",
+      "Clannad: After Story",
+      "Disappearance of Haruhi Suzumiya",
+      "haruhi",
+      "haruhi suzumiya",
+      "KyoAni",
+    ],
+  published: "2019-07-30T12:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -44,12 +55,13 @@ oldArticle: true
   without anyone I really knew.</p>
 
 <img alt src="./jddtqhdchb8t3yql40gc.jpg"/><p class="sc-77igqf-0 bOfvBY">Back then, probably because what my dad told me was all that I knew, I was all in
-  with what he had to say to me. I used to think that being smart and rich was the end-all be-all to life, and looked
-  down on people who had different priorities in life. I never was the smartest kid in my class with an awful memory,
-  but I tried my hardest so I wouldn’t be “like them”, people who I believed gave up on all pretenses of “living the
-  good life” at an early age simply because they wanted to have fun. I had to be someone, had to do things, or else my
-  life would be a failure. My dad would say stuff like “work hard for your first 20 years of your life, and you’ll be
-  able to live easy for the rest of it”, and so I did - the result was me completely burning out, in middle school.</p>
+with what he had to say to me. I used to think that being smart and rich was the end-all be-all to life, and looked
+down on people who had different priorities in life. I never was the smartest kid in my class with an awful memory,
+but I tried my hardest so I wouldn’t be “like them”, people who I believed gave up on all pretenses of “living the
+good life” at an early age simply because they wanted to have fun. I had to be someone, had to do things, or else my
+life would be a failure. My dad would say stuff like “work hard for your first 20 years of your life, and you’ll be
+able to live easy for the rest of it”, and so I did - the result was me completely burning out, in middle school.</p>
+
 <p class="sc-77igqf-0 bOfvBY">My grades started slipping as a result. Like any kid, I was into video games, and my
   dad saw this as the cause of my slipping grades. He destroyed my DS with a hammer, took off the door of my room, and
   sent me spiraling into depression. Nowhere was safe - depression permeated all aspects of life. I had no sense of
@@ -100,9 +112,10 @@ oldArticle: true
   for all of these things to happen someday, even if he gave up years back. </p>
 
 <img alt src="./jfjhsngbuf8nx8gsmjdx.png"/><p class="sc-77igqf-0 bOfvBY">All of this changes with the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/the-perfect-day-to-watch-one-of-my-favorite-anime-movie-1672053100",{"metric25":1}]]' href="https://anitay.kinja.com/the-perfect-day-to-watch-one-of-my-favorite-anime-movie-1672053100" rel="noopener noreferrer" target="_blank"><em>Disappearance of Haruhi Suzumiya</em></a></span>. Suddenly, on one random day,
-  everything changes. Gone are the aliens, time-travelers, and espers; gone are all the antics; gone is the titular
-  character of the series, Haruhi Suzumiya; and KyoAni does such an amazing job at conveying this loss to the
-  audience.<br/></p>
+everything changes. Gone are the aliens, time-travelers, and espers; gone are all the antics; gone is the titular
+character of the series, Haruhi Suzumiya; and KyoAni does such an amazing job at conveying this loss to the
+audience.<br/></p>
+
 <p class="sc-77igqf-0 bOfvBY">I’m a sucker for a work that can capture an atmosphere, and almost nothing captures
   the beautifully melancholic feeling of winter quite like <em>Disappearance. </em>KyoAni then one-ups that by
   transitioning that melancholic feeling into the loss of something you hold dear. This movie sucks you into a world
@@ -144,11 +157,11 @@ oldArticle: true
   otherwise would have taken for granted.</p>
 
 <img alt src="./kwzztwvqtnuegpatb2zl.jpg"/><p class="sc-77igqf-0 bOfvBY">So, KyoAni: Thanks. Thanks for helping me get through dark times, thanks for
-  making me a better person, and thanks for helping me look at my life and our world in a more positive manner.
-  Regardless of what happens in the future, I will always hold KyoAni near and dear to my heart, and even if things go
-  bad, I’ll always appreciate the works that have moved me and allowed me to find my footing in reality. Thanks for
-  everything, and even though the current situation isn’t great, I wish KyoAni the best, just as they did for me in my
-  moment of need.<br/></p>
+making me a better person, and thanks for helping me look at my life and our world in a more positive manner.
+Regardless of what happens in the future, I will always hold KyoAni near and dear to my heart, and even if things go
+bad, I’ll always appreciate the works that have moved me and allowed me to find my footing in reality. Thanks for
+everything, and even though the current situation isn’t great, I wish KyoAni the best, just as they did for me in my
+moment of need.<br/></p>
 
 <hr class="gcp5ez-0 hKlTiw"/><p class="sc-77igqf-0 bOfvBY"><em>Thanks for reading, this is my article for the </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/announcing-kyoani-appreciation-week-s-1836579367",{"metric25":1}]]' href="https://anitay.kinja.com/announcing-kyoani-appreciation-week-s-1836579367" rel="noopener noreferrer" target="_blank"><em>KyoAni Appreciation Week</em></a></span><em> and I hope you enjoyed it. Linked here are
   my KyoAni articles, so if you liked this one feel free to check those out.</em></p>

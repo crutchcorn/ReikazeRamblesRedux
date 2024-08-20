@@ -1,12 +1,17 @@
 ---
 {
-title: "​Rockmandash Reviews: Anime Backlog Review Gauntlet #2",
-tags: ["Rockmandash Reviews", "Anime Backlog Review Gauntlet", "Backlog", "AniTAY"],
-authors: ['reikaze'],
-published: '2015-03-23T02:30:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "​Rockmandash Reviews: Anime Backlog Review Gauntlet #2",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "Anime Backlog Review Gauntlet",
+      "Backlog",
+      "AniTAY",
+    ],
+  published: "2015-03-23T02:30:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -134,30 +139,31 @@ oldArticle: true
   a tiny bit absurd. <em>– Plot description from Crunchyroll</em></p>
 
 <img alt src="./1271696743853124527.jpg"/><p class="sc-77igqf-0 bOfvBY"><strong>Thoughts:</strong> <em>Humanity has Declined</em> is truly something special. I
-  came into it with no idea what to expect other than the fact that it was a Romeo Tanaka work (who’s made stuff like
-  <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1609445042#_ga=1.235155780.473183827.1418699279",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1609445042#_ga=1.235155780.473183827.1418699279" rel="noopener noreferrer" target="_blank"><em>Rewrite</em></a></span><em>) </em>and the urge to watch it
-  because one of my friends shared<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://www.youtube.com/watch?v=I1Fa9TQMaZg",{"metric25":1}]]' href="https://www.youtube.com/watch?v=I1Fa9TQMaZg" rel="noopener noreferrer" target="_blank"> this clip</a></span>... then promptly fell in love
-  with the amazing subversion in this show, the amazing execution of the world, the absolutely amazing humor, and
-  really... everything about it! I love it so much that it managed to seize the 10th spot in my Top 10 Anime of all Time
-  list (which I’m planning to post on AniTAY eventually), and I’d say it’s one of the best shows I have seen! I loved
-  every minute of this anime, Romeo Tanaka’s writing is just masterful and it just does so much right... Really, the
-  subversion of your expectations is what stole it for me, what makes this show just absolutely amazing. When you watch
-  a show that’s called <em>Humanity is Declined</em>, you’d expect a pretty serious show... but<strong> THIS IS AN
-    ABSOLUTELY HILARIOUS COMEDY </strong>with some of the best deadpan humor I’ve seen in anime... so great... Really,
-  who would have expected a post-apocalyptic comedy of all things? This balancing of cynicism and humor is just one
-  example of how this show subverts your expectations, and it does it just so well! It’s a silly show that is based
-  around a relatively serious premise, and it plays this to the extreme... I never thought I would ever want anything
-  like this, but it’s such a unique experience, such an entertaining experience, such an amazing experience, that I
-  can’t help but love it.<br/></p>
+came into it with no idea what to expect other than the fact that it was a Romeo Tanaka work (who’s made stuff like
+<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1609445042#_ga=1.235155780.473183827.1418699279",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1609445042#_ga=1.235155780.473183827.1418699279" rel="noopener noreferrer" target="_blank"><em>Rewrite</em></a></span><em>) </em>and the urge to watch it
+because one of my friends shared<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://www.youtube.com/watch?v=I1Fa9TQMaZg",{"metric25":1}]]' href="https://www.youtube.com/watch?v=I1Fa9TQMaZg" rel="noopener noreferrer" target="_blank"> this clip</a></span>... then promptly fell in love
+with the amazing subversion in this show, the amazing execution of the world, the absolutely amazing humor, and
+really... everything about it! I love it so much that it managed to seize the 10th spot in my Top 10 Anime of all Time
+list (which I’m planning to post on AniTAY eventually), and I’d say it’s one of the best shows I have seen! I loved
+every minute of this anime, Romeo Tanaka’s writing is just masterful and it just does so much right... Really, the
+subversion of your expectations is what stole it for me, what makes this show just absolutely amazing. When you watch
+a show that’s called <em>Humanity is Declined</em>, you’d expect a pretty serious show... but<strong> THIS IS AN
+ABSOLUTELY HILARIOUS COMEDY </strong>with some of the best deadpan humor I’ve seen in anime... so great... Really,
+who would have expected a post-apocalyptic comedy of all things? This balancing of cynicism and humor is just one
+example of how this show subverts your expectations, and it does it just so well! It’s a silly show that is based
+around a relatively serious premise, and it plays this to the extreme... I never thought I would ever want anything
+like this, but it’s such a unique experience, such an entertaining experience, such an amazing experience, that I
+can’t help but love it.<br/></p>
 
 <img alt src="./1271696743943970223.jpg"/><p class="sc-77igqf-0 bOfvBY">Most of the humor in this show is based around the main character “Watashi” (as she’s never
-  really named, to my knowledge) and her interactions with this setting, or just the goofy things that are happening in
-  the silly/morbid/over exaggerated world of <em>Humanity has Declined</em> and all of the it is great. Really, the show
-  is super self-aware of what it is both mocking our world and its world with it’s hilarious subversions, then it has
-  just entertaining silliness, like that bread thing that I linked (I’d like to mention the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://youtu.be/j_xLkPimJxc",{"metric25":1}]]' href="https://youtu.be/j_xLkPimJxc" rel="noopener noreferrer" target="_blank">chickens as well</a></span>). I have
-  to note though, this isn’t exactly a lighthearted show, as it has a decent amount of black humor and there’s always a
-  bit of that morbid darker tone in the background, which is pretty subtle but is still very much there. If you aren’t a
-  fan of this, you probably won’t like the show like how Ben Kanelos didn’t really care for it.</p>
+really named, to my knowledge) and her interactions with this setting, or just the goofy things that are happening in
+the silly/morbid/over exaggerated world of <em>Humanity has Declined</em> and all of the it is great. Really, the show
+is super self-aware of what it is both mocking our world and its world with it’s hilarious subversions, then it has
+just entertaining silliness, like that bread thing that I linked (I’d like to mention the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://youtu.be/j_xLkPimJxc",{"metric25":1}]]' href="https://youtu.be/j_xLkPimJxc" rel="noopener noreferrer" target="_blank">chickens as well</a></span>). I have
+to note though, this isn’t exactly a lighthearted show, as it has a decent amount of black humor and there’s always a
+bit of that morbid darker tone in the background, which is pretty subtle but is still very much there. If you aren’t a
+fan of this, you probably won’t like the show like how Ben Kanelos didn’t really care for it.</p>
+
 <p class="sc-77igqf-0 bOfvBY"> Combine this humor with a main character that fits absolutely perfectly in this
   show, and you get just comedy gold (for those who are into that type of humor, I’m a big fan)… Romeo Tanaka could not
   have made a better main character than in Humanity has declined, as Watashi’s blunt personality is amazing and her

@@ -1,12 +1,20 @@
 ---
 {
-title: "Rockmandash Reviews: Narcissu 1st & 2nd [Visual Novel]",
-tags: ["Rockmandash Reviews", "Narcissu", "1st & 2nd", "Written this time", "AniTAY", "TAYclassic", "Visual Novel"],
-authors: ['reikaze'],
-published: '2014-12-31T12:00:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Narcissu 1st & 2nd [Visual Novel]",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "Narcissu",
+      "1st & 2nd",
+      "Written this time",
+      "AniTAY",
+      "TAYclassic",
+      "Visual Novel",
+    ],
+  published: "2014-12-31T12:00:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -37,19 +45,20 @@ oldArticle: true
   about the world and the health system a bit more, and were great elements of both world building and plot points.</p>
 
 <img alt src="./1248076395402239589.jpg"/><p class="sc-77igqf-0 bOfvBY"><em>Narcissu</em> is composed of 2 stories,<em> Narcissu</em> 1st and 2nd. While they are
-  technically different stories, they are executed pretty much the same and build on the same ideas so you can think of
-  them as one story, but I’ll talk about the differences, which is mainly perspective and what actually happens: <em>Narcissu</em>
-  1st follows a young man who just got his license but is unfortunately sent to the 7th floor due to an illness that is
-  never explained. There he meets Setsumi, a small yet quiet girl that has given up on life, and they go off to escape
-  the 7th floor so they can meet their demise in a place they can truly find peace, where the narcissu flowers bloom.
-  It’s an interesting yet moving romance, one that takes the situation and make your attachment that much more. <em>Narcissu</em>
-  2nd is a prequel, but it also serves to explain points that were glossed over from<em> Narcissu</em> 1st. It follows
-  said Setsumi as she watches her senpai Himeko, dealing with her own issues that come with being on the 7th floor,
-  waning to her demise... Himeko is an interesting character trying to help Setsumi and be optimistic, yet acknowledging
-  her fate and reflecting on her life. The relationship between Himeko and Setsumi was deeply interesting, having a
-  dynamic that <em>Narcissu</em> 1st does not have, a balance between the past and the future while the first hinges
-  more on romance and mystery. At this point of the story, Setsumi isn’t in the 7th floor yet, but that ominous, looming
-  feeling is always prevalent, and seeing the interactions with her family make it that much painful.</p>
+technically different stories, they are executed pretty much the same and build on the same ideas so you can think of
+them as one story, but I’ll talk about the differences, which is mainly perspective and what actually happens: <em>Narcissu</em>
+1st follows a young man who just got his license but is unfortunately sent to the 7th floor due to an illness that is
+never explained. There he meets Setsumi, a small yet quiet girl that has given up on life, and they go off to escape
+the 7th floor so they can meet their demise in a place they can truly find peace, where the narcissu flowers bloom.
+It’s an interesting yet moving romance, one that takes the situation and make your attachment that much more. <em>Narcissu</em>
+2nd is a prequel, but it also serves to explain points that were glossed over from<em> Narcissu</em> 1st. It follows
+said Setsumi as she watches her senpai Himeko, dealing with her own issues that come with being on the 7th floor,
+waning to her demise... Himeko is an interesting character trying to help Setsumi and be optimistic, yet acknowledging
+her fate and reflecting on her life. The relationship between Himeko and Setsumi was deeply interesting, having a
+dynamic that <em>Narcissu</em> 1st does not have, a balance between the past and the future while the first hinges
+more on romance and mystery. At this point of the story, Setsumi isn’t in the 7th floor yet, but that ominous, looming
+feeling is always prevalent, and seeing the interactions with her family make it that much painful.</p>
+
 <p class="sc-77igqf-0 bOfvBY">Both games have great relationships and interesting characters that make it that
   much harder to bear, both building on the themes and making it so solid. It’s that steadfast and powerful narrative
   coming into play, piling on itself and creating an exhilarating ride. This pileup continues up to the ending, creating
@@ -59,8 +68,9 @@ oldArticle: true
 <img alt src="./1248076395502154853.png"/>
 
 <img alt src="./1248076395593861733.jpg"/><p class="sc-77igqf-0 bOfvBY">Its presentation can be described as experimental and minimalistic. By showing less, they
-  show more, and because of the presentation, it bounds the experience to the story in a way that other visual novels
-  could only dream of.</p>
+show more, and because of the presentation, it bounds the experience to the story in a way that other visual novels
+could only dream of.</p>
+
 <p class="sc-77igqf-0 bOfvBY">It’s rare to find a game like this where the visuals are not of the utmost
   importance, and instead providing support. <em>Narcissu</em> is not a visual experience, as it only shows you a small
   window into the world, a strip of the screen. It puts you into the shoes of the main characters who have only looked

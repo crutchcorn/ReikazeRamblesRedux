@@ -1,12 +1,11 @@
 ---
 {
-title: "Rockmandash Rambles: Why I love Visual Novels so much, and How I got into this Insane Genre",
-tags: ["tay-classic", "visual novels", "ani-tay"],
-authors: ['reikaze'],
-published: '2014-05-03T04:32:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Rambles: Why I love Visual Novels so much, and How I got into this Insane Genre",
+  tags: ["tay-classic", "visual novels", "ani-tay"],
+  published: "2014-05-03T04:32:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

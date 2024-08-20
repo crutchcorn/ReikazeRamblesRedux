@@ -1,12 +1,20 @@
 ---
 {
-title: "Rockmandash Rambles: Fate/Zero Revisited",
-tags: ["Rockmandash Rambles", "Fate/Zero", "Fate/stay night", "Revisited", "thoughts", "Oppinion", "Type-Moon Marathon"],
-authors: ['reikaze'],
-published: '2014-09-23T19:45:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Rambles: Fate/Zero Revisited",
+  tags:
+    [
+      "Rockmandash Rambles",
+      "Fate/Zero",
+      "Fate/stay night",
+      "Revisited",
+      "thoughts",
+      "Oppinion",
+      "Type-Moon Marathon",
+    ],
+  published: "2014-09-23T19:45:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

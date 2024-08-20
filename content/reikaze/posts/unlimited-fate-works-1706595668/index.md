@@ -1,12 +1,11 @@
 ---
 {
-title: "Unlimited Fate Works",
-tags: [],
-authors: ['reikaze'],
-published: '2015-05-23T22:31:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Unlimited Fate Works",
+  tags: [],
+  published: "2015-05-23T22:31:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

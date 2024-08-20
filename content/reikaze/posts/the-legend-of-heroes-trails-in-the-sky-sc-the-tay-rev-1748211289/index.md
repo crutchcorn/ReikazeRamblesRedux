@@ -1,12 +1,23 @@
 ---
 {
-title: "The Legend of Heroes: Trails in the Sky SC : The TAY Review",
-tags: ["The TAY Review", "TAY Review", "Rockmandash Reviews", "The Legend of Heroes", "Trails in the Sky", "Trails in the Sky SC", "Falcom", "Xseed", "JRPG", "PSP"],
-authors: ['reikaze'],
-published: '2015-12-21T16:30:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "The Legend of Heroes: Trails in the Sky SC : The TAY Review",
+  tags:
+    [
+      "The TAY Review",
+      "TAY Review",
+      "Rockmandash Reviews",
+      "The Legend of Heroes",
+      "Trails in the Sky",
+      "Trails in the Sky SC",
+      "Falcom",
+      "Xseed",
+      "JRPG",
+      "PSP",
+    ],
+  published: "2015-12-21T16:30:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -46,12 +57,13 @@ oldArticle: true
   the work interesting and varied while feeling compelling throughout. </p>
 
 <img alt src="./xksl8z3ie6agw8dgjpz6.jpg"/><p class="sc-77igqf-0 bOfvBY">Even though <em>Trails in the Sky SC </em>touches on many things, it never feels
-  forced and it works because it uses all these things it covers to strengthen the main narrative. These are elements
-  that make the world feel real - while obviously a fantasy scenario in a fantasy world, because of it’s focus on people
-  and humanity, it feels like these people are alive and in a living and breathing world with so much going on. Everyone
-  has a voice and a story to tell, with their own concerns and livelihoods. The world isn’t focused on you so much as
-  the fact that as you’re existing in a fleshed out and thriving world that moves along and reacts to what happens
-  around you, a world that feels truly real.</p>
+forced and it works because it uses all these things it covers to strengthen the main narrative. These are elements
+that make the world feel real - while obviously a fantasy scenario in a fantasy world, because of it’s focus on people
+and humanity, it feels like these people are alive and in a living and breathing world with so much going on. Everyone
+has a voice and a story to tell, with their own concerns and livelihoods. The world isn’t focused on you so much as
+the fact that as you’re existing in a fleshed out and thriving world that moves along and reacts to what happens
+around you, a world that feels truly real.</p>
+
 <p class="sc-77igqf-0 bOfvBY">The world itself is interesting too, being a blend of your typical fantasy with a
   twist of semi futuristic sci fi to make a world that kinda feels like our modern world, but a world that feels
   completely unique. It has tons of lore and is one that’s deeply fleshed out in this game, a world that only adds to
@@ -104,8 +116,9 @@ oldArticle: true
   to all day.... so good.</p>
 
 <img alt src="./yvvqigvfbd9yepbv8qv0.png"/><h3 class="sc-1bwb26k-1 fvCjqJ" id="h107532"><a class="js_header-anchor" id=""></a>A Blast to the Past, for
-  Better or For Worse</h3>
+Better or For Worse</h3>
 <img alt src="./fxnnfe62zn6vjb4lftpy.jpg"/>
+
 <p class="sc-77igqf-0 bOfvBY">That’s not to say that all of <em>Trails in the Sky SC </em>is perfect: if you
   didn’t care for <em>FC, </em>it’s<em> </em>more of the same. That’s to be expected, as it’s a direct continuation of
   the original game to the point that you can transfer your save over but really, <em>SC </em>is just <em>FC</em> but
@@ -162,12 +175,12 @@ oldArticle: true
   getting it at this point.)</p>
 
 <img alt src="./zecnyceatcwwnqv9aign.png"/><p class="sc-77igqf-0 bOfvBY"><em>The Legend of Heroes: Trails of the Sky SC </em>is many things. From being
-  claimed as <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://thebests.kotaku.com/the-best-jrpg-of-the-decade-so-far-1743320035#_ga=1.65467693.241020698.1444271310",{"metric25":1}]]' href="http://thebests.kotaku.com/the-best-jrpg-of-the-decade-so-far-1743320035#_ga=1.65467693.241020698.1444271310">The Best JRPG of the Decade thus far according to Kotaku</a></span>
-  to the continuation of the amazing story that <em>FC </em>presented, <em>Trails of the Sky SC </em>is a love story to
-  a style of gameplay and a style of story that many thought was dead, an amazing game that demands to be played. If
-  you’re a fan of classic JRPGs or looking for a great story, you will adore this game, just as much as many have thus
-  far. <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://kotaku.com/the-curse-of-kiseki-how-one-of-japans-biggest-rpgs-bar-1740055631",{"metric25":1}]]' href="http://kotaku.com/the-curse-of-kiseki-how-one-of-japans-biggest-rpgs-bar-1740055631">It was worth the hell you guys had to go through XSEED</a></span>,
-  thank you for this great game.</p>
+claimed as <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://thebests.kotaku.com/the-best-jrpg-of-the-decade-so-far-1743320035#_ga=1.65467693.241020698.1444271310",{"metric25":1}]]' href="http://thebests.kotaku.com/the-best-jrpg-of-the-decade-so-far-1743320035#_ga=1.65467693.241020698.1444271310">The Best JRPG of the Decade thus far according to Kotaku</a></span>
+to the continuation of the amazing story that <em>FC </em>presented, <em>Trails of the Sky SC </em>is a love story to
+a style of gameplay and a style of story that many thought was dead, an amazing game that demands to be played. If
+you’re a fan of classic JRPGs or looking for a great story, you will adore this game, just as much as many have thus
+far. <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://kotaku.com/the-curse-of-kiseki-how-one-of-japans-biggest-rpgs-bar-1740055631",{"metric25":1}]]' href="http://kotaku.com/the-curse-of-kiseki-how-one-of-japans-biggest-rpgs-bar-1740055631">It was worth the hell you guys had to go through XSEED</a></span>,
+thank you for this great game.</p>
 
 <img alt src="g0dtcxxx6c9t0hd4msfx.png"/>
 <hr class="gcp5ez-0 hKlTiw"/><p class="sc-77igqf-0 bOfvBY"><em>You’re reading TAY, Kotaku’s community-run blog. TAY is

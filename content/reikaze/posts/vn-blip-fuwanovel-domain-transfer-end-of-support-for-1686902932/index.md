@@ -1,12 +1,11 @@
 ---
 {
-title: "VN Blip: Fuwanovel Domain transfer + End of Support for Torrents",
-tags: [],
-authors: ['reikaze'],
-published: '2015-02-19T21:21:36-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "VN Blip: Fuwanovel Domain transfer + End of Support for Torrents",
+  tags: [],
+  published: "2015-02-19T21:21:36-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

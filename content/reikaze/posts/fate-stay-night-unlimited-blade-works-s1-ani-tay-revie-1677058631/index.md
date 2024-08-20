@@ -1,12 +1,25 @@
 ---
 {
-title: "Fate/stay night: Unlimited Blade Works S1 Ani-TAY Review and Discussion",
-tags: ["Fate/stay night", "Unlimited Blade Works", "Fate/stay night Unlimited Blade Works", "Season 1", "Rockmandash Reviews", "The Ani-TAY Review", "Ani-TAY", "Nasuverse", "Ufotable", "Anime", "Cour 1", "Type-Moon Marathon"],
-authors: ['reikaze'],
-published: '2015-01-02T15:30:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Fate/stay night: Unlimited Blade Works S1 Ani-TAY Review and Discussion",
+  tags:
+    [
+      "Fate/stay night",
+      "Unlimited Blade Works",
+      "Fate/stay night Unlimited Blade Works",
+      "Season 1",
+      "Rockmandash Reviews",
+      "The Ani-TAY Review",
+      "Ani-TAY",
+      "Nasuverse",
+      "Ufotable",
+      "Anime",
+      "Cour 1",
+      "Type-Moon Marathon",
+    ],
+  published: "2015-01-02T15:30:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -54,9 +67,10 @@ oldArticle: true
   favorite parts of the VN, the internal monologuing.</p>
 
 <img alt src="./1060908153358780968.jpg"/><p class="sc-77igqf-0 bOfvBY"><strong>Rockmandash12:</strong> Are you feeling that at all?</p><p class="sc-77igqf-0 bOfvBY"><strong>Protonstorm: </strong>Hmmm, well since I don't have experience with the VN, I
-  really don't know what I'm losing here, but it doesn't feel too much to me like there's a part of the story lost in
-  the translation. Obviously not everything can be but into the show that the VN had, but I feel like I'm still getting
-  a full story, even if it apparently isn't the complete one.</p>
+really don't know what I'm losing here, but it doesn't feel too much to me like there's a part of the story lost in
+the translation. Obviously not everything can be but into the show that the VN had, but I feel like I'm still getting
+a full story, even if it apparently isn't the complete one.</p>
+
 <p class="sc-77igqf-0 bOfvBY"><strong>Rockmandash12: </strong>It's good to hear that anime only people don't have
   that issue, but it loses out on a bit of the charm and emotional attachment in my opinion.</p><p class="sc-77igqf-0 bOfvBY"><strong>Rockmandash12</strong>: In the Visual Novel, it felt like you were experiencing the
   story of Shirou, getting his perspective on everything, learning about him and developing him as a character. I really
@@ -85,7 +99,8 @@ oldArticle: true
 <img alt src="plnnrlkp7xibtiggv7up.png"/>
 
 <img alt src="./1060908153489952040.jpg"/><p class="sc-77igqf-0 bOfvBY"><strong>Protonstorm:</strong> Yeah. And not just the masters, the servants get
-  just as much if not more development.</p>
+just as much if not more development.</p>
+
 <p class="sc-77igqf-0 bOfvBY"><strong>Protonstorm: </strong>They aren't just tools.</p><p class="sc-77igqf-0 bOfvBY"><strong>Rockmandash12: </strong>Definitely. As someone who's seen <em>Fate/Zero</em>, what
   are your thoughts on how they handled returning characters, and characters in general?</p>
 <p class="sc-77igqf-0 bOfvBY"><strong>Protonstorm:</strong> Well, that's a challenging thing to answer.
@@ -274,6 +289,7 @@ oldArticle: true
   I kinda really liked it, but i'm weird like that. I know it's not amazing though.</p>
 
 <img alt src="./a6pfydyddy5b3pjpouc2.png"/><p class="sc-77igqf-0 bOfvBY"><strong>Rockmandash12:</strong> I guess it's time to move into the conclusion.
+
 </p><p class="sc-77igqf-0 bOfvBY"><strong>Rockmandash12:</strong> Overall, I liked UBW, but couldn't help but be
   disapointed by it. It's really good in some aspects (<strong>DEM VISUALS</strong>), but the parts where it fell let me
   down. I'd say it's pretty good in general, but not one of the bests of the year. It's really up to Season 2 to turn

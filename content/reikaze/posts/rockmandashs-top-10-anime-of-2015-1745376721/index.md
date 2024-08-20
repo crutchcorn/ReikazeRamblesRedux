@@ -1,12 +1,19 @@
 ---
 {
-title: "RockmanDash's Top 10 Anime of 2015",
-tags: ["Rockmandash Rambles", "Top Lists", "Top 10", "Anime", "AniTAY", "Top Anime of 2015"],
-authors: ['reikaze'],
-published: '2015-12-29T09:05:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash's Top 10 Anime of 2015",
+  tags:
+    [
+      "Rockmandash Rambles",
+      "Top Lists",
+      "Top 10",
+      "Anime",
+      "AniTAY",
+      "Top Anime of 2015",
+    ],
+  published: "2015-12-29T09:05:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -138,15 +145,16 @@ oldArticle: true
     CR....</em></p>
 
 <video autoplay="" loop="" muted=""><source src="./xyxoaqvrevn5bfiv5m3e.mp4" type="video/mp4"/></video><p class="sc-77igqf-0 bOfvBY"><strong>Justification &amp; Thoughts: </strong>I’m a pretty big fan of RomComs in
-  general, with this list having quite a bit of SoL and RomComs, but even when you like something, a subversion of that
-  can great. With romance, <em>OreGairu/SNAFU</em> is of the best subversions of the genre, and it’s mainly due to
-  having some of the best characters that this year had to offer. It was “something genuine”, showing a rom-com turned
-  drama that shows the essence of people and their interactions, weaving it’s story around messy situations that require
-  our characters to learn, and to grow. It’s a show that shined with a stellar execution that brings out the best of
-  what they are offering, a show that let you get to know the characters and the conflicts, and one that just got into
-  your head with the way people interact. It’s also one with a fair bit of comedy, a show that kept you entertained
-  throughout. Really, <em>Oregairu </em>is a really enjoyable show, one that a person can easily fall in love with.
-  Also, it’s opening from Yanagi Nagi makes it all that much better, an icing on the top of the cake for me.<br/></p>
+general, with this list having quite a bit of SoL and RomComs, but even when you like something, a subversion of that
+can great. With romance, <em>OreGairu/SNAFU</em> is of the best subversions of the genre, and it’s mainly due to
+having some of the best characters that this year had to offer. It was “something genuine”, showing a rom-com turned
+drama that shows the essence of people and their interactions, weaving it’s story around messy situations that require
+our characters to learn, and to grow. It’s a show that shined with a stellar execution that brings out the best of
+what they are offering, a show that let you get to know the characters and the conflicts, and one that just got into
+your head with the way people interact. It’s also one with a fair bit of comedy, a show that kept you entertained
+throughout. Really, <em>Oregairu </em>is a really enjoyable show, one that a person can easily fall in love with.
+Also, it’s opening from Yanagi Nagi makes it all that much better, an icing on the top of the cake for me.<br/></p>
+
 <p class="sc-77igqf-0 bOfvBY"><strong>If interested, you should also check out</strong> <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/my-teen-romantic-comedy-snafu-too-the-ani-tay-review-1714840654",{"metric25":1}]]' href="http://anitay.kinja.com/my-teen-romantic-comedy-snafu-too-the-ani-tay-review-1714840654" rel="noopener noreferrer" target="_blank">Protonstorm’s AniTAY review :)</a></span></p>
 <hr class="gcp5ez-0 hKlTiw"/><h3 class="sc-1bwb26k-1 fvCjqJ" id="h108840"><a class="js_header-anchor" id=""></a><em>7.
   Saekano - How To Raise A Boring Girlfriend</em></h3>
@@ -302,20 +310,21 @@ oldArticle: true
     MAL</em></p>
 
 <img alt src="./eghm4idpawlcn4vsh4ih.jpg"/><p class="sc-77igqf-0 bOfvBY"><strong>Justification &amp; Thoughts:</strong> I said it back in Spring 2015 that
-  <em>Kekkai Sensen </em>at was going to be the top of the list, and now that we’re at the end of the year, here it is,
-  AOTY for me. Written by the genius who brought us the classic Trigun, <em>Kekkai Sensen</em> is an amazing episodic
-  show that does a lot right, a show that will hook you in like few shows really can. It’s a show that presents an
-  amazing world, a vibrant, extremely well crafted Monster New York that drags you in with interesting changes to
-  reality, stylization that keeps you constantly engaged, and an atmosphere that makes this setting feeling more alive
-  than pretty much any other setting out there. It doesn’t just end there either: pretty much everything about this show
-  deserves praise, from the extremely memorable and awesome characters (Zapp!) to the brilliant presentation and music
-  (Dat Jazz!) and the absolutely engaging scenarios that happen throughout this story (Chess!). This is a show that I
-  admire as it is the type of show I always look for, being experience first by showing you some absolutely interesting,
-  engaging and amazing scenarios that can either hit hard (Feelz about hamburgers... ;-;), be really entertaining (That
-  guy where all the bad things happen XD) or just be absolutely outstanding to the point that every aspect about this
-  show is just brilliant and and a joy to watch, showing how episodic shows are done right. Almost everything about this
-  show is something I adored (The wait for the last episode.. not so much...) and it all added to a package that as
-  amazing and hit all the right strings for me, Anime of the year.</p>
+<em>Kekkai Sensen </em>at was going to be the top of the list, and now that we’re at the end of the year, here it is,
+AOTY for me. Written by the genius who brought us the classic Trigun, <em>Kekkai Sensen</em> is an amazing episodic
+show that does a lot right, a show that will hook you in like few shows really can. It’s a show that presents an
+amazing world, a vibrant, extremely well crafted Monster New York that drags you in with interesting changes to
+reality, stylization that keeps you constantly engaged, and an atmosphere that makes this setting feeling more alive
+than pretty much any other setting out there. It doesn’t just end there either: pretty much everything about this show
+deserves praise, from the extremely memorable and awesome characters (Zapp!) to the brilliant presentation and music
+(Dat Jazz!) and the absolutely engaging scenarios that happen throughout this story (Chess!). This is a show that I
+admire as it is the type of show I always look for, being experience first by showing you some absolutely interesting,
+engaging and amazing scenarios that can either hit hard (Feelz about hamburgers... ;-;), be really entertaining (That
+guy where all the bad things happen XD) or just be absolutely outstanding to the point that every aspect about this
+show is just brilliant and and a joy to watch, showing how episodic shows are done right. Almost everything about this
+show is something I adored (The wait for the last episode.. not so much...) and it all added to a package that as
+amazing and hit all the right strings for me, Anime of the year.</p>
+
 <div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/j3SlUmr_T4g" width="560"></iframe><span class="js_recommend" data-chomp-id="j3SlUmr_T4g" data-recommend-id="youtube://j3SlUmr_T4g" data-recommended="false" id="youtube-j3SlUmr_T4g"></span></span></div><p class="sc-77igqf-0 bOfvBY"><strong>If interested,
   you should also check out</strong> <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/kekkai-sensen-the-anitay-review-1713944746",{"metric25":1}]]' href="http://anitay.kinja.com/kekkai-sensen-the-anitay-review-1713944746" rel="noopener noreferrer" target="_blank">Maelwys’ review on AniTAY</a></span>.</p>
 <hr class="gcp5ez-0 hKlTiw"/><p class="sc-77igqf-0 bOfvBY"><em>You’re reading Ani-TAY, the anime-focused portion of

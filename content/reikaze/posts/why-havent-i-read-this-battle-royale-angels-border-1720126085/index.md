@@ -1,12 +1,18 @@
 ---
 {
-title: "Why Haven't I Read This? - Battle Royale: Angel's Border",
-tags: ["Battle Royale", "Angel's Border", "Why Haven't I Read This?", "Why Haven't I Watched This?", "Rockmandash Rambles"],
-authors: ['reikaze'],
-published: '2015-07-25T02:57:41-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Why Haven't I Read This? - Battle Royale: Angel's Border",
+  tags:
+    [
+      "Battle Royale",
+      "Angel's Border",
+      "Why Haven't I Read This?",
+      "Why Haven't I Watched This?",
+      "Rockmandash Rambles",
+    ],
+  published: "2015-07-25T02:57:41-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

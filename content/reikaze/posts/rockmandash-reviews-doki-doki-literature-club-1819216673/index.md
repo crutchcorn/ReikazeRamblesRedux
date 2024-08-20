@@ -1,12 +1,11 @@
 ---
 {
-title: "RockmanDash Reviews: Doki Doki Literature Club",
-tags: ["RockmanDash Reviews", "Doki Doki Literature Club"],
-authors: ['reikaze'],
-published: '2017-10-06T11:31:51-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash Reviews: Doki Doki Literature Club",
+  tags: ["RockmanDash Reviews", "Doki Doki Literature Club"],
+  published: "2017-10-06T11:31:51-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

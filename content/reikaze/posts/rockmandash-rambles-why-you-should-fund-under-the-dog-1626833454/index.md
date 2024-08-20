@@ -1,12 +1,21 @@
 ---
 {
-title: "Why You Should Fund Under The Dog , and What this Kickstarter Represents",
-tags: ["Rockmandash Rambles", "Under The Dog", "Kickstarter", "Fund it! NOW! Seinen", "Action", "Oppinion", "Future", "Industry"],
-authors: ['reikaze'],
-published: '2014-08-26T16:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Why You Should Fund Under The Dog , and What this Kickstarter Represents",
+  tags:
+    [
+      "Rockmandash Rambles",
+      "Under The Dog",
+      "Kickstarter",
+      "Fund it! NOW! Seinen",
+      "Action",
+      "Oppinion",
+      "Future",
+      "Industry",
+    ],
+  published: "2014-08-26T16:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -46,11 +55,12 @@ oldArticle: true
   be a beautiful anime, if it gets funded.</p>
 
 <img alt src="./873254601187428017.jpg"/><p class="sc-77igqf-0 bOfvBY">There's more than this than just visuals: We have an interesting story written by Jiro
-  Ishii, about being pushed into a corner... an underdog situation. It's an interesting theme and it creates a story
-  with an interesting premise... and knowing Jiro Ishii, who's made the visual novel that I want to play the most but
-  don't have any access too, 428: In a Blockaded Shibuya (and helped produced 999, my favorite game). I'm expecting
-  great writing, interesting sci-fi elements based on real science, and interesting themes and plot points that are
-  developed well. </p>
+Ishii, about being pushed into a corner... an underdog situation. It's an interesting theme and it creates a story
+with an interesting premise... and knowing Jiro Ishii, who's made the visual novel that I want to play the most but
+don't have any access too, 428: In a Blockaded Shibuya (and helped produced 999, my favorite game). I'm expecting
+great writing, interesting sci-fi elements based on real science, and interesting themes and plot points that are
+developed well. </p>
+
 <p class="sc-77igqf-0 bOfvBY">We haven't had a well done Seinen action show in a while. Shows like Trigun, GiTS,
   Code Geass, Bokurano, Darker than Black, etc... and I realized that I really... really miss these types of shows. I
   mean, the shoenens will always exist and be meh, the fanservice-y shows will still be there because they are cheap and
@@ -94,28 +104,29 @@ oldArticle: true
     advertising based creative decisions or delays here! - From UTD Kickstarter</p></blockquote>
 
 <img alt src="./873254601703305649.jpg"/><p class="sc-77igqf-0 bOfvBY">This kickstarter is not just about the show, but to shake up the anime industry, or to at
-  least provide some people the directive freedom to make what they want. The Anime industry is focused on making money
-  like everyone else... but they sacrifice originality, high production values, and creativity to get there. The
-  perception of anime, the fanbase, and the market makes the industry wary about trying new things.... so we get
-  adaptations of shows that only appeal to the hardcore otaku, or shows that try too hard to grab an audience. I do not
-  that I mind some of these shows, but diversity is really the key. Why can't we have our kickass action shows with
-  amazing stories and well done themes, but still have our amazing romantic comedies? I understand that shows are made
-  to gear a profit, but in the process they lose so much. Why should we have to deal with these butchered adaptations,
-  instead of seeing what they could be? If the industry wasn't so geared to selling merchandise, we'd have more of
-  people's favorites like Haruhi, or something like a <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://dexomega.kinja.com/dex-where-do-i-start-with-muv-luv-1561900783",{"metric25":1}]]' href="http://dexomega.kinja.com/dex-where-do-i-start-with-muv-luv-1561900783" rel="noopener noreferrer" target="_blank">Muv-Luv adaptation done right</a></span>.
-  What if the companies want to try something new? Why restrict the creativity of talent, deluding the quality of work
-  just to sell more toys? As a fan, don't you want to support what represent the common interest of the consumer and the
-  creator? Yes, there are stuff that are great that bomb like Nichijou, Redline, and Aoi Bungaku (which if you haven't
-  seen, go do it now.), but We got Neon Genesis Evangelion out of letting Hideaki Anno do his own thing, and we are
-  getting Zankyou no Terror out of what Watanabe wants to do..... why can't we let Jiro Ishii get his shot? (and we
-  should continue to allow Kotaro Uchikoshi to do what he does best.... #Operationbluebird, #ZeroEscape3)</p>
+least provide some people the directive freedom to make what they want. The Anime industry is focused on making money
+like everyone else... but they sacrifice originality, high production values, and creativity to get there. The
+perception of anime, the fanbase, and the market makes the industry wary about trying new things.... so we get
+adaptations of shows that only appeal to the hardcore otaku, or shows that try too hard to grab an audience. I do not
+that I mind some of these shows, but diversity is really the key. Why can't we have our kickass action shows with
+amazing stories and well done themes, but still have our amazing romantic comedies? I understand that shows are made
+to gear a profit, but in the process they lose so much. Why should we have to deal with these butchered adaptations,
+instead of seeing what they could be? If the industry wasn't so geared to selling merchandise, we'd have more of
+people's favorites like Haruhi, or something like a <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://dexomega.kinja.com/dex-where-do-i-start-with-muv-luv-1561900783",{"metric25":1}]]' href="http://dexomega.kinja.com/dex-where-do-i-start-with-muv-luv-1561900783" rel="noopener noreferrer" target="_blank">Muv-Luv adaptation done right</a></span>.
+What if the companies want to try something new? Why restrict the creativity of talent, deluding the quality of work
+just to sell more toys? As a fan, don't you want to support what represent the common interest of the consumer and the
+creator? Yes, there are stuff that are great that bomb like Nichijou, Redline, and Aoi Bungaku (which if you haven't
+seen, go do it now.), but We got Neon Genesis Evangelion out of letting Hideaki Anno do his own thing, and we are
+getting Zankyou no Terror out of what Watanabe wants to do..... why can't we let Jiro Ishii get his shot? (and we
+should continue to allow Kotaro Uchikoshi to do what he does best.... #Operationbluebird, #ZeroEscape3)</p>
 
 <img alt src="./873254601833074097.jpg"/><p class="sc-77igqf-0 bOfvBY">We are funding an episode to show to the industry that... yes, there is an interest. Yes,
-  this is a show that will sell, and it will be amazing. We are showing them that this is a type of show that we like,
-  and we like people to do what they want to do. While this is just funding a single episode, and to the consumer, it
-  doesn't make sense because it's literally a dollar an minute... that's not the point. It's not about what you are
-  getting, quantity wise. It's about making someone willing to foot the bill to see this dream come true, so we can have
-  Under The Dog become one of the greatest anime in the longest time. </p>
+this is a show that will sell, and it will be amazing. We are showing them that this is a type of show that we like,
+and we like people to do what they want to do. While this is just funding a single episode, and to the consumer, it
+doesn't make sense because it's literally a dollar an minute... that's not the point. It's not about what you are
+getting, quantity wise. It's about making someone willing to foot the bill to see this dream come true, so we can have
+Under The Dog become one of the greatest anime in the longest time. </p>
+
 <h2 class="sc-1bwb26k-1 fvCjqJ" id="h118043"><a class="js_header-anchor" id=""></a>What Under The Dog Represents
   for the Future of Action Anime</h2>
 <img alt src="./873254602012741041.jpg"/>

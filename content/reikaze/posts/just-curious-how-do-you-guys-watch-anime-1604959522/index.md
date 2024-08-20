@@ -1,12 +1,11 @@
 ---
 {
-title: "Curious, How Do You Watch Anime? (if you do)",
-tags: ["poll", "curious", "anime", "watch"],
-authors: ['reikaze'],
-published: '2014-07-14T18:21:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Curious, How Do You Watch Anime? (if you do)",
+  tags: ["poll", "curious", "anime", "watch"],
+  published: "2014-07-14T18:21:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

@@ -1,12 +1,11 @@
 ---
 {
-title: "Muv-Luv Schwarzemarken Anime Announced",
-tags: ["Muv-Luv", "News", "Anitay"],
-authors: ['reikaze'],
-published: '2015-05-21T03:23:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Muv-Luv Schwarzemarken Anime Announced",
+  tags: ["Muv-Luv", "News", "Anitay"],
+  published: "2015-05-21T03:23:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

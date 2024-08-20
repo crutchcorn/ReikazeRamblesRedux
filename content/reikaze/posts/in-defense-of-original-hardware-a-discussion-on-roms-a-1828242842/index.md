@@ -1,12 +1,11 @@
 ---
 {
-title: "In Defense of Original Hardware: A Discussion on ROMs and Playing Retro Games",
-tags: ["Rockmandash Rambles", "TAY", "Retro Gaming", "Emuparadise", "ROMs"],
-authors: ['reikaze'],
-published: '2018-08-10T09:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "In Defense of Original Hardware: A Discussion on ROMs and Playing Retro Games",
+  tags: ["Rockmandash Rambles", "TAY", "Retro Gaming", "Emuparadise", "ROMs"],
+  published: "2018-08-10T09:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -33,10 +32,11 @@ oldArticle: true
   pirate with and they put so little effort into making their devices secure (see FreeShop), but it is what it is.</p>
 
 <img alt src="./z9jjxqfvoihbwel7g6np.jpg"/><p class="sc-77igqf-0 bOfvBY">In regards to Emuparidise, you might disagree with their decision to take their
-  ROMs down especially because we don’t know if they were directly pressured to do so, but their actions are pretty
-  defendable and easy to understand too. Since Nintendo is on the right side of the law, they would most likely win a
-  suit and the amount that they’re asking for (<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://torrentfreak.com/nintendo-sues-console-rom-sites-for-mass-copyright-infringement-180720/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Torrentfreak+%28Torrentfreak%29",{"metric25":1}]]' href="https://torrentfreak.com/nintendo-sues-console-rom-sites-for-mass-copyright-infringement-180720/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Torrentfreak+%28Torrentfreak%29" rel="noopener noreferrer" target="_blank">$2M for each Trademark infringement and $150K for each Nintendo game</a></span>)
-  would risk the livelihood of the team, as the founder MasJ explains:</p>
+ROMs down especially because we don’t know if they were directly pressured to do so, but their actions are pretty
+defendable and easy to understand too. Since Nintendo is on the right side of the law, they would most likely win a
+suit and the amount that they’re asking for (<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://torrentfreak.com/nintendo-sues-console-rom-sites-for-mass-copyright-infringement-180720/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Torrentfreak+%28Torrentfreak%29",{"metric25":1}]]' href="https://torrentfreak.com/nintendo-sues-console-rom-sites-for-mass-copyright-infringement-180720/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Torrentfreak+%28Torrentfreak%29" rel="noopener noreferrer" target="_blank">$2M for each Trademark infringement and $150K for each Nintendo game</a></span>)
+would risk the livelihood of the team, as the founder MasJ explains:</p>
+
 <blockquote class="sc-8hxd3p-0 nvIqO" data-type="BlockQuote"><p class="sc-77igqf-0 bOfvBY">It’s not worth it for us to
   risk potentially disastrous consequences. I cannot in good conscience risk the futures of our team members who have
   contributed to the site through the years. We run EmuParadise for the love of retro games and for you to be able to

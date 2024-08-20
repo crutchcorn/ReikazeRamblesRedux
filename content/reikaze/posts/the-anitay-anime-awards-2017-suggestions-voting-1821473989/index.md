@@ -1,12 +1,18 @@
 ---
 {
-title: "The AniTAY Anime Awards 2017 : Suggestions & Voting",
-tags: ["The AniTAY Anime Awards", "2017", "AniTAY", "anitay collaboration", "Ani-TAY Collaboration"],
-authors: ['reikaze'],
-published: '2018-01-11T19:15:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "The AniTAY Anime Awards 2017 : Suggestions & Voting",
+  tags:
+    [
+      "The AniTAY Anime Awards",
+      "2017",
+      "AniTAY",
+      "anitay collaboration",
+      "Ani-TAY Collaboration",
+    ],
+  published: "2018-01-11T19:15:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

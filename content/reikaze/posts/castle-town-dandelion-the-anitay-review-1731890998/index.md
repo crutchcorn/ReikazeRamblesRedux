@@ -1,12 +1,19 @@
 ---
 {
-title: "Castle Town Dandelion : The AniTAY Review",
-tags: ["Castle Town Dandelion", "The AniTAY Review", "Summer 2015", "AniTAY", "Rockmandash Reviews", "Production IMS"],
-authors: ['reikaze'],
-published: '2015-09-19T21:30:02-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Castle Town Dandelion : The AniTAY Review",
+  tags:
+    [
+      "Castle Town Dandelion",
+      "The AniTAY Review",
+      "Summer 2015",
+      "AniTAY",
+      "Rockmandash Reviews",
+      "Production IMS",
+    ],
+  published: "2015-09-19T21:30:02-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -51,10 +58,11 @@ oldArticle: true
 <img alt src="./1439651231066457160.png"/>
 
 <img alt src="./1439651231137015112.png"/><h3 class="sc-1bwb26k-1 fvCjqJ" id="h107408"><a class="js_header-anchor" id=""></a><strong>The Focus on
-  Akane</strong></h3><p class="sc-77igqf-0 bOfvBY">This one’s a bit ironic, considering her character, but it may be the
-  biggest gripe that one may have on the show. Akane Sakuraba, who is the main character throughout the show, is
-  extremely shy, and manages to get the most attention throughout the show, as most of the gags surround her. While I
-  liked her character and didn’t really mind the focus, this may bother you.</p>
+Akane</strong></h3><p class="sc-77igqf-0 bOfvBY">This one’s a bit ironic, considering her character, but it may be the
+biggest gripe that one may have on the show. Akane Sakuraba, who is the main character throughout the show, is
+extremely shy, and manages to get the most attention throughout the show, as most of the gags surround her. While I
+liked her character and didn’t really mind the focus, this may bother you.</p>
+
 <h3 class="sc-1bwb26k-1 fvCjqJ" id="h107409"><a class="js_header-anchor" id=""></a>The Election Results/Ending
 </h3>
 <img alt src="./1439651231195195720.jpg"/>

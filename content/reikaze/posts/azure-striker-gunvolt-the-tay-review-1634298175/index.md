@@ -1,12 +1,19 @@
 ---
 {
-title: "Azure Striker Gunvolt : The TAY Review",
-tags: ["Rockmandash Reviews", "TAY Review", "Azure Striker Gunvolt", "Inti Creates", "Mega Man", "Megaman"],
-authors: ['reikaze'],
-published: '2014-09-18T15:30:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Azure Striker Gunvolt : The TAY Review",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "TAY Review",
+      "Azure Striker Gunvolt",
+      "Inti Creates",
+      "Mega Man",
+      "Megaman",
+    ],
+  published: "2014-09-18T15:30:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -43,19 +50,20 @@ oldArticle: true
   was a pleasant surprise. It also has a NG+ for those interested.</p>
 
 <img alt src="./lwxrtbmk6crkidse4ock.png"/><h4 class="sc-1bwb26k-1 fvCjqJ" id="h115437"><a class="js_header-anchor" id=""></a>Doing its own thing, even if
-  it's stumbling.</h4><p class="sc-77igqf-0 bOfvBY"> While this is heavily influenced by Inti Creates's previous works,
-  this is not a successor to MM ZXA, nor does it play like it. The core of the game is the same, but everything else is
-  radically different. Gunvolt has a different philosophy than Mega Man on how things should be played. This happens
-  because of 2 elements of Gunvolt's gameplay: the game's mechanics and Gunvolt himself.</p>
+it's stumbling.</h4><p class="sc-77igqf-0 bOfvBY"> While this is heavily influenced by Inti Creates's previous works,
+this is not a successor to MM ZXA, nor does it play like it. The core of the game is the same, but everything else is
+radically different. Gunvolt has a different philosophy than Mega Man on how things should be played. This happens
+because of 2 elements of Gunvolt's gameplay: the game's mechanics and Gunvolt himself.</p>
 
 <img alt src="./sggqh3mlgvtkk90edddb.jpg"/><p class="sc-77igqf-0 bOfvBY"> Most of the tweaks are due to the 2 main mechanics this game has: Flashfield,
-  and Prevasion. In Gunvolt, you don't really have any weapons that dish a lot of damage; the way you deal damage in
-  this game is by tagging enemies with your gun, then using the Flashfield, a strong attack that also doubles as a
-  shield. The Flashfield is really powerful and can be a lot of fun; it blocks attacks while dishing them out, it's
-  extremely satisfying to see your enemies be destroyed with it, and to see things be repelled from the Flashfield is
-  entertaining, but I have quite a few gripes with it. I'm not a big fan of how busy it looks when you are using it, the
-  tagging system can be awkward at times, and in my opinion, it makes the game feel quite easy (I'll get to that
-  later).</p>
+and Prevasion. In Gunvolt, you don't really have any weapons that dish a lot of damage; the way you deal damage in
+this game is by tagging enemies with your gun, then using the Flashfield, a strong attack that also doubles as a
+shield. The Flashfield is really powerful and can be a lot of fun; it blocks attacks while dishing them out, it's
+extremely satisfying to see your enemies be destroyed with it, and to see things be repelled from the Flashfield is
+entertaining, but I have quite a few gripes with it. I'm not a big fan of how busy it looks when you are using it, the
+tagging system can be awkward at times, and in my opinion, it makes the game feel quite easy (I'll get to that
+later).</p>
+
 <p class="sc-77igqf-0 bOfvBY"> Prevasion is a defense mechanism. If you still have space in your flashfield bar
   and you take a hit, your health doesn't go down, instead your flashfield bar goes down. Both of these mean that
   worrying about your own health becomes much less of an issue because the game pretty much covers for you, but on the
@@ -94,9 +102,9 @@ oldArticle: true
   length of an eShop game, and the replay value helps make this up.</p>
 
 <img alt src="./fylkx7bn3kcofm4azng2.png"/><p class="sc-77igqf-0 bOfvBY"> I came into Azure Striker Gunvolt looking for another Mega Man. "What I found
-  was a game that had the same essence of the games I love, but not some of the little things that they did right. It's
-  a good game that you'll probably enjoy if you are a fan of the series, but I can't help but feel a bit
-  disappointed. </p>
+was a game that had the same essence of the games I love, but not some of the little things that they did right. It's
+a good game that you'll probably enjoy if you are a fan of the series, but I can't help but feel a bit
+disappointed. </p>
 
 <img alt src="./malpcmrc4oi2c9pqcarv.png"/>
 <hr class="gcp5ez-0 hKlTiw"/><p class="sc-77igqf-0 bOfvBY"><strong>Copyright Disclaimer:</strong> Under Title 17, Section

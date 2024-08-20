@@ -1,12 +1,19 @@
 ---
 {
-title: "Rockmandash Reviews: Bokurano: Ours [Anime]",
-tags: ["rockmandash reviews", "ani-tay", "review", "bokurano ours", "deconstruction mecha", "tay-classic"],
-authors: ['reikaze'],
-published: '2014-06-10T19:01:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Bokurano: Ours [Anime]",
+  tags:
+    [
+      "rockmandash reviews",
+      "ani-tay",
+      "review",
+      "bokurano ours",
+      "deconstruction mecha",
+      "tay-classic",
+    ],
+  published: "2014-06-10T19:01:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -56,24 +63,26 @@ oldArticle: true
 </aside>
 
 <img alt src="./jrdp7yanoivpbpizrm2z.jpg"/><p class="sc-77igqf-0 bOfvBY">Like I said before, the cast is a group of middle school students. This is a
-  fairly large cast, and this show manages to give most of them individual arcs. An episode or two at most, but that's
-  still a lot better than a lot of series, and while the arcs are short, they are very well done and very impactfully.
-  You could say that they are so short that it makes the characters feel insignificant, but that's really the point. As
-  for the characters, they start off as your regular middle school pricks for a cast, but they get much much better, all
-  going through some stellar character development throughout their arc or the show in general. Frankly, it's fantastic.
-  You might not remember the names of all the characters, but because of how well the arcs are written, you will always
-  remember their respective arcs. I have to mention Dungbeetle, this show's equivalent of Kyubey. If you thought that
-  Kyubey was the embodiment of evil, this show will quickly change your opinion. Think of Kyubey, but as an absolute
-  dick who wants to ruin everybody's day, and does it successfully. That's Dungbeetle. He's written very well, like all
-  of the characters, and the whole show. This show is a well written show.</p>
+fairly large cast, and this show manages to give most of them individual arcs. An episode or two at most, but that's
+still a lot better than a lot of series, and while the arcs are short, they are very well done and very impactfully.
+You could say that they are so short that it makes the characters feel insignificant, but that's really the point. As
+for the characters, they start off as your regular middle school pricks for a cast, but they get much much better, all
+going through some stellar character development throughout their arc or the show in general. Frankly, it's fantastic.
+You might not remember the names of all the characters, but because of how well the arcs are written, you will always
+remember their respective arcs. I have to mention Dungbeetle, this show's equivalent of Kyubey. If you thought that
+Kyubey was the embodiment of evil, this show will quickly change your opinion. Think of Kyubey, but as an absolute
+dick who wants to ruin everybody's day, and does it successfully. That's Dungbeetle. He's written very well, like all
+of the characters, and the whole show. This show is a well written show.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h118084"><a class="js_header-anchor" id=""></a>Writing - 9/10</h4>
 <img alt src="./h7kt6bv9oghuxceam6x1.png"/>
 
 <img alt src="./nucweaqcxbyejdj37kxt.jpg"/><p class="sc-77igqf-0 bOfvBY"> Absolutely nothing special, but that's to be expected as this is a Gonzo show.
-  It looks nice and is quite faithful to the source material…. but to be perfectly honest, I'm actually shocked that it
-  doesn't look like total rubbish, considering it's Gonzo. It doesn't stand out at all though and there's nothing
-  special about the animation. At times, it does dip in quality and when it does it's extremely noticeable, but it's
-  never detrimental to your experience in the show.</p>
+It looks nice and is quite faithful to the source material…. but to be perfectly honest, I'm actually shocked that it
+doesn't look like total rubbish, considering it's Gonzo. It doesn't stand out at all though and there's nothing
+special about the animation. At times, it does dip in quality and when it does it's extremely noticeable, but it's
+never detrimental to your experience in the show.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h118085"><a class="js_header-anchor" id=""></a>Visuals - 7/10</h4>
 <img alt src="./liblnmjxbrtgokaxmqzp.png"/>
 <div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/05p646nlYS0" width="560"></iframe><span class="js_recommend" data-chomp-id="05p646nlYS0" data-recommend-id="youtube://05p646nlYS0" data-recommended="false" id="youtube-05p646nlYS0"></span></span></div><p class="sc-77igqf-0 bOfvBY"> Bokurano has one of the best opening songs I've seen in a long time. The opening

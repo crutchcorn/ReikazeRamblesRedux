@@ -1,12 +1,11 @@
 ---
 {
-title: "The Great Anime Purge of 2016 Part 2: Crunchyroll joins the Fray",
-tags: ["Crunchyroll", "AniTAY", "Anime"],
-authors: ['reikaze'],
-published: '2016-06-23T12:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "The Great Anime Purge of 2016 Part 2: Crunchyroll joins the Fray",
+  tags: ["Crunchyroll", "AniTAY", "Anime"],
+  published: "2016-06-23T12:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

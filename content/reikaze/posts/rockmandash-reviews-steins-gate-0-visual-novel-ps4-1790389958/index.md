@@ -1,12 +1,11 @@
 ---
 {
-title: "RockmanDash Reviews: Steins;Gate 0 [Visual Novel - PS4/Vita]",
-tags: ["RockmanDash Reviews", "Steins;Gate", "Visual Novel", "AniTAY"],
-authors: ['reikaze'],
-published: '2016-12-30T15:47:30-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash Reviews: Steins;Gate 0 [Visual Novel - PS4/Vita]",
+  tags: ["RockmanDash Reviews", "Steins;Gate", "Visual Novel", "AniTAY"],
+  published: "2016-12-30T15:47:30-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -58,26 +57,27 @@ oldArticle: true
   what lead to it, and we are along for the ride. </p>
 
 <img alt src="./trnlbvkaowpuxbfjyioa.jpg"/><p class="sc-77igqf-0 bOfvBY"><em>Steins;Gate 0</em> is consistently more engaging because of this too: There’s
-  less slice of life to slow the story down, the story is much more tonally consistent, and due to the nature of the
-  story, it becomes easy to get attached with the cast. We are with Okabe: we experience the same events has he does in
-  a similar fashion, forced to experience an alien world after we have witnessed despair, and the execution of this
-  that’s what makes this character driven work great. We’re dealing with the differences in this shifted world just like
-  he is, he is dealing with the distortions from memory and the reactions that come with it… and all of these elements
-  bring this game to the next level, making it all that much more compelling. Add to this excellent character
-  interactions, an excellent handling of characters throughout, and you’re left with an excellent story that can blow
-  your mind, making you shout in excitement and greatness. The game has the skill to manipulate you. With every decision
-  <em>Steins;Gate 0 </em>makes, the game very rarely makes a bad turn: it never ceases to amaze you, never failing to
-  make you feel a way that only truly quality works can, always blowing your mind. I can’t even begin to count the
-  amount of times where I declared how great this game was because of something it did, how much I fell in love with the
-  game because of some of things, and this shift, this handling of a story is something I truly adore.</p>
+less slice of life to slow the story down, the story is much more tonally consistent, and due to the nature of the
+story, it becomes easy to get attached with the cast. We are with Okabe: we experience the same events has he does in
+a similar fashion, forced to experience an alien world after we have witnessed despair, and the execution of this
+that’s what makes this character driven work great. We’re dealing with the differences in this shifted world just like
+he is, he is dealing with the distortions from memory and the reactions that come with it… and all of these elements
+bring this game to the next level, making it all that much more compelling. Add to this excellent character
+interactions, an excellent handling of characters throughout, and you’re left with an excellent story that can blow
+your mind, making you shout in excitement and greatness. The game has the skill to manipulate you. With every decision
+<em>Steins;Gate 0 </em>makes, the game very rarely makes a bad turn: it never ceases to amaze you, never failing to
+make you feel a way that only truly quality works can, always blowing your mind. I can’t even begin to count the
+amount of times where I declared how great this game was because of something it did, how much I fell in love with the
+game because of some of things, and this shift, this handling of a story is something I truly adore.</p>
 
 <img alt src="./qwtyld0jye69xtxlpit1.jpg"/><p class="sc-77igqf-0 bOfvBY">This happened in multiple routes too, as this game peaks at many points in the
-  story. You see, unlike the original <em>Steins;Gate </em>which was linear with ends that branched off from the main
-  path, <em>Steins;Gate </em>is structured more like a traditional VN with branching routes, and each branch tells it’s
-  own story. <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://imgur.com/a/c2qSg",{"metric25":1}]]' href="http://imgur.com/a/c2qSg" rel="noopener noreferrer" target="_blank">From Gehenna’s Stigma to The Promised Rinascimento to the True End</a></span>,
-  there’s a lot of compelling stories that <em>Steins;Gate 0 </em>has to tell and for the most part, all of them are
-  great. The way they play with different concepts, the events that they show, this game never ceases to impress. There
-  are definitely weaker routes (Twin Automata comes to mind) but even those have their moments.<br/></p>
+story. You see, unlike the original <em>Steins;Gate </em>which was linear with ends that branched off from the main
+path, <em>Steins;Gate </em>is structured more like a traditional VN with branching routes, and each branch tells it’s
+own story. <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://imgur.com/a/c2qSg",{"metric25":1}]]' href="http://imgur.com/a/c2qSg" rel="noopener noreferrer" target="_blank">From Gehenna’s Stigma to The Promised Rinascimento to the True End</a></span>,
+there’s a lot of compelling stories that <em>Steins;Gate 0 </em>has to tell and for the most part, all of them are
+great. The way they play with different concepts, the events that they show, this game never ceases to impress. There
+are definitely weaker routes (Twin Automata comes to mind) but even those have their moments.<br/></p>
+
 <p class="sc-77igqf-0 bOfvBY">It’s also important to keep in mind that while the story is more character driven,
   It’s still<em> Steins;Gate </em>through and through: <em>Steins;Gate 0 </em>doesn’t just abandon Sci-Fi, instead using
   it as a base to improve the rest of the story. <em>Steins;Gate 0 </em>also adds Amadeus to the mix, a program that
@@ -125,7 +125,7 @@ oldArticle: true
   ​tell​ ​the​ ​tale​ ​of​ <em>​Steins;Gate​ ​0</em>.</p>
 
 <img alt src="./yolxqt5izxymcxwshsjy.jpg"/><p class="sc-77igqf-0 bOfvBY">That being said, <em>Steins;Gate 0</em> is not perfect: it has several flaws that
-  can drastically impact your experience. Here’s a few:<br/></p>
+can drastically impact your experience. Here’s a few:<br/></p>
 
 <ol class="sc-1lmbno3-1 sizyJ" data-style="Number" data-type="List">
 <li><strong>No longer linear:</strong> Not really a flaw by itself, but because of the entirely different routes, the
@@ -166,9 +166,9 @@ oldArticle: true
   so good that one can easily make the argument that it’s even better. If you asked me, I probably would.<br/></p>
 
 <img alt src="./sw5aqlqo1smpy57f8rke.png"/><p class="sc-77igqf-0 bOfvBY">PS: I wasn’t able to fit this in the review itself, but I wanted to mention this:
-  Fun fact! <em>Steins;Gate​ ​0</em> isn’t a completely original game: it’s ​an​ ​alternate​ ​interpretation​ ​of​ ​the​
-  ​story​ ​told​ ​in​ ​the​ ​Light Novel Spinoff series, the ​<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://steins-gate.wikia.com/wiki/Epigraph_Trilogy",{"metric25":1}]]' href="http://steins-gate.wikia.com/wiki/Epigraph_Trilogy" rel="noopener noreferrer" target="_blank">Epigraph​ ​Trilogy​</a></span>.
-  There’s significant changes here, but the basic premise is the same with Amadeus and that jazz.<br/></p>
+Fun fact! <em>Steins;Gate​ ​0</em> isn’t a completely original game: it’s ​an​ ​alternate​ ​interpretation​ ​of​ ​the​
+​story​ ​told​ ​in​ ​the​ ​Light Novel Spinoff series, the ​<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://steins-gate.wikia.com/wiki/Epigraph_Trilogy",{"metric25":1}]]' href="http://steins-gate.wikia.com/wiki/Epigraph_Trilogy" rel="noopener noreferrer" target="_blank">Epigraph​ ​Trilogy​</a></span>.
+There’s significant changes here, but the basic premise is the same with Amadeus and that jazz.<br/></p>
 
 <hr class="gcp5ez-0 hKlTiw"/><p class="sc-77igqf-0 bOfvBY"><em>Thank you for reading! This is Rockmandash Reviews, a blog
   focused on everything revolving Visual Novels, with stuff like tech and anime every now and then. If you want to read

@@ -1,12 +1,20 @@
 ---
 {
-title: "Rockmandash Reviews: HTC One [M7]",
-tags: ["Rockmandash Reviews", "HTC One", "Device", "Android", "Get a Vita and 3DS", "Tech Review", "Review"],
-authors: ['reikaze'],
-published: '2014-04-15T13:34:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: HTC One [M7]",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "HTC One",
+      "Device",
+      "Android",
+      "Get a Vita and 3DS",
+      "Tech Review",
+      "Review",
+    ],
+  published: "2014-04-15T13:34:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

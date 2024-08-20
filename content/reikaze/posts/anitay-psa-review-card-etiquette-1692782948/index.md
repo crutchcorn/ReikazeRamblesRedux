@@ -1,12 +1,11 @@
 ---
 {
-title: "​AniTAY PSA: Review Card Etiquette",
-tags: ["PSA", "AniTAY", "Assets"],
-authors: ['reikaze'],
-published: '2015-03-21T01:18:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "​AniTAY PSA: Review Card Etiquette",
+  tags: ["PSA", "AniTAY", "Assets"],
+  published: "2015-03-21T01:18:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -28,6 +27,7 @@ oldArticle: true
 <img alt src="./u5ryexlu0m0hiloseacs.png"/>
 
 <img alt src="./xl30gnefecjtgpklcaw0.png"/><p class="sc-77igqf-0 bOfvBY">See any differences? Well, there are a few points I would like to point out: </p>
+
 <hr class="gcp5ez-0 hKlTiw"/>
 <ul class="sc-1lmbno3-0 dpuHif" data-style="Bullet" data-type="List">
 <li><strong>1. If you don't use all the signs, delete them. </strong><br/></li>

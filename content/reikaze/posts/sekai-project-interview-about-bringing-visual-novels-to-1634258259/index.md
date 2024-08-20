@@ -1,12 +1,11 @@
 ---
 {
-title: "Sekai Project Interview about Bringing Visual Novels To The West",
-tags: ["Sekai Project", "Visual Novels", "interview", "Siliconera"],
-authors: ['reikaze'],
-published: '2014-09-12T20:56:14-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Sekai Project Interview about Bringing Visual Novels To The West",
+  tags: ["Sekai Project", "Visual Novels", "interview", "Siliconera"],
+  published: "2014-09-12T20:56:14-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

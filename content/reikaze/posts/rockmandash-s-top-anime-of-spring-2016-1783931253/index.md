@@ -1,12 +1,19 @@
 ---
 {
-title: "RockmanDash’s Top Anime of Spring 2016",
-tags: ["Rockmandash Rambles", "Top Lists", "AniTAY", "Anime", "Top Anime of Spring 2016", "Spring 2016"],
-authors: ['reikaze'],
-published: '2016-07-19T17:30:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash’s Top Anime of Spring 2016",
+  tags:
+    [
+      "Rockmandash Rambles",
+      "Top Lists",
+      "AniTAY",
+      "Anime",
+      "Top Anime of Spring 2016",
+      "Spring 2016",
+    ],
+  published: "2016-07-19T17:30:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

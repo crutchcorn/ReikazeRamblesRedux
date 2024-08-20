@@ -1,12 +1,19 @@
 ---
 {
-title: "Ao Haru Ride : Rockmandash's Ani-TAY Review",
-tags: ["Ao Haru Ride", "Ani-TAY", "Review", "Rockmandash", "Rockmandash Reviews", "Tay-Classic"],
-authors: ['reikaze'],
-published: '2014-09-25T16:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Ao Haru Ride : Rockmandash's Ani-TAY Review",
+  tags:
+    [
+      "Ao Haru Ride",
+      "Ani-TAY",
+      "Review",
+      "Rockmandash",
+      "Rockmandash Reviews",
+      "Tay-Classic",
+    ],
+  published: "2014-09-25T16:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -39,9 +46,10 @@ oldArticle: true
   aren't expected from a shoujo nowadays, but they really enhance what's there and they fit well in the story.</p>
 
 <img alt src="./916611654163593029.jpg"/><p class="sc-77igqf-0 bOfvBY"> There was one theme in particular that they had early on that I really enjoyed: the theme
-  of chasing the past. The events already happened, and it was done and over with, but the desire for it to be the way
-  it used to be is one that hit home for me, and it was done so well that I can't help but admire it. It got me attached
-  to the characters, and was just a blast to experience.</p>
+of chasing the past. The events already happened, and it was done and over with, but the desire for it to be the way
+it used to be is one that hit home for me, and it was done so well that I can't help but admire it. It got me attached
+to the characters, and was just a blast to experience.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h112928"><a class="js_header-anchor" id=""></a>Side Characters that Actually
   Matter</h4>
 <img alt src="./p0eeh2c1pyxaseimrehm.jpg"/>
@@ -78,6 +86,7 @@ oldArticle: true
 
 <img alt src="./gmcuqyf7lene0hriyrt9.png"/><h4 class="sc-1bwb26k-1 fvCjqJ" id="h112931"><a class="js_header-anchor" id=""></a>It's a very Shoujo Show</h4>
 <img alt src="./916611658627610949.png"/>
+
 <p class="sc-77igqf-0 bOfvBY"> If you are a fan of Shoujo, you got it here. This is a very by the books, simple
   yet a bit generic Shoujo romance, with all the pros and cons that come with that type of story. For someone who loves
   this kind of story, they'll love it, but because of how "traditional" it is, this might be a huge deterrent. If you
@@ -113,9 +122,9 @@ oldArticle: true
   place to end, and it's probably the best place it could have had to end, but the ending wasn't amazing.</p>
 
 <img alt src="./bu697hdorb9uyficpcpw.png"/><p class="sc-77igqf-0 bOfvBY"><em>Ao Haru Ride</em> is a well done Shoujo for Shoujo fans. I had a great time
-  with it, and I think you probably will too. If you like Shoujo, then you'll probably like it as much as I do, but if
-  not, <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/gekkan-shoujo-nozaki-kun-rockmandashs-ani-tay-review-1634657276",{"metric25":1}]]' href="http://anitay.kinja.com/gekkan-shoujo-nozaki-kun-rockmandashs-ani-tay-review-1634657276" rel="noopener noreferrer" target="_blank">you may want to try something else</a></span>. If you need me,
-  I'll be reading the manga.</p>
+with it, and I think you probably will too. If you like Shoujo, then you'll probably like it as much as I do, but if
+not, <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/gekkan-shoujo-nozaki-kun-rockmandashs-ani-tay-review-1634657276",{"metric25":1}]]' href="http://anitay.kinja.com/gekkan-shoujo-nozaki-kun-rockmandashs-ani-tay-review-1634657276" rel="noopener noreferrer" target="_blank">you may want to try something else</a></span>. If you need me,
+I'll be reading the manga.</p>
 
 <img alt src="./eom4jjfos7oiv4e6su7z.png"/>
 <hr class="gcp5ez-0 hKlTiw"/><p class="sc-77igqf-0 bOfvBY"><strong>Copyright Disclaimer:</strong> Under Title 17, Section

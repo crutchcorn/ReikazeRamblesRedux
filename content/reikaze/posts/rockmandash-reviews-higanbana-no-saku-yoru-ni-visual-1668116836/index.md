@@ -1,12 +1,19 @@
 ---
 {
-title: "Rockmandash Reviews: Higanbana no Saku Yoru Ni [Visual Novel & Manga]",
-tags: ["Rockmandash Reviews", "Higanbana", "Higurashi", "07th Expansion", "Visual Novel", "Manga"],
-authors: ['reikaze'],
-published: '2014-12-08T22:25:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Higanbana no Saku Yoru Ni [Visual Novel & Manga]",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "Higanbana",
+      "Higurashi",
+      "07th Expansion",
+      "Visual Novel",
+      "Manga",
+    ],
+  published: "2014-12-08T22:25:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -40,12 +47,13 @@ oldArticle: true
   a great read.</p>
 
 <img alt src="./1248079700570901864.jpg"/><p class="sc-77igqf-0 bOfvBY">That being said, I don’t believe it’s that much of a horror game, as there are even
-  lighthearted parts of the story later on . It’s more a tragic story of people and horrible things they can do, instead
-  of a true horror game. It’s an engaging story that draws you in, but it’s never really scary, and it never really
-  tries to scare you. It doesn’t really show any of the actions, but if you don’t do well with scary situations or
-  thought <em>Higurashi </em>/<em>Umineko</em> was scary, you’ll probably be afraid of this too. <em>Higanbana</em>’s
-  done in a subtle, ambiguous way which helps the story quite a bit, getting you to ponder the ideas that the story
-  bounces around, while not destroying your suspension of disbelief.</p>
+lighthearted parts of the story later on . It’s more a tragic story of people and horrible things they can do, instead
+of a true horror game. It’s an engaging story that draws you in, but it’s never really scary, and it never really
+tries to scare you. It doesn’t really show any of the actions, but if you don’t do well with scary situations or
+thought <em>Higurashi </em>/<em>Umineko</em> was scary, you’ll probably be afraid of this too. <em>Higanbana</em>’s
+done in a subtle, ambiguous way which helps the story quite a bit, getting you to ponder the ideas that the story
+bounces around, while not destroying your suspension of disbelief.</p>
+
 <p class="sc-77igqf-0 bOfvBY">The spiritual elements in <em>Higanbana</em> were some of the most enjoyable parts
   of the writing to me as they fleshed out the world, with it’s unique society that was intriguing and interesting.
   While the story could have been just another character drama, the interesting world of the Yokai makes
@@ -65,12 +73,13 @@ oldArticle: true
 <img alt src="./1248079700654700136.png"/>
 
 <img alt src="./1248079700718317416.jpg"/><p class="sc-77igqf-0 bOfvBY">When playing through 07th expansion games, there are things that are expected when it comes
-  to visuals (which is that the visuals are best described as passable). <em>Higabana </em>doesn’t change a thing. It
-  has bad character art, the Nscripter engine is annoying/outdated, and the backgrounds look average at best; it’s a
-  2011 game, but it looks like it was made in the early 2000’s. The worst part is though, unlike the other
-  07<sup>th</sup> expansion games, there’s no update patch so you’ll have to deal with the BS art, but the art shouldn’t
-  get in the way of your experience and it never did for me. Also, I thought that the backgrounds, while outdated, added
-  charm at times, and the selective utilization of sight works to your advantage in the story, so it’s not all horrible.
+to visuals (which is that the visuals are best described as passable). <em>Higabana </em>doesn’t change a thing. It
+has bad character art, the Nscripter engine is annoying/outdated, and the backgrounds look average at best; it’s a
+2011 game, but it looks like it was made in the early 2000’s. The worst part is though, unlike the other
+07<sup>th</sup> expansion games, there’s no update patch so you’ll have to deal with the BS art, but the art shouldn’t
+get in the way of your experience and it never did for me. Also, I thought that the backgrounds, while outdated, added
+charm at times, and the selective utilization of sight works to your advantage in the story, so it’s not all horrible.
+
 </p>
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h109448"><a class="js_header-anchor" id=""></a>Visuals - 5/10</h4>
 <img alt src="./1248079700773159784.png"/>
@@ -82,35 +91,37 @@ oldArticle: true
 <img alt src="./1248079700846831464.png"/>
 
 <img alt src="./1248079700910859880.png"/><p class="sc-77igqf-0 bOfvBY">While <em>Higanbana</em> isn’t as mind-blowing like <em>Higurashi</em> and <em>Umineko</em>
-  are, it’s just as enjoyable. It’s written exceedingly well, the characters and the ideals that it deals with are
-  intriguing and engaging, the soundtrack is great, and everything is just pretty solid. I really enjoyed this one, with
-  the writing keeping me absorbed into the story and into the world. The occult and the Yokai elements were intresting
-  and intriguing, building a fantastic and interesting world, while not being too overbearing... which I find typically
-  happens with these types of stories and to me this change of pace was pretty enjoyable. <em>Higanbana </em>is pretty
-  subdued in general, which means it’s harder to screw up, but it also means that this story isn’t nearly as memorable.
-  Also, the story didn’t have that much impact on me, mainly because it didn’t feel all that original; the story was
-  quite similar to <em>Corpse Party</em> in both scenario and execution, which doesn’t hurt the enjoyment, but it did
-  lessen the impact it had. That being said,<em> Higanbana</em> is a very enjoyable work, and I think you’ll enjoy it as
-  much as I did.</p>
+are, it’s just as enjoyable. It’s written exceedingly well, the characters and the ideals that it deals with are
+intriguing and engaging, the soundtrack is great, and everything is just pretty solid. I really enjoyed this one, with
+the writing keeping me absorbed into the story and into the world. The occult and the Yokai elements were intresting
+and intriguing, building a fantastic and interesting world, while not being too overbearing... which I find typically
+happens with these types of stories and to me this change of pace was pretty enjoyable. <em>Higanbana </em>is pretty
+subdued in general, which means it’s harder to screw up, but it also means that this story isn’t nearly as memorable.
+Also, the story didn’t have that much impact on me, mainly because it didn’t feel all that original; the story was
+quite similar to <em>Corpse Party</em> in both scenario and execution, which doesn’t hurt the enjoyment, but it did
+lessen the impact it had. That being said,<em> Higanbana</em> is a very enjoyable work, and I think you’ll enjoy it as
+much as I did.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h109450"><a class="js_header-anchor" id=""></a>Enjoyment - 8/10</h4>
 <img alt src="./1248079700968554088.png"/>
 
 <img alt src="./1248079701055691368.jpg"/><p class="sc-77igqf-0 bOfvBY"><em>Higanbana</em> also has a manga, but contrary to what you would expect, the manga is
-  the original, with the VN as the adaptation. Weird, huh? That being said, avoid the manga. Although the manga has much
-  better art, they have the same plot, and is the original, it’s nowhere near as good. It’s not as good because it’s
-  very over the top, which really inhibits the enjoyment the series. That subtlety I mentioned earlier that helps the
-  story so much? Completely absent here. Instead, you get a manga that shows too much and tells too little, thus making
-  it feel more like a horror story but does it in a way that’s so overkill that you can’t really take it seriously. The
-  manga fails to execute: the pacing is too fast, it doesn’t show the emotions that makes<em> Higanbana</em> great, and
-  even the aspects that were better (visuals) aren’t utilized correctly. Also, it lacks the stellar music that helped
-  the VN so much, which is a major blow to the execution of the story in my opinion. Ryukishi07 is at his best working
-  on visual novels, and it shows here.</p>
+the original, with the VN as the adaptation. Weird, huh? That being said, avoid the manga. Although the manga has much
+better art, they have the same plot, and is the original, it’s nowhere near as good. It’s not as good because it’s
+very over the top, which really inhibits the enjoyment the series. That subtlety I mentioned earlier that helps the
+story so much? Completely absent here. Instead, you get a manga that shows too much and tells too little, thus making
+it feel more like a horror story but does it in a way that’s so overkill that you can’t really take it seriously. The
+manga fails to execute: the pacing is too fast, it doesn’t show the emotions that makes<em> Higanbana</em> great, and
+even the aspects that were better (visuals) aren’t utilized correctly. Also, it lacks the stellar music that helped
+the VN so much, which is a major blow to the execution of the story in my opinion. Ryukishi07 is at his best working
+on visual novels, and it shows here.</p>
 
 <img alt src="./1248079701330431336.png"/><p class="sc-77igqf-0 bOfvBY">Personally, I just don’t understand why Higanbana didn’t get popular like 07<sup>th</sup>
-  expansion games. It’s just as amazing as them, with great music, and engaging writing, so I’m at a loss. If you were a
-  fan of those (Or Corpse Party), you will love this, and if you aren’t, it’s a great Visual Novel that is deeply
-  engaging, but with poor visuals (07<sup>th</sup> expansion’s VN’s are called sound novels for a reason). I’d recommend
-  it to anybody interested, as it’s a pretty great ride.</p>
+expansion games. It’s just as amazing as them, with great music, and engaging writing, so I’m at a loss. If you were a
+fan of those (Or Corpse Party), you will love this, and if you aren’t, it’s a great Visual Novel that is deeply
+engaging, but with poor visuals (07<sup>th</sup> expansion’s VN’s are called sound novels for a reason). I’d recommend
+it to anybody interested, as it’s a pretty great ride.</p>
+
 <h3 class="sc-1bwb26k-1 fvCjqJ" id="h109451"><a class="js_header-anchor" id=""></a>Overall 8/10</h3>
 <img alt src="./bxa39svtjzye45iix66w.png"/>
 

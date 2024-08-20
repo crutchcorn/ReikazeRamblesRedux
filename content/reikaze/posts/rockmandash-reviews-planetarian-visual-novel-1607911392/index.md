@@ -1,12 +1,18 @@
 ---
 {
-title: "Rockmandash Reviews: Planetarian [Visual Novel]",
-tags: ["rockmandash reviews", "key marathon", "planetarian", "visual novel", "review"],
-authors: ['reikaze'],
-published: '2014-07-28T19:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Planetarian [Visual Novel]",
+  tags:
+    [
+      "rockmandash reviews",
+      "key marathon",
+      "planetarian",
+      "visual novel",
+      "review",
+    ],
+  published: "2014-07-28T19:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -49,21 +55,23 @@ oldArticle: true
   the story flows is just amazing.</p>
 
 <img alt src="./gg81hv2narla21pwl7ra.jpg"/><p class="sc-77igqf-0 bOfvBY">Last but not least, the story ends with a bang. when that ending hits, you will
-  feel it. It will make you think, cry, appreciate, and smile, the full gamut of emotions felt through this game and the
-  way they do it just blows my mind. It shows the strength of the Key formula; making you cry buckets in such a short
-  period of time, and what a great period of time it is.</p>
+feel it. It will make you think, cry, appreciate, and smile, the full gamut of emotions felt through this game and the
+way they do it just blows my mind. It shows the strength of the Key formula; making you cry buckets in such a short
+period of time, and what a great period of time it is.</p>
+
 <p class="sc-77igqf-0 bOfvBY"><em>Planetarian </em>is a great example of what a short VN should be like and it's
   one that will touch your heart. It's enjoyable throughout, and it's a story that uses what it has effectively to move
   players in ways they wouldn't expect. It's just well written, and I really enjoyed it.</p><h4 class="sc-1bwb26k-1 fvCjqJ" id="h111202"><a class="js_header-anchor" id=""></a><strong>Writing - 9/10</strong></h4>
 <img alt src="./823349130080591140.png"/>
 
 <img alt src="./823349130307764004.jpg"/><p class="sc-77igqf-0 bOfvBY"> Considering that it's 10 years old, and it's a short game,<em> Planetarian </em>is
-  absolutely beautiful. It's really simple visually, with Yumemi being the only character with art, and it doesn't
-  actually show much, but what they do show is great and the whole aesthetic of the game is really nice. I just love the
-  look of Yumeni, as they put a lot of attention to her, making her look amazing and the game just looks great overall.
-  The only real issues I have with the art is that I wish they had a bit more art to show everything, and I wish most of
-  the art was full screen as most of the art was in a small window, but those are small nitpicks for a pretty good
-  looking game. </p>
+absolutely beautiful. It's really simple visually, with Yumemi being the only character with art, and it doesn't
+actually show much, but what they do show is great and the whole aesthetic of the game is really nice. I just love the
+look of Yumeni, as they put a lot of attention to her, making her look amazing and the game just looks great overall.
+The only real issues I have with the art is that I wish they had a bit more art to show everything, and I wish most of
+the art was full screen as most of the art was in a small window, but those are small nitpicks for a pretty good
+looking game. </p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h111203"><a class="js_header-anchor" id=""></a>Visuals - 8.5/10</h4>
 <img alt src="./823349130474072868.png"/>
 <div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/VI6Hc2Y_2UQ" width="560"></iframe><span class="js_recommend" data-chomp-id="VI6Hc2Y_2UQ" data-recommend-id="youtube://VI6Hc2Y_2UQ" data-recommended="false" id="youtube-VI6Hc2Y_2UQ"></span></span></div><p class="sc-77igqf-0 bOfvBY">You know, I could just sum this section by saying it's made by Key and you'd probably get

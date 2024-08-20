@@ -1,12 +1,11 @@
 ---
 {
-title: "I May Have To Rewrite A Review...",
-tags: ["FuwaFM", "Rewrite", "Podcast", "Tayclassic"],
-authors: ['reikaze'],
-published: '2015-06-06T23:22:44-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "I May Have To Rewrite A Review...",
+  tags: ["FuwaFM", "Rewrite", "Podcast", "Tayclassic"],
+  published: "2015-06-06T23:22:44-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

@@ -1,12 +1,11 @@
 ---
 {
-title: "Muv Luv Video Review + Update",
-tags: ["Muv Luv", "Review", "Video"],
-authors: ['reikaze'],
-published: '2014-07-01T17:56:01-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Muv Luv Video Review + Update",
+  tags: ["Muv Luv", "Review", "Video"],
+  published: "2014-07-01T17:56:01-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

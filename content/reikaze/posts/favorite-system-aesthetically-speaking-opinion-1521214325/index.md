@@ -1,12 +1,43 @@
 ---
 {
-title: "Favorite System, Aesthetically Speaking [Opinion]",
-tags: ["Rockmandash12", "Tay", "Tayclassic", "Favorite", "System", "Aesthetically", "Speaking", "Console", "Handheld", "Top 5", "Opinion", "Nintendo", "Sega", "Sony", "NEC", "consoles", "Handhelds", "Dreamcast", "Genesis Model 1", "Super Famicom", "Jr", "Ps3 Slim", "Vita", "TV", "Slim", "Gameboy", "Gameboy Micro", "Gameboy Pocket", "Pocket", "PSP Go"],
-authors: ['reikaze'],
-published: '2014-02-12T01:40:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Favorite System, Aesthetically Speaking [Opinion]",
+  tags:
+    [
+      "Rockmandash12",
+      "Tay",
+      "Tayclassic",
+      "Favorite",
+      "System",
+      "Aesthetically",
+      "Speaking",
+      "Console",
+      "Handheld",
+      "Top 5",
+      "Opinion",
+      "Nintendo",
+      "Sega",
+      "Sony",
+      "NEC",
+      "consoles",
+      "Handhelds",
+      "Dreamcast",
+      "Genesis Model 1",
+      "Super Famicom",
+      "Jr",
+      "Ps3 Slim",
+      "Vita",
+      "TV",
+      "Slim",
+      "Gameboy",
+      "Gameboy Micro",
+      "Gameboy Pocket",
+      "Pocket",
+      "PSP Go",
+    ],
+  published: "2014-02-12T01:40:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -28,14 +59,16 @@ oldArticle: true
 <img alt src="./19ffjvmj255a7jpg.jpg"/>
 
 <img alt src="./19ffjzojfzseejpg.jpg"/><p class="sc-77igqf-0 bOfvBY">I'm a big fan of the design of the Model 1 Sega Genesis/ Mega Drive. The top is the NA
-  version, while the 2nd one is the Japanese one. I like both, as each have their own charm. The console still looks
-  sleek and cool, 25 years after the launch.</p>
+version, while the 2nd one is the Japanese one. I like both, as each have their own charm. The console still looks
+sleek and cool, 25 years after the launch.</p>
+
 <h2 class="sc-1bwb26k-1 fvCjqJ" id="h119109"><a class="js_header-anchor" id=""></a>3. Super Famicom - Japan &amp;
   European Versions, regular and Famicom Jr.</h2>
 <img alt src="./18gfw3yuv4wrlpng.png"/>
 
 <img alt src="./19ffjvuf7z2uqpng.png"/><p class="sc-77igqf-0 bOfvBY">RGBY&gt; Purple. The Super Famicom had amazing lines, an awesome skittles-like color scheme
-  on the controller and looked sleek and modern. 90's The Super Famicom Jr just makes it even better.</p>
+on the controller and looked sleek and modern. 90's The Super Famicom Jr just makes it even better.</p>
+
 <h2 class="sc-1bwb26k-1 fvCjqJ" id="h119110"><a class="js_header-anchor" id=""></a>4. Ps3 Slim (Not Super Slim...)
 </h2>
 <img alt src="./19ffjvufd54g8jpg.jpg"/>
@@ -59,13 +92,15 @@ oldArticle: true
 <img alt src="./19ffjw4aknlnzjpg.jpg"/>
 
 <img alt src="./19ffjw4abkyzyjpg.jpg"/><p class="sc-77igqf-0 bOfvBY">Slimmer. Cleaner. More Colorful. I might sound like a PR rep for the Vita now, but I love
-  the redesign of the Vita. Took an already modern system, cleaned it up a bit, and made it look beautiful. The New Vita
-  does so much right aesthetically speaking. Too bad about that screen though. When they hit the states, I want to see
-  for myself, and maybe i'll upgrade to one of these beautiful systems (I want it in blue :) ). </p>
+the redesign of the Vita. Took an already modern system, cleaned it up a bit, and made it look beautiful. The New Vita
+does so much right aesthetically speaking. Too bad about that screen though. When they hit the states, I want to see
+for myself, and maybe i'll upgrade to one of these beautiful systems (I want it in blue :) ). </p>
+
 <h2 class="sc-1bwb26k-1 fvCjqJ" id="h119117"><a class="js_header-anchor" id=""></a>5. Sega Nomad/TurboExpress</h2>
 <img alt src="./19ffjwa7i94cjjpg.jpg"/>
 
 <img alt src="./180u8noka6hnajpg.jpg"/><p class="sc-77igqf-0 bOfvBY">These are here beause they look like the respective console they shrunk, and I didn't want
-  to see it all Nintendo/Sony. They both have great lines, great aesthetics, great girth, and not so great battery
-  life.</p>
+to see it all Nintendo/Sony. They both have great lines, great aesthetics, great girth, and not so great battery
+life.</p>
+
 </div>

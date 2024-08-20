@@ -1,12 +1,20 @@
 ---
 {
-title: "Rockmandash Rambles: Subarashiki Hibi",
-tags: ["Rockmandash Rambles", "RockmanDash Reviews", "Fuwareviews", "subahibi", "Subarashiki Hibi", "Wonderful Everyday", "Visual novels"],
-authors: ['reikaze'],
-published: '2017-10-18T19:15:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Rambles: Subarashiki Hibi",
+  tags:
+    [
+      "Rockmandash Rambles",
+      "RockmanDash Reviews",
+      "Fuwareviews",
+      "subahibi",
+      "Subarashiki Hibi",
+      "Wonderful Everyday",
+      "Visual novels",
+    ],
+  published: "2017-10-18T19:15:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -103,12 +111,13 @@ oldArticle: true
   perspective any less painful.</p>
 
 <img alt src="./gokxrfr6lkpl0eizker2.jpg"/><p class="sc-77igqf-0 bOfvBY">In the end though, <em>Subahibi</em> isn’t about the story,<em> Subahibi</em>
-  isn’t about the characters. It’s about the raw ethereal experience that is the result of being shown events and ideas,
-  and to get something out of <em>Subahibi</em>, you really need to resonate with the work itself. There are parts that
-  I did enjoy and I do have to say that it is quite well written, but I felt like I didn’t really get anything out of
-  <em>Subahibi</em>, and I felt like none of the the themes and messages it was trying to tell quite resonated with me
-  in any way. All I can come out of this game with a bunch of experiences but I don’t really think I can say that I came
-  out with a unifying, singular message that influenced so many others.</p>
+isn’t about the characters. It’s about the raw ethereal experience that is the result of being shown events and ideas,
+and to get something out of <em>Subahibi</em>, you really need to resonate with the work itself. There are parts that
+I did enjoy and I do have to say that it is quite well written, but I felt like I didn’t really get anything out of
+<em>Subahibi</em>, and I felt like none of the the themes and messages it was trying to tell quite resonated with me
+in any way. All I can come out of this game with a bunch of experiences but I don’t really think I can say that I came
+out with a unifying, singular message that influenced so many others.</p>
+
 <p class="sc-77igqf-0 bOfvBY">That being said, Subahibi works for a lot of people, with its beautifully written,
   deeply introspective and personal experience serving to resonate with many. But if you’re looking for a work with a
   story driven experience, I highly suggest you look somewhere else. This is a work that is looking in, and you need to

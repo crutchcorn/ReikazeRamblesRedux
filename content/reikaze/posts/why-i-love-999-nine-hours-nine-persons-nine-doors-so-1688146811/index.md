@@ -1,12 +1,19 @@
 ---
 {
-title: "Rockmandash Reviews: 999: Nine Hours, Nine Persons, Nine Doors - My Favorite Game",
-tags: ["Rockmandash Reviews", "999", "9 hours 9 persons 9 doors", "Zero Escape", "Visual Novels", "FuwaReviews"],
-authors: ['reikaze'],
-published: '2015-06-23T10:19:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: 999: Nine Hours, Nine Persons, Nine Doors - My Favorite Game",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "999",
+      "9 hours 9 persons 9 doors",
+      "Zero Escape",
+      "Visual Novels",
+      "FuwaReviews",
+    ],
+  published: "2015-06-23T10:19:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -25,21 +32,21 @@ oldArticle: true
 <img alt src="./1313401717833481796.png"/>
 
 <img alt src="./1313401717895772996.jpg"/><p class="sc-77igqf-0 bOfvBY">When your life is on the line, everything is different. In <em>999</em>, this statement is
-  the basis of the game, and a core reason why it’s so great: we follow our protagonist Junpei as he is kidnapped and is
-  forced upon a sinking cruse-liner to play the Nonary Game, a game where his life is on the line. Along with 8 other
-  participants, he has to seek a way out by going through finding the door with the number 9 while overcoming the many
-  obstacles in their way. They only have 9 hours or else they’ll sink, they have to follow Zero (the person who set this
-  whole game up)‘s rules of the digital root or else they’ll explode, and they have to find all of the mysteries aboard
-  this ship or else they will never manage to survive this grueling experience. It’s a tense, extremely engaging, well
-  written story that does everything well, and is one that’ll hook any unassuming fan and blast them in a ride.</p>
+the basis of the game, and a core reason why it’s so great: we follow our protagonist Junpei as he is kidnapped and is
+forced upon a sinking cruse-liner to play the Nonary Game, a game where his life is on the line. Along with 8 other
+participants, he has to seek a way out by going through finding the door with the number 9 while overcoming the many
+obstacles in their way. They only have 9 hours or else they’ll sink, they have to follow Zero (the person who set this
+whole game up)‘s rules of the digital root or else they’ll explode, and they have to find all of the mysteries aboard
+this ship or else they will never manage to survive this grueling experience. It’s a tense, extremely engaging, well
+written story that does everything well, and is one that’ll hook any unassuming fan and blast them in a ride.</p>
 
 <img alt src="./1313401717946176836.jpg"/><p class="sc-77igqf-0 bOfvBY">The<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798",{"metric25":1}]]' href="https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798" rel="noopener noreferrer" target="_blank"> Zero Escape</a></span> series (with
-  999 as the first game, Virtue’s Last Reward as the Sequel) is a collection of everything done right in the Infinity
-  series then amped up to another level, polishing everything you can imagine: it excels with its premise to hook you
-  in, it has the extremely well executed character interactions and mystery you would come to expect from Uchikoshi, it
-  has nearly perfect pacing throughout the story, which is executed in a way that keeps you hooked and engaged
-  throughout. The SciFi elements of the story are executed in a way that intrigues and engages, it creates an amazing
-  atmosphere that only improves immersion and to top it all off, and it has plot twists that will blow your mind.</p>
+999 as the first game, Virtue’s Last Reward as the Sequel) is a collection of everything done right in the Infinity
+series then amped up to another level, polishing everything you can imagine: it excels with its premise to hook you
+in, it has the extremely well executed character interactions and mystery you would come to expect from Uchikoshi, it
+has nearly perfect pacing throughout the story, which is executed in a way that keeps you hooked and engaged
+throughout. The SciFi elements of the story are executed in a way that intrigues and engages, it creates an amazing
+atmosphere that only improves immersion and to top it all off, and it has plot twists that will blow your mind.</p>
 
 <aside class="sc-1rh3ayr-6 jfFNjl inset--story branded-item branded-item--kinja" data-commerce-source="inset"><a class="sc-1out364-0 hMndXN sc-1rh3ayr-2 lcMGRt inset--story__thumb js_link" data-ga='[["Permalink page click","Permalink page click - inset photo"]]' href="https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798" rel="noopener noreferrer" target="_blank">
 <img alt src="./qxs5nisjzh1ndbpikw1p.jpg"/>
@@ -75,44 +82,44 @@ oldArticle: true
 <img alt src="./1313401718069378628.png"/>
 
 <img alt src="./1313401718108892484.jpg"/><p class="sc-77igqf-0 bOfvBY">Unlike the typical visual novel which is solely reading text and making choices, 999 is one
-  of the few visual novels that actually have real gameplay, and this comes in the form of puzzle sections, the rooms
-  where you need to find the way out to progress the story. What makes the gameplay a stroke of genius however isn’t
-  either of the gameplay modes, but how the game manages to blend these two elements, alternating between both
-  seamlessly, never burning you out on either while maintaining the insane level of tension that makes this game great.
-  While many times gameplay can inhibit your experience with the story, this is almost never the case in 999, where the
-  gameplay is an essential aspect of the game, complimenting pretty much everything here.</p>
+of the few visual novels that actually have real gameplay, and this comes in the form of puzzle sections, the rooms
+where you need to find the way out to progress the story. What makes the gameplay a stroke of genius however isn’t
+either of the gameplay modes, but how the game manages to blend these two elements, alternating between both
+seamlessly, never burning you out on either while maintaining the insane level of tension that makes this game great.
+While many times gameplay can inhibit your experience with the story, this is almost never the case in 999, where the
+gameplay is an essential aspect of the game, complimenting pretty much everything here.</p>
 
 <img alt src="./1313401718184748868.png"/><p class="sc-77igqf-0 bOfvBY">Also, while the best aspect is how each are handled together, each element is solid by
-  itself. I appreciated how the difficulty curve of the puzzles is pretty solid and gameplay uses the DS’s hardware
-  pretty well to make the gameplay pretty good. As for the VN elements, while I wish there was a better skipping
-  mechanism (it’s wonky and slow), they did a great job integrating multiple routes into the game, with your experiences
-  you’ve played through effecting the stories in a way that it doesn’t feel like you’re wasting your time. I
-  particularly enjoyed the elements that popped out of the safe ending while you were playing the True end, and how they
-  kinda hint at the other endings as you play through the game (Hello, Axe ending!). Its structure and gameplay
-  compliment the core of the story, and it’s a big reason why I fell in love with this genre.</p>
+itself. I appreciated how the difficulty curve of the puzzles is pretty solid and gameplay uses the DS’s hardware
+pretty well to make the gameplay pretty good. As for the VN elements, while I wish there was a better skipping
+mechanism (it’s wonky and slow), they did a great job integrating multiple routes into the game, with your experiences
+you’ve played through effecting the stories in a way that it doesn’t feel like you’re wasting your time. I
+particularly enjoyed the elements that popped out of the safe ending while you were playing the True end, and how they
+kinda hint at the other endings as you play through the game (Hello, Axe ending!). Its structure and gameplay
+compliment the core of the story, and it’s a big reason why I fell in love with this genre.</p>
 
 <img alt src="./1313401718259563588.jpg"/><p class="sc-77igqf-0 bOfvBY">Also, I have to mention here that when Askys ported 999 to iOS under the name <em>999: The
-  Novel</em>, <strong>they took out the puzzles. </strong>While I haven’t personally played through that version, I’ve
-  heard nothing but lukewarm to negative responses on that decision, and how it really negatively effects the game. The
-  puzzles let you have a breather, and they manage to seamlessly transition between important story elements, some that
-  happen while playing, so seeing this awkard transition where they flash a black screen saying they solved the puzzles
-  is just pretty clunky, like watching a LP as you try to play the game. The original used the hardware in interesting
-  ways, engaging you throughout... the iOS version is a port that works, but could be quite a bit better. Stick to the
-  DS version if you can.</p>
+Novel</em>, <strong>they took out the puzzles. </strong>While I haven’t personally played through that version, I’ve
+heard nothing but lukewarm to negative responses on that decision, and how it really negatively effects the game. The
+puzzles let you have a breather, and they manage to seamlessly transition between important story elements, some that
+happen while playing, so seeing this awkard transition where they flash a black screen saying they solved the puzzles
+is just pretty clunky, like watching a LP as you try to play the game. The original used the hardware in interesting
+ways, engaging you throughout... the iOS version is a port that works, but could be quite a bit better. Stick to the
+DS version if you can.</p>
 
 <hr class="gcp5ez-0 hKlTiw"/>
 <img alt src="./1313401718353272132.png"/>
 
 <img alt src="./1313401718395515972.png"/><p class="sc-77igqf-0 bOfvBY">I guess they do the job? </p><p class="sc-77igqf-0 bOfvBY">The Visuals of<em> 999 </em>look
-  quite dated by having CG that feels like something that I’d find in an old PS1 game, but it’s that dated look that
-  adds charm to the game, and makes it interesting, reminiscent of an age when adventure games like this still roamed
-  the lands. Ignoring fidelity, it has a nice design aesthetic, but it doesn’t do that much to stand out, it tries to do
-  what it does well. It’s definitely not the best looking game, but it gets the job done and most players shouldn’t
-  really have any issues with it. A nice thing about the iOS port is that they up the graphics, rendering the game in a
-  higher resolution with redrawn sprites, (which you can tell by looking at the difference between some of the
-  screenshots in this review) but they don’t get everything and when they show the DS graphics, it looks woefully dated.
-  Also, I quite like the look of the characters due to the fact that they are pretty well done 2d sprites and they have
-  really unique designs that make them stand out.</p>
+quite dated by having CG that feels like something that I’d find in an old PS1 game, but it’s that dated look that
+adds charm to the game, and makes it interesting, reminiscent of an age when adventure games like this still roamed
+the lands. Ignoring fidelity, it has a nice design aesthetic, but it doesn’t do that much to stand out, it tries to do
+what it does well. It’s definitely not the best looking game, but it gets the job done and most players shouldn’t
+really have any issues with it. A nice thing about the iOS port is that they up the graphics, rendering the game in a
+higher resolution with redrawn sprites, (which you can tell by looking at the difference between some of the
+screenshots in this review) but they don’t get everything and when they show the DS graphics, it looks woefully dated.
+Also, I quite like the look of the characters due to the fact that they are pretty well done 2d sprites and they have
+really unique designs that make them stand out.</p>
 
 <hr class="gcp5ez-0 hKlTiw"/>
 <img alt src="./1313401718447231044.png"/>
@@ -142,23 +149,23 @@ oldArticle: true
 <img alt src="./1313401718520826436.png"/>
 
 <img alt src="./1313401718552271172.jpg"/><p class="sc-77igqf-0 bOfvBY"><em>999</em> is truly a game that is more than the sum of the parts, where the
-  experience playing through this game absolutely shines through. Even though I’ve been gushing so much about this game,
-  it really isn’t enough: the experience of the entire work as a whole is flat out impressive, hooking you in and moving
-  you through an amazing ride that will rarely ever be matched.</p>
+experience playing through this game absolutely shines through. Even though I’ve been gushing so much about this game,
+it really isn’t enough: the experience of the entire work as a whole is flat out impressive, hooking you in and moving
+you through an amazing ride that will rarely ever be matched.</p>
 
 <img alt src="./1313401718594458180.png"/><p class="sc-77igqf-0 bOfvBY">To emphasize how impressed and hooked I was, I’d like to tell you what my first experience
-  was like playing <em>999. </em>When I picked up the game, I had absolutely no clue what I was getting into. While I
-  heard it was pretty good, I didn’t really know anything about it, what it was about, or what I was about to
-  experience. What awaited me was a game that would <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://rockmandash12.kinja.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739",{"metric25":1}]]' href="https://rockmandash12.kinja.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739" rel="noopener noreferrer" target="_blank">entrench me into my new favorite genre</a></span>,
-  a game that I view as the pinnacle of storytelling in video games, and a game that would blow my mind so much that it
-  changed my perspective of games forever. To me, <em>999</em> was a game that was so gripping, so compelling, with an
-  amazing atmosphere, and just amazing writing: I started the game at 7 PM, and when I finished the first route, it was
-  3 in the morning. It hooked me like no other game has hooked me before, and no game has hooked me since, and it did
-  this with a compelling story, writing that makes you connect with the characters, writing that engages you with the
-  work, writing that is both interesting SciFi and just an interesting story in general, and the way that it uses horror
-  to control the mood and tension is one of the best out there. Everything it does fits in to make your experience with
-  the story excellent, everything is done extremely well and the time spent playing this has completely changed who I
-  am.</p>
+was like playing <em>999. </em>When I picked up the game, I had absolutely no clue what I was getting into. While I
+heard it was pretty good, I didn’t really know anything about it, what it was about, or what I was about to
+experience. What awaited me was a game that would <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://rockmandash12.kinja.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739",{"metric25":1}]]' href="https://rockmandash12.kinja.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739" rel="noopener noreferrer" target="_blank">entrench me into my new favorite genre</a></span>,
+a game that I view as the pinnacle of storytelling in video games, and a game that would blow my mind so much that it
+changed my perspective of games forever. To me, <em>999</em> was a game that was so gripping, so compelling, with an
+amazing atmosphere, and just amazing writing: I started the game at 7 PM, and when I finished the first route, it was
+3 in the morning. It hooked me like no other game has hooked me before, and no game has hooked me since, and it did
+this with a compelling story, writing that makes you connect with the characters, writing that engages you with the
+work, writing that is both interesting SciFi and just an interesting story in general, and the way that it uses horror
+to control the mood and tension is one of the best out there. Everything it does fits in to make your experience with
+the story excellent, everything is done extremely well and the time spent playing this has completely changed who I
+am.</p>
 
 <aside class="sc-1rh3ayr-6 jfFNjl inset--story branded-item branded-item--kinja" data-commerce-source="inset"><a class="sc-1out364-0 hMndXN sc-1rh3ayr-2 lcMGRt inset--story__thumb js_link" data-ga='[["Permalink page click","Permalink page click - inset photo"]]' href="https://rockmandash12.kinja.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739" rel="noopener noreferrer" target="_blank">
 <img alt src="./707380194186916753.jpg"/>

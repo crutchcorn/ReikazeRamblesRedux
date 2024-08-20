@@ -1,12 +1,19 @@
 ---
 {
-title: "If you liked Zero Escape , Definitely Check Out Root Double - Before Crime * After Days",
-tags: ["Root Double", "Rockmandash Rambles", "Visual Novel", "Root Double Before Crime After Days", "Sekai Project", "Kickstarter"],
-authors: ['reikaze'],
-published: '2016-01-06T18:04:19-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "If you liked Zero Escape , Definitely Check Out Root Double - Before Crime * After Days",
+  tags:
+    [
+      "Root Double",
+      "Rockmandash Rambles",
+      "Visual Novel",
+      "Root Double Before Crime After Days",
+      "Sekai Project",
+      "Kickstarter",
+    ],
+  published: "2016-01-06T18:04:19-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

@@ -1,12 +1,19 @@
 ---
 {
-title: "Invaders of the Rokujyouma!? : Rockmandash's Ani-TAY Review",
-tags: ["Rockmandash Reviews", "Ani-TAY", "Tay-Classic", "Review", "Invaders of the Rokujyouma!?", "Invaders"],
-authors: ['reikaze'],
-published: '2014-09-27T19:44:31-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Invaders of the Rokujyouma!? : Rockmandash's Ani-TAY Review",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "Ani-TAY",
+      "Tay-Classic",
+      "Review",
+      "Invaders of the Rokujyouma!?",
+      "Invaders",
+    ],
+  published: "2014-09-27T19:44:31-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -61,8 +68,9 @@ oldArticle: true
   rubbish.</p>
 
 <img alt src="./d1mvlfa8t4hprcusxagv.png"/><h4 class="sc-1bwb26k-1 fvCjqJ" id="h109207"><a class="js_header-anchor" id=""></a>Why are you throwing drama
-  into my comedy?</h4>
+into my comedy?</h4>
 <img alt src="./gmioxfyc7fquckyvha5h.jpg"/>
+
 <p class="sc-77igqf-0 bOfvBY"> I need to stop expecting every harem show to be another <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/dexs-review-date-a-live-2-1590778711",{"metric25":1}]]' href="https://anitay.kinja.com/dexs-review-date-a-live-2-1590778711" rel="noopener noreferrer" target="_blank">Date a Live 2</a></span>,
   or <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://tay.kotaku.com/nisekoi-is-a-harem-romantic-comedy-anime-that-centers-a-1582395958",{"metric25":1}]]' href="http://tay.kotaku.com/nisekoi-is-a-harem-romantic-comedy-anime-that-centers-a-1582395958">Nisekoi</a></span>
   when I watch a harem comedy. Those shows were comedy first, harem second, and when they do harem, they do it in a

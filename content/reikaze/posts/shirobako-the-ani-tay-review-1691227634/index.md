@@ -1,12 +1,20 @@
 ---
 {
-title: "Shirobako : The Ani-TAY Review",
-tags: ["Rockmandash Reviews", "AniTAY", "The Ani-TAY Review", "Tayclassic", "Shirobako", "Winter 2015", "Fall 2014"],
-authors: ['reikaze'],
-published: '2015-03-30T09:15:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Shirobako : The Ani-TAY Review",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "AniTAY",
+      "The Ani-TAY Review",
+      "Tayclassic",
+      "Shirobako",
+      "Winter 2015",
+      "Fall 2014",
+    ],
+  published: "2015-03-30T09:15:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -96,6 +104,7 @@ oldArticle: true
 
 <img alt src="./p1vzzubxrgk8utthlbs6.png"/><h4 class="sc-1bwb26k-1 fvCjqJ" id="h106993"><a class="js_header-anchor" id=""></a>Slow Start</h4>
 <img alt src="./mgfnxsvrl47s0l4tdyqi.jpg"/>
+
 <p class="sc-77igqf-0 bOfvBY">A lot of people were turned off by this show originally because it started off
   really slow. We were learning the ropes, and getting to know things, but it wasn't really that interesting early on
   for most people and it was just pretty slow, and not that engaging. I'm sure viewers can agree that it really picked

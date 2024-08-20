@@ -1,12 +1,11 @@
 ---
 {
-title: "Is Key Trolling Us Right Now or Is This Real? [UPDATE: It's Real]",
-tags: ["April Fools", "Key", "AniTAY", "Anime", "Planetarian", "Troll"],
-authors: ['reikaze'],
-published: '2016-04-02T02:52:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Is Key Trolling Us Right Now or Is This Real? [UPDATE: It's Real]",
+  tags: ["April Fools", "Key", "AniTAY", "Anime", "Planetarian", "Troll"],
+  published: "2016-04-02T02:52:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

@@ -1,12 +1,18 @@
 ---
 {
-title: "The Many Worlds Interpretation of RPGs",
-tags: ["Rockmandash12", "Steins;Gate", "RPG", "Many Worlds Interpretation", "Special"],
-authors: ['reikaze'],
-published: '2014-04-09T19:03:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "The Many Worlds Interpretation of RPGs",
+  tags:
+    [
+      "Rockmandash12",
+      "Steins;Gate",
+      "RPG",
+      "Many Worlds Interpretation",
+      "Special",
+    ],
+  published: "2014-04-09T19:03:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -36,23 +42,24 @@ oldArticle: true
   would be WRPGs like Mass effect. </p>
 
 <img alt src="./672595760904096545.jpg"/><p class="sc-77igqf-0 bOfvBY">The second type isn't as obvious, and I like to call it the Save point singularity point.
-  What is a save point? When you look at it in a gameplay perspective, you might just call me crazy. It's made for you
-  to save your place, in case of a boss battle, or so you can come back. Think of it in a story perspective though. A
-  Save Point, is an important point in an RPG. </p>
+What is a save point? When you look at it in a gameplay perspective, you might just call me crazy. It's made for you
+to save your place, in case of a boss battle, or so you can come back. Think of it in a story perspective though. A
+Save Point, is an important point in an RPG. </p>
 
 <img alt src="./672595761021978145.jpg"/><p class="sc-77igqf-0 bOfvBY">They usually put these right before a boss,or some other important decision. When you think
-  of it in that way, it's very similar to adventure games and Visual novel games, but instead of actually determining
-  with a choice, you determine it with actions. Every time you lose against a boss, that's one world, and the people of
-  that world has to live with that decision. Most games just flash a game over screen and brings you back to your
-  choice, but some do show the consequences of failing, like in Chrono Trigger, every time you get a game over, it shows
-  Lavos destroying the world. It gives a scope of your actions, and it shows what happens if you do fuck up. I think it
-  changes the whole perspective of the game, and it gives it that extra push from great to absolutely fantastic.</p>
+of it in that way, it's very similar to adventure games and Visual novel games, but instead of actually determining
+with a choice, you determine it with actions. Every time you lose against a boss, that's one world, and the people of
+that world has to live with that decision. Most games just flash a game over screen and brings you back to your
+choice, but some do show the consequences of failing, like in Chrono Trigger, every time you get a game over, it shows
+Lavos destroying the world. It gives a scope of your actions, and it shows what happens if you do fuck up. I think it
+changes the whole perspective of the game, and it gives it that extra push from great to absolutely fantastic.</p>
 
 <img alt src="./672595761261233185.jpg"/><p class="sc-77igqf-0 bOfvBY">Every time you come back to a save, think of it as another world in the many parallel
-  worlds going on. Think of your experience as the cherry picked worlds, as obviously your death doesn't affect the
-  story. Game Devs, if you are listening, give this a shot! Have it so it sticks to one world line, and where when you
-  die, you just shift to another character and the world has to live with your consequences of the hero dying. I'd be
-  great.</p>
+worlds going on. Think of your experience as the cherry picked worlds, as obviously your death doesn't affect the
+story. Game Devs, if you are listening, give this a shot! Have it so it sticks to one world line, and where when you
+die, you just shift to another character and the world has to live with your consequences of the hero dying. I'd be
+great.</p>
+
 <p class="sc-77igqf-0 bOfvBY">I hope you enjoyed this post, and next time, think about this when you are playing
   through some RPG, It could change your whole viewpoint of the game.</p>
 </div>

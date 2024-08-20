@@ -1,12 +1,11 @@
 ---
 {
-title: "The Updated AniTAY Review System",
-tags: ["AniTAY", "Assets", "The AniTAY Review", "Update", "Tayclassic"],
-authors: ['reikaze'],
-published: '2014-12-29T17:00:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "The Updated AniTAY Review System",
+  tags: ["AniTAY", "Assets", "The AniTAY Review", "Update", "Tayclassic"],
+  published: "2014-12-29T17:00:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -68,8 +67,8 @@ oldArticle: true
 <img alt src="./1461042037596227215.png"/>
 
 <img alt src="./1461042037643122831.png"/><p class="sc-77igqf-0 bOfvBY">It should be followed up with the appropriate conclusion section the review card here. I
-  wrote a separate article about the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/anitay-psa-review-card-etiquette-1692782948",{"metric25":1}]]' href="https://anitay.kinja.com/anitay-psa-review-card-etiquette-1692782948" rel="noopener noreferrer" target="_blank">Review Card Etiquette</a></span>,
-  so please check that out if you are unsure about anything about this. </p>
+wrote a separate article about the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://anitay.kinja.com/anitay-psa-review-card-etiquette-1692782948",{"metric25":1}]]' href="https://anitay.kinja.com/anitay-psa-review-card-etiquette-1692782948" rel="noopener noreferrer" target="_blank">Review Card Etiquette</a></span>,
+so please check that out if you are unsure about anything about this. </p>
 
 <aside class="sc-1rh3ayr-6 jfFNjl inset--story branded-item branded-item--kinja" data-commerce-source="inset"><a class="sc-1out364-0 hMndXN sc-1rh3ayr-2 lcMGRt inset--story__thumb js_link" data-ga='[["Permalink page click","Permalink page click - inset photo"]]' href="https://anitay.kinja.com/anitay-psa-review-card-etiquette-1692782948" rel="noopener noreferrer" target="_blank">
 <img alt src="./vhlonadfcrivcypjqirk.png"/>

@@ -1,12 +1,11 @@
 ---
 {
-title: "RockmanDash Rambles: Some Thoughts on the Character Leilia from Maquia: When the Promised Flower Blooms (Spoilers)",
-tags: ["Rockmandash Rambles", "Maquia", "Anime", "Anime Movie", "AniTAY"],
-authors: ['reikaze'],
-published: '2018-07-24T18:06:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash Rambles: Some Thoughts on the Character Leilia from Maquia: When the Promised Flower Blooms (Spoilers)",
+  tags: ["Rockmandash Rambles", "Maquia", "Anime", "Anime Movie", "AniTAY"],
+  published: "2018-07-24T18:06:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

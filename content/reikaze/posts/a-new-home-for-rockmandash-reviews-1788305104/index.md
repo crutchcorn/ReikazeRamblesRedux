@@ -1,12 +1,11 @@
 ---
 {
-title: "A New(?) Home For RockmanDash Reviews",
-tags: ["RockmanDash Reviews", "News", "Fuwanovel"],
-authors: ['reikaze'],
-published: '2016-10-27T19:43:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "A New(?) Home For RockmanDash Reviews",
+  tags: ["RockmanDash Reviews", "News", "Fuwanovel"],
+  published: "2016-10-27T19:43:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -53,6 +52,7 @@ oldArticle: true
   FuwaReviews team, and my main RockmanDash Reviews will be on Fuwanovel from now on.</p>
 
 <img alt src="./gic6e02anzr1jjh2vxza.png"/><p class="sc-77igqf-0 bOfvBY">Now, for what this means for RockmanDash Reviews:<br/></p>
+
 <ol class="sc-1lmbno3-1 sizyJ" data-style="Number" data-type="List">
 <li>First off, my reviews will get more exposure: while they were getting views from the reviews hub, they were still
     external reviews and thus weren’t promoted. Now because I’m a part of the team, my words mean more, people actually
@@ -77,9 +77,9 @@ oldArticle: true
 </ol>
 
 <img alt src="./kl68g65jo8ue23wpbxo2.jpg"/><p class="sc-77igqf-0 bOfvBY">All of this starts today: My review for <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://fuwanovel.net/reviews/2016/10/27/ace-academy/",{"metric25":1}]]' href="http://fuwanovel.net/reviews/2016/10/27/ace-academy/" rel="noopener noreferrer" target="_blank"><em>Ace Academy</em></a></span><em> </em>has gone up on Fuwanovel, and you can read it
-  there. At the beginning I will release the kinja versions late, becuase I want to promote the Fuwanovel version so
-  there will be links to it, but I don’t want to abandon Rockmandash Reviews and it’ll get back to normal eventually. I
-  apologize for the inconvenience, and I hope you continue on the ride.<br/></p>
+there. At the beginning I will release the kinja versions late, becuase I want to promote the Fuwanovel version so
+there will be links to it, but I don’t want to abandon Rockmandash Reviews and it’ll get back to normal eventually. I
+apologize for the inconvenience, and I hope you continue on the ride.<br/></p>
 
 <hr class="gcp5ez-0 hKlTiw"/><p class="sc-77igqf-0 bOfvBY"><em>You’re reading Rockmandash Reviews, a blog focused on
   everything revolving Visual Novels. If you want to read more of my writing, check out </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/",{"metric25":1}]]' href="http://anitay.kinja.com/" rel="noopener noreferrer" target="_blank"><em>AniTAY</em></a></span><em>

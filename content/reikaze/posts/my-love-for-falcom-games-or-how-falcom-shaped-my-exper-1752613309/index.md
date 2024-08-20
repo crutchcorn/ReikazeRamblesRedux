@@ -1,12 +1,25 @@
 ---
 {
-title: "My love for Falcom Games, or How Falcom Shaped My Experience with JRPGs",
-tags: ["Opinion", "Rockmandash Rambles", "Ys", "Kiseki", "Legend of Heroes", "Trails in the Sky", "Trails of Cold Steel", "Falcom", "Nihon Falcom", "RPGs", "JRPGs", "TAYclassic"],
-authors: ['reikaze'],
-published: '2016-01-15T09:00:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "My love for Falcom Games, or How Falcom Shaped My Experience with JRPGs",
+  tags:
+    [
+      "Opinion",
+      "Rockmandash Rambles",
+      "Ys",
+      "Kiseki",
+      "Legend of Heroes",
+      "Trails in the Sky",
+      "Trails of Cold Steel",
+      "Falcom",
+      "Nihon Falcom",
+      "RPGs",
+      "JRPGs",
+      "TAYclassic",
+    ],
+  published: "2016-01-15T09:00:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -77,16 +90,16 @@ oldArticle: true
   experiences instead of stories with bolted-on gameplay like so many others in the genre. </p>
 
 <img alt src="./pexwtc7d0qusik855djr.png"/><p class="sc-77igqf-0 bOfvBY"> The <em>Ys </em>series is an old series that has its origins in the 80's, but
-  for me, the series is so much more than that - it embodies the progress that RPGs have made. While many on the
-  internet clamors for the JRPGs of yore, the elements of the genre that these fans want are the ones I would rather not
-  deal with, and the ones <em>Ys </em>abandoned. <em>Ys </em>kept on advancing and never looked back (other than
-  remakes), and I appreciated that. It’s a prime example of everything right about JRPGs in the modern age, an action
-  RPG that allowed you to move your character in battle instead of select from menus, an RPG that cut the bullshit like
-  having to grind for hours, and one that was just plain fun at every moment. It had satisfying combat that was fun to
-  play, but you could totally just run away from enemies if you weren’t in the mood, and you wouldn’t really be punished
-  for it in regards to difficulty spikes. It was a series that avoided the traps that many others fell into, it was the
-  prime example to me that JRPGs still have something worthwhile to look at, and it was one of the few that I would sit
-  down and play, even after I stopped actively caring about the genre. </p>
+for me, the series is so much more than that - it embodies the progress that RPGs have made. While many on the
+internet clamors for the JRPGs of yore, the elements of the genre that these fans want are the ones I would rather not
+deal with, and the ones <em>Ys </em>abandoned. <em>Ys </em>kept on advancing and never looked back (other than
+remakes), and I appreciated that. It’s a prime example of everything right about JRPGs in the modern age, an action
+RPG that allowed you to move your character in battle instead of select from menus, an RPG that cut the bullshit like
+having to grind for hours, and one that was just plain fun at every moment. It had satisfying combat that was fun to
+play, but you could totally just run away from enemies if you weren’t in the mood, and you wouldn’t really be punished
+for it in regards to difficulty spikes. It was a series that avoided the traps that many others fell into, it was the
+prime example to me that JRPGs still have something worthwhile to look at, and it was one of the few that I would sit
+down and play, even after I stopped actively caring about the genre. </p>
 
 <hr class="gcp5ez-0 hKlTiw"/><h3 class="sc-1bwb26k-1 fvCjqJ" id="h100669"><a class="js_header-anchor" id=""></a><strong>A
   Revival of Interest by <em>Kiseki</em></strong></h3>

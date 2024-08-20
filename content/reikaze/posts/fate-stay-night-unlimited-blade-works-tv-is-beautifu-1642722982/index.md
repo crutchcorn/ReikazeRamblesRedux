@@ -1,12 +1,19 @@
 ---
 {
-title: "Fate/stay night: Unlimited Blade Works (TV) is beautiful yet flawed",
-tags: ["Rockmandash Reviews", "Fate/stay night", "Unlimited Blade Works", "AniTAY", "Review", "Tayclassic"],
-authors: ['reikaze'],
-published: '2015-06-27T16:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Fate/stay night: Unlimited Blade Works (TV) is beautiful yet flawed",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "Fate/stay night",
+      "Unlimited Blade Works",
+      "AniTAY",
+      "Review",
+      "Tayclassic",
+    ],
+  published: "2015-06-27T16:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -26,21 +33,22 @@ oldArticle: true
 <img alt src="./1316014531494934850.png"/>
 
 <img alt src="./1316014531551443010.jpg"/><p class="sc-77igqf-0 bOfvBY">Let’s start out with what you are all expecting me to say: <em>Fate/stay
-  night:Unlimited Blade Works</em> is one of the most visually stunning anime out there, and quite possibly the most
-  visually impressive TV anime with production values that you would expect from feature films. The art is so refined
-  that one can’t help but admire the amount of detail and work that they put into it, and the show definitely earns the
-  moniker <em>Unlimited Budget Works </em>that everyone has been calling it. To me, it has one of the best aesthetic
-  designs in anime, the amount of visual effects like bokeh that this show has is simply outstanding, the way they use
-  things like lighting and different angles to enhance the mood is great, the characters expressions are more vivid and
-  full of life than almost all anime, and the way they rendered everything… just beautiful. Ufotable really nailed it
-  with the Visuals in this anime, and I can’t help but love it. Honestly though, this shouldn’t be surprising as
-  Ufotable is the same company that did the<em> </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://tay.kinja.com/rockmandash-reviews-kara-no-kyoukai-the-garden-of-si-1524615358",{"metric25":1}]]' href="http://tay.kinja.com/rockmandash-reviews-kara-no-kyoukai-the-garden-of-si-1524615358" rel="noopener noreferrer" target="_blank"><em>Kara no Kyoukai</em></a></span><em> </em>adaptation,
-  which I claimed was <em>“The pinnacle of Japanese animation, the best that Japanese animation has to offer.”</em></p>
+night:Unlimited Blade Works</em> is one of the most visually stunning anime out there, and quite possibly the most
+visually impressive TV anime with production values that you would expect from feature films. The art is so refined
+that one can’t help but admire the amount of detail and work that they put into it, and the show definitely earns the
+moniker <em>Unlimited Budget Works </em>that everyone has been calling it. To me, it has one of the best aesthetic
+designs in anime, the amount of visual effects like bokeh that this show has is simply outstanding, the way they use
+things like lighting and different angles to enhance the mood is great, the characters expressions are more vivid and
+full of life than almost all anime, and the way they rendered everything… just beautiful. Ufotable really nailed it
+with the Visuals in this anime, and I can’t help but love it. Honestly though, this shouldn’t be surprising as
+Ufotable is the same company that did the<em> </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://tay.kinja.com/rockmandash-reviews-kara-no-kyoukai-the-garden-of-si-1524615358",{"metric25":1}]]' href="http://tay.kinja.com/rockmandash-reviews-kara-no-kyoukai-the-garden-of-si-1524615358" rel="noopener noreferrer" target="_blank"><em>Kara no Kyoukai</em></a></span><em> </em>adaptation,
+which I claimed was <em>“The pinnacle of Japanese animation, the best that Japanese animation has to offer.”</em></p>
 
 <video autoplay="" loop="" muted=""><source src="./1316014531627805250.mp4" type="video/mp4"/></video><p class="sc-77igqf-0 bOfvBY">Really, everything about the Visuals of Ufotable’s <em>Unlimited Blade Works</em> is just
-  amazing: The scenery in this show is done extremely well, the the way that they executed the magic in this show is
-  drool worthy while being extremely accurate and more impressive than the source at the same time, and the fights
-  scenes… oh, the fight scenes. In my <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1493594993",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1493594993" rel="noopener noreferrer" target="_blank">original <em>Fate/stay night</em> </a></span><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1613176306",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1613176306" rel="noopener noreferrer" target="_blank">Visual Novel review</a></span>, I stated</p>
+amazing: The scenery in this show is done extremely well, the the way that they executed the magic in this show is
+drool worthy while being extremely accurate and more impressive than the source at the same time, and the fights
+scenes… oh, the fight scenes. In my <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1493594993",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1493594993" rel="noopener noreferrer" target="_blank">original <em>Fate/stay night</em> </a></span><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1613176306",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1613176306" rel="noopener noreferrer" target="_blank">Visual Novel review</a></span>, I stated</p>
+
 <blockquote class="sc-8hxd3p-0 nvIqO" data-type="BlockQuote"><p class="sc-77igqf-0 bOfvBY"> “I wish I was either
   watching all of that in a fluid animated fight, or playing a game where I can influence the fight itself”</p>
 </blockquote>
@@ -59,9 +67,10 @@ oldArticle: true
 <img alt src="./1316014531725596994.png"/>
 
 <img alt src="./1316014531761667650.jpg"/><p class="sc-77igqf-0 bOfvBY">What’s not nearly as impressive however, is the way the how the story in general
-  was executed, with major flaws in the writing, the pacing, and the way that they presented this plot negatively
-  affecting the experience. One may chock this up to me being a VN fan, but if my loyalty to the original source was
-  wrong with Ufotable’s <em>Unlimited Blade Works</em>, this would be a much better show. </p>
+was executed, with major flaws in the writing, the pacing, and the way that they presented this plot negatively
+affecting the experience. One may chock this up to me being a VN fan, but if my loyalty to the original source was
+wrong with Ufotable’s <em>Unlimited Blade Works</em>, this would be a much better show. </p>
+
 <p class="sc-77igqf-0 bOfvBY">If you told me that a story was nothing more than words on paper, nothing more than
   the events happening, the anime would be near identical to the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1613176306",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1613176306" rel="noopener noreferrer" target="_blank">Visual Novel</a></span>: while there are minor changes to the story that pretty much only
   add to the story instead of hindering it, the overall events, characters, interactions, are exactly the same. The
@@ -93,13 +102,14 @@ oldArticle: true
   like with betrayal and the Shirou/Archer fight, but if you don’t care about them, then what can you do? </p>
 
 <video autoplay="" loop="" muted=""><source src="./1316014531851397698.mp4" type="video/mp4"/></video><p class="sc-77igqf-0 bOfvBY">There’s also the issue of the structure: The story is ment to be played in a specific
-  order, all at once and the piecemeal style adaptation screws with this. There’s a lot of character development is done
-  in the Fate route, and the Fate route gets your mind in the perspective that you need to be in when playing UBW<em>
-    (Order: Fate -&gt; UBW -&gt; HF)</em>. The Fate route is about Shirou’s ideal, a relatively simple shounen story
-  that gets you to care about Shirou and Saber It develops two of the main characters to the point that you actually
-  care about them, helps the story along. That being said, it eerily resembles what archer went through, getting you to
-  care about archer once he gives his major exposition. There are issues that many (ie,<em> </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-reviews-fate-zero-ani-tay-1538163593",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-reviews-fate-zero-ani-tay-1538163593" rel="noopener noreferrer" target="_blank"><em>Fate/Zero</em></a></span> fans) may have with the story that are covered in HF, and
-  the story is just a better experience as a whole. </p>
+order, all at once and the piecemeal style adaptation screws with this. There’s a lot of character development is done
+in the Fate route, and the Fate route gets your mind in the perspective that you need to be in when playing UBW<em>
+(Order: Fate -&gt; UBW -&gt; HF)</em>. The Fate route is about Shirou’s ideal, a relatively simple shounen story
+that gets you to care about Shirou and Saber It develops two of the main characters to the point that you actually
+care about them, helps the story along. That being said, it eerily resembles what archer went through, getting you to
+care about archer once he gives his major exposition. There are issues that many (ie,<em> </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-reviews-fate-zero-ani-tay-1538163593",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-reviews-fate-zero-ani-tay-1538163593" rel="noopener noreferrer" target="_blank"><em>Fate/Zero</em></a></span> fans) may have with the story that are covered in HF, and
+the story is just a better experience as a whole. </p>
+
 <p class="sc-77igqf-0 bOfvBY">Also, due to the nature of Visual Novels, there are a few major things that are
   impacted in a huge way that have made this show a much less enjoyable experience, things that even non-VN fans
   complain about: a presentation that lead to poor pacing and horrible stopping points. Visual Novels are not serialized
@@ -146,36 +156,36 @@ oldArticle: true
 <img alt src="./1316014531964559426.png"/>
 
 <img alt src="./1316014532001913410.jpg"/><p class="sc-77igqf-0 bOfvBY">I don’t think I’ve been as exited for an anime as much as I have been for <em>Unlimited
-  Blade Works</em>. On paper, and from prior experiences (they did a great job with <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-reviews-kara-no-kyoukai-the-garden-of-si-1524615358?rev=1435277772503",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-reviews-kara-no-kyoukai-the-garden-of-si-1524615358?rev=1435277772503" rel="noopener noreferrer" target="_blank"><em>Kara no Kyoukai</em></a></span>, <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-reviews-fate-zero-ani-tay-1538163593?rev=1435277186878",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-reviews-fate-zero-ani-tay-1538163593?rev=1435277186878" rel="noopener noreferrer" target="_blank"><em>Fate/Zero</em></a></span>, and the FSN OPs for the vita), I expected an
-  amazing, engaging and accurate portrayal of one of my favorite stories, and my favorite route in <em>Fate/stay
-    night</em>. What we got was good overall, but just had a ton of issues that really kept me from falling in love with
-  it, tons of things that kept it from being a great experience in my eyes.</p>
+Blade Works</em>. On paper, and from prior experiences (they did a great job with <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-reviews-kara-no-kyoukai-the-garden-of-si-1524615358?rev=1435277772503",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-reviews-kara-no-kyoukai-the-garden-of-si-1524615358?rev=1435277772503" rel="noopener noreferrer" target="_blank"><em>Kara no Kyoukai</em></a></span>, <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-reviews-fate-zero-ani-tay-1538163593?rev=1435277186878",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-reviews-fate-zero-ani-tay-1538163593?rev=1435277186878" rel="noopener noreferrer" target="_blank"><em>Fate/Zero</em></a></span>, and the FSN OPs for the vita), I expected an
+amazing, engaging and accurate portrayal of one of my favorite stories, and my favorite route in <em>Fate/stay
+night</em>. What we got was good overall, but just had a ton of issues that really kept me from falling in love with
+it, tons of things that kept it from being a great experience in my eyes.</p>
 
 <img alt src="./1316014532045612610.jpg"/><p class="sc-77igqf-0 bOfvBY">It’s the difference in experience and the general dullness in comparison to the
-  VN that makes me think Ufotable did a poor job. And to give Deen credit, even though 2012 was pretty sketch in
-  animation and actually telling the story, they replicated the feel of the route much better than 2014, and I’d
-  personally go back to 2012 before 2014 because of it. This is not to say you’ve done something wrong by starting off
-  from a place that wasn’t the VN, but looking objectively, UBW simply isn’t as good as the source, even though it looks
-  so much better. To those who haven’t seen the source and are enjoying it, that’s because UBW is doing a decent job at
-  adapting the story, and supplementing it storywise but even those should be able to see the issues with UBW (TV),
-  mainly the pathetic soundtrack that fails to enhance the mood of the scenes. It’s the experience that matters, and
-  it’s the experience that makes all the difference. If a show captures the message, feel and experience of a work, it’s
-  a great adaptation, and if not, it’s not great, and UBW (TV) isn’t a great adaptation.</p>
+VN that makes me think Ufotable did a poor job. And to give Deen credit, even though 2012 was pretty sketch in
+animation and actually telling the story, they replicated the feel of the route much better than 2014, and I’d
+personally go back to 2012 before 2014 because of it. This is not to say you’ve done something wrong by starting off
+from a place that wasn’t the VN, but looking objectively, UBW simply isn’t as good as the source, even though it looks
+so much better. To those who haven’t seen the source and are enjoying it, that’s because UBW is doing a decent job at
+adapting the story, and supplementing it storywise but even those should be able to see the issues with UBW (TV),
+mainly the pathetic soundtrack that fails to enhance the mood of the scenes. It’s the experience that matters, and
+it’s the experience that makes all the difference. If a show captures the message, feel and experience of a work, it’s
+a great adaptation, and if not, it’s not great, and UBW (TV) isn’t a great adaptation.</p>
 
 <img alt src="./1316014532089761602.jpg"/><p class="sc-77igqf-0 bOfvBY">That being said, pretty much all of my complaints were swept away episode 20 onwards, where
-  they finally nailed pretty much everything with great music, great pacing, great action, etc. I was crying in joy when
-  watching episode 20, it was just so good..... I just wish the whole show could have been like this....</p>
+they finally nailed pretty much everything with great music, great pacing, great action, etc. I was crying in joy when
+watching episode 20, it was just so good..... I just wish the whole show could have been like this....</p>
 
 <hr class="gcp5ez-0 hKlTiw"/>
 <img alt src="./1316014532118513986.png"/>
 
 <img alt src="./1316014532189039170.jpg"/><p class="sc-77igqf-0 bOfvBY">Faker. Imitation. Close enough. These are words used to describe important
-  elements of the story in this anime, but I can’t help but use these to describe the series itself. In ufotable’s
-  efforts to make this this anime the best they possibly can, they striped this story of everything that made what it
-  was, making this show feel like a poorly done imitation of instead of the real deal. For some, they won’t notice the
-  difference, and others may say that it’s close enough... but words cannot describe how disappointed I am with <em>Unlimited
-    Blade Works</em>, this adaptation that poses for the real thing. What we got was good, but I was hoping for
-  something amazing, so I’ll have to keep praying.... <em>Unlimited Blade Works</em>.</p>
+elements of the story in this anime, but I can’t help but use these to describe the series itself. In ufotable’s
+efforts to make this this anime the best they possibly can, they striped this story of everything that made what it
+was, making this show feel like a poorly done imitation of instead of the real deal. For some, they won’t notice the
+difference, and others may say that it’s close enough... but words cannot describe how disappointed I am with <em>Unlimited
+Blade Works</em>, this adaptation that poses for the real thing. What we got was good, but I was hoping for
+something amazing, so I’ll have to keep praying.... <em>Unlimited Blade Works</em>.</p>
 
 <img alt src="./1316014532281784386.png"/>
 <img alt src="./1316014532348411458.png"/>

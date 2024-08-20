@@ -1,12 +1,22 @@
 ---
 {
-title: "Rockmandash Reviews: Fate/Stay Night Unlimited Blade Works (2010) [Anime Movie]",
-tags: ["rockmandash reviews", "tayclassic", "anime movie", "anime reviews", "fatestay night", "fate stay night unlimited blade works", "studio deen", "ani-tay", "Type-Moon Marathon"],
-authors: ['reikaze'],
-published: '2014-01-19T15:50:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Fate/Stay Night Unlimited Blade Works (2010) [Anime Movie]",
+  tags:
+    [
+      "rockmandash reviews",
+      "tayclassic",
+      "anime movie",
+      "anime reviews",
+      "fatestay night",
+      "fate stay night unlimited blade works",
+      "studio deen",
+      "ani-tay",
+      "Type-Moon Marathon",
+    ],
+  published: "2014-01-19T15:50:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -26,22 +36,24 @@ oldArticle: true
 <img alt src="1291273890164483248.png"/>
 
 <img alt src="./1291273890206960048.png"/><p class="sc-77igqf-0 bOfvBY">Not much to say here, it’s pretty much the <em>Unlimited Blade Works</em> route,
-  just rushed as all hell. It’s a pretty straightforward adaptation, but the pacing really just sucks, rushing through
-  everything at an incomprehensible blur. The movie doesn’t explain <strong>ANYTHING,</strong> and if you have not
-  played the visual novel you will be totally lost as you try to piece together the plot of the movie. They show mostly
-  action scenes, which is kind of just fan service for people who have already seen it, so very helpful. It’s like
-  somebody went crazy with editing and cut half of the movie away... They did a good job trying to cram a 10-20 Hour
-  Route into a 1 Hour 40 minute movie, but that’s exactly the problem with this movie… it’s a rushed version of the
-  Unlimited Blade Works route.</p>
+just rushed as all hell. It’s a pretty straightforward adaptation, but the pacing really just sucks, rushing through
+everything at an incomprehensible blur. The movie doesn’t explain <strong>ANYTHING,</strong> and if you have not
+played the visual novel you will be totally lost as you try to piece together the plot of the movie. They show mostly
+action scenes, which is kind of just fan service for people who have already seen it, so very helpful. It’s like
+somebody went crazy with editing and cut half of the movie away... They did a good job trying to cram a 10-20 Hour
+Route into a 1 Hour 40 minute movie, but that’s exactly the problem with this movie… it’s a rushed version of the
+Unlimited Blade Works route.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h115594"><a class="js_header-anchor" id=""></a>Writing - 6/10</h4>
 <img alt src="./1291273890265272752.png"/>
 
 <img alt src="./1291273890302297776.png"/><p class="sc-77igqf-0 bOfvBY">As I was watching through the <em>Unlimited Blade Works</em> movie, I was pretty
-  afraid that Studio Deen would screw this one up, as they have never been great in this category. While it’s not the
-  best out there, it is a movie and it looks quite a bit better than the 2006 anime. It’s about the typical quality
-  you’d expect from the time, but with a movie budget, so it probably should have been better. Also, while I appreciate
-  the gradients and effects from the show, it may not be everyone’s cup of tea. I think it could have been done better
-  if a different studio had it, but what we got wasn’t horrible. </p>
+afraid that Studio Deen would screw this one up, as they have never been great in this category. While it’s not the
+best out there, it is a movie and it looks quite a bit better than the 2006 anime. It’s about the typical quality
+you’d expect from the time, but with a movie budget, so it probably should have been better. Also, while I appreciate
+the gradients and effects from the show, it may not be everyone’s cup of tea. I think it could have been done better
+if a different studio had it, but what we got wasn’t horrible. </p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h115595"><a class="js_header-anchor" id=""></a>Visuals - 7.5/10</h4>
 <img alt src="./1291273890384873904.png"/>
 <div class="ooo3c9-0 PpIMM has-video media-large embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/PLF233C1B7B6E36B26" width="560"></iframe><span class="js_recommend" data-chomp-id="PLF233C1B7B6E36B26" data-recommend-id="youtube://PLF233C1B7B6E36B26" data-recommended="false" id="youtube-PLF233C1B7B6E36B26"></span></span></div><p class="sc-77igqf-0 bOfvBY">The soundtrack in the <em>Unlimited Blade Works </em>movie was pretty solid overall with no
@@ -56,10 +68,11 @@ oldArticle: true
 <img alt src="1291273890492550064.png"/>
 
 <img alt src="./1291273890553773744.jpg"/><p class="sc-77igqf-0 bOfvBY">Unlimited Blade Works was my favorite route, and this is a relatively
-  entertaining adaptation if you know what actually happens, so I thoroughly enjoyed the movie. If you have seen UBW,
-  this is a great, condensed way to see UBW, and be able to see the epic fight scenes animated, but other than that, you
-  probably won’t get much out of it. It’s just a bit of fanservice, and while I’d hope for better, I’ll take that as
-  is.</p>
+entertaining adaptation if you know what actually happens, so I thoroughly enjoyed the movie. If you have seen UBW,
+this is a great, condensed way to see UBW, and be able to see the epic fight scenes animated, but other than that, you
+probably won’t get much out of it. It’s just a bit of fanservice, and while I’d hope for better, I’ll take that as
+is.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h115597"><a class="js_header-anchor" id=""></a>Enjoyment - 8/10</h4>
 <img alt src="./1291273890618155952.png"/>
 <p class="sc-77igqf-0 bOfvBY">To put it simply, This movie is an inferior way of experiencing the Unlimited Blade

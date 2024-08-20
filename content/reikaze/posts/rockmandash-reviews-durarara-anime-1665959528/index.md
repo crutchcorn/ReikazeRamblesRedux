@@ -1,12 +1,11 @@
 ---
 {
-title: "Rockmandash Reviews: Durarara!! [Anime]",
-tags: ["Rockmandash Reviews", "AniTAY", "Durarara", "Review", "TAYCLASSIC"],
-authors: ['reikaze'],
-published: '2014-12-28T14:00:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Durarara!! [Anime]",
+  tags: ["Rockmandash Reviews", "AniTAY", "Durarara", "Review", "TAYCLASSIC"],
+  published: "2014-12-28T14:00:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -106,15 +105,16 @@ oldArticle: true
 <img alt src="./1248077601177625189.png"/>
 
 <img alt src="./1248077601419371109.jpg"/><p class="sc-77igqf-0 bOfvBY">While<em> Durarara!!</em> doesn’t aim to be the best looking anime, that doesn’t
-  necessarily mean it looks bad... in fact, if you ask me, it looks pretty decent. <em>Durarara!!</em> has a great
-  stylized design that really adds to the show: it’s modern, it makes things pop, it’s very clean in design, and it
-  looks solid, but the animation itself could use a bit of polish. (But honestly, if this bothers you guys, you haven’t
-  seen anything ._.) It does the job: it’s clean, looks solid in general and tries it’s best to not get in the way. Due
-  to the execution, the visuals usually serve to support other aspects of the story moreso than looking nice (It can
-  look pretty great as it sometimes picks up during action scene). It’s filled with minor niceties that add flair to the
-  show and make it stand out like the fact that non important people aren’t colored (lol), the colored highlights used
-  in the show to make things stand out , the atmospheric tones, and because of these, it can stand out from the rest of
-  the show. Overall though, it generally keeps a consistent level of quality and that’s what matters.</p>
+necessarily mean it looks bad... in fact, if you ask me, it looks pretty decent. <em>Durarara!!</em> has a great
+stylized design that really adds to the show: it’s modern, it makes things pop, it’s very clean in design, and it
+looks solid, but the animation itself could use a bit of polish. (But honestly, if this bothers you guys, you haven’t
+seen anything .\_.) It does the job: it’s clean, looks solid in general and tries it’s best to not get in the way. Due
+to the execution, the visuals usually serve to support other aspects of the story moreso than looking nice (It can
+look pretty great as it sometimes picks up during action scene). It’s filled with minor niceties that add flair to the
+show and make it stand out like the fact that non important people aren’t colored (lol), the colored highlights used
+in the show to make things stand out , the atmospheric tones, and because of these, it can stand out from the rest of
+the show. Overall though, it generally keeps a consistent level of quality and that’s what matters.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h116385"><a class="js_header-anchor" id=""></a>Visuals - 8/10</h4>
 <img alt src="./1248077601479605861.png"/>
 <div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/uZ5N_c6qPJg" width="560"></iframe><span class="js_recommend" data-chomp-id="uZ5N_c6qPJg" data-recommend-id="youtube://uZ5N_c6qPJg" data-recommended="false" id="youtube-uZ5N_c6qPJg"></span></span></div><p class="sc-77igqf-0 bOfvBY">If there’s one aspect of this show that is universally praised, it’s the soundtrack. It’s a
@@ -131,13 +131,14 @@ oldArticle: true
 <img alt src="./1248077601576960101.png"/>
 
 <img alt src="./1248077601665871973.jpg"/><p class="sc-77igqf-0 bOfvBY">Take everything I said about it, and it’s pretty easy to see what this section is going to
-  be like. I love <em>Durarara!! </em>to no end, it’s one of my favorites, it’s one of the few shows that I rewatch
-  every year, and it’s one of the few shows that I can enjoy every time. <em>Durarara!! </em>is a show that’s geared for
-  your enjoyment, and it satisfies this exceedingly well. It’s an experience that’s loads of fun, a show that is a blast
-  every time I see it. All of the aspects build up to create an experience that feels alive, fells magical and it’s
-  something I appreciate. I get completely absorbed when watching it and i’m consistently entertained throughout. The
-  little things that this show does do so much to help my experience with this and I can’t help but love it. It’s a show
-  with a personality and this personality is something I fell in love with.</p>
+be like. I love <em>Durarara!! </em>to no end, it’s one of my favorites, it’s one of the few shows that I rewatch
+every year, and it’s one of the few shows that I can enjoy every time. <em>Durarara!! </em>is a show that’s geared for
+your enjoyment, and it satisfies this exceedingly well. It’s an experience that’s loads of fun, a show that is a blast
+every time I see it. All of the aspects build up to create an experience that feels alive, fells magical and it’s
+something I appreciate. I get completely absorbed when watching it and i’m consistently entertained throughout. The
+little things that this show does do so much to help my experience with this and I can’t help but love it. It’s a show
+with a personality and this personality is something I fell in love with.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h116387"><a class="js_header-anchor" id=""></a>Enjoyment - 10/10</h4>
 <img alt src="./1248077601748298341.png"/>
 <p class="sc-77igqf-0 bOfvBY"><em>Durarara!! </em> is a show that I love to no end. It may have it’s flaws, but

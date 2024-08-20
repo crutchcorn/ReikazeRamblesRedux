@@ -1,12 +1,22 @@
 ---
 {
-title: "Rockmandash Rambles: Fate/stay night Hype!",
-tags: ["Rockmandash Rambles", "Fate/stay Night Hype", "Fate/stay night Unlimited Blade Works", "Ani-TAY", "Type-Moon Marathon", "Fate", "HYPE", "Unlimited Blade Works", "Unlimited Hype Works"],
-authors: ['reikaze'],
-published: '2014-09-28T21:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Rambles: Fate/stay night Hype!",
+  tags:
+    [
+      "Rockmandash Rambles",
+      "Fate/stay Night Hype",
+      "Fate/stay night Unlimited Blade Works",
+      "Ani-TAY",
+      "Type-Moon Marathon",
+      "Fate",
+      "HYPE",
+      "Unlimited Blade Works",
+      "Unlimited Hype Works",
+    ],
+  published: "2014-09-28T21:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

@@ -1,12 +1,11 @@
 ---
 {
-title: "Polygon Presents: ZTD Hype!",
-tags: ["Zero Escape"],
-authors: ['reikaze'],
-published: '2016-05-19T01:03:57-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Polygon Presents: ZTD Hype!",
+  tags: ["Zero Escape"],
+  published: "2016-05-19T01:03:57-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

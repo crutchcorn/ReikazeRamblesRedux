@@ -1,12 +1,21 @@
 ---
 {
-title: "Rockmandash Reviews: Nagi no Asukara [Anime]",
-tags: ["rockmandash reviews", "tay-classic", "winter 2014", "anime", "nagi no asukara", "fall 2013", "ani-tay", "reivew"],
-authors: ['reikaze'],
-published: '2014-04-26T04:02:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Nagi no Asukara [Anime]",
+  tags:
+    [
+      "rockmandash reviews",
+      "tay-classic",
+      "winter 2014",
+      "anime",
+      "nagi no asukara",
+      "fall 2013",
+      "ani-tay",
+      "reivew",
+    ],
+  published: "2014-04-26T04:02:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -40,25 +49,26 @@ oldArticle: true
   essential but I feel like they could have done it in a better way.</p>
 
 <img alt src="./1323445382941123685.jpg"/><p class="sc-77igqf-0 bOfvBY">If you’ve been reading this and this seems familiar, that’s because the
-  screenwriter for this anime is Mari Okada,who also did another show very similar to this called <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://kotaku.com/an-anime-will-make-even-the-most-jaded-heart-weep-1225664099",{"metric25":1}]]' href="http://kotaku.com/an-anime-will-make-even-the-most-jaded-heart-weep-1225664099">Anohana: The Flower We Saw That Day</a></span>.
-  Yes. <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://images5.fanpop.com/image/photos/31600000/crying-menma-anohana-31681846-1000-683.jpg",{"metric25":1}]]' href="http://images5.fanpop.com/image/photos/31600000/crying-menma-anohana-31681846-1000-683.jpg" rel="noopener noreferrer" target="_blank">THAT ANOHANA</a></span>. If you liked Anohana, you will like
-  this as the style of writing is very similar, and It’s done just as well. I love how they spend just the right amount
-  of time with character development, just like in Anohana, and if I had to compare the writing to each other, I’d say
-  they are just as good, in the same ways. Surprisingly, the secondary characters were strong in character, development,
-  and made the world feel real and added a depth to the show that wouldn’t be there if it wasn’t the case. Also, I have
-  to mention the ending. I’m a sucker for good endings, and after seeing tragedy over and over again, I was really glad
-  to see a good ending. <em>Nagi</em> is an amazingly written coming of age story, and if you are into this kind of
-  stuff, you don’t want to miss this one.</p>
+screenwriter for this anime is Mari Okada,who also did another show very similar to this called <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://kotaku.com/an-anime-will-make-even-the-most-jaded-heart-weep-1225664099",{"metric25":1}]]' href="http://kotaku.com/an-anime-will-make-even-the-most-jaded-heart-weep-1225664099">Anohana: The Flower We Saw That Day</a></span>.
+Yes. <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://images5.fanpop.com/image/photos/31600000/crying-menma-anohana-31681846-1000-683.jpg",{"metric25":1}]]' href="http://images5.fanpop.com/image/photos/31600000/crying-menma-anohana-31681846-1000-683.jpg" rel="noopener noreferrer" target="_blank">THAT ANOHANA</a></span>. If you liked Anohana, you will like
+this as the style of writing is very similar, and It’s done just as well. I love how they spend just the right amount
+of time with character development, just like in Anohana, and if I had to compare the writing to each other, I’d say
+they are just as good, in the same ways. Surprisingly, the secondary characters were strong in character, development,
+and made the world feel real and added a depth to the show that wouldn’t be there if it wasn’t the case. Also, I have
+to mention the ending. I’m a sucker for good endings, and after seeing tragedy over and over again, I was really glad
+to see a good ending. <em>Nagi</em> is an amazingly written coming of age story, and if you are into this kind of
+stuff, you don’t want to miss this one.</p>
 
 <img alt src="./1323445383195582053.png"/><h4 class="sc-1bwb26k-1 fvCjqJ" id="h113896"><a class="js_header-anchor" id=""></a>Writing - 9/10</h4>
 <img alt src="./1323445383257711717.png"/>
 
 <img alt src="./1323445383387749477.jpg"/><p class="sc-77igqf-0 bOfvBY">Man, this show looks great. PA Works really knows what they are doing with the
-  visuals, and this continues the tradition. In my opinion, this is up there with <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://wallpoper.com/images/00/41/00/38/makoto-shinkai_00410038.png",{"metric25":1}]]' href="http://wallpoper.com/images/00/41/00/38/makoto-shinkai_00410038.png" rel="noopener noreferrer" target="_blank">Shinkai films</a></span> in levels of <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://tvtropes.org/pmwiki/pmwiki.php/Main/SceneryPorn",{"metric25":1}]]' href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SceneryPorn" rel="noopener noreferrer" target="_blank">Scenery Porn</a></span>, which is extremely impressive... and even more so when you
-  consider that this is an 26 episode anime. I cannot count the amount of times that I stopped the show just to stare at
-  the visuals, it’s that amazing. Its very rare that you see a show that’s so excellent and amazing overall with the
-  animation art, setting the mood, and characters being all absolutely outstanding. There’s no way I could give this any
-  less than a 10 in visuals.</p>
+visuals, and this continues the tradition. In my opinion, this is up there with <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://wallpoper.com/images/00/41/00/38/makoto-shinkai_00410038.png",{"metric25":1}]]' href="http://wallpoper.com/images/00/41/00/38/makoto-shinkai_00410038.png" rel="noopener noreferrer" target="_blank">Shinkai films</a></span> in levels of <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://tvtropes.org/pmwiki/pmwiki.php/Main/SceneryPorn",{"metric25":1}]]' href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SceneryPorn" rel="noopener noreferrer" target="_blank">Scenery Porn</a></span>, which is extremely impressive... and even more so when you
+consider that this is an 26 episode anime. I cannot count the amount of times that I stopped the show just to stare at
+the visuals, it’s that amazing. Its very rare that you see a show that’s so excellent and amazing overall with the
+animation art, setting the mood, and characters being all absolutely outstanding. There’s no way I could give this any
+less than a 10 in visuals.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h113897"><a class="js_header-anchor" id=""></a>Visuals - 10/10</h4>
 <img alt src="./1323445383619140197.png"/>
 <div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/Sv9oA9ODbd8" width="560"></iframe><span class="js_recommend" data-chomp-id="Sv9oA9ODbd8" data-recommend-id="youtube://Sv9oA9ODbd8" data-recommended="false" id="youtube-Sv9oA9ODbd8"></span></span></div><p class="sc-77igqf-0 bOfvBY">With such impressive visuals, and fantastic writing plot, what could possibly top that? By
@@ -77,11 +87,12 @@ oldArticle: true
 <img alt src="./1323445383681382245.png"/>
 
 <img alt src="./1323445383813413221.jpg"/><p class="sc-77igqf-0 bOfvBY">I had a great time with<em> Nagi no Asukara</em>. It was an essential portion of
-  feels Thursday, and I loved every bit of it. It was an amazing show, especially if you are a big fan of Romances... It
-  did everything I really wanted it to, and I loved the hell out of it. If you are into this type of show, a better
-  question would be... <strong>WHY ARE YOU NOT WATCHING THIS</strong>? One thing that needs to be mentioned is the
-  middle of the show. I marathoned most of it so I didn’t feel the drag in the middle too much, but it’s definitely
-  there. I’m sure if you asked someone who was watching weekly, they’d get really annoyed.</p>
+feels Thursday, and I loved every bit of it. It was an amazing show, especially if you are a big fan of Romances... It
+did everything I really wanted it to, and I loved the hell out of it. If you are into this type of show, a better
+question would be... <strong>WHY ARE YOU NOT WATCHING THIS</strong>? One thing that needs to be mentioned is the
+middle of the show. I marathoned most of it so I didn’t feel the drag in the middle too much, but it’s definitely
+there. I’m sure if you asked someone who was watching weekly, they’d get really annoyed.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h113899"><a class="js_header-anchor" id=""></a>Enjoyment - 9/10</h4>
 <img alt src="./1323445384558424165.png"/>
 <p class="sc-77igqf-0 bOfvBY">If your one of those people who like to scroll down to the very bottom for the

@@ -1,12 +1,21 @@
 ---
 {
-title: "Teclast Tbook 11 Review: Can A Chinese 2 in 1 Be Any Good?",
-tags: ["RockmanDash Reviews", "Teclast", "Tbook 11", "Teclast Tbook 11", "Dual Boot", "Tablet", "Review", "2 in 1"],
-authors: ['reikaze'],
-published: '2016-05-23T00:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Teclast Tbook 11 Review: Can A Chinese 2 in 1 Be Any Good?",
+  tags:
+    [
+      "RockmanDash Reviews",
+      "Teclast",
+      "Tbook 11",
+      "Teclast Tbook 11",
+      "Dual Boot",
+      "Tablet",
+      "Review",
+      "2 in 1",
+    ],
+  published: "2016-05-23T00:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -114,13 +123,14 @@ oldArticle: true
   and the build of this tablet is a prime example of that, which is really nice to see.</p>
 
 <img alt src="./fibvqb1ngyq0oyn9qtub.jpg"/><p class="sc-77igqf-0 bOfvBY">Similar in quality to the build is the display: The screen is a 10.6 inch 1080p
-  screen, which isn’t the best in the world, but it sure does look like it. Great detail, solid viewing angles, crisp
-  colors, This display is one that looks great and would be unthinkable at this price range a few years ago. Though,
-  this isn’t the best out there as if you compare it to other tablets, it is on the budget side of things all things
-  considered, with a lowly 207 PPI to it’s name. It’s certainly not as crisp as some of the ultra high displays out
-  there, and you can definitely see pixels if you’re paying attention to the screen, but it’s lower PPI will never be a
-  hindrance to your experience, and it sometimes even serves more of a benefit due to the poor scaling for high
-  resolution displays on windows.</p>
+screen, which isn’t the best in the world, but it sure does look like it. Great detail, solid viewing angles, crisp
+colors, This display is one that looks great and would be unthinkable at this price range a few years ago. Though,
+this isn’t the best out there as if you compare it to other tablets, it is on the budget side of things all things
+considered, with a lowly 207 PPI to it’s name. It’s certainly not as crisp as some of the ultra high displays out
+there, and you can definitely see pixels if you’re paying attention to the screen, but it’s lower PPI will never be a
+hindrance to your experience, and it sometimes even serves more of a benefit due to the poor scaling for high
+resolution displays on windows.</p>
+
 <p class="sc-77igqf-0 bOfvBY">Even though the landscape has changed in comparison to a few years ago when the only
   good display on a windows tablet was pretty much just the<em> </em>Surface<em> </em>line and a few Chinese tablets,
   high resolution tablets are still the exception, not the rule. It’s one of the best displays you can get at this price
@@ -195,9 +205,10 @@ oldArticle: true
   in 1s.</p>
 
 <img alt src="./wtrfnbxfnp5fk5ap3cws.jpg"/><p class="sc-77igqf-0 bOfvBY">So, about that keyboard that makes this experience that much better: this tablet
-  technically has two keyboards made for it, one a folio style keyboard and one a transformer style keyboard. I have the
-  folio style keyboard as the transformer one wasn’t in stores, so I will be talking about that, but if ever get the
-  transformer style keyboard, I’ll definitely update this post for it.</p>
+technically has two keyboards made for it, one a folio style keyboard and one a transformer style keyboard. I have the
+folio style keyboard as the transformer one wasn’t in stores, so I will be talking about that, but if ever get the
+transformer style keyboard, I’ll definitely update this post for it.</p>
+
 <p class="sc-77igqf-0 bOfvBY">The folio keyboard isn’t a clone really of anything a major manufacturer has made,
   but it’s a style that lots of cheaper OEMs have been using, so while you may have not seen something like this, it
   isn’t unique to this device. It’s a nice design, with a soft touch fabric which feels really nice when using it
@@ -227,11 +238,11 @@ oldArticle: true
   flaws still serve to improve the experience.</p>
 
 <img alt src="./hreo4h462m1dfrdaiebh.jpg"/><p class="sc-77igqf-0 bOfvBY">The size of the tablet is also a nice touch as well: When I first got this
-  device, I was worried the 10 inch size was going to be too small to use comfortably as a laptop especially because I
-  tried devices similar to this but with a 1366x768 display and it was not really pleasant to me, but thanks to the
-  Tbook’s 1080p resolution this wasn’t really an issue at all, leaving you with lots of space to work with depending on
-  your scaling setting. This is a great middle ground between the two worlds of laptop, with 10 inches being a great
-  size for a tablet but usable for a laptop, and I’ve been really enjoying it.<br/></p>
+device, I was worried the 10 inch size was going to be too small to use comfortably as a laptop especially because I
+tried devices similar to this but with a 1366x768 display and it was not really pleasant to me, but thanks to the
+Tbook’s 1080p resolution this wasn’t really an issue at all, leaving you with lots of space to work with depending on
+your scaling setting. This is a great middle ground between the two worlds of laptop, with 10 inches being a great
+size for a tablet but usable for a laptop, and I’ve been really enjoying it.<br/></p>
 
 <div class="">
 <div class="sc-13xbaby-0 WjrFR">

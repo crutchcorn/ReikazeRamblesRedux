@@ -1,12 +1,21 @@
 ---
 {
-title: "Rockmandash Reviews: Gargantia on the Verdurous Planet [Anime] BACKLOG",
-tags: ["rockmandash reviews", "rockmandash12", "gargantia", "review", "production ig", "ani-tay", "ani-tay review", "backlog"],
-authors: ['reikaze'],
-published: '2014-02-20T14:50:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Gargantia on the Verdurous Planet [Anime] BACKLOG",
+  tags:
+    [
+      "rockmandash reviews",
+      "rockmandash12",
+      "gargantia",
+      "review",
+      "production ig",
+      "ani-tay",
+      "ani-tay review",
+      "backlog",
+    ],
+  published: "2014-02-20T14:50:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -45,6 +54,7 @@ oldArticle: true
   The characters were enjoyable, especially Chamber, but they could be better.</p>
 
 <img alt src="./afszpq9qzua5ur9ujwwo.png"/><h4 class="sc-1bwb26k-1 fvCjqJ" id="h112053"><a class="js_header-anchor" id=""></a><strong>Plot 7.5/10</strong>
+
 </h4><h4 class="sc-1bwb26k-1 fvCjqJ" id="h112054"><a class="js_header-anchor" id=""></a><strong>Characters
   8.5/10</strong></h4>
 <img alt src="./itgjhcovpxswvoi7k9lv.png"/>

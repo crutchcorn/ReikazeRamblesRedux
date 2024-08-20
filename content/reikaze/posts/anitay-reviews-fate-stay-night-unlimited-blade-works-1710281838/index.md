@@ -1,12 +1,19 @@
 ---
 {
-title: "AniTAY Reviews: Fate/stay night: Unlimited Blade Works",
-tags: ["The Ani-TAY Review", "AniTAY", "Fate/stay night", "Rockmandash Reviews", "Type Moon Marathon", "Tayclassic"],
-authors: ['reikaze'],
-published: '2015-07-07T11:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "AniTAY Reviews: Fate/stay night: Unlimited Blade Works",
+  tags:
+    [
+      "The Ani-TAY Review",
+      "AniTAY",
+      "Fate/stay night",
+      "Rockmandash Reviews",
+      "Type Moon Marathon",
+      "Tayclassic",
+    ],
+  published: "2015-07-07T11:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -36,7 +43,8 @@ oldArticle: true
 <img alt src="./1330439162034163237.png"/>
 
 <video autoplay="" loop="" muted=""><source src="./1330439162149343269.mp4" type="video/mp4"/></video><p class="sc-77igqf-0 bOfvBY"><strong>Grex:</strong> What is there even to say? They’re fabulous.</p><p class="sc-77igqf-0 bOfvBY"><strong>Protonstorm:</strong> The folks at ufotable are amazing, their attention to detail
-  is fantastic.</p>
+is fantastic.</p>
+
 <p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12:</strong> The production values in this show are seriously
   insane. While some people may not think it’s the best looking because they aren’t a big fan of the aesthetic design
   overall, you can’t deny that they did a great job with the production of it.</p><p class="sc-77igqf-0 bOfvBY"><strong>Grex:</strong>
@@ -137,7 +145,8 @@ oldArticle: true
 <img alt src="./1330439162546663973.png"/>
 
 <video autoplay="" loop="" muted=""><source src="./1330439162673575717.mp4" type="video/mp4"/></video><p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12:</strong> Sure. I think they did a pretty bad job with the
-  adaptation, as the story had pacing issues, writing issues, and the way that they presented the story in general.</p>
+adaptation, as the story had pacing issues, writing issues, and the way that they presented the story in general.</p>
+
 <p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12: </strong>While the events were pretty much the same and it
   was accurate, it didn’t have the feel that this route has in general, all the importance was lost, in my opinion.</p>
 <p class="sc-77igqf-0 bOfvBY"><strong>Protonstorm: </strong>When you say that there were writing issues, what
@@ -148,7 +157,8 @@ oldArticle: true
   attached you to the characters and actually made you care about many of the aspects.</p>
 
 <img alt src="./1330439162939687205.jpg"/><p class="sc-77igqf-0 bOfvBY"><strong>Protonstorm: </strong>So your primary concern in that respect are
-  elements of the visual novel that were not included that you believe should have been?</p>
+elements of the visual novel that were not included that you believe should have been?</p>
+
 <p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12:</strong> I think it’s more about how they tell the story, not
   about how things are missing. The shift in perspective hurt the show, and I ranted on about it in my personal review
   quite a bit.</p><p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12: </strong>like, the story is still the same
@@ -181,8 +191,9 @@ oldArticle: true
   poor spot... it’s a complete mess and it ruined the show for a lot of people.</p>
 
 <img alt src="./1330439163324225573.jpg"/><p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12:</strong> The VN is long. There’s lots of fluff. They could
-  have cut things here, they could have told it to you with the same pace the VN did, but whatever approach you think is
-  better, the way it was done wasn’t the way it should have been.</p>
+have cut things here, they could have told it to you with the same pace the VN did, but whatever approach you think is
+better, the way it was done wasn’t the way it should have been.</p>
+
 <p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12:</strong> Plus, the serialization didn’t help, as the week
   wait was just painful...</p><p class="sc-77igqf-0 bOfvBY"><strong>Grex:</strong> I definitely plan to marathon the
   show at some point, because I feel like that could mitigate some of the pacing issues.</p>
@@ -193,8 +204,9 @@ oldArticle: true
   they will not have to wait a week between each episode.</p>
 
 <img alt src="./1330439164031611173.jpg"/><p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12:</strong> Other than the pacing, what were your thoughts on
-  the story?</p><p class="sc-77igqf-0 bOfvBY"><strong>Protonstorm:</strong> I greatly enjoyed the story, and have, to
-  say the least, had very little in common with the complaints of many of the original visual novel fans with it.</p>
+the story?</p><p class="sc-77igqf-0 bOfvBY"><strong>Protonstorm:</strong> I greatly enjoyed the story, and have, to
+say the least, had very little in common with the complaints of many of the original visual novel fans with it.</p>
+
 <p class="sc-77igqf-0 bOfvBY"><strong>Protonstorm:</strong> Which of course makes sense, as I have not played the
   visual novel. I believe that <em>Fate/stay night: Unlimited Blade Works</em> is an anime whose story is perfectly
   acceptable to anime fans who like similarly styled works.</p><p class="sc-77igqf-0 bOfvBY"><strong>Grex:</strong>
@@ -206,8 +218,9 @@ oldArticle: true
   stuff like that irked me in both forms of the story.</p>
 
 <img alt src="./1330439164292599077.jpg"/><p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12:</strong> Yeah, the story does have it’s fair share of deus
-  ex machinas.</p><p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12:</strong> most of my gripes lie with the way the
-  story was told though, not the actual story itself.</p>
+ex machinas.</p><p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12:</strong> most of my gripes lie with the way the
+story was told though, not the actual story itself.</p>
+
 <p class="sc-77igqf-0 bOfvBY"><strong>Protonstorm:</strong> Yes, this so much. It was really difficult to maintain
   my suspension of disbelief, particularly for those two instances you named. In the end the story was still quite
   intriguing, but those points were both just lazy writing frankly, and I would have appreciated at least some attempt
@@ -261,7 +274,8 @@ oldArticle: true
   look forward to that in HF, when that comes out.</p>
 
 <img alt src="./1330439164958571557.jpg"/><p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12:</strong> Overall though, it seems like we think the characters are
-  pretty good?</p>
+pretty good?</p>
+
 <p class="sc-77igqf-0 bOfvBY"><strong>Protonstorm: </strong>In general, yes. Definitely.</p><p class="sc-77igqf-0 bOfvBY"><strong>Grex:</strong> Yep. Proton covered a lot in his spiel, and I agree with all of it.
 </p><p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12: </strong>Yeah, and if you wanted more impressions on
   characters, you can always read the S1 review where we did go into more specifics about the characters.</p>
@@ -269,8 +283,9 @@ oldArticle: true
 <img alt src="./1330439165113529637.png"/>
 
 <video autoplay="" loop="" muted=""><source src="./1330439165306828325.mp4" type="video/mp4"/></video><p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12:</strong> Now, here’s the fun part: we all have different impressions
-  with the nasuverse, so I thought it would be interesting if we did a section where we talk about out overall thoughts
-  about UBW(TV) and our thoughts in comparison to the nasuverse.</p>
+with the nasuverse, so I thought it would be interesting if we did a section where we talk about out overall thoughts
+about UBW(TV) and our thoughts in comparison to the nasuverse.</p>
+
 <p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12: </strong>To give you a breakdown if you don’t remember what I
   said in the beginning of the review or want more specifics, our viewing history goes like this:</p>
 <ul class="sc-1lmbno3-0 dpuHif" data-style="Bullet" data-type="List">
@@ -286,8 +301,9 @@ oldArticle: true
   incomprehensible mess for anyone that’s not already familiar with the story.</p>
 
 <img alt src="./1330439165404382245.png"/><p class="sc-77igqf-0 bOfvBY"><strong>Grex:</strong> I do think it could disappoint the <em>Fate/Zero</em> fan, because
-  it’s not at all “<em>Fate/Zero 2</em>”, like some might hope for. It’s still the Holy Grail War, but ultimately it’s a
-  very different beast.<br/></p>
+it’s not at all “<em>Fate/Zero 2</em>”, like some might hope for. It’s still the Holy Grail War, but ultimately it’s a
+very different beast.<br/></p>
+
 <p class="sc-77igqf-0 bOfvBY"><strong>Grex:</strong> Much less an ensemble cast (with the focus being so heavily
   on Shirou), and the story isn’t nearly as dark, which are aspects that could have drawn the Zero fans to the franchise
   in the first place.</p><p class="sc-77igqf-0 bOfvBY"><strong>Protonstorm:</strong> Personally, I enjoyed both F/SN and
@@ -313,7 +329,8 @@ oldArticle: true
   the ideals, the core of the story.</p>
 
 <img alt src="./1330439165701568805.jpg"/><p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12:</strong> And for those bitching about the tone, <em>Heaven’s
-  Feel</em>. That’s all I have to say.</p>
+Feel</em>. That’s all I have to say.</p>
+
 <p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12:</strong> It’s hard to answer which one people prefer, because
   it’s more of a question of which style they like.</p><p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12:</strong> but
   I think most people can agree that <em>Fate/Zero</em> was a better executed anime, right?</p>
@@ -321,13 +338,15 @@ oldArticle: true
 <strong>Protonstorm:</strong> That’s a good way to put it: F/Z works better in anime form than F/SN.</p>
 
 <img alt src="./1330439165770381349.jpg"/><p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12:</strong> Just listen to the music back to back and you cannot deny
-  that <em>Fate/Zero </em>did a much better job.</p>
+that <em>Fate/Zero </em>did a much better job.</p>
+
 <p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12:</strong> The whole work is kinda like that.</p><p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12:</strong> but Kara no Kyoukai is the best :P</p><p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12:</strong> So... conclusion time?</p><p class="sc-77igqf-0 bOfvBY">
 <strong>Grex:</strong> Sounds good to me.</p><p class="sc-77igqf-0 bOfvBY"><strong>Protonstorm: </strong>Yep.</p>
 <img alt src="./1330439166050900261.png"/>
 
 <img alt src="./1330439166118154277.jpg"/><p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12:</strong> <em>Fate/stay night: Unlimited Blade Works</em> is an
-  interesting anime. It does some things extremely well, but does some things horribly wrong.<br/></p>
+interesting anime. It does some things extremely well, but does some things horribly wrong.<br/></p>
+
 <p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12:</strong> Overall, I liked UBW, but was pretty much
   disappointed due to the execution.</p><p class="sc-77igqf-0 bOfvBY"><strong>RockmanDash12:</strong> At it’s core, it’s
   a great work, but the issues just get at you and overall, it just can’t stack up. Agreed?</p>

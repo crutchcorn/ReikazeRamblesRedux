@@ -1,12 +1,19 @@
 ---
 {
-title: "Hi☆sCoool! SeHa Girls: The Ani-TAY Review",
-tags: ["The Ani-TAY Review", "Rockmandash Reviews", "SeHa", "SEGA", "AniTAY", "TAYClassic"],
-authors: ['reikaze'],
-published: '2015-01-01T12:00:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Hi☆sCoool! SeHa Girls: The Ani-TAY Review",
+  tags:
+    [
+      "The Ani-TAY Review",
+      "Rockmandash Reviews",
+      "SeHa",
+      "SEGA",
+      "AniTAY",
+      "TAYClassic",
+    ],
+  published: "2015-01-01T12:00:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -46,6 +53,7 @@ oldArticle: true
   that much more enjoyable.</p>
 
 <img alt src="./efxmstdkpal5hmp9glre.png"/><h4 class="sc-1bwb26k-1 fvCjqJ" id="h116186"><a class="js_header-anchor" id=""></a>The Presentation</h4>
+
 <div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/6mERS8UM12c" width="560"></iframe><span class="js_recommend" data-chomp-id="6mERS8UM12c" data-recommend-id="youtube://6mERS8UM12c" data-recommended="false" id="youtube-6mERS8UM12c"></span></span></div><p class="sc-77igqf-0 bOfvBY"> Were you really expecting anything here? The show uses cheap CG throughout most of the
   show, which helps cut costs and blend the characters more seamlessly into the games. but it's really nothing special.
   The games are produced faithfully, and the models of the main characters are pretty nice at times, but it all has that

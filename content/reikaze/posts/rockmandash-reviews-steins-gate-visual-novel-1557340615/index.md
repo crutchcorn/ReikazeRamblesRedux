@@ -1,12 +1,18 @@
 ---
 {
-title: "Rockmandash Reviews: Steins;Gate [Visual Novel]",
-tags: ["rockmandash reviews", "visual novel", "review", "rockmandash12", "rockmandash"],
-authors: ['reikaze'],
-published: '2014-04-02T23:45:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Steins;Gate [Visual Novel]",
+  tags:
+    [
+      "rockmandash reviews",
+      "visual novel",
+      "review",
+      "rockmandash12",
+      "rockmandash",
+    ],
+  published: "2014-04-02T23:45:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -57,25 +63,27 @@ oldArticle: true
 <img alt src="./aqgglueugx68f7xa4xug.png"/>
 
 <img alt src="./1136959573130060946.jpg"/><p class="sc-77igqf-0 bOfvBY">The gameplay is played pretty straight, but it might throw you off as it does
-  change some things. Like every other visual novel, you make choices and you read a lot, but gone are the flowchart-y
-  gameplay that most visual novels are, this is a very linear visual novel and the choices you make do not change the
-  plot entirely, they change what endings you get. Also, the way you make the decisions is also slightly different in
-  Steins;Gate. In Steins;Gate they have this phone trigger system where whenever you get a message or a call, you have
-  to choose things and depending on your choices within this phone trigger system, things will change. The Phone Trigger
-  system is very subtle, and is a very nice and unique way of interacting with the game. Steins;Gate has many small
-  changes that make it unique, and after playing though so many visual novels that have little to no change in the
-  gameplay department, it's a nice change of pace.</p>
+change some things. Like every other visual novel, you make choices and you read a lot, but gone are the flowchart-y
+gameplay that most visual novels are, this is a very linear visual novel and the choices you make do not change the
+plot entirely, they change what endings you get. Also, the way you make the decisions is also slightly different in
+Steins;Gate. In Steins;Gate they have this phone trigger system where whenever you get a message or a call, you have
+to choose things and depending on your choices within this phone trigger system, things will change. The Phone Trigger
+system is very subtle, and is a very nice and unique way of interacting with the game. Steins;Gate has many small
+changes that make it unique, and after playing though so many visual novels that have little to no change in the
+gameplay department, it's a nice change of pace.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h118560"><a class="js_header-anchor" id=""></a>Gameplay - 8.5/10</h4>
 <img alt src="./c0i6zpr8w1zjvuwzgbvp.png"/>
 
 <img alt src="./1136959573146245778.jpg"/><p class="sc-77igqf-0 bOfvBY"> Horray for 16:9! This is one of the nicest looking Visual Novels I've ever
-  played, and being in 16:9 is something that really makes my day, as when I play in full screen, it actually like like
-  it's supposed to. About the visuals of the game itself, Steins;Gate has this nice <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://tvtropes.org/pmwiki/pmwiki.php/Main/DesignStudentsOrgasm",{"metric25":1}]]' href="http://tvtropes.org/pmwiki/pmwiki.php/Main/DesignStudentsOrgasm" rel="noopener noreferrer" target="_blank">water colored, pixelated style</a></span>
-  to it, and it really makes it quite unique. They way they use it in promo art and even random parts in the game help
-  set it from other visual novels and it keeps your eyes open. It's a very aesthetically pleasing game. Everything is
-  pleasing to the eye, from random items in the game like the Oopa's, to the character designs, and the
-  backgrounds.There aren't a lot of visual novels that can compare to the charm and aesthetics this game has with its
-  unique style.</p>
+played, and being in 16:9 is something that really makes my day, as when I play in full screen, it actually like like
+it's supposed to. About the visuals of the game itself, Steins;Gate has this nice <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://tvtropes.org/pmwiki/pmwiki.php/Main/DesignStudentsOrgasm",{"metric25":1}]]' href="http://tvtropes.org/pmwiki/pmwiki.php/Main/DesignStudentsOrgasm" rel="noopener noreferrer" target="_blank">water colored, pixelated style</a></span>
+to it, and it really makes it quite unique. They way they use it in promo art and even random parts in the game help
+set it from other visual novels and it keeps your eyes open. It's a very aesthetically pleasing game. Everything is
+pleasing to the eye, from random items in the game like the Oopa's, to the character designs, and the
+backgrounds.There aren't a lot of visual novels that can compare to the charm and aesthetics this game has with its
+unique style.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h118561"><a class="js_header-anchor" id=""></a>Visuals - 9.5/10</h4>
 <img alt src="./dcszejtmt38fdbvnebzl.png"/>
 <div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/5rYI2eG3DuQ" width="560"></iframe><span class="js_recommend" data-chomp-id="5rYI2eG3DuQ" data-recommend-id="youtube://5rYI2eG3DuQ" data-recommended="false" id="youtube-5rYI2eG3DuQ"></span></span></div><p class="sc-77igqf-0 bOfvBY"> The Sound in Steins;Gate is pretty good. I thought that they did a great job at picking
@@ -92,17 +100,18 @@ oldArticle: true
 <img alt src="./unlbceyrboydw7gja519.png"/>
 
 <img alt src="./1136959573187096722.png"/><p class="sc-77igqf-0 bOfvBY"> I love Steins;Gate. If I didn't I wouldn't be making 2 simultaneously released
-  reviews right? I think with the charm of the characters, and the best usage of time travel just steal the show with
-  me. I love how Steins;Gate spends so much of it's time showing all the consequences of time travel, which isn't
-  something you see that often. While the game and anime are remarkably similar, they are a very different experience.
-  They have minor differences, but I feel like the way most of it is executed in the game has more impact, an example
-  would be the final scene with the credits. I feel that the Visual novel is a better experience overall, as it's more
-  immerse, more unique, and has more content overall. If I was going to recommend a version, I'd recommend the Visual
-  Novel. Because I played through the fan translation, some of the official translation choices confused me. The
-  changing of Ruka's name to Luka is stupid (I understand why, Japanese doesn't make a difference between R &amp; L, but
-  all the other versions spell it Ruka :|), this is just nitpicking though and it shouldn't hinder your experience. The
-  strong points of Steins;Gate overall though is that the story is relatable, it has a great concept and it's executed
-  very well. What else is there to ask? This is the formula for a great experience.</p>
+reviews right? I think with the charm of the characters, and the best usage of time travel just steal the show with
+me. I love how Steins;Gate spends so much of it's time showing all the consequences of time travel, which isn't
+something you see that often. While the game and anime are remarkably similar, they are a very different experience.
+They have minor differences, but I feel like the way most of it is executed in the game has more impact, an example
+would be the final scene with the credits. I feel that the Visual novel is a better experience overall, as it's more
+immerse, more unique, and has more content overall. If I was going to recommend a version, I'd recommend the Visual
+Novel. Because I played through the fan translation, some of the official translation choices confused me. The
+changing of Ruka's name to Luka is stupid (I understand why, Japanese doesn't make a difference between R &amp; L, but
+all the other versions spell it Ruka :|), this is just nitpicking though and it shouldn't hinder your experience. The
+strong points of Steins;Gate overall though is that the story is relatable, it has a great concept and it's executed
+very well. What else is there to ask? This is the formula for a great experience.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h118563"><a class="js_header-anchor" id=""></a>Enjoyment - 10/10</h4>
 <img alt src="./xqv11t1oyhswmfpvefwc.png"/>
 <p class="sc-77igqf-0 bOfvBY"> Steins;Gate is an experience that nobody should miss. This is an amazing game that
@@ -114,6 +123,7 @@ oldArticle: true
 <img alt src="./elc2gjv5fttwwufj6ymb.png"/>
 
 <img alt src="./707506692495471246.png"/><p class="sc-77igqf-0 bOfvBY"><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://tvtropes.org/pmwiki/pmwiki.php/Main/ArcWords",{"metric25":1}]]' href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ArcWords" rel="noopener noreferrer" target="_blank"><strong>El. Psy. Congroo.</strong></a></span></p><p class="sc-77igqf-0 bOfvBY"> Video Review - </p>
+
 <div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/KdUCiI6lf7k" width="560"></iframe><span class="js_recommend" data-chomp-id="KdUCiI6lf7k" data-recommend-id="youtube://KdUCiI6lf7k" data-recommended="false" id="youtube-KdUCiI6lf7k"></span></span></div>
 <hr class="gcp5ez-0 hKlTiw"/><p class="sc-77igqf-0 bOfvBY"><strong>Copyright Disclaimer:</strong> Under Title 17, Section
   107 of United States Copyright law, reviews are protected under fair use. This is a review, and as such, all media

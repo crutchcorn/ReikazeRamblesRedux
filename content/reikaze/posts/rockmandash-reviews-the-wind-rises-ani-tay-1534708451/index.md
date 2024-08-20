@@ -1,12 +1,19 @@
 ---
 {
-title: "Rockmandash Reviews: The Wind Rises [Anime]",
-tags: ["rockmandash reviews", "ani-tay reviews", "the wind rises", "miyazaki", "rockmandash reccomends", "ghibli"],
-authors: ['reikaze'],
-published: '2014-03-02T12:10:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: The Wind Rises [Anime]",
+  tags:
+    [
+      "rockmandash reviews",
+      "ani-tay reviews",
+      "the wind rises",
+      "miyazaki",
+      "rockmandash reccomends",
+      "ghibli",
+    ],
+  published: "2014-03-02T12:10:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

@@ -1,12 +1,11 @@
 ---
 {
-title: "Rockmandash Reviews: Canaan [Anime]",
-tags: ["Rockmandash Reviews", "Canaan", "Ani-TAY", "Action", "Review"],
-authors: ['reikaze'],
-published: '2014-09-01T18:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Canaan [Anime]",
+  tags: ["Rockmandash Reviews", "Canaan", "Ani-TAY", "Action", "Review"],
+  published: "2014-09-01T18:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -31,10 +30,11 @@ oldArticle: true
   deadly virus.</p>
 
 <img alt src="./1248091305810652590.png"/><p class="sc-77igqf-0 bOfvBY">The writing of Canaan is very much Type-Moon: it was writing full of philosophy,
-  people’s psyche, thoughts, dreams etc. How does violence effect the mind? How does one relate to people who live a
-  polar opposite life?What does it take to be a great person? What is real, what is an illusion? To one used to killing,
-  how do you adjust to societal rules? These are just some of the thoughts covered in this show, and this aspect of the
-  show was interesting and great. </p>
+people’s psyche, thoughts, dreams etc. How does violence effect the mind? How does one relate to people who live a
+polar opposite life?What does it take to be a great person? What is real, what is an illusion? To one used to killing,
+how do you adjust to societal rules? These are just some of the thoughts covered in this show, and this aspect of the
+show was interesting and great. </p>
+
 <p class="sc-77igqf-0 bOfvBY">Most of the show is your typical action with a slower pace than you would expect.
   It’s a steady yet enjoyable march through the story, similar to <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://tay.kotaku.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967",{"metric25":1}]]' href="http://tay.kotaku.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967">Muv-Luv Alternative</a></span>,
   but this was a bad choice. Unlike Muv-Luv, who spent all that extra time fleshing out the world, this show spent it
@@ -68,9 +68,10 @@ oldArticle: true
 <img alt src="./1248091305958899118.png"/>
 
 <img alt src="./1248091305996334254.jpg"/><p class="sc-77igqf-0 bOfvBY">I have no complaints here. The action looks good, the characters are pleasing to
-  the eye, and the world looks beautiful. It’s sharp, and it does what it wants to do. It’s solid for the time, and it
-  hasn’t aged poorly. It doesn’t do anything really special though, and that lack of style is the difference between
-  good and great. The only real way to describe the visuals is solid: Good, but not great.</p>
+the eye, and the world looks beautiful. It’s sharp, and it does what it wants to do. It’s solid for the time, and it
+hasn’t aged poorly. It doesn’t do anything really special though, and that lack of style is the difference between
+good and great. The only real way to describe the visuals is solid: Good, but not great.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h117246"><a class="js_header-anchor" id=""></a>Visuals - 7.5/10</h4>
 <img alt src="./1248091306045399982.png"/>
 <div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/gFbdJZCBzKw" width="560"></iframe><span class="js_recommend" data-chomp-id="gFbdJZCBzKw" data-recommend-id="youtube://gFbdJZCBzKw" data-recommended="false" id="youtube-gFbdJZCBzKw"></span></span></div><p class="sc-77igqf-0 bOfvBY">The soundtrack in Canaan is hard to talk about. It has the same tones and beautiful

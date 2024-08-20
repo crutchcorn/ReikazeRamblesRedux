@@ -1,12 +1,18 @@
 ---
 {
-title: "Superman: Red Son is A Fantastic Superman Story You'd Never Expect",
-tags: ["Superman Red Son", "Alternate History", "Superman", "Rockmandash Rambles", "TAY"],
-authors: ['reikaze'],
-published: '2016-02-22T01:25:01-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Superman: Red Son is A Fantastic Superman Story You'd Never Expect",
+  tags:
+    [
+      "Superman Red Son",
+      "Alternate History",
+      "Superman",
+      "Rockmandash Rambles",
+      "TAY",
+    ],
+  published: "2016-02-22T01:25:01-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -30,14 +36,15 @@ oldArticle: true
   Superman is the same, everything he stands for and everything around him is totally flipped around. </p>
 
 <img alt src="./pltzjuv5pu57t1dvkl0s.jpg"/><p class="sc-77igqf-0 bOfvBY">While its an interesting story about the the superhero that defined how we
-  perceive super heroes, the heroic aspects and feats (while still prevalent in the story) take a step back for the
-  political Alternate history aspect of the story to step forefront into the center of the stage. It’s a cold war story,
-  but it’s not your typical one: as even though Superman is a man in red, he is still who he is, and it takes a
-  different perspective on the tale of the cold war than most people here in the west would perceive it. It’s a tale
-  that takes no side, one that does not portray either in a moral light and instead spends time clashing the core of the
-  characters with the core of ideals in the era and questioning if either of the ideals or characters are truly right or
-  not, or which are the most compatible with what they were trying to achieve. It’s a well built world that anyone can
-  appreciate, and its one I rather enjoyed.</p>
+perceive super heroes, the heroic aspects and feats (while still prevalent in the story) take a step back for the
+political Alternate history aspect of the story to step forefront into the center of the stage. It’s a cold war story,
+but it’s not your typical one: as even though Superman is a man in red, he is still who he is, and it takes a
+different perspective on the tale of the cold war than most people here in the west would perceive it. It’s a tale
+that takes no side, one that does not portray either in a moral light and instead spends time clashing the core of the
+characters with the core of ideals in the era and questioning if either of the ideals or characters are truly right or
+not, or which are the most compatible with what they were trying to achieve. It’s a well built world that anyone can
+appreciate, and its one I rather enjoyed.</p>
+
 <p class="sc-77igqf-0 bOfvBY">This is especially odd coming from me, as writing an Article about an american
   Graphic Novel is the last thing I would expect myself writing (and probably many of you if you’ve seen what I’ve
   written in the past, given that I focus primarily on Japanese Visual Novels). Even though I’m the type of person who

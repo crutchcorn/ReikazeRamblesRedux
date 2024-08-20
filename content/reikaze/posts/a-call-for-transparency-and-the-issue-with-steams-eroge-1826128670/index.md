@@ -1,12 +1,11 @@
 ---
 {
-title: "A Call for Transparency and the Issue with Steam's Eroge(?) Purge",
-tags: ["Rockmandash Rambles", "Reikaze", "Visual novels"],
-authors: ['reikaze'],
-published: '2018-05-18T01:17:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "A Call for Transparency and the Issue with Steam's Eroge(?) Purge",
+  tags: ["Rockmandash Rambles", "Reikaze", "Visual novels"],
+  published: "2018-05-18T01:17:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -51,7 +50,8 @@ oldArticle: true
   extend to anyone who even makes visual novels no matter how ‘sexy’ they might appear to be. </p></blockquote>
 
 <img alt src="./se05jm61ir6rikk6igt2.png"/><p class="sc-77igqf-0 bOfvBY"> With a completely arbitrary decision, and even if you follow Steam’s rules,
-  Visual Novel devs can see their livelihood and income disappear in an instant. </p>
+Visual Novel devs can see their livelihood and income disappear in an instant. </p>
+
 <p class="sc-77igqf-0 bOfvBY">I’m not particularly fond of ecchi Visual Novels and have been on record for
   complaining about them because of this exact stigma they put on the entire Visual Novel medium/genre as a whole. Even
   as a detractor of these games though, it’s clear to me that this is a terrible thing for the Visual Novel industry as

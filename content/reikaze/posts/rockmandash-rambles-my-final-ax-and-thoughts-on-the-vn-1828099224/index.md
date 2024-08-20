@@ -1,12 +1,18 @@
 ---
 {
-title: "RockmanDash Rambles: My final AX and Thoughts on the VN Industry",
-tags: ["Rockmandash Rambles", "Visual Novels", "Anime Expo", "AX 2018", "Anime Expo 2018"],
-authors: ['reikaze'],
-published: '2018-08-04T13:30:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash Rambles: My final AX and Thoughts on the VN Industry",
+  tags:
+    [
+      "Rockmandash Rambles",
+      "Visual Novels",
+      "Anime Expo",
+      "AX 2018",
+      "Anime Expo 2018",
+    ],
+  published: "2018-08-04T13:30:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

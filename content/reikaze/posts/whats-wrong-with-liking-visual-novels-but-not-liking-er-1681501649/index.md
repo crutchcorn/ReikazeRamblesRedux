@@ -1,12 +1,19 @@
 ---
 {
-title: "What's wrong with liking Visual Novels but not liking Eroge?",
-tags: ["Visual Novels", "Rockmandash Rambles", "Oppinion", "Eroge", "_", "Narrative"],
-authors: ['reikaze'],
-published: '2015-01-23T22:17:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "What's wrong with liking Visual Novels but not liking Eroge?",
+  tags:
+    [
+      "Visual Novels",
+      "Rockmandash Rambles",
+      "Oppinion",
+      "Eroge",
+      "_",
+      "Narrative",
+    ],
+  published: "2015-01-23T22:17:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

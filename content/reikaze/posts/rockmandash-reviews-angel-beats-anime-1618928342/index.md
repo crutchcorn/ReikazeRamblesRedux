@@ -1,12 +1,11 @@
 ---
 {
-title: "Rockmandash Reviews: Angel Beats! [Anime]",
-tags: ["rockmandash reviews", "key marathon", "angel beats", "tay-classic"],
-authors: ['reikaze'],
-published: '2014-08-18T20:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Angel Beats! [Anime]",
+  tags: ["rockmandash reviews", "key marathon", "angel beats", "tay-classic"],
+  published: "2014-08-18T20:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -66,20 +65,22 @@ oldArticle: true
   get to that later).</p>
 
 <img alt src="./1248126401720863814.jpg"/><p class="sc-77igqf-0 bOfvBY">The side characters were quite interesting, but the issue was they never got
-  enough development and <strong>THERE WERE WAY TOO MANY</strong>. Many of them didn’t get any character development at
-  all, and they were so shallow that you can describe them with personalities. You’ll probably do that, because some
-  characters get very few screen time and it’s hard to juggle a cast so large. In general they were interesting (TK!),
-  but I never really cared about what happened to them due to the lack of character development.(also because you can’t
-  die in the purgatory world). They try to use the back-stories of characters as a replacement for actual interaction
-  and development because they don’t have time to do so, which kinda work due to the fact that the flashbacks had a
-  tighter narrative and were done better, but not completely because you don’t have development before hand. This is one
-  of my gripes in a lot of shows; if the show just throw horrible situations at characters without getting to know them,
-  it just leads to wasted potential, a general lack of interest in the viewer and a bitter taste in the viewers mouth.
+enough development and <strong>THERE WERE WAY TOO MANY</strong>. Many of them didn’t get any character development at
+all, and they were so shallow that you can describe them with personalities. You’ll probably do that, because some
+characters get very few screen time and it’s hard to juggle a cast so large. In general they were interesting (TK!),
+but I never really cared about what happened to them due to the lack of character development.(also because you can’t
+die in the purgatory world). They try to use the back-stories of characters as a replacement for actual interaction
+and development because they don’t have time to do so, which kinda work due to the fact that the flashbacks had a
+tighter narrative and were done better, but not completely because you don’t have development before hand. This is one
+of my gripes in a lot of shows; if the show just throw horrible situations at characters without getting to know them,
+it just leads to wasted potential, a general lack of interest in the viewer and a bitter taste in the viewers mouth.
+
 </p>
 
 <video autoplay="" loop="" muted=""><source src="./1248126401809686598.mp4" type="video/mp4"/></video><p class="sc-77igqf-0 bOfvBY">Also, this show tries to be a comedy and that aspect was done pretty well, with mostly
-  entertaining jokes. I enjoyed many of the gags they pulled like the amazing <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://www.youtube.com/watch?v=fORH60LtOt4",{"metric25":1}]]' href="https://www.youtube.com/watch?v=fORH60LtOt4" rel="noopener noreferrer" target="_blank">rocket chairs</a></span>, but sometimes they try to rely on jokes based on the personality
-  of the characters, which can be hit or miss because of said characters, but it should keep you entertained.</p>
+entertaining jokes. I enjoyed many of the gags they pulled like the amazing <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://www.youtube.com/watch?v=fORH60LtOt4",{"metric25":1}]]' href="https://www.youtube.com/watch?v=fORH60LtOt4" rel="noopener noreferrer" target="_blank">rocket chairs</a></span>, but sometimes they try to rely on jokes based on the personality
+of the characters, which can be hit or miss because of said characters, but it should keep you entertained.</p>
+
 <p class="sc-77igqf-0 bOfvBY">I thought I ranted about the writing enough, but we haven’t even got to the worst
   part.... the ending. <strong>WARNING SPOILER ALERT HERE SKIP IF YOU DON’T WANT THE ENDING RUINED.</strong> The Ending
   leaves so many plot holes that it’s like a slice of Swiss cheese... It’s rubbish. Why did Otonashi get to purgatory if
@@ -93,13 +94,14 @@ oldArticle: true
 <img alt src="./1248126401915809862.png"/>
 
 <img alt src="./1248126401990819910.jpg"/><p class="sc-77igqf-0 bOfvBY">I don’t think that the visuals in <em>Angel Beats</em> are something that will
-  blow you away like other <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://tay.kotaku.com/rockmandash-reviews-nagi-no-asukara-anime-1567969970",{"metric25":1}]]' href="http://tay.kotaku.com/rockmandash-reviews-nagi-no-asukara-anime-1567969970">PA Works shows</a></span>,
-  but it’s pretty good. PA Works did a great job building an world with the visuals: interesting camera shots, great
-  lighting, and art that makes the world feel like it has depth. Other than that, Angel Beats has solid action scenes
-  neat effects and attention to detail that I appreciated; It has amazing gradients, accurate art and a solid aesthetic
-  design overall. There’s one thing that bothered me about the art, and that was the characters. I think that some of
-  the characters in general look generic, and sometimes the animation and art of the characters can be rough around the
-  edges at times. Overall though, it’s pretty good. </p>
+blow you away like other <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://tay.kotaku.com/rockmandash-reviews-nagi-no-asukara-anime-1567969970",{"metric25":1}]]' href="http://tay.kotaku.com/rockmandash-reviews-nagi-no-asukara-anime-1567969970">PA Works shows</a></span>,
+but it’s pretty good. PA Works did a great job building an world with the visuals: interesting camera shots, great
+lighting, and art that makes the world feel like it has depth. Other than that, Angel Beats has solid action scenes
+neat effects and attention to detail that I appreciated; It has amazing gradients, accurate art and a solid aesthetic
+design overall. There’s one thing that bothered me about the art, and that was the characters. I think that some of
+the characters in general look generic, and sometimes the animation and art of the characters can be rough around the
+edges at times. Overall though, it’s pretty good. </p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h116428"><a class="js_header-anchor" id=""></a>Visuals - 8/10</h4>
 <img alt src="./1248126402026301766.png"/>
 <div class="ooo3c9-0 PpIMM align--bleed has-video media-large video-embed embed-frame"><span class="flex-video widescreen"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/Gqxm--Wq82Y" width="560"></iframe><span class="js_recommend" data-chomp-id="Gqxm--Wq82Y" data-recommend-id="youtube://Gqxm--Wq82Y" data-recommended="false" id="youtube-Gqxm--Wq82Y"></span></span></div><p class="sc-77igqf-0 bOfvBY">The day Key makes something with a bad soundtrack is the day pigs sprout wings and sail
@@ -130,11 +132,12 @@ oldArticle: true
   same few shows they have see, and they also go on fanboy attacks whenever you say anything about said show. </p>
 
 <img alt src="./1248126402457684550.jpg"/><p class="sc-77igqf-0 bOfvBY">The first time I watched it, this show filled me with rage. I came in expecting
-  something great, and what happened was that I was bored out of my mind with a boring world, meh writing, and a sub-par
-  cast. every episode I was expecting something great, but got mediocrity instead. I was expecting tears, but what I got
-  was anger instead. I hated the show with a burning passion; How could something like this get popular? Why this
-  instead of something like <em>Kanon</em> or <em>Rewrite</em>? <strong>WHAT ARE THESE PEOPLE THINKING?</strong> I did
-  not enjoy my first watch at all, and I came into this review ready to bash.</p>
+something great, and what happened was that I was bored out of my mind with a boring world, meh writing, and a sub-par
+cast. every episode I was expecting something great, but got mediocrity instead. I was expecting tears, but what I got
+was anger instead. I hated the show with a burning passion; How could something like this get popular? Why this
+instead of something like <em>Kanon</em> or <em>Rewrite</em>? <strong>WHAT ARE THESE PEOPLE THINKING?</strong> I did
+not enjoy my first watch at all, and I came into this review ready to bash.</p>
+
 <p class="sc-77igqf-0 bOfvBY">Thankfully, I re-watch shows for reviews, and as you can see, the bashing did not
   happen to the extent that I was expecting it to. Coming in with lower expectations totally changed the way I viewed
   the show; I actually enjoyed this show a it, even with it’s massive flaws in writing. I couldn’t get the thought out

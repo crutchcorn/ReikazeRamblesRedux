@@ -1,12 +1,11 @@
 ---
 {
-title: "There's Nothing Quite Like Watching Anime",
-tags: ["AniTay", "Anime"],
-authors: ['reikaze'],
-published: '2018-04-17T00:30:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "There's Nothing Quite Like Watching Anime",
+  tags: ["AniTay", "Anime"],
+  published: "2018-04-17T00:30:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -37,11 +36,12 @@ oldArticle: true
   than just hobbies, they are my ideal natural state and I’m sure that’s the same for many other people here.<br/></p>
 
 <img alt src="./hqp0hy4ncpvae48rg5ot.jpg"/><p class="sc-77igqf-0 bOfvBY">There’s nothing quite like the feeling of binging a show you adore, or watching
-  all the new releases. It makes youe excited to tell the next person about this wonderful thing you’ve just saw.... and
-  watching some of these fantastic shows in this season has reminded me of that. So, I have to say to you, If you love
-  anime, don’t forget about it! Sit back and relax with some <em>Yuru Camp, </em>have your heart ripped out by PTSD in
-  <em>Steins;Gate 0</em> or get hyped with <em>My Hero Academia</em>. It’s a wonderful hobby, and I’m glad I can share
-  it with all of you. I thank everyone who reads this for being an awesome aspect of the anime community, and once I get
-  some more time to engage myself with anime and everything that surrounds it, I hope I can write some more about these
-  things we love so dearly. Sorry for being gone for so long, thank you very much for being awsome!</p>
+all the new releases. It makes youe excited to tell the next person about this wonderful thing you’ve just saw.... and
+watching some of these fantastic shows in this season has reminded me of that. So, I have to say to you, If you love
+anime, don’t forget about it! Sit back and relax with some <em>Yuru Camp, </em>have your heart ripped out by PTSD in
+<em>Steins;Gate 0</em> or get hyped with <em>My Hero Academia</em>. It’s a wonderful hobby, and I’m glad I can share
+it with all of you. I thank everyone who reads this for being an awesome aspect of the anime community, and once I get
+some more time to engage myself with anime and everything that surrounds it, I hope I can write some more about these
+things we love so dearly. Sorry for being gone for so long, thank you very much for being awsome!</p>
+
 </div>

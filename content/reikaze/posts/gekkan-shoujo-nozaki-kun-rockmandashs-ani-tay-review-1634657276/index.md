@@ -1,12 +1,19 @@
 ---
 {
-title: "Gekkan Shoujo Nozaki-Kun : Rockmandash's Ani-TAY Review",
-tags: ["Gekkan Shoujo Nozaki-Kun", "Ani-TAY", "Rockmandash Reviews", "Nozaki-Kun", "Summer 2014", "Comedy"],
-authors: ['reikaze'],
-published: '2014-09-21T18:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Gekkan Shoujo Nozaki-Kun : Rockmandash's Ani-TAY Review",
+  tags:
+    [
+      "Gekkan Shoujo Nozaki-Kun",
+      "Ani-TAY",
+      "Rockmandash Reviews",
+      "Nozaki-Kun",
+      "Summer 2014",
+      "Comedy",
+    ],
+  published: "2014-09-21T18:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -53,8 +60,9 @@ oldArticle: true
   personalities clash in these amazing gags, you have a great formula for a comedy series, and I love it.</p>
 
 <img alt src="./mcyheokpftprz48jqlih.jpg"/><p class="sc-77igqf-0 bOfvBY"> Another great touch is how well they managed to pull off an <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://tvtropes.org/pmwiki/pmwiki.php/Main/EnsembleCast",{"metric25":1}]]' href="http://tvtropes.org/pmwiki/pmwiki.php/Main/EnsembleCast" rel="noopener noreferrer" target="_blank">ensemble cast</a></span>. The fact that all the characters get their own time to shine
-  instead of just focusing on Chiyo and Nozaki is great because so many <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-reviews-angel-beats-anime-1618928342/all",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-reviews-angel-beats-anime-1618928342/all" rel="noopener noreferrer" target="_blank">other shows just focus on a few characters even when they have a cast done as well as they have here</a></span>,
-  and to see them develop all the characters equally as well and keep the humor going is something to be appreciated.
+instead of just focusing on Chiyo and Nozaki is great because so many <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://rockmandash12.kinja.com/rockmandash-reviews-angel-beats-anime-1618928342/all",{"metric25":1}]]' href="http://rockmandash12.kinja.com/rockmandash-reviews-angel-beats-anime-1618928342/all" rel="noopener noreferrer" target="_blank">other shows just focus on a few characters even when they have a cast done as well as they have here</a></span>,
+and to see them develop all the characters equally as well and keep the humor going is something to be appreciated.
+
 </p>
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h114874"><a class="js_header-anchor" id=""></a>Amazing Adaptation</h4>
 <img alt src="./vfvcgnnd9dovozamdsjj.jpg"/>
@@ -78,8 +86,8 @@ oldArticle: true
   choices for the voice actors, as they do their respective roles really well and make the show feel more alive.</p>
 
 <img alt src="./x5vvrs3ni5ubbumdpdo0.png"/><p class="sc-77igqf-0 bOfvBY"> Gekkan Shoujo Nozaki-Kun is a comedy that does pretty much everything right by
-  focusing on what it does best, and using everything else to support that. This is a great comedy anime (now one of my
-  favorites!), and you should check it out.</p>
+focusing on what it does best, and using everything else to support that. This is a great comedy anime (now one of my
+favorites!), and you should check it out.</p>
 
 <img alt src="./vxd0gssjufkidsrakots.png"/>
 <hr class="gcp5ez-0 hKlTiw"/><p class="sc-77igqf-0 bOfvBY"><strong>Copyright Disclaimer:</strong> Under Title 17, Section

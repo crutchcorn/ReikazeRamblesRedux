@@ -1,12 +1,20 @@
 ---
 {
-title: "Rockmandash Reviews+: Tsukihime [Visual Novel]",
-tags: ["Rockmandash Reviews", "Ani-TAY", "Type-Moon", "Tay-Classic", "Tsukihime", "Review+", "Type-Moon Marathon"],
-authors: ['reikaze'],
-published: '2014-09-10T18:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews+: Tsukihime [Visual Novel]",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "Ani-TAY",
+      "Type-Moon",
+      "Tay-Classic",
+      "Tsukihime",
+      "Review+",
+      "Type-Moon Marathon",
+    ],
+  published: "2014-09-10T18:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -31,16 +39,17 @@ oldArticle: true
   story progresses, Shiki gradually discovers his mysterious past, and becomes implicated into strange adventures. </p>
 
 <img alt src="./1353797215826420003.png"/><p class="sc-77igqf-0 bOfvBY">In Tsukihime, there are 5 routes in total, which are separated into 2 scenerios: Near Side
-  of the Moon, and Far Side of the Moon. The Near Side of the Moon routes have Arcueid and Ciel’s routes, and these are
-  more about the actual plot. It’s fun with vampires, great action/romance writing, but with your Nasu twist on the
-  story with intruging questions of morality, world building and lore that can be matched by very few people, and lots
-  of other things that Nasu is known well for in F/SN, like the fight scenes. Near side of the moon is great and well
-  done... but when you start Far Side of the Moon, that’s when you find the more interesting writing. The Far Side of
-  the Moon has Akiha, Hisui and Kohaku’s routes (<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://s3.amazonaws.com/s3.roosterteeth.com/images/Rulebreaker48380ee7aec5a.jpg",{"metric25":1}]]' href="http://s3.amazonaws.com/s3.roosterteeth.com/images/Rulebreaker48380ee7aec5a.jpg" rel="noopener noreferrer" target="_blank">isn’t it sad Sacchan?</a></span>),
-  and is by far more out there. In the Far Side of the Moon, Tsukihime deals with the issues of the Tohno mansion...
-  which is quite a bit more interesting than you may expect. Shiki goes absolutely <strong>INSANE</strong> in almost
-  every Far side route, there are characters that appear that you would never expect, and some of the plot twists will
-  leave your mind blown. It’s trippy, it messes with your head, and it’s something I really enjoyed. </p>
+of the Moon, and Far Side of the Moon. The Near Side of the Moon routes have Arcueid and Ciel’s routes, and these are
+more about the actual plot. It’s fun with vampires, great action/romance writing, but with your Nasu twist on the
+story with intruging questions of morality, world building and lore that can be matched by very few people, and lots
+of other things that Nasu is known well for in F/SN, like the fight scenes. Near side of the moon is great and well
+done... but when you start Far Side of the Moon, that’s when you find the more interesting writing. The Far Side of
+the Moon has Akiha, Hisui and Kohaku’s routes (<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://s3.amazonaws.com/s3.roosterteeth.com/images/Rulebreaker48380ee7aec5a.jpg",{"metric25":1}]]' href="http://s3.amazonaws.com/s3.roosterteeth.com/images/Rulebreaker48380ee7aec5a.jpg" rel="noopener noreferrer" target="_blank">isn’t it sad Sacchan?</a></span>),
+and is by far more out there. In the Far Side of the Moon, Tsukihime deals with the issues of the Tohno mansion...
+which is quite a bit more interesting than you may expect. Shiki goes absolutely <strong>INSANE</strong> in almost
+every Far side route, there are characters that appear that you would never expect, and some of the plot twists will
+leave your mind blown. It’s trippy, it messes with your head, and it’s something I really enjoyed. </p>
+
 <p class="sc-77igqf-0 bOfvBY">Keep in mind that not all of Tsukihime is serious though: quite a bit of the game is
   a silly slice of life with entertaining humor. The switch in tone from slice of life is done masterfully, and both are
   very entertaining. It helps with the development of characters, and it’s something that adds lots of character to me.
@@ -71,16 +80,17 @@ oldArticle: true
 <img alt src="./1353797215996651811.png"/>
 
 <img alt src="./1353797216083499043.jpg"/><p class="sc-77igqf-0 bOfvBY">The Visuals in Tsukihime are very dated. Every time I look at it, I wish that the remakes
-  were out... it has not aged very well. Tsukihime came out in 2000, as a doujin. Knowing this, you can’t really expect
-  the most impressive visuals, but it’s been 14 years, and expectations change. It’s passable, with good character art
-  and OK backgrounds, but it’s definitely aged, with an antiquated UI and an “impressive” standard definition resolution
-  of 640x480. For the most part, the art itself is fine. Characters are detailed, almost everything is pleasing to the
-  eye, and it does the job... but it’s not the greatest and there’s been much better since. A minor nitpick I have with
-  the art though is that the backgrounds are just pictures, not drawn. To me this is very jarring, but it’s not
-  something that will ruin your experience. However, there is something relating to visuals that may ruin your
-  experience: this is an eroge... soo... <strong>CUE THE OBLIGATORY EROGE WARNING HERE. </strong>To me, this is like the
-  final nail on the coffin. At the time it was a necessary evil, but things have changed now, and I think it detracts
-  from the experience. </p>
+were out... it has not aged very well. Tsukihime came out in 2000, as a doujin. Knowing this, you can’t really expect
+the most impressive visuals, but it’s been 14 years, and expectations change. It’s passable, with good character art
+and OK backgrounds, but it’s definitely aged, with an antiquated UI and an “impressive” standard definition resolution
+of 640x480. For the most part, the art itself is fine. Characters are detailed, almost everything is pleasing to the
+eye, and it does the job... but it’s not the greatest and there’s been much better since. A minor nitpick I have with
+the art though is that the backgrounds are just pictures, not drawn. To me this is very jarring, but it’s not
+something that will ruin your experience. However, there is something relating to visuals that may ruin your
+experience: this is an eroge... soo... <strong>CUE THE OBLIGATORY EROGE WARNING HERE. </strong>To me, this is like the
+final nail on the coffin. At the time it was a necessary evil, but things have changed now, and I think it detracts
+from the experience. </p>
+
 <p class="sc-77igqf-0 bOfvBY">The presentation just doesn’t hold up. This is due for a remake, which is coming… we
   just don’t really know when, and there’s no real sign of progress. For now, the presentation is probably the largest
   barrier in this game, as it’s really dated.</p><h4 class="sc-1bwb26k-1 fvCjqJ" id="h117188"><a class="js_header-anchor" id=""></a>Visuals 5/10</h4>
@@ -98,17 +108,19 @@ oldArticle: true
 <img alt src="./1353797216284420387.png"/>
 
 <img alt src="./1353797216378977059.jpg"/><p class="sc-77igqf-0 bOfvBY">Tsukihime, with it’s character driven writing, has the potential to be better than
-  Fate/stay night, but as an experience, F/SN wins due to a more memorable story and the world building IMO. I like
-  Tsukihime’s story just as much as I like F/SN’s, but F/SN is a more enjoyable experience, with the more epic plot,
-  better music, and better visuals. Tsukihime is a much more character focused story (which has it’s pros and cons) with
-  better pacing, it deals with different themes that are equally as entertaining but are more unique (<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://www.lurkmore.com/w/images/9/9e/Thischair.jpg",{"metric25":1}]]' href="http://www.lurkmore.com/w/images/9/9e/Thischair.jpg" rel="noopener noreferrer" target="_blank">Insanity is fun</a></span>) and deals with tone better, but one thing that can be said is
-  that both were enjoyable and the writing was excellent. Honestly, if the visuals were at the same quality, I’d
-  probably like them equally as much, but I don’t.</p>
+Fate/stay night, but as an experience, F/SN wins due to a more memorable story and the world building IMO. I like
+Tsukihime’s story just as much as I like F/SN’s, but F/SN is a more enjoyable experience, with the more epic plot,
+better music, and better visuals. Tsukihime is a much more character focused story (which has it’s pros and cons) with
+better pacing, it deals with different themes that are equally as entertaining but are more unique (<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://www.lurkmore.com/w/images/9/9e/Thischair.jpg",{"metric25":1}]]' href="http://www.lurkmore.com/w/images/9/9e/Thischair.jpg" rel="noopener noreferrer" target="_blank">Insanity is fun</a></span>) and deals with tone better, but one thing that can be said is
+that both were enjoyable and the writing was excellent. Honestly, if the visuals were at the same quality, I’d
+probably like them equally as much, but I don’t.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h117190"><a class="js_header-anchor" id=""></a>Enjoyment - 7.75/10</h4>
 <img alt src="./1353797216464100643.png"/>
 
 <img alt src="./1353797216565622563.jpg"/><p class="sc-77igqf-0 bOfvBY"><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://tvtropes.org/pmwiki/pmwiki.php/Main/FanonDiscontinuity",{"metric25":1}]]' href="http://tvtropes.org/pmwiki/pmwiki.php/Main/FanonDiscontinuity" rel="noopener noreferrer" target="_blank">Let me get this straight. There is no Tsukihime anime.</a></span>
 <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://angryfreak.files.wordpress.com/2009/06/hisuisays.jpg",{"metric25":1}]]' href="http://angryfreak.files.wordpress.com/2009/06/hisuisays.jpg" rel="noopener noreferrer" target="_blank">This segment may talk things that relate to Tsukihime in an anime form... but it’s not real. </a></span>
+
 </p>
 <p class="sc-77igqf-0 bOfvBY">Let’s say that hypothetically, there’s a Tsukihime Anime that’s called Shingetsutan
   (Lunar Legend) Tsukihime, and is 12 episodes, adapted by J.C. staff. This hypothetical anime would be, by far the
@@ -133,7 +145,7 @@ oldArticle: true
 <img alt src="./1353797216779297059.png"/>
 
 <img alt src="./1353797216904867363.png"/><p class="sc-77igqf-0 bOfvBY">Also, Tsukihime has a direct sequel called Kagetsu Tohya, but i’ll be skipping that because
-  of this insane thing they call a flowchart.</p>
+of this insane thing they call a flowchart.</p>
 
 <img alt src="./1353797217007878435.png"/>
 <hr class="gcp5ez-0 hKlTiw"/><p class="sc-77igqf-0 bOfvBY"><strong>Copyright Disclaimer:</strong> Under Title 17, Section

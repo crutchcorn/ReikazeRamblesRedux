@@ -1,12 +1,11 @@
 ---
 {
-title: "Redstripe118: A Mental Primal Scream for Glasslip - Review",
-tags: [],
-authors: ['reikaze'],
-published: '2015-08-29T23:05:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Redstripe118: A Mental Primal Scream for Glasslip - Review",
+  tags: [],
+  published: "2015-08-29T23:05:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

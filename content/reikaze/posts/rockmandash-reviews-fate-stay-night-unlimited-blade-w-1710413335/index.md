@@ -1,12 +1,11 @@
 ---
 {
-title: "Rockmandash Reviews: Fate/stay night: Unlimited Blade Works (2010) [Anime Movie]",
-tags: ["AniTAY", "Unlimited Blade Works", "Fate", "Review"],
-authors: ['reikaze'],
-published: '2015-06-10T14:29:25-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Fate/stay night: Unlimited Blade Works (2010) [Anime Movie]",
+  tags: ["AniTAY", "Unlimited Blade Works", "Fate", "Review"],
+  published: "2015-06-10T14:29:25-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

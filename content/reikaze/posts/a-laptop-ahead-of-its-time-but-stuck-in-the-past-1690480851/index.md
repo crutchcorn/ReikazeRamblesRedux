@@ -1,12 +1,11 @@
 ---
 {
-title: "A Laptop Ahead of it's Time, but Stuck in the Past",
-tags: ["whitenoise"],
-authors: ['reikaze'],
-published: '2015-03-10T05:01:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "A Laptop Ahead of it's Time, but Stuck in the Past",
+  tags: ["whitenoise"],
+  published: "2015-03-10T05:01:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

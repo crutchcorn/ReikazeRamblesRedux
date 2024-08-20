@@ -1,12 +1,11 @@
 ---
 {
-title: "",
-tags: ["Ani-TAY Collaboration"],
-authors: ['reikaze'],
-published: '2015-10-16T02:00:25-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "",
+  tags: ["Ani-TAY Collaboration"],
+  published: "2015-10-16T02:00:25-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

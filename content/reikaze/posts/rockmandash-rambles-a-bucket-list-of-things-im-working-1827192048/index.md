@@ -1,12 +1,11 @@
 ---
 {
-title: "RockmanDash Rambles: A Bucket List of Things I'm Working On",
-tags: ["Rockmandash Rambles"],
-authors: ['reikaze'],
-published: '2018-06-27T19:22:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash Rambles: A Bucket List of Things I'm Working On",
+  tags: ["Rockmandash Rambles"],
+  published: "2018-06-27T19:22:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

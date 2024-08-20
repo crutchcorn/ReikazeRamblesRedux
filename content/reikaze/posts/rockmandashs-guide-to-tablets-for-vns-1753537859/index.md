@@ -1,12 +1,20 @@
 ---
 {
-title: "Rockmandash's Guide to Tablets for VNs",
-tags: ["Visual Novels", "Guide", "Rockmandash Rambles", "AniTAY", "On The Go", "Tablets", "FuwaReviews"],
-authors: ['reikaze'],
-published: '2016-01-24T01:30:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash's Guide to Tablets for VNs",
+  tags:
+    [
+      "Visual Novels",
+      "Guide",
+      "Rockmandash Rambles",
+      "AniTAY",
+      "On The Go",
+      "Tablets",
+      "FuwaReviews",
+    ],
+  published: "2016-01-24T01:30:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -77,26 +85,26 @@ oldArticle: true
   cramped in the desktop environment.</p>
 
 <img alt src="./ru8uefe1xjlzb4qsfmam.jpg"/><p class="sc-77igqf-0 bOfvBY">For VNs, 8 inches is my personal preference, because the compact size lets them
-  be light and easy to hold, making them perfect for entertainment and reading on the go, like a small novel. From my
-  experience, they work really well for especially visual novels because they are small and light so they are easy to
-  carry and play anywhere, but like mentioned earlier, not so great for other tasks. On the other end of the spectrum is
-  12 inches: too large to use in your hand really and you kinda need a kickstand to use it comfortably, but it’s the
-  popular size for convertibles because it’s plenty of screen real estate for getting work done in the windows
-  environment, and in regards to VNs, it’s more immersive. 10 inches are a mix of both, more comfortable in other
-  applications and more immersive, but manage to be usable in the hand and are portable, but you’ll probably want a
-  kickstand regardless. This is up to personal preference really, and whatever you need will influence you, but if you
-  are just using it for VNs, 8 inches is the best.</p>
+be light and easy to hold, making them perfect for entertainment and reading on the go, like a small novel. From my
+experience, they work really well for especially visual novels because they are small and light so they are easy to
+carry and play anywhere, but like mentioned earlier, not so great for other tasks. On the other end of the spectrum is
+12 inches: too large to use in your hand really and you kinda need a kickstand to use it comfortably, but it’s the
+popular size for convertibles because it’s plenty of screen real estate for getting work done in the windows
+environment, and in regards to VNs, it’s more immersive. 10 inches are a mix of both, more comfortable in other
+applications and more immersive, but manage to be usable in the hand and are portable, but you’ll probably want a
+kickstand regardless. This is up to personal preference really, and whatever you need will influence you, but if you
+are just using it for VNs, 8 inches is the best.</p>
 
 <img alt src="./sy5iil6j9y9xnbnzx97w.png"/><p class="sc-77igqf-0 bOfvBY">As for aspect ratios, that is the way the screen is shaped, the orientation of
-  pixels. There’s the more square 4:3, the wider 16:9, or stuff in between, and they influence how you experience them
-  by having massive black bars when dealing with content that isn’t the orientation. People like 4:3 for reading and
-  tablet apps in general, it’s the orientation of an iPad and people like 16:9 for watching stuff, but in relation to
-  Visual novels, base it on if you read older VNs more or if you read newer ones as a lot of older VNs are 4:3, and a
-  lot of newer ones are 16:9, which at the moment there are more 4:3 VNs out there but most people are probably more
-  used to 16:9. Idealistically, you’d want to get something in between like a 3:2 tablet, which will have bezels no
-  matter what visual novel you play but with smaller bezels in comparison to others, but you can count the number of
-  good 3:2 tablets on one hand and they’re expensive, so that’s kinda out of the question. Personally, I like the wider
-  16:9 aspect ratio in tablets but I’m a minority in the tech space, and this will come to personal preference.</p>
+pixels. There’s the more square 4:3, the wider 16:9, or stuff in between, and they influence how you experience them
+by having massive black bars when dealing with content that isn’t the orientation. People like 4:3 for reading and
+tablet apps in general, it’s the orientation of an iPad and people like 16:9 for watching stuff, but in relation to
+Visual novels, base it on if you read older VNs more or if you read newer ones as a lot of older VNs are 4:3, and a
+lot of newer ones are 16:9, which at the moment there are more 4:3 VNs out there but most people are probably more
+used to 16:9. Idealistically, you’d want to get something in between like a 3:2 tablet, which will have bezels no
+matter what visual novel you play but with smaller bezels in comparison to others, but you can count the number of
+good 3:2 tablets on one hand and they’re expensive, so that’s kinda out of the question. Personally, I like the wider
+16:9 aspect ratio in tablets but I’m a minority in the tech space, and this will come to personal preference.</p>
 
 <hr class="gcp5ez-0 hKlTiw"/><h2 class="sc-1bwb26k-1 fvCjqJ" id="h113248"><a class="js_header-anchor" id=""></a>Performance
 </h2>
@@ -180,25 +188,26 @@ oldArticle: true
 </p>
 
 <img alt src="./l7qqwlgmly02b8b3xfal.jpg"/><p class="sc-77igqf-0 bOfvBY"><strong>The Traditional Tablet-</strong><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://techtablets.com/chuwi-hi10/review/",{"metric25":1}]]' href="http://techtablets.com/chuwi-hi10/review/" rel="noopener noreferrer" target="_blank"><strong> Chuwi Hi10</strong></a></span><strong> (~180): </strong>If 4:3 on a windows tablet
-  seems like a weird idea and you’re looking for a more traditional experience, the Chuwi Hi10 is a great option, just
-  sitting under 200. It’s a tablet that provides one of the most complete tablet experiences with full sized usb ports,
-  video out, and a great 16:10 1920x1200 display, and it all adds up to a tablet that really punches above it’s weight
-  class. If you’re interested, <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://shrsl.com/?~b63s",{"metric25":1}]]' href="http://shrsl.com/?~b63s" rel="noopener noreferrer" target="_blank">here’s the link to buy it</a></span>.
+seems like a weird idea and you’re looking for a more traditional experience, the Chuwi Hi10 is a great option, just
+sitting under 200. It’s a tablet that provides one of the most complete tablet experiences with full sized usb ports,
+video out, and a great 16:10 1920x1200 display, and it all adds up to a tablet that really punches above it’s weight
+class. If you’re interested, <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://shrsl.com/?~b63s",{"metric25":1}]]' href="http://shrsl.com/?~b63s" rel="noopener noreferrer" target="_blank">here’s the link to buy it</a></span>.
+
 </p>
 
 <img alt src="./z32b8v9rl0kn5pi7oxkc.jpg"/><p class="sc-77igqf-0 bOfvBY"><strong> The Budget Beast With a Pen- </strong><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://techtablets.com/cube-i7-stylus/review/",{"metric25":1}]]' href="http://techtablets.com/cube-i7-stylus/review/" rel="noopener noreferrer" target="_blank"><strong>Cube i7 Stylus</strong></a></span><strong> (~$350): </strong>If you saw the Surface
-  3 and thought it would be way better with a faster processor or was too much, the Cube i7 stylus is for you! It’s
-  essentially a budget Surface 2 - it has the same 10.6 inch 1080p display with wacom stylus support, but where it
-  differs is it has Core M, but that shouldn’t be too much of an issue as it will do pretty much all the normal tasks
-  you can throw at it along with some light gaming. Really, it’s pretty amazing what these tablets are for the money,
-  it’s specs are kind of amazing for what it is. If you’re interested,<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://www.shareasale.com/r.cfm?u=1190339&amp;b=573201&amp;m=52031&amp;afftrack=&amp;urllink=www%2Egearbest%2Ecom%2Ftablet%2Dpcs%2Fpp%5F227132%2Ehtml",{"metric25":1}]]' href="http://www.shareasale.com/r.cfm?u=1190339&amp;b=573201&amp;m=52031&amp;afftrack=&amp;urllink=www%2Egearbest%2Ecom%2Ftablet%2Dpcs%2Fpp%5F227132%2Ehtml" rel="noopener noreferrer" target="_blank"> here’s the link to buy it</a></span>.</p>
+3 and thought it would be way better with a faster processor or was too much, the Cube i7 stylus is for you! It’s
+essentially a budget Surface 2 - it has the same 10.6 inch 1080p display with wacom stylus support, but where it
+differs is it has Core M, but that shouldn’t be too much of an issue as it will do pretty much all the normal tasks
+you can throw at it along with some light gaming. Really, it’s pretty amazing what these tablets are for the money,
+it’s specs are kind of amazing for what it is. If you’re interested,<span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://www.shareasale.com/r.cfm?u=1190339&amp;b=573201&amp;m=52031&amp;afftrack=&amp;urllink=www%2Egearbest%2Ecom%2Ftablet%2Dpcs%2Fpp%5F227132%2Ehtml",{"metric25":1}]]' href="http://www.shareasale.com/r.cfm?u=1190339&amp;b=573201&amp;m=52031&amp;afftrack=&amp;urllink=www%2Egearbest%2Ecom%2Ftablet%2Dpcs%2Fpp%5F227132%2Ehtml" rel="noopener noreferrer" target="_blank"> here’s the link to buy it</a></span>.</p>
 
 <img alt src="./p0euuxsf8oaga901j1zj.png"/><p class="sc-77igqf-0 bOfvBY"><strong>The Premium 10 inch tablet - </strong><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","http://gizmodo.com/microsoft-surface-3-review-the-tablet-i-want-at-the-pr-1696598172",{"metric25":1}]]' href="http://gizmodo.com/microsoft-surface-3-review-the-tablet-i-want-at-the-pr-1696598172"><strong>Microsoft Surface 3</strong></a></span><strong>
-  (~$500, Keyboard is an Extra $125): </strong>Microsoft really knows what they’re doing with their tablets. While
-  you’re spending a bit more money for this one in comparison to the Chinese tablets mentioned earlier, you’re getting a
-  device that windows was really designed for, a well thought out 2 in 1 that has the ideal 3:2 aspect ratio, built in
-  pen support, one of the coolest and best designed keyboards for tablets out there, and a polish you won’t find from
-  most OEMs. If you’re interested, here’s the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://www.microsoftstore.com/store/msusa/en_US/pdp/productID.314885500?icid=en_US_Surface3_cat_modG_010316",{"metric25":1}]]' href="http://www.microsoftstore.com/store/msusa/en_US/pdp/productID.314885500?icid=en_US_Surface3_cat_modG_010316" rel="noopener noreferrer" target="_blank">Microsoft store link</a></span>.</p>
+(~$500, Keyboard is an Extra $125): </strong>Microsoft really knows what they’re doing with their tablets. While
+you’re spending a bit more money for this one in comparison to the Chinese tablets mentioned earlier, you’re getting a
+device that windows was really designed for, a well thought out 2 in 1 that has the ideal 3:2 aspect ratio, built in
+pen support, one of the coolest and best designed keyboards for tablets out there, and a polish you won’t find from
+most OEMs. If you’re interested, here’s the <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://www.microsoftstore.com/store/msusa/en_US/pdp/productID.314885500?icid=en_US_Surface3_cat_modG_010316",{"metric25":1}]]' href="http://www.microsoftstore.com/store/msusa/en_US/pdp/productID.314885500?icid=en_US_Surface3_cat_modG_010316" rel="noopener noreferrer" target="_blank">Microsoft store link</a></span>.</p>
 
 <hr class="gcp5ez-0 hKlTiw"/><h3 class="sc-1bwb26k-1 fvCjqJ" id="h113254"><a class="js_header-anchor" id=""></a>12 Inch
   Tablets - 2 in 1's, Essentially a Laptop with removable Keyboards (Get the Keyboards):</h3>

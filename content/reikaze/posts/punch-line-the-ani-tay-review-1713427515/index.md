@@ -1,12 +1,20 @@
 ---
 {
-title: "Punch Line : The Ani-TAY Review",
-tags: ["Rockmandash Reviews", "Punch Line", "Spring 2015", "AniTAY", "The Ani-TAY Review", "Review", "Tayclassic"],
-authors: ['reikaze'],
-published: '2015-06-25T18:30:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Punch Line : The Ani-TAY Review",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "Punch Line",
+      "Spring 2015",
+      "AniTAY",
+      "The Ani-TAY Review",
+      "Review",
+      "Tayclassic",
+    ],
+  published: "2015-06-25T18:30:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -33,11 +41,11 @@ oldArticle: true
   the secrets to why Earth will be destroyed and tries to save it!</em></p></blockquote>
 
 <img alt src="./1313950704267840357.png"/><p class="sc-77igqf-0 bOfvBY">Given that, you would assume the show is about looking at panties, but it’s not.
-  Written by Kotarou Uchikoshi of <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","https://kotaku.com/why-zero-escape-virtues-last-reward-should-be-game-of-5972462",{"metric25":1}]]' href="https://kotaku.com/why-zero-escape-virtues-last-reward-should-be-game-of-5972462"><em>Zero Escape </em></a></span>Fame,<em>
-    Punch Line</em> starts out as this ecchi show but turns into a SciFi show about the world ending due to the Qmay
-  group hurling an astroid into the earth with the members of the Korai house trying to stop them. Full of twists,
-  character development and interesting elements like time travel and body switching, this show has a meaningful story
-  and one that is well written, well executed and a joy to watch.</p>
+Written by Kotarou Uchikoshi of <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","Internal link","https://kotaku.com/why-zero-escape-virtues-last-reward-should-be-game-of-5972462",{"metric25":1}]]' href="https://kotaku.com/why-zero-escape-virtues-last-reward-should-be-game-of-5972462"><em>Zero Escape </em></a></span>Fame,<em>
+Punch Line</em> starts out as this ecchi show but turns into a SciFi show about the world ending due to the Qmay
+group hurling an astroid into the earth with the members of the Korai house trying to stop them. Full of twists,
+character development and interesting elements like time travel and body switching, this show has a meaningful story
+and one that is well written, well executed and a joy to watch.</p>
 
 <aside class="sc-1rh3ayr-6 jfFNjl inset--story branded-item branded-item--kotaku" data-commerce-source="inset"><a class="sc-1out364-0 hMndXN sc-1rh3ayr-2 lnnjIC inset--story__thumb js_link" data-ga='[["Permalink page click","Permalink page click - inset photo"]]' href="https://kotaku.com/why-zero-escape-virtues-last-reward-should-be-game-of-5972462" rel="noopener noreferrer" target="_blank">
 <img alt src="./18acwizrqrnk5jpg.jpg"/>
@@ -174,10 +182,11 @@ oldArticle: true
 <img alt src="./1313950705304356453.png"/>
 
 <img alt src="./1313950705382471269.png"/><p class="sc-77igqf-0 bOfvBY"><em>Punch Line</em> is an odd show, acting like an ecchi show turned <em>Zero Escape:
-  Lite</em>, taking everything Uchkoshi typically does well and watering it down to fit the type of show it is, but not
-  at the same time. Of course, because it’s an Uchikoshi work the writing is as great as usual, it’s fun to go through
-  and the plot is engaging, but there’s some core issues that may keep you from enjoying this show. Personally? I liked
-  it for the most part, but was kinda disappointed in some aspects. Your mileage may vary.</p>
+Lite</em>, taking everything Uchkoshi typically does well and watering it down to fit the type of show it is, but not
+at the same time. Of course, because it’s an Uchikoshi work the writing is as great as usual, it’s fun to go through
+and the plot is engaging, but there’s some core issues that may keep you from enjoying this show. Personally? I liked
+it for the most part, but was kinda disappointed in some aspects. Your mileage may vary.</p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h105562"><a class="js_header-anchor" id=""></a>Overall - 8.25/10, Polarization
   +1, -2.75</h4>
 <img alt src="./1313950705503707237.png"/>

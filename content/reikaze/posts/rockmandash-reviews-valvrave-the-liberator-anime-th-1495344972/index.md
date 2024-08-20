@@ -1,12 +1,20 @@
 ---
 {
-title: "Rockmandash Reviews: Valvrave the Liberator [Anime]",
-tags: ["rockmandash reviews", "valvrave", "valvrave the liberator", "anime", "tayclassic", "trainwreck", "ani-tay"],
-authors: ['reikaze'],
-published: '2014-01-06T01:30:00-05:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Valvrave the Liberator [Anime]",
+  tags:
+    [
+      "rockmandash reviews",
+      "valvrave",
+      "valvrave the liberator",
+      "anime",
+      "tayclassic",
+      "trainwreck",
+      "ani-tay",
+    ],
+  published: "2014-01-06T01:30:00-05:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

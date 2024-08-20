@@ -1,12 +1,18 @@
 ---
 {
-title: "Unlimited Entertainment Works",
-tags: ["Tayclassic", "I'm bored", "FSN", "Unlimited Blade Works", "Entertainment"],
-authors: ['reikaze'],
-published: '2014-06-12T18:18:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Unlimited Entertainment Works",
+  tags:
+    [
+      "Tayclassic",
+      "I'm bored",
+      "FSN",
+      "Unlimited Blade Works",
+      "Entertainment",
+    ],
+  published: "2014-06-12T18:18:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

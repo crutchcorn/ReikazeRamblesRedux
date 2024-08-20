@@ -1,12 +1,20 @@
 ---
 {
-title: "Nanana's Buried Treasure : Rockmandash's Ani-TAY Review",
-tags: ["rockmandash reviews", "nanana", "nanana buried treasure", "tay-classic", "anitay", "reviews", "ani-tay"],
-authors: ['reikaze'],
-published: '2014-06-20T15:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Nanana's Buried Treasure : Rockmandash's Ani-TAY Review",
+  tags:
+    [
+      "rockmandash reviews",
+      "nanana",
+      "nanana buried treasure",
+      "tay-classic",
+      "anitay",
+      "reviews",
+      "ani-tay",
+    ],
+  published: "2014-06-20T15:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -62,21 +70,21 @@ oldArticle: true
   there, and I really liked most of them.</p>
 
 <img alt src="./wznkg8sytjsa2x2nurxj.png"/><h3 class="sc-1bwb26k-1 fvCjqJ" id="h120365"><a class="js_header-anchor" id=""></a>Flip Flopping Tone</h3><p class="sc-77igqf-0 bOfvBY"> The tone of a show is a very important element of a show, something that can make or break
-  a show. Unfortunately, In Nanana, the tone of the story's level of consistency is equivalent to the chances of the
-  Xbox 360 towel trick working for extended periods of time (it's not that high). The show starts off as you would
-  expect, very character driven and slice of life-esque, with some cool puzzle/treasure scenes, with some pretty
-  lighthearted writing. Episode 4 goes <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://rockmandash12.kinja.com/rockmandash-reviews-fate-zero-ani-tay-1538163593",{"metric25":1}]]' href="https://rockmandash12.kinja.com/rockmandash-reviews-fate-zero-ani-tay-1538163593" rel="noopener noreferrer" target="_blank">Fate/Zero</a></span> on you,
-  with a dark atmosphere, epic fight scenes, orchestral music, and turns very ideal focused. After Episode 4, it tries
-  to balance itself between each two, and fails. While these can shine separately, put together makes it nowhere as
-  enjoyable as it needs to be. I loved episode 4. Episode 4 is the reason why I am writing this review, but the later
-  episodes continue a trend of flipping back and forth between a dark or lighthearted plot which it kills any momentum
-  this show had. It leaves you wishing for two different things, and you don't get either. A part of me wants to see the
-  main character continuing to reveal his epic past, with awesome dilemmas occurring in the way, while another part of
-  me just wants to see characters having fun and solving puzzles. By themselves, they work excellently, but meshed like
-  this is horrible because you can never expect which tone they will use, and the transition between slice of life and
-  the epic tone just DOES NOT WORK. They get in the way of each other, and they ruin the show. Worse is when they try to
-  do both at the same time and it just becomes boring. To me, a focused story is better than a story that tries to do
-  everything, and that's where Nanana falls flat on it's face. </p>
+a show. Unfortunately, In Nanana, the tone of the story's level of consistency is equivalent to the chances of the
+Xbox 360 towel trick working for extended periods of time (it's not that high). The show starts off as you would
+expect, very character driven and slice of life-esque, with some cool puzzle/treasure scenes, with some pretty
+lighthearted writing. Episode 4 goes <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","https://rockmandash12.kinja.com/rockmandash-reviews-fate-zero-ani-tay-1538163593",{"metric25":1}]]' href="https://rockmandash12.kinja.com/rockmandash-reviews-fate-zero-ani-tay-1538163593" rel="noopener noreferrer" target="_blank">Fate/Zero</a></span> on you,
+with a dark atmosphere, epic fight scenes, orchestral music, and turns very ideal focused. After Episode 4, it tries
+to balance itself between each two, and fails. While these can shine separately, put together makes it nowhere as
+enjoyable as it needs to be. I loved episode 4. Episode 4 is the reason why I am writing this review, but the later
+episodes continue a trend of flipping back and forth between a dark or lighthearted plot which it kills any momentum
+this show had. It leaves you wishing for two different things, and you don't get either. A part of me wants to see the
+main character continuing to reveal his epic past, with awesome dilemmas occurring in the way, while another part of
+me just wants to see characters having fun and solving puzzles. By themselves, they work excellently, but meshed like
+this is horrible because you can never expect which tone they will use, and the transition between slice of life and
+the epic tone just DOES NOT WORK. They get in the way of each other, and they ruin the show. Worse is when they try to
+do both at the same time and it just becomes boring. To me, a focused story is better than a story that tries to do
+everything, and that's where Nanana falls flat on it's face. </p>
 
 <aside class="sc-1rh3ayr-6 jfFNjl inset--story branded-item branded-item--kinja" data-commerce-source="inset"><a class="sc-1out364-0 hMndXN sc-1rh3ayr-2 lcMGRt inset--story__thumb js_link" data-ga='[["Permalink page click","Permalink page click - inset photo"]]' href="https://rockmandash12.kinja.com/rockmandash-reviews-fate-zero-ani-tay-1538163593" rel="noopener noreferrer" target="_blank">
 <img alt src="./1313360469141877283.png"/>
@@ -97,10 +105,11 @@ oldArticle: true
   plot.</p>
 
 <img alt src="./776129446382486819.png"/><p class="sc-77igqf-0 bOfvBY"> This show can be a lot of fun, and it can be very epic. You may come out of this show
-  loving every bit of it, or hating it. The fact that it's shooting itself in the face and ruining any interest you
-  might have in the plot is a painful experience to watch, but when done right, it's done very well. If this was two
-  separate shows, it would be the greatest thing since sliced bread. But it's not. As such, I leave you with a warning
-  with this show; you will love it, or hate it. Personally, It left a bitter taste in my mouth.</p>
+loving every bit of it, or hating it. The fact that it's shooting itself in the face and ruining any interest you
+might have in the plot is a painful experience to watch, but when done right, it's done very well. If this was two
+separate shows, it would be the greatest thing since sliced bread. But it's not. As such, I leave you with a warning
+with this show; you will love it, or hate it. Personally, It left a bitter taste in my mouth.</p>
+
 <h3 class="sc-1bwb26k-1 fvCjqJ" id="h120367"><a class="js_header-anchor" id=""></a>Overall 6/10; Polarization +2
   -2</h3>
 <img alt src="./onvvq2rncayuezydvvzx.png"/>

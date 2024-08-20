@@ -1,12 +1,20 @@
 ---
 {
-title: "AniTAY Winter 2015 Seasonal Overview",
-tags: ["AniTAY", "Tayclassic", "Observation Deck", "Winter 2015", "Winter", "Seasonal Overview", "Guide"],
-authors: ['reikaze'],
-published: '2015-04-16T13:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "AniTAY Winter 2015 Seasonal Overview",
+  tags:
+    [
+      "AniTAY",
+      "Tayclassic",
+      "Observation Deck",
+      "Winter 2015",
+      "Winter",
+      "Seasonal Overview",
+      "Guide",
+    ],
+  published: "2015-04-16T13:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -239,9 +247,10 @@ oldArticle: true
   said, if it sounds like it's your cup of tea, you'd probably enjoy it.</p>
 
 <img alt src="./gurbi39atdbkuk4ol1xp.jpg"/><p class="sc-77igqf-0 bOfvBY"><em>JoJo's Bizzare Adventure: Stardust Crusaders </em>is a continuation of
-  everything you love about <em>JoJo's Bizarre Adventure</em>. From the dramatic poses, the rapid color palate switches
-  to the over-the-top enemies and powers, JoJo is as bizarre as we have come to expect. And look, Dio is back! Well,
-  kind of….</p>
+everything you love about <em>JoJo's Bizarre Adventure</em>. From the dramatic poses, the rapid color palate switches
+to the over-the-top enemies and powers, JoJo is as bizarre as we have come to expect. And look, Dio is back! Well,
+kind of….</p>
+
 <p class="sc-77igqf-0 bOfvBY"><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/kamisama-kiss-the-ani-tay-review-1695371688",{"metric25":1}]]' href="http://anitay.kinja.com/kamisama-kiss-the-ani-tay-review-1695371688" rel="noopener noreferrer" target="_blank"><em>Kamisama</em></a></span><em> </em><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/kamisama-kiss-the-ani-tay-review-1695433891",{"metric25":1}]]' href="http://anitay.kinja.com/kamisama-kiss-the-ani-tay-review-1695433891" rel="noopener noreferrer" target="_blank"><em>Kiss</em></a></span> is a supernatural shoujo for those that enjoy a slow paced show
   that still manages good character development in spite of only having twelve episodes to work with. The comedic time
   is well done, the animation is soft and clean, and the soundtrack is pleasantly soothing; all of which successfully
@@ -283,12 +292,13 @@ oldArticle: true
   innuendo, <em>Maria the Virgin Witch</em> stands as a fun and exciting tale.</p>
 
 <img alt src="./1210889979370459792.jpg"/><p class="sc-77igqf-0 bOfvBY"><span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/the-rolling-girls-the-ani-tay-review-1697621417",{"metric25":1}]]' href="http://anitay.kinja.com/the-rolling-girls-the-ani-tay-review-1697621417" rel="noopener noreferrer" target="_blank"><em>The Rolling Girls</em></a></span>
-  is simply gorgeous, a visual treat from start to finish. Just look at those watercolor backgrounds! I already miss
-  them! With silky smooth animation and an excellent soundtrack your senses will be glad you watched this show. At first
-  <em>Rolling Girls</em> looked to be an action heavy over-the-top beat-em-up a la <em>Kill la Kill,</em> just with less
-  blood and skin, instead we got a superpower infused slice of life about four friends on the road trip of a lifetime.
-  As these friends struggle to figure out how to make a difference in the world with no superpowers to call their own we
-  get to experience a fun little journey worth taking. This show also contains the cutest octopus ever.</p>
+is simply gorgeous, a visual treat from start to finish. Just look at those watercolor backgrounds! I already miss
+them! With silky smooth animation and an excellent soundtrack your senses will be glad you watched this show. At first
+<em>Rolling Girls</em> looked to be an action heavy over-the-top beat-em-up a la <em>Kill la Kill,</em> just with less
+blood and skin, instead we got a superpower infused slice of life about four friends on the road trip of a lifetime.
+As these friends struggle to figure out how to make a difference in the world with no superpowers to call their own we
+get to experience a fun little journey worth taking. This show also contains the cutest octopus ever.</p>
+
 <p class="sc-77igqf-0 bOfvBY">Have you ever wondered what would happen if Team Rocket were the good guys and Ash
   and the gang was the bad guys? <em>Yatterman Night</em> handles the inversion with it's universe's equivalent quite
   well, By executing juxtaposition in a way that engages the audience with both humor and drama, and it's a blast. That

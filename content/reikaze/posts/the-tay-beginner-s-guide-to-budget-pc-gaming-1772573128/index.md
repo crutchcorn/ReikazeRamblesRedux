@@ -1,12 +1,19 @@
 ---
 {
-title: "The TAY Beginner’s Guide to Budget PC Gaming *UPDATED*",
-tags: ["Rockmandash Rambles", "TAY Guide", "PC", "Hardware", "Budget Gaming", "Tayclassic"],
-authors: ['reikaze'],
-published: '2016-04-22T20:05:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "The TAY Beginner’s Guide to Budget PC Gaming *UPDATED*",
+  tags:
+    [
+      "Rockmandash Rambles",
+      "TAY Guide",
+      "PC",
+      "Hardware",
+      "Budget Gaming",
+      "Tayclassic",
+    ],
+  published: "2016-04-22T20:05:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

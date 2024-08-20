@@ -1,12 +1,20 @@
 ---
 {
-title: "Rockmandash Reviews: Durarara!!x2 [Anime]",
-tags: ["Rockmandash Reviews", "AniTAY", "The AniTAY Review", "Durarara!!", "Winter 2016", "Winter 2015", "Summer 2015"],
-authors: ['reikaze'],
-published: '2016-03-26T14:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash Reviews: Durarara!!x2 [Anime]",
+  tags:
+    [
+      "Rockmandash Reviews",
+      "AniTAY",
+      "The AniTAY Review",
+      "Durarara!!",
+      "Winter 2016",
+      "Winter 2015",
+      "Summer 2015",
+    ],
+  published: "2016-03-26T14:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -25,10 +33,11 @@ oldArticle: true
 <img alt src="./rrxfnv1u0spytnghulet.png"/>
 
 <img alt src="./w8zcdj8splmxgsbj5ir0.png"/><p class="sc-77igqf-0 bOfvBY">Durarara!!X2 is the second season of <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga='[["Embedded Url","External link","http://anitay.kinja.com/rockmandash-reviews-durarara-anime-1665959528",{"metric25":1}]]' href="http://anitay.kinja.com/rockmandash-reviews-durarara-anime-1665959528" rel="noopener noreferrer" target="_blank">Durarara</a></span>, and we are back again for fun with a massive ensemble cast in the crazy
-  town of Ikebukuro. Seeing a show get a sequel years after it’s aired is always nice, and brings hope that other shows
-  may follow. <em>Durarara!! X2 </em>is a show with a an ensemble cast character drama with romance, pure comedy,
-  supernatural aspects, gang wars, and anything else you can really imagine, and while the show aims to keep up with
-  season one, it mostly lags behind.<br/></p>
+town of Ikebukuro. Seeing a show get a sequel years after it’s aired is always nice, and brings hope that other shows
+may follow. <em>Durarara!! X2 </em>is a show with a an ensemble cast character drama with romance, pure comedy,
+supernatural aspects, gang wars, and anything else you can really imagine, and while the show aims to keep up with
+season one, it mostly lags behind.<br/></p>
+
 <p class="sc-77igqf-0 bOfvBY"><em>Durarara!!X2</em>, like it’s predecessor, takes place in Tokyo’s downtown
   district of Ikebukuro, an interesting yet dangerous town where many unusual things happen, and the crazy train only
   continues with this season. With cursed blades, headless dullahans, gang wars and people with superhuman strength,
@@ -54,24 +63,26 @@ oldArticle: true
   significantly worse off because of it.</p>
 
 <img alt src="./hfulp4kltthgbtaxvpcr.png"/><p class="sc-77igqf-0 bOfvBY">I’d argued in season one, because they used most of their cast really well in
-  season one by balancing the time spent with each character, the show made it’s cast feel small. Season 2 does not do
-  this. The characters that you know and love from season one are still a blast to watch, but mixed in with the
-  relatively underdeveloped cast in this show, it’s hard to say the characters are a strong point for this season. The
-  new cast is huge to the point that I think it’s too big to really get to know the new characters well to the point
-  someone would care for them, and too big to see how our old favorites are doing, which results in a less than ideal
-  experience. For an example, we don’t really see much of Simon from Russia Sushi throughout the season, and the only
-  really memorable scene with him was late into the third cour, which is not a lot of time. Less characters and a better
-  use of said characters would have gone a long way in making the show more enjoyable, as much as season one, but the
-  ones we do spend time with are still great, and it’s still enjoyable.<br/></p>
+season one by balancing the time spent with each character, the show made it’s cast feel small. Season 2 does not do
+this. The characters that you know and love from season one are still a blast to watch, but mixed in with the
+relatively underdeveloped cast in this show, it’s hard to say the characters are a strong point for this season. The
+new cast is huge to the point that I think it’s too big to really get to know the new characters well to the point
+someone would care for them, and too big to see how our old favorites are doing, which results in a less than ideal
+experience. For an example, we don’t really see much of Simon from Russia Sushi throughout the season, and the only
+really memorable scene with him was late into the third cour, which is not a lot of time. Less characters and a better
+use of said characters would have gone a long way in making the show more enjoyable, as much as season one, but the
+ones we do spend time with are still great, and it’s still enjoyable.<br/></p>
+
 <h4 class="sc-1bwb26k-1 fvCjqJ" id="h109831"><a class="js_header-anchor" id=""></a>Writing - 7/10</h4>
 <hr class="gcp5ez-0 hKlTiw"/>
 <img alt src="./npayd7juce8uvrcjcs7h.png"/>
 
 <img alt src="./l2vhndk287lkr6t0gi66.png"/><p class="sc-77igqf-0 bOfvBY">If there’s something to take away from this though, that enjoyable aspect is
-  really the sticking point, because if there’s one thing that will never falter, it’s<em> Durarara!!’</em>s ability to
-  put a smile on your face (unless you didn’t like it from the start). Even though X2 is slow early on and it has a
-  variety of things that may bother you, it’s still a show that is fun to watch week by week. If you asked me, this is a
-  testament to how well they know how to entertain the viewer. Like I said before,<br/></p>
+really the sticking point, because if there’s one thing that will never falter, it’s<em> Durarara!!’</em>s ability to
+put a smile on your face (unless you didn’t like it from the start). Even though X2 is slow early on and it has a
+variety of things that may bother you, it’s still a show that is fun to watch week by week. If you asked me, this is a
+testament to how well they know how to entertain the viewer. Like I said before,<br/></p>
+
 <p class="sc-77igqf-0 bOfvBY"><em>Durarara!! </em>is a show that’s geared for your enjoyment, and it satisfies
   this exceedingly well. It’s an experience that’s loads of fun, a show that is a blast every time I see it. All of the
   aspects build up to create an experience that feels alive, feels magical and it’s something I appreciate. I get

@@ -1,12 +1,19 @@
 ---
 {
-title: "Kanojo ga Flag wo Oraretara : Rockmandash's Ani-TAY Review",
-tags: ["rockmandash reviews", "flag", "kanojo ga flag wo oredera", "ani-tay", "tay-classic", "review"],
-authors: ['reikaze'],
-published: '2014-07-02T16:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Kanojo ga Flag wo Oraretara : Rockmandash's Ani-TAY Review",
+  tags:
+    [
+      "rockmandash reviews",
+      "flag",
+      "kanojo ga flag wo oredera",
+      "ani-tay",
+      "tay-classic",
+      "review",
+    ],
+  published: "2014-07-02T16:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -75,10 +82,10 @@ oldArticle: true
   into the show.</p>
 
 <img alt src="./781430448382391467.png"/><p class="sc-77igqf-0 bOfvBY"> To make it even worse, because they try to throw in a darker plot, they start <strong>ignoring
-  the reason why you are watching this show in the first place...</strong> hilarious flag antics. Other than the first
-  few episodes, the flags get pushed to the side and forgotten. The show focuses on the characters and tries to be more
-  serious, which can work, as shown in TWGOK, but it just doesn't work here due to poor writing, and the fact that it
-  abandoned why it was good in the first place. Very poor writing.</p>
+the reason why you are watching this show in the first place...</strong> hilarious flag antics. Other than the first
+few episodes, the flags get pushed to the side and forgotten. The show focuses on the characters and tries to be more
+serious, which can work, as shown in TWGOK, but it just doesn't work here due to poor writing, and the fact that it
+abandoned why it was good in the first place. Very poor writing.</p>
 
 <hr class="gcp5ez-0 hKlTiw"/><h4 class="sc-1bwb26k-1 fvCjqJ" id="h116204"><a class="js_header-anchor" id=""></a>Ending
 </h4><p class="sc-77igqf-0 bOfvBY"><strong>*SPOILERS HERE, SO READ THIS WITH CAUTION. SKIP THIS IF YOU HAVEN'T SEEN THE
@@ -92,9 +99,10 @@ oldArticle: true
   ending can be best described as an excuse, and it was bad.</p>
 
 <img alt src="./i8yftfxv9tmjlrjks28p.png"/><p class="sc-77igqf-0 bOfvBY"> When I started to watch Flag, I came in expecting a show about... well, Flags.
-  Flag gave us flags at the beginning, and it was glorious, but unfortunately, later on in the show, it dropped the
-  reason why I was even interested in this show, fun times with flags, then it went Deus Ex Machina on us. I'm
-  disappointed with flag, and it is a bundle of missed potential. </p>
+Flag gave us flags at the beginning, and it was glorious, but unfortunately, later on in the show, it dropped the
+reason why I was even interested in this show, fun times with flags, then it went Deus Ex Machina on us. I'm
+disappointed with flag, and it is a bundle of missed potential. </p>
+
 <h3 class="sc-1bwb26k-1 fvCjqJ" id="h116205"><a class="js_header-anchor" id=""></a>Overall - 6/10 Polarization +2,
   -2</h3>
 <img alt src="./vqcsnq4zijfyuoxkapwh.png"/>

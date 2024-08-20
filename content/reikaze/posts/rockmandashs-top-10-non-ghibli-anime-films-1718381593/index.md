@@ -1,12 +1,33 @@
 ---
 {
-title: "RockmanDash's Top 10 Non-Ghibli Anime Films",
-tags: ["Top 10", "Top Lists", "RockanDash Rambles", "Rockmandash", "Non-Ghibli Movies", "Anime", "Akira", "Kara no Kyoukai", "Redline", "Perfect Blue", "Satoshi Kon", "Jin Roh", "Disappearance of Haruhi Suzumiya", "Wolf Children", "Patema Inverted", "FMA", "Trigun", "Cowboy Bebop", "Tayclassic", "AniTAY"],
-authors: ['reikaze'],
-published: '2015-09-21T12:00:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "RockmanDash's Top 10 Non-Ghibli Anime Films",
+  tags:
+    [
+      "Top 10",
+      "Top Lists",
+      "RockanDash Rambles",
+      "Rockmandash",
+      "Non-Ghibli Movies",
+      "Anime",
+      "Akira",
+      "Kara no Kyoukai",
+      "Redline",
+      "Perfect Blue",
+      "Satoshi Kon",
+      "Jin Roh",
+      "Disappearance of Haruhi Suzumiya",
+      "Wolf Children",
+      "Patema Inverted",
+      "FMA",
+      "Trigun",
+      "Cowboy Bebop",
+      "Tayclassic",
+      "AniTAY",
+    ],
+  published: "2015-09-21T12:00:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
@@ -144,15 +165,16 @@ oldArticle: true
   discover the secret that keeps their worlds apart. - <em> Plot Description from MAL</em></p>
 
 <img alt src="./1447855651743221288.jpg"/><p class="sc-77igqf-0 bOfvBY"><strong>Justification &amp; Thoughts: </strong>From another writer and director
-  who’s primarily done anime films that’s highly acclaimed, we have Yasuhiro Yoshiura’s <em>Patema Inverted</em>, a very
-  interesting, original and well executed sci-fi dystopian story with a premise that just grabs your attention. The
-  themes and concept that this show handles because of this premise and the dystopia it creates is rather great, and
-  with the totalitarian society and opposing realities, this movie is thought provoking and engaging throughout, an
-  experience you don’t see in many anime out there. It’s done pretty well in almost every element you can think of, with
-  great characters, interesting banter and interactions that make the work that much better, an interesting handle of
-  perspectives with good writing and direction overall, a great ending that’s rather fufilling unlike so many other
-  series, and on and on and on. This movie is engaging and entertaining in ways that many aren’t while being something
-  more, being extremely well rounded, and production values that are definitely worthy of a feature film. <br/></p>
+who’s primarily done anime films that’s highly acclaimed, we have Yasuhiro Yoshiura’s <em>Patema Inverted</em>, a very
+interesting, original and well executed sci-fi dystopian story with a premise that just grabs your attention. The
+themes and concept that this show handles because of this premise and the dystopia it creates is rather great, and
+with the totalitarian society and opposing realities, this movie is thought provoking and engaging throughout, an
+experience you don’t see in many anime out there. It’s done pretty well in almost every element you can think of, with
+great characters, interesting banter and interactions that make the work that much better, an interesting handle of
+perspectives with good writing and direction overall, a great ending that’s rather fufilling unlike so many other
+series, and on and on and on. This movie is engaging and entertaining in ways that many aren’t while being something
+more, being extremely well rounded, and production values that are definitely worthy of a feature film. <br/></p>
+
 <p class="sc-77igqf-0 bOfvBY">Why 9th on the list then? Mainly because while this movie is done really well, so
   are the rest of the movies on this list, and<em> Patema Inverted</em> doesn’t have something extraordinary like the
   rest of this list, it’s just a really well done movie. It’s more about the rest of this list, and not so much this
@@ -220,13 +242,14 @@ oldArticle: true
   <em>Plot Description from Funimation</em></p>
 
 <img alt src="./1447855652178781224.png"/><p class="sc-77igqf-0 bOfvBY"><strong>Justification &amp; Thoughts: </strong><em>Neon Genesis Evangelion</em>,
-  the brainchild of Hideki Anno, has to be somewhere on this list i<strike>f it wasn’t, fans a.k.a Morie would attack
-    me</strike> because of what it has to offer, delving into the psyche of the human mind extremely well, while being a
-  great show on its own right when ignoring everything else. Extremely iconic, extremely memorable, and extremely well
-  done, Eva is a work that should be on everyone’s watch list. On this list, I picked For this list, I picked <em>Rebuild
-    Evangelion: 2.22 You Can (Not) Advance</em>, the second film in the rebuild series which is a
-  remake/reimagining/sequel which are filled with little tweaks in comparison to the original 97’ TV series + <em>End of
-    Evangelion</em> to make a whole different work. </p>
+the brainchild of Hideki Anno, has to be somewhere on this list i<strike>f it wasn’t, fans a.k.a Morie would attack
+me</strike> because of what it has to offer, delving into the psyche of the human mind extremely well, while being a
+great show on its own right when ignoring everything else. Extremely iconic, extremely memorable, and extremely well
+done, Eva is a work that should be on everyone’s watch list. On this list, I picked For this list, I picked <em>Rebuild
+Evangelion: 2.22 You Can (Not) Advance</em>, the second film in the rebuild series which is a
+remake/reimagining/sequel which are filled with little tweaks in comparison to the original 97’ TV series + <em>End of
+Evangelion</em> to make a whole different work. </p>
+
 <p class="sc-77igqf-0 bOfvBY">If you’re an Eva fan, you may ask me, Why did I make that pick 2.22 over
   <em>EoE</em>? Mainly it’s because I didn’t particularly love <em>EoE</em> and found that 2.22 was handled extremely
   well, with the subtle changes like Shinji not being a complete wimp and having an absolutely amazing ending making a
@@ -350,14 +373,15 @@ oldArticle: true
     Spiral from MAL.</em></p>
 
 <img alt src="./1447855652305569576.jpg"/><p class="sc-77igqf-0 bOfvBY"><strong>Justification &amp; Thoughts: </strong>...Unlike the past few on this list and a
-  lot of works here, <em>Kara no Kyoukai </em>is series of 7 movies that doesn’t have a large following or massive
-  influence like the others on this list, but it’s my favorite anime movie series out there regardless of that, because
-  what this does have is being absolutely fucking amazing, being the pinnacle of what modern animation can achieve in my
-  opinion. Created by Type-Moon, the same company that brang you <em>Fate/stay night </em>and <em>Fate/Zero</em>, It has
-  some of the absolute best production values in animation with an amazing score by Yuki Kajiura and mindblowing
-  animation by studio Ufotable, the best atmosphere I’ve ever seen from a movie, great characters, amazing writing and
-  it simply does things in a way that is great, unique, and vastly different, all making for an amazing experience that
-  I fell in love with (and a lot of people too, look anywhere that this series is mentioned and you’ll run into praise).<br/>
+lot of works here, <em>Kara no Kyoukai </em>is series of 7 movies that doesn’t have a large following or massive
+influence like the others on this list, but it’s my favorite anime movie series out there regardless of that, because
+what this does have is being absolutely fucking amazing, being the pinnacle of what modern animation can achieve in my
+opinion. Created by Type-Moon, the same company that brang you <em>Fate/stay night </em>and <em>Fate/Zero</em>, It has
+some of the absolute best production values in animation with an amazing score by Yuki Kajiura and mindblowing
+animation by studio Ufotable, the best atmosphere I’ve ever seen from a movie, great characters, amazing writing and
+it simply does things in a way that is great, unique, and vastly different, all making for an amazing experience that
+I fell in love with (and a lot of people too, look anywhere that this series is mentioned and you’ll run into praise).<br/>
+
 </p>
 <p class="sc-77igqf-0 bOfvBY">When I mean vastly different, I truly mean it. The fifth movie in the series and my
   pick for this list, Paradox Spiral is the prime example of this behavior because it’s a total mindfuck yet it’s so

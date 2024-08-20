@@ -1,12 +1,21 @@
 ---
 {
-title: "Rockmandash's State of the Review: Road To Rockman DASH!",
-tags: ["Rockmandash Rambles", "Rockmandash12", "State of the Review", "Road to Rockman Dash", "Megaman", "Legends", "EXE", "Battle Network"],
-authors: ['reikaze'],
-published: '2014-08-20T20:45:00-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Rockmandash's State of the Review: Road To Rockman DASH!",
+  tags:
+    [
+      "Rockmandash Rambles",
+      "Rockmandash12",
+      "State of the Review",
+      "Road to Rockman Dash",
+      "Megaman",
+      "Legends",
+      "EXE",
+      "Battle Network",
+    ],
+  published: "2014-08-20T20:45:00-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 

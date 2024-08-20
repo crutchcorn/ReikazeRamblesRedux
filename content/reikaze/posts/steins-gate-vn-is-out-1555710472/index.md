@@ -1,12 +1,12 @@
 ---
 {
-title: "Steins;Gate VN is out!",
-tags: ["Steins;Gate", "Visual Novel", "Release", "out", "now", "not april fools"],
-authors: ['reikaze'],
-published: '2014-03-31T20:00:24-04:00',
-attached: [],
-license: 'cc-by-4',
-oldArticle: true
+  title: "Steins;Gate VN is out!",
+  tags:
+    ["Steins;Gate", "Visual Novel", "Release", "out", "now", "not april fools"],
+  published: "2014-03-31T20:00:24-04:00",
+  attached: [],
+  license: "cc-by-4",
+  oldArticle: true,
 }
 ---
 
