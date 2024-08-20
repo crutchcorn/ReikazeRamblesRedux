@@ -4,8 +4,7 @@
   tags: ["Rockmandash reviews", "Xiaomi", "Redmi 3s", "KMTech", "review"],
   published: "2016-11-10T15:38:00-05:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

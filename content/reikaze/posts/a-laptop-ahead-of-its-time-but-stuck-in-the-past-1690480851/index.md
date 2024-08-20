@@ -4,8 +4,7 @@
   tags: ["whitenoise"],
   published: "2015-03-10T05:01:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

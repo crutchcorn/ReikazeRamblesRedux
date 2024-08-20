@@ -4,8 +4,7 @@
   tags: ["Rockmandash Reviews", "Canaan", "Ani-TAY", "Action", "Review"],
   published: "2014-09-01T18:00:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

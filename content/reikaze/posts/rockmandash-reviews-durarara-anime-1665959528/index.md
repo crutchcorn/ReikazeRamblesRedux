@@ -4,8 +4,7 @@
   tags: ["Rockmandash Reviews", "AniTAY", "Durarara", "Review", "TAYCLASSIC"],
   published: "2014-12-28T14:00:00-05:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

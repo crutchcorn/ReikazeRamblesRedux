@@ -4,8 +4,7 @@
   tags: ["Fate Stay Night", "2014", "Unlimited Blade Works", "Heaven's Feel"],
   published: "2014-07-27T16:30:19-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

@@ -4,8 +4,7 @@
   tags: ["AniTAY", "AX 2016", "Muv-Luv", "Nekopara", "Sekai Project", "Deciga"],
   published: "2016-07-06T20:08:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

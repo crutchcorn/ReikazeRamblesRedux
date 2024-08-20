@@ -4,8 +4,7 @@
   tags: ["rockmandash12", "rockmandash", "type-moon", "type-moon marathon"],
   published: "2014-03-01T21:50:00-05:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

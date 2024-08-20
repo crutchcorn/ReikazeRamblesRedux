@@ -4,8 +4,7 @@
   tags: ["Kirby", "Canvas Curse", "Nintendo", "Tayclassic", "favorite"],
   published: "2015-02-20T16:43:00-05:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

@@ -14,8 +14,7 @@
     ],
   published: "2016-05-23T00:00:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

@@ -4,8 +4,7 @@
   tags: ["AniTAY", "Unboxing", "Nagi no Asukara", "NIS America"],
   published: "2015-07-02T19:15:56-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

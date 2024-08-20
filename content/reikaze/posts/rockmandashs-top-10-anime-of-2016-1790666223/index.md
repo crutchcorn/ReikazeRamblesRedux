@@ -4,8 +4,7 @@
   tags: ["Rockmandash Rambles", "Top Lists", "Anime", "AniTAY", "2016"],
   published: "2017-01-01T02:34:00-05:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

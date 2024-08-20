@@ -4,8 +4,7 @@
   tags: ["rockmandash rambles", "review system", "explaination"],
   published: "2014-08-11T16:44:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

@@ -5,7 +5,6 @@
   published: "2020-11-19T12:00:00.000Z",
   tags: ["welcome", "announcements"],
   attached: [],
-  license: "cc-by-4",
   oldArticle: false,
 }
 ---

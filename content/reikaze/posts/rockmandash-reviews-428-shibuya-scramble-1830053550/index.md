@@ -4,8 +4,7 @@
   tags: ["428", "Visual Novel", "Rockmandash Reviews", "428 Shibuya Scramble"],
   published: "2018-10-28T02:00:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

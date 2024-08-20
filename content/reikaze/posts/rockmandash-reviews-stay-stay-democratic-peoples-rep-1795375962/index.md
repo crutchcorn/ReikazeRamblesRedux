@@ -9,8 +9,7 @@
     ],
   published: "2017-05-19T13:06:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

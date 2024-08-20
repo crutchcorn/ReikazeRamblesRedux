@@ -4,8 +4,7 @@
   tags: ["RockmanDash Reviews", "Steins;Gate", "Visual Novel", "AniTAY"],
   published: "2016-12-30T15:47:30-05:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

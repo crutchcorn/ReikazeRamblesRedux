@@ -4,8 +4,7 @@
   tags: ["Podcast", "AniTAY Podcast", "Your Lie in April", "Spoilercast"],
   published: "2015-04-07T20:41:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

@@ -4,8 +4,7 @@
   tags: ["rockmandash reviews", "io", "visual novel", "review", "ani-tay"],
   published: "2014-04-14T19:25:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

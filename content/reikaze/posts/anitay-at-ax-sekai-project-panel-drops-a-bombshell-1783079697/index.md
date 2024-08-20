@@ -4,8 +4,7 @@
   tags: ["AX 2016", "Sekai Project", "Visual Novels"],
   published: "2016-07-06T18:52:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

@@ -4,8 +4,7 @@
   tags: ["rockmandash", "tay", "reviews", "Pokemon", "tay-classic", "twitch"],
   published: "2014-02-17T12:57:00-05:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

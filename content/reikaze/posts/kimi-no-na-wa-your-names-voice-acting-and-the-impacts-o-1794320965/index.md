@@ -4,8 +4,7 @@
   tags: ["Rockmandash Rambles", "AniTAY", "Your Name", "Kimi no Na wa"],
   published: "2017-04-14T09:00:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

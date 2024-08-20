@@ -4,8 +4,7 @@
   tags: ["AX 2016", "AniTAY", "Rockmandash Rambles", "nbkz", "minori"],
   published: "2016-07-20T18:01:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

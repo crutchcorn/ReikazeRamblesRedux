@@ -4,8 +4,7 @@
   tags: ["Jin Roh", "Why Haven't I Watched This?", "Rockmandash Rambles"],
   published: "2015-05-16T15:10:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

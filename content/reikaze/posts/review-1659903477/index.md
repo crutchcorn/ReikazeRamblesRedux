@@ -4,8 +4,7 @@
   tags: ["Rockmandash Rambles", "TAY-Classic", "1984"],
   published: "2014-11-17T20:05:00-05:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

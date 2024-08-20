@@ -4,8 +4,7 @@
   tags: ["Anime Expo", "AX2017"],
   published: "2017-07-09T14:21:10-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

@@ -4,8 +4,7 @@
   tags: ["AniTAY", "Ani-Debate", "AniDebate"],
   published: "2015-01-08T19:02:00-05:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

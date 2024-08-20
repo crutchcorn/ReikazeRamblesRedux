@@ -4,8 +4,7 @@
   tags: ["Anime Impressions", "Spring 2015", "Uchikoshi", "Punch Line"],
   published: "2015-04-09T19:55:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

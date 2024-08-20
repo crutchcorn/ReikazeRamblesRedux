@@ -4,8 +4,7 @@
   tags: ["Rockmandash Rambles", "TAY", "Retro Gaming", "Emuparadise", "ROMs"],
   published: "2018-08-10T09:00:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

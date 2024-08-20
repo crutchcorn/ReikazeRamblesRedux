@@ -4,8 +4,7 @@
   tags: ["TAYClassic", "AniTAY", "Music", "Orchestra"],
   published: "2015-02-10T02:58:15-05:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

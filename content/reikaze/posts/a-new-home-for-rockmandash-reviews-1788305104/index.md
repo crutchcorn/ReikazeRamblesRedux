@@ -4,8 +4,7 @@
   tags: ["RockmanDash Reviews", "News", "Fuwanovel"],
   published: "2016-10-27T19:43:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

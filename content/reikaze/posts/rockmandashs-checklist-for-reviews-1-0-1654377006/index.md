@@ -4,8 +4,7 @@
   tags: ["Tay-classic", "Rockmandash Rambles", "Review", "Checklist", "Help"],
   published: "2014-11-04T02:33:00-05:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

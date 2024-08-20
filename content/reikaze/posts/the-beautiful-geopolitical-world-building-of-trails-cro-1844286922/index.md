@@ -16,8 +16,7 @@
     ],
   published: "2020-07-06T21:30:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

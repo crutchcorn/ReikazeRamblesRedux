@@ -4,8 +4,7 @@
   tags: ["Under The Dog", "Kickstarter", "Ani-TAY", "Fund", "Hideo Kojima"],
   published: "2014-09-02T18:21:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

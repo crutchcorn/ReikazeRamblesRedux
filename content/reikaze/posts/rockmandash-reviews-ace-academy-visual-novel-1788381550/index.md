@@ -4,8 +4,7 @@
   tags: ["RockmanDash Reviews", "Ace Academy", "Visual Novels"],
   published: "2016-11-02T12:00:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

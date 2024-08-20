@@ -4,8 +4,7 @@
   tags: ["AX 2016", "Zero Escape", "Cosplay"],
   published: "2016-07-06T20:33:09-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

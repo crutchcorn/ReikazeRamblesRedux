@@ -4,8 +4,7 @@
   tags: ["Rant"],
   published: "2015-06-11T19:27:50-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

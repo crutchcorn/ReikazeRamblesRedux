@@ -4,8 +4,7 @@
   tags: ["Rockmandash Rambles", "TAY Guide", "PC", "Hardware", "Tayclassic"],
   published: "2016-04-22T20:00:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

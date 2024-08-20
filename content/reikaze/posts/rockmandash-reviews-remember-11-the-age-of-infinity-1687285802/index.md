@@ -12,8 +12,7 @@
     ],
   published: "2015-02-23T03:40:00-05:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

@@ -4,8 +4,7 @@
   tags: ["rockmandash reviews", "rewrite", "again", "key marathon"],
   published: "2014-08-11T15:00:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

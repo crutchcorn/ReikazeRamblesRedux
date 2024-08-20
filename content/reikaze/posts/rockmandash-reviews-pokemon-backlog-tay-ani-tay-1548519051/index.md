@@ -20,8 +20,7 @@
     ],
   published: "2014-03-20T22:39:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

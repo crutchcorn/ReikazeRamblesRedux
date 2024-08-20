@@ -4,8 +4,7 @@
   tags: ["428", "Visual Novel", "Rockmandash Rambles", "History"],
   published: "2018-10-27T03:27:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

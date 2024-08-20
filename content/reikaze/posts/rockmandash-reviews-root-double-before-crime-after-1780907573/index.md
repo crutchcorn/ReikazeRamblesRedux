@@ -4,8 +4,7 @@
   tags: ["Rockmandash Reviews", "FuwaReviews", "Visual Novel", "Root Double"],
   published: "2016-06-06T19:19:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

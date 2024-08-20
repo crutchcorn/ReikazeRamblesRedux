@@ -4,8 +4,7 @@
   tags: ["News", "Visual Novel", "Lemnisca"],
   published: "2016-06-30T11:54:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

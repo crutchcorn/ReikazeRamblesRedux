@@ -4,8 +4,7 @@
   tags: ["Kevin Mai", "Technology", "KMTech", "GearBest", "About"],
   published: "2015-09-17T01:13:48-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

@@ -4,8 +4,7 @@
   tags: ["Rockmandash Rambles", "Dating Sim", "Visual Novels"],
   published: "2016-03-25T20:50:01-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

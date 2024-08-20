@@ -4,8 +4,7 @@
   tags: ["Tayk\u014dbon", "Design", "Rockmandash12", "Rockmandash Rambles"],
   published: "2015-09-04T00:56:42-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

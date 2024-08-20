@@ -4,8 +4,7 @@
   tags: ["PSA", "AniTAY", "Assets"],
   published: "2015-03-21T01:18:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

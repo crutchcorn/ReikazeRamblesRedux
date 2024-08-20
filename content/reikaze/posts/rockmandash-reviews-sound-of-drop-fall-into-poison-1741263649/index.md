@@ -4,8 +4,7 @@
   tags: ["Rockmandash Reviews", "FuwaReviews", "Visual Novels", "AniTAY"],
   published: "2015-11-10T23:00:00-05:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

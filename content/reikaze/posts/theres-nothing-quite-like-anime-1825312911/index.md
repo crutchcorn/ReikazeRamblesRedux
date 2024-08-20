@@ -4,8 +4,7 @@
   tags: ["AniTay", "Anime"],
   published: "2018-04-17T00:30:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

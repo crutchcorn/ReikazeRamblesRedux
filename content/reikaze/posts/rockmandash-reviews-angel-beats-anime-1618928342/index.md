@@ -4,8 +4,7 @@
   tags: ["rockmandash reviews", "key marathon", "angel beats", "tay-classic"],
   published: "2014-08-18T20:00:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 

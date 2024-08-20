@@ -4,8 +4,7 @@
   tags: ["Rockmandash Rambles"],
   published: "2018-06-27T19:22:00-04:00",
   attached: [],
-  license: "cc-by-4",
-  oldArticle: true,
+  kinjaArticle: true,
 }
 ---
 
