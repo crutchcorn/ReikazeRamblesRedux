@@ -11,7 +11,7 @@
 
 While gag Visual Novels are a dime and a dozen nowadays, it takes something a bit special to rise out of the ranks. A few years back, OverDrive’s *Go! Go! Nippon! *did exactly that thanks to an extremely silly premise, a tourism guide/romance game that follows a dumb foreigner traveling to japan to stay with 2 girls he met on the internet. It caught a lot of attention, but who would have predicted that it would grab the attention of *Panzermadels *dev DEVGRU-P, who decided they wanted to on the offense and beat *Go! Go! Nippon!* at it’s own game? Enter *Stay! Stay! Democratic People’s Republic of Korea!*, a Visual Novel the decided to ask the question: What better way is there to make a gag Visual Novel, than parodying a gag Visual Novel?
 
-***DISCLOSURE:* **Fuwanovel reviewer Valmore served on the *Stay! Stay! DPRK! *development team as a writer. His participation on the title has no bearing in this review, but for ethical reasons this review will not have a score.
+***DISCLOSURE:* **Fuwanovel reviewer Valmore served on the *Stay! Stay! DPRK! *development team as a writer. His participation on the title has no bearing in this review, but for ethical reasons this review will not have a score.
 
 ***
 

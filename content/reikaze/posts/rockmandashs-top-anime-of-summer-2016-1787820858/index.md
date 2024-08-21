@@ -32,7 +32,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### Honorable Mention: ***Fate/kaleid liner Prisma☆Illya 3rei!!*** 
+### Honorable Mention: ***Fate/kaleid liner Prisma☆Illya 3rei!!*** 
 
 **Anime Made By: **Silver Link
 
@@ -126,7 +126,7 @@ In anime, we always talk about how great it is for something to be different, bu
 
 **Genre: **Romance, Drama, Slice of Life
 
-**Plot Summary: **Kaizaki Arata is 27 years old, jobless, and living on the expenses sent by his parents. He quit his first full-time job in just three months, and at the moment, his future is not looking very bright. On the way home (and right after his parents decide to stop sending him money), a man named Yoake Ryo stands in his path. Ryo is a member of the ReLIFE Laboratory, and informs Arata that he has been selected as a ReLIFE test subject. Should Arata choose to accept this offer, all his living expenses will be paid, and, depending on how well this experiment goes, he could even be hooked up with a job! All he has to do is take the ReLIFE drug and go back to high school for a year. Arata, who was unfortunately drunk at the time, signs his life away and wakes up the next day to the surprise of his unusually youthful appearance.** **- *Plot Summary from the *[*15 Anime of Summer 2016 You Should Be Watching Article*](http://anitay.kinja.com/the-15-anime-of-summer-2016-you-should-be-watching-1785625631) 
+**Plot Summary: **Kaizaki Arata is 27 years old, jobless, and living on the expenses sent by his parents. He quit his first full-time job in just three months, and at the moment, his future is not looking very bright. On the way home (and right after his parents decide to stop sending him money), a man named Yoake Ryo stands in his path. Ryo is a member of the ReLIFE Laboratory, and informs Arata that he has been selected as a ReLIFE test subject. Should Arata choose to accept this offer, all his living expenses will be paid, and, depending on how well this experiment goes, he could even be hooked up with a job! All he has to do is take the ReLIFE drug and go back to high school for a year. Arata, who was unfortunately drunk at the time, signs his life away and wakes up the next day to the surprise of his unusually youthful appearance.** **- *Plot Summary from the *[*15 Anime of Summer 2016 You Should Be Watching Article*](http://anitay.kinja.com/the-15-anime-of-summer-2016-you-should-be-watching-1785625631) 
 
 **Justification & Thoughts: **With ReLife, the question of “What’s my favorite show of the season” was over before it even began (consider it an Honorable 1st Place). Crunchyroll, for some odd reason, decided to release this show all at the beginning of the season, and I love them for it, enabling me to marathon a show that perfectly matches my preferences. I’m a sucker for romantic dramas, and to see one of them done so well in this fashion is something I really enjoyed. ReLife, more than anything, is about life, giving one a second chance while looking at what makes this tick, and this fuels a thrilling ride of character interactions that allow the viewer to get more and more attached to the cast as they watch. Along with that, ReLife has a great cast of characters with fascinating personalities, and plus, it’s funny, keeping the show always engaging to watch. Definitely a great time, and I can’t wait for more.
 

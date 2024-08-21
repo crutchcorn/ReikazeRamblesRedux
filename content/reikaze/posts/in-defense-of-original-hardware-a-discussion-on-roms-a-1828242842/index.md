@@ -49,7 +49,7 @@ That being said, game preservation doesn’t necessarily go hand in hand with pi
 
 ***
 
-## **So, About How Much Harder...** 
+## **So, About How Much Harder...** 
 
 ![](e7iddeirdgqujweexlbq.png)
 
@@ -57,7 +57,7 @@ All that being said though, there’s been a lot of misinformation in the wake o
 
 ![](ij5qm6wryzvzpnabjl4e.png)
 
-While some poorly sold cult classics games like *Snatcher *and *Earthbound* are getting so expensive to the point in which it makes absolutely no sense to buy them, you can get many retro games for fairly cheap and pretty easily in a legal manner. Obviously there’s emulation boxes like the NES & SNES Mini that have a compilation of games and you can get many online like PS1 games on the PSN store, but even buying the original carts is reasonably cheap. Even great games like *Legend of Zelda: Link to the Past* for SNES is about 20 dollars to get, and many games are about that ball park or less (fun fact, my friend [@crutchcorn](https://twitter.com/crutchcorn) [got 50+ copies of* Sonic 2 *for Game Gear ](https://www.facebook.com/FairGameRetro/photos/a.633159503386168.1073741826.435680173134103/1789448527757254/?type=3\&theater)because they’re so cheap and the retro game store I frequent called [Fair Game](https://www.facebook.com/FairGameRetro/) had so many copies that they struck a deal with him to get rid of em). There’s so many cheap games out there that you can have a great time and not pirate anything, and they’ll look great on your shelf in the process.
+While some poorly sold cult classics games like *Snatcher *and *Earthbound* are getting so expensive to the point in which it makes absolutely no sense to buy them, you can get many retro games for fairly cheap and pretty easily in a legal manner. Obviously there’s emulation boxes like the NES & SNES Mini that have a compilation of games and you can get many online like PS1 games on the PSN store, but even buying the original carts is reasonably cheap. Even great games like *Legend of Zelda: Link to the Past* for SNES is about 20 dollars to get, and many games are about that ball park or less (fun fact, my friend [@crutchcorn](https://twitter.com/crutchcorn) [got 50+ copies of* Sonic 2 *for Game Gear ](https://www.facebook.com/FairGameRetro/photos/a.633159503386168.1073741826.435680173134103/1789448527757254/?type=3\&theater)because they’re so cheap and the retro game store I frequent called [Fair Game](https://www.facebook.com/FairGameRetro/) had so many copies that they struck a deal with him to get rid of em). There’s so many cheap games out there that you can have a great time and not pirate anything, and they’ll look great on your shelf in the process.
 
 ![](bfk7bsghfidntb7pf9ft.png)
 

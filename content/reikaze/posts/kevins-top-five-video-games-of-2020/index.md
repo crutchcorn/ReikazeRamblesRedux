@@ -16,19 +16,19 @@ _A Short Hike_ is an incredibly charming, picturesque little experience that was
 
 A lot of my love for* A Short Hike* is a feeling of nostalgia – the aesthetic does a lot for me and brings me back to when life was simpler. Its low poly look reminds me a lot of the attempts to make 3D games on the DS, a system I have many fond memories of as it was the handheld I grew up with. When paired with the BoTW-esque gameplay that encourages creating your own adventure and finding charm in all the little things in the world, I found the game to be delightful and appealed to what I like in games a lot. I also adored how the game controlled, as you are a bird able to fly, I felt like it was perfect for this game. If I only had an hour to tell you what kind of games I’d like, I’d point you here.
 
-### 4._ Animal Crossing: New Horizons    _
+### 4._ Animal Crossing: New Horizons    _
 
 ![Kevin's Top Five Video Games of 2020 2](./EpeacVMUwAAxmYU-1024x576.jpg)
 
 _Animal Crossing: New Horizons_ came at the perfect time, and I know that my 2020 would have been much less pleasant without it. Being able to customize every little thing on your island until it’s exactly the way you want, being able to build a community with critters that have fun personalities, having fun with all your friends and family when you couldn’t meet in person – it was the perfect time sink that me and many of my friends needed. _Animal Crossing_ quickly became one of my most played games on Switch, with my playtime clocking in about 175 hours, and I enjoyed a lot of it.
 
-### 3. \*YOU and ME and HER: a love story    \*\*\*
+### 3. \*YOU and ME and HER: a love story    \*\*\*
 
 ![Kevin's Top Five Video Games of 2020 3](./YOU-and-ME-and-HER-2.jpg)
 
 I really quite enjoyed _YOU and ME and HER: a love story_, for a lot of the reasons that I enjoyed _13 Sentinels_ – it does really interesting things with storytelling in video games. The way it handles its plot progression, the way it plays with choice – both the illusion of it and the actual choices you make is incredibly unique and provided for an incredibly memorable experience for the player. It’s a thrilling experience with lots of twists and turns, events you could have never predicted, a viscerally compelling ride that I’m really glad to play through.
 
-It’s not quite for everyone, and definitely not for the faint of heart, but if this blurb or our review interests you at all, I’d encourage you to give _YOU and ME and HER: a love story_ a shot. It’s the kind of Visual Novel storytelling that made me love the medium,  the best in the medium has to offer.
+It’s not quite for everyone, and definitely not for the faint of heart, but if this blurb or our review interests you at all, I’d encourage you to give _YOU and ME and HER: a love story_ a shot. It’s the kind of Visual Novel storytelling that made me love the medium,  the best in the medium has to offer.
 
 ### 2._ 13 Sentinels, Aegis Rim_
 

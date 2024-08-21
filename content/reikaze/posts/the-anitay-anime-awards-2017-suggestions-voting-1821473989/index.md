@@ -49,7 +49,7 @@ Here’s the category you’re all here for: Anime of the Year. There’s been a
 
 ***
 
-## **Hidden Gems (Under 70k)** 
+## **Hidden Gems (Under 70k)** 
 
 [](./lgstraeqvzz3qslpdeho.mp4)
 
@@ -278,7 +278,7 @@ The bold, the brash, the rejected, and the moe- 2017 brought plenty of endearing
 
 Last but not Least, AniTAY Favorites! This is one we included to spice things up, to make this list truly our own. These are shows that AniTAY was fixated on, either loved or discussed about for days on end. Take a look at what makes AniTAY, AniTAY! (Note: This section is very much subject to change)
 
-#### **Nominees:** 
+#### **Nominees:** 
 
 * *Black CLOOOOOVEEEER*
 * *Tsukigakirei*
@@ -289,4 +289,4 @@ Last but not Least, AniTAY Favorites! This is one we included to spice things up
 * *Girls’ Last Tour*
 * *GARO: Vanishing Line*
 
-*Thanks for checking out AniTAY and the AniTAY Anime Awards!* *Ani-TAY is the anime-focused portion of Kotaku’s community-run blog, Talk Amongst Yourselves where writers love everything anime related. Click *[*here*](http://anitay.kinja.com/)* to check us out, and remember to participate by*[* suggesting *](https://docs.google.com/forms/d/e/1FAIpQLSfFTID83kA7-v3EbQp0S80PXW2QKyZR75n6CArlSfj80_zyFA/viewform?usp=sf_link)*and *[*voting*](https://docs.google.com/forms/d/e/1FAIpQLSfWLv6b2MOGUW1nDgTScNm8skFpBfa5GuC0lgwtbaO-lM5xmg/viewform?usp=sf_link)*!*
+*Thanks for checking out AniTAY and the AniTAY Anime Awards!* *Ani-TAY is the anime-focused portion of Kotaku’s community-run blog, Talk Amongst Yourselves where writers love everything anime related. Click *[*here*](http://anitay.kinja.com/)* to check us out, and remember to participate by*[* suggesting *](https://docs.google.com/forms/d/e/1FAIpQLSfFTID83kA7-v3EbQp0S80PXW2QKyZR75n6CArlSfj80_zyFA/viewform?usp=sf_link)*and *[*voting*](https://docs.google.com/forms/d/e/1FAIpQLSfWLv6b2MOGUW1nDgTScNm8skFpBfa5GuC0lgwtbaO-lM5xmg/viewform?usp=sf_link)*!*

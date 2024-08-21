@@ -28,7 +28,7 @@ And that’s just the beginning. The bulk of the pain is how your driver seems t
 
 If that wasn’t enough, let’s address the AI. Milestone advertises their AI as “A revolutionary AI system based on neural networks and machine learning,” I would like to tell Milestone that just because you use fancy new technology with cool buzzwords does not mean that it is good. The AI might be driving with ideal lines in a realistic time, but they always stay in a pack, and they act like you don’t exist: none of them will ever put any effort into trying to avoid you.
 
-So, from the user’s perspective, you’ll frequently find that you’ll get wiped out at no fault of your own. Remember, you do anything, and the whole pack will pass you instantly, so this effectively means you have to restart the race. Even on the easy setting,  the AI drives basically perfectly – the difficulty only adjusts their level of aggression. Fun.
+So, from the user’s perspective, you’ll frequently find that you’ll get wiped out at no fault of your own. Remember, you do anything, and the whole pack will pass you instantly, so this effectively means you have to restart the race. Even on the easy setting,  the AI drives basically perfectly – the difficulty only adjusts their level of aggression. Fun.
 
 ![Ride 4 PS5/Xbox Series X Review - Wiped Out 4](./RIDE-4_20210119214757-1024x576.jpg)
 

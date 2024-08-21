@@ -13,7 +13,7 @@ One of the best parts about playing a Visual Novel is that they are very powerfu
 
 *Ace Academy* is a Visual Novel made by western developer PixelFade Studio, that while maintaining the premise and culture of Visual Novels, bucks the trend of Visual Novels that focus on crafting a wonderful story to the detriment of the experience at a given moment.
 
-\**Note - This game was originally written for *[*FuwaReviews*](http://fuwanovel.net/reviews-hub/)*, a project from the *[*Fuwanovel*](http://fuwanovel.net/)* VN community to make a hub for Visual Novel Reviews. Please check them out if interested, or if you want to see the*[* original version of this article*](http://fuwanovel.net/reviews/2016/10/27/ace-academy/)*.\**
+\**Note - This game was originally written for *[*FuwaReviews*](http://fuwanovel.net/reviews-hub/)*, a project from the *[*Fuwanovel*](http://fuwanovel.net/)* VN community to make a hub for Visual Novel Reviews. Please check them out if interested, or if you want to see the*[* original version of this article*](http://fuwanovel.net/reviews/2016/10/27/ace-academy/)*.\**
 
 ***
 
@@ -55,4 +55,4 @@ Also, just as a side note, if you’re having issues with full screen on devices
 
 ***
 
-*Thank you for reading! This is Rockmandash Reviews, a blog focused on everything revolving Visual Novels, with stuff like tech and anime every now and then. If you want to read more of my writing, check out FuwaReviews and AniTAY where I am a contributor.*
+*Thank you for reading! This is Rockmandash Reviews, a blog focused on everything revolving Visual Novels, with stuff like tech and anime every now and then. If you want to read more of my writing, check out FuwaReviews and AniTAY where I am a contributor.*

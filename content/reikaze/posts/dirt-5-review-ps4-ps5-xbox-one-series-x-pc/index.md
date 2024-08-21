@@ -18,7 +18,7 @@ While there are moments when the game looks decent, such as during night races, 
 
 Regardless of the lacking visuals, _Dirt 5_ plays surprisingly well on the current generation consoles. While I’m assuredly looking forward to trying _Dirt 5_ on the next-gen consoles, the current-gen version makes a great case for its appeal through its gameplay systems.
 
-There are 2 modes available to play in, Image Quality Mode @30 FPS, which looks fairly average for a current-gen game, and Performance Mode @60 FPS, which is stable but at the cost of downscaled graphics. *Dirt 5 *just looks bad on Performance Mode mode as it compares to games released on Xbox 360.
+There are 2 modes available to play in, Image Quality Mode @30 FPS, which looks fairly average for a current-gen game, and Performance Mode @60 FPS, which is stable but at the cost of downscaled graphics. *Dirt 5 *just looks bad on Performance Mode mode as it compares to games released on Xbox 360.
 
 ![DIRT 5 Review - Pole Position for Codemasters 2](./DIRT-5-2-1024x576.jpg)
 
@@ -42,6 +42,6 @@ _Dirt 5_ is a great entry into the franchise, but diehard racing fans will proba
 
 ![DIRT 5 Review - Pole Position for Codemasters 5](./Screenshot-2020-11-02-00-30-31-1024x576.jpg)
 
-That being said, I appreciated the more casual approach to *Dirt 5. While* I’d say that the peaks don’t hit as high as _Dirt Rally_, as someone who isn’t a diehard racer, the variety offered in the various mode held my interest far longer than any simulation racer.
+That being said, I appreciated the more casual approach to *Dirt 5. While* I’d say that the peaks don’t hit as high as _Dirt Rally_, as someone who isn’t a diehard racer, the variety offered in the various mode held my interest far longer than any simulation racer.
 
 *Dirt 5 *provides a more approachable racer that acts as a decent successor to Dirt 4 and Dirt Rally while taking on the series in a few different ways. Diehard series fans might miss some of the more simulation aspects from the series, but Codemasters definitely found a healthy balance of the two offerings. Sure, you might not be blown away by the graphics, but you won’t go wrong adding this fun racer to you next-gen launch catalog.

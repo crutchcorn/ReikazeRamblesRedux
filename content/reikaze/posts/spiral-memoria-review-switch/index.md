@@ -6,7 +6,7 @@
 }
 ---
 
-Otome visual novel typically hit on a few recognizable beats. You have your Japanese setting, innocent heroine, and a group of hot boys coming to shake up your life. Sadly, the OperaHouse-developed Spiral Memoria ends up taking this general description and creating an entire game surrounding it.  Spiral Memoria hits the beats of a standard Otome but never does anything more than expected while stumbling in other elements in the process.
+Otome visual novel typically hit on a few recognizable beats. You have your Japanese setting, innocent heroine, and a group of hot boys coming to shake up your life. Sadly, the OperaHouse-developed Spiral Memoria ends up taking this general description and creating an entire game surrounding it.  Spiral Memoria hits the beats of a standard Otome but never does anything more than expected while stumbling in other elements in the process.
 
 [Spiral Memoria: The Summer I Meet Myself Review - Noisy Pixel](https://www.youtube.com/embed/9ngWX5BvxYc?feature=oembed)
 

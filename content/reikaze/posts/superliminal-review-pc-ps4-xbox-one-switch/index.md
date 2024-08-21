@@ -12,7 +12,7 @@ We often take our perspective for granted as we assume the way things appear is 
 
 _Superliminal_ is all about perspective, and the way it plays with this theme is the selling point. During gameplay, you can manipulate specific objects, and when you interact with them, the objects’ size becomes fixed to how it appears on your screen, and when you place them the physical size changes. So, if you pick up a chess piece, you can make it larger by putting it far away from you or smaller by placing it nearby.
 
-*Superliminal *uses this idea of perspective throughout its puzzle gameplay and can feel quite rewarding when it all comes together. Resizing an object to knock down walls or making a ramp out of signs are just some of the cool ways to progress. I was amazed by how the developer utilized their understanding of perspective to create these unique puzzle layouts.
+*Superliminal *uses this idea of perspective throughout its puzzle gameplay and can feel quite rewarding when it all comes together. Resizing an object to knock down walls or making a ramp out of signs are just some of the cool ways to progress. I was amazed by how the developer utilized their understanding of perspective to create these unique puzzle layouts.
 
 ![Superliminal Review - Cool Perspective But Missing Substance 1](./SuperliminalSteam_2020-11-19_15-14-05-1024x576.jpg)
 

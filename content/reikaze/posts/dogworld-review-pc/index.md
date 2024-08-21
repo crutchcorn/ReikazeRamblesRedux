@@ -22,7 +22,7 @@ The game follows these events as you explore this world and work to survive agai
 
 ![Dogworld Review - Old School Fun 2](./Dogworld_2021-03-23_14-44-24-1024x576.png)
 
-The gameplay is really the star of the show, though. First and foremost, _Dogworld,_ in general, gave me huge _Cave Story_ vibes, almost to an eerie extent. From the level design to gameplay structure, the atmosphere, story vibes, it’s easy to tell that inspiration was drawn from _Cave Story_, but I didn’t mind it since *Dogworld *does enough to add unique gameplay elements.
+The gameplay is really the star of the show, though. First and foremost, _Dogworld,_ in general, gave me huge _Cave Story_ vibes, almost to an eerie extent. From the level design to gameplay structure, the atmosphere, story vibes, it’s easy to tell that inspiration was drawn from _Cave Story_, but I didn’t mind it since *Dogworld *does enough to add unique gameplay elements.
 
 _Dogworld_ can be boiled down to a run & gun 2D Metroidvania platformer. You explore a large world and occasionally run into bosses. Movement is tight and precise, the jumping is maybe a bit more floaty than most would prefer, but I tend to like that. The levels are fairly straightforward are still fun to explore.
 
@@ -38,7 +38,7 @@ The best retro-inspired games are the ones that acknowledge the strengths of tho
 
 Some might enjoy this, but I found it to be largely annoying. A few of the quirks include only being about to shoot in four directions (no diagonals), you can’t move on a ladder and shoot at the same time, there is basically no weapon that can handle enemies in close range, so you get hit a bunch in quick succession, save spots felt incredibly erratic, with some stretches going incredibly long without any saves, and a lack of direction. Oftentimes I would just be wandering, hoping I was going the right way, and I didn’t know I could upgrade weapons until I got walled by a boss and figured it out on my own.
 
-All that being said, while these issues never went away, it was easy to put  them to the side because _Dogworld_ was incredibly satisfying to play in general. From finishing tricky platforming sections to getting through a gauntlet of enemies to the awesome bosses, I found myself really enjoying the moment-to-moment experience of playing through _Dogworld_. The core gameplay is so engaging, and the atmosphere, the cast were so likable that I was never having a bad time playing the game.
+All that being said, while these issues never went away, it was easy to put  them to the side because _Dogworld_ was incredibly satisfying to play in general. From finishing tricky platforming sections to getting through a gauntlet of enemies to the awesome bosses, I found myself really enjoying the moment-to-moment experience of playing through _Dogworld_. The core gameplay is so engaging, and the atmosphere, the cast were so likable that I was never having a bad time playing the game.
 
 ![Dogworld Review - Old School Fun 5](./Dogworld_2021-03-23_14-42-00-1024x576.png)
 

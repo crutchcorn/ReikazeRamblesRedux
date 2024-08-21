@@ -24,4 +24,4 @@ So often, war between humans and nations was speculated and discussed in _Muv-Lu
 
 ![Muv-Luv Unlimited: The Day After 02 Impressions - More of the Same Can Be a Good Thing 3](./tda02-win64vc14-release_2021-02-23_23-29-58-1024x600.png)
 
-*The Day After 02* is the most personal of _The Day After_ works, full of great character moments and works as a great transition to the later chapters, but is by far the least distinctive of _The Day After_ thus far. It’s still great, but if the rest are A’s, it’s a B+.  I’m going to continue to _The Day After_ _03,_ with the full review of the entire package when I finish that one.
+*The Day After 02* is the most personal of _The Day After_ works, full of great character moments and works as a great transition to the later chapters, but is by far the least distinctive of _The Day After_ thus far. It’s still great, but if the rest are A’s, it’s a B+.  I’m going to continue to _The Day After_ _03,_ with the full review of the entire package when I finish that one.

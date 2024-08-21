@@ -49,4 +49,4 @@ That being said, Subahibi works for a lot of people, with its beautifully writte
 
 ***
 
-*Thank you for reading! This is Rockmandash Reviews, a blog focused on everything revolving Visual Novels, with stuff like tech and anime every now and then. If you want to read more of my writing, check out *[*FuwaReviews*](https://fuwanovel.net/reviews-hub/)* and *[*AniTAY*](https://anitay.kinja.com)* where I am a contributor or follow my twitter, *[**@RockmanDash12**](https://twitter.com/RockmanDash12)*.*
+*Thank you for reading! This is Rockmandash Reviews, a blog focused on everything revolving Visual Novels, with stuff like tech and anime every now and then. If you want to read more of my writing, check out *[*FuwaReviews*](https://fuwanovel.net/reviews-hub/)* and *[*AniTAY*](https://anitay.kinja.com)* where I am a contributor or follow my twitter, *[**@RockmanDash12**](https://twitter.com/RockmanDash12)*.*

@@ -20,7 +20,7 @@ The premise of _Aokana_ contains many layers, which are each compelling, even if
 
 One day while running late to school, he meets a transfer student Asuka, who is new to the area and doesn’t know anything about its flying customs. Masaya helps Asuka learn how to fly, and in the process, Asuka pulls him back into the world of Flying Circus, much to his chagrin, to become the coach of the Flying Circus club.
 
-The sci-fi themes and emotional storytelling through a fantasy sport makes the story inherently engaging. I felt compelled to learn more about the main character’s motives and backstory as I progressed through each chapter.  Another strong theme of the story is its slice-of-life moments between the main characters, which make for an enjoyable common route. Sure, you have your generic moments of the main character being called a pervert, but each character comes off as likable, and that becomes more true the further you progress through the story.
+The sci-fi themes and emotional storytelling through a fantasy sport makes the story inherently engaging. I felt compelled to learn more about the main character’s motives and backstory as I progressed through each chapter.  Another strong theme of the story is its slice-of-life moments between the main characters, which make for an enjoyable common route. Sure, you have your generic moments of the main character being called a pervert, but each character comes off as likable, and that becomes more true the further you progress through the story.
 
 ![Aokana: Four Rhythms Across the Blue Switch Review - A Soaring Switch Visual Novel 2](./Aokana-Four-Rhythms-Across-the-Blue-5.jpg)
 
@@ -34,7 +34,7 @@ While the story is gripping at times, I found it to be reasonably predictable. M
 
 For example, Asuka’s route was built around a “sunshine girl saves the main guy” storyline. This type of story can be done well, but the execution of it all in _Aokana_ is the problem. The relationship itself lacks special personal interactions and becomes a cookie-cutter sunshine girl romance, whereas the main sports story feels like a shonen.
 
-I will advise playing through each of the game’s routes as many of the gripes I had with Asuka’s route, primarily that they basically ignored Masaya’s traumas, were addressed in Misaki’s route. This actually made Misaki’s route the highlight of the game for me. Genuinely, the coming-of-age bond between Masaya and Misaki was compelling and engaging and makes the game worth playing solely for this route alone.  Also, Mashiro’s route is a rather pleasant straight romance that is definitely worth your time, but Rika’s comes across as fairly generic.
+I will advise playing through each of the game’s routes as many of the gripes I had with Asuka’s route, primarily that they basically ignored Masaya’s traumas, were addressed in Misaki’s route. This actually made Misaki’s route the highlight of the game for me. Genuinely, the coming-of-age bond between Masaya and Misaki was compelling and engaging and makes the game worth playing solely for this route alone.  Also, Mashiro’s route is a rather pleasant straight romance that is definitely worth your time, but Rika’s comes across as fairly generic.
 
 ![Aokana: Four Rhythms Across the Blue Switch Review - A Soaring Switch Visual Novel 4](./Aokana-HD-3.png)
 

@@ -355,4 +355,4 @@ Last but not Least, AniTAY Favorites! This is one we included to spice things up
 
 ***
 
-*Thanks for checking out AniTAY and the AniTAY Anime Awards!* *Ani-TAY is the anime-focused portion of Kotaku’s community-run blog, Talk Amongst Yourselves where writers love everything anime related. Click *[*here*](http://anitay.kinja.com/)* to check us out, and remember to participate by*[* suggesting *](https://goo.gl/forms/vkQpnunBrOHtReiz1)*and *[*voting*](https://docs.google.com/forms/d/e/1FAIpQLScVJxYTUaCx6r2axf-yfsSoBVMVSHoEJFFjvc8fHgaBDetBWQ/viewform?c=0\&w=1)*!*
+*Thanks for checking out AniTAY and the AniTAY Anime Awards!* *Ani-TAY is the anime-focused portion of Kotaku’s community-run blog, Talk Amongst Yourselves where writers love everything anime related. Click *[*here*](http://anitay.kinja.com/)* to check us out, and remember to participate by*[* suggesting *](https://goo.gl/forms/vkQpnunBrOHtReiz1)*and *[*voting*](https://docs.google.com/forms/d/e/1FAIpQLScVJxYTUaCx6r2axf-yfsSoBVMVSHoEJFFjvc8fHgaBDetBWQ/viewform?c=0\&w=1)*!*

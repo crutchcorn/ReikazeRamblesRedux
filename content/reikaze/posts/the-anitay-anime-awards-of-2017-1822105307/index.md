@@ -31,7 +31,7 @@ Here’s what the authors of AniTAY have to say! We here at AniTAY are an opinio
 
 ***
 
-#### **Author’s Pick for AniTAY Favorites:** *BLACK CLOVEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEER*
+#### **Author’s Pick for AniTAY Favorites:** *BLACK CLOVEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEER*
 
 ![](./fov6sax81yxdtjnrzrgr.jpg)
 
@@ -173,4 +173,4 @@ Now for the Community’s results! The community that reads AniTAY is pretty var
 
 ![](./hjyj1d5jhxydoeqarecd.jpg)
 
-*Thanks for checking out AniTAY and the AniTAY Anime Awards!* *Ani-TAY is the anime-focused portion of Kotaku’s community-run blog, Talk Amongst Yourselves where writers love everything anime related. Click *[*here*](http://anitay.kinja.com/)* to check us out!*
+*Thanks for checking out AniTAY and the AniTAY Anime Awards!* *Ani-TAY is the anime-focused portion of Kotaku’s community-run blog, Talk Amongst Yourselves where writers love everything anime related. Click *[*here*](http://anitay.kinja.com/)* to check us out!*

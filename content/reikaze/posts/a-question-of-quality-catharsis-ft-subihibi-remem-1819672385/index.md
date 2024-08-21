@@ -51,6 +51,6 @@ Do you think that the absence of catharsis alone, the experience itself is enoug
 
 ***
 
-*Thank you for reading! This is Rockmandash Reviews, a blog focused on everything revolving Visual Novels, with stuff like tech and anime every now and then. If you want to read more of my writing, check out *[*FuwaReviews*](https://fuwanovel.net/reviews-hub/)* and *[*AniTAY*](https://anitay.kinja.com/)* where I am a contributor or follow my twitter, *[**@RockmanDash12**](https://twitter.com/RockmanDash12)*.* 
+*Thank you for reading! This is Rockmandash Reviews, a blog focused on everything revolving Visual Novels, with stuff like tech and anime every now and then. If you want to read more of my writing, check out *[*FuwaReviews*](https://fuwanovel.net/reviews-hub/)* and *[*AniTAY*](https://anitay.kinja.com/)* where I am a contributor or follow my twitter, *[**@RockmanDash12**](https://twitter.com/RockmanDash12)*.* 
 
 Major edit on 4/17/18 , cutting out and rewording stuff - because the end half wasn’t really clear and the R11 stuff didn’t really add to the article itself.

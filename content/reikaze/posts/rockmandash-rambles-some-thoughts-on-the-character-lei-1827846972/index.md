@@ -9,7 +9,7 @@
 
 ![](e8tufdeyjlbyj5q4bbzj.png)
 
-When I walked out of* Maquia*, I had a ton of thoughts, but a lot of what was brewing in my head was in regards to one of the side characters, Leilia.<!-- --> <!-- -->These are<!-- --> some thoughts about Leilia that i’d like to comment on here, because <!-- -->it would be rather inappropriate to have in a review due to spoilers**. This is a spoiler filled side article to my main review Maquia, so if you haven’t seen the film or**[** haven’t read that first**](https://rockmandash12.kinja.com/rockmandash-reviews-maquia-when-the-promised-flower-b-1827838489)**, go do that!** With that out of the way, let’s get these thoughts out of the way!\
+When I walked out of* Maquia*, I had a ton of thoughts, but a lot of what was brewing in my head was in regards to one of the side characters, Leilia.<!-- --> <!-- -->These are<!-- --> some thoughts about Leilia that i’d like to comment on here, because <!-- -->it would be rather inappropriate to have in a review due to spoilers**. This is a spoiler filled side article to my main review Maquia, so if you haven’t seen the film or**[** haven’t read that first**](https://rockmandash12.kinja.com/rockmandash-reviews-maquia-when-the-promised-flower-b-1827838489)**, go do that!** With that out of the way, let’s get these thoughts out of the way!\
 \
 **THIS IS A SPOILER FILLED ARTICLE - DO NOT READ IF YOU HAVEN’T SEEN THE MOVIE!!!**
 

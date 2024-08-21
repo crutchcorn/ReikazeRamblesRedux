@@ -31,7 +31,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-#### *Honorable Mention: Rewrite Season 2* 
+#### *Honorable Mention: Rewrite Season 2* 
 
 **Anime Made By:** 8bit
 
