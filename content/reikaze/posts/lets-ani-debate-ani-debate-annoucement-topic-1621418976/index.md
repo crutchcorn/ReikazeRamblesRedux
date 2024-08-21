@@ -31,7 +31,7 @@ The date of the release of the article with the poll and such will be the next M
 
 ## ~~When will we be able to see an Ani-Debate?~~
 
-~~Very soon! Some of the guys who are working on the Ani-TAY Summer Collaboration project (Our Anime of the season that you should be watching article or whatever Dex calls it) got into a very heated argument about if Aldnoah.Zero is a good show or not, so we decided that we'd do an Ani-Debate! Look forward to it in the next few weeks. Also, If you checked out the spreadsheet, there's a bunch of debates sitting there, but no planning yet; I listed a bunch of topics that I thought would be interesting, so join up! (I'm looking forward to the NGE one, worst anime one, and the Shounen one, personally) ~~Just ignore this, I dungoofed :/
+~~Very soon! Some of the guys who are working on the Ani-TAY Summer Collaboration project (Our Anime of the season that you should be watching article or whatever Dex calls it) got into a very heated argument about if Aldnoah.Zero is a good show or not, so we decided that we'd do an Ani-Debate! Look forward to it in the next few weeks. Also, If you checked out the spreadsheet, there's a bunch of debates sitting there, but no planning yet; I listed a bunch of topics that I thought would be interesting, so join up! (I'm looking forward to the NGE one, worst anime one, and the Shounen one, personally)~~ Just ignore this, I dungoofed :/
 
 ![](./p0yx3ua45n0m0w5g2ehi.png)
 

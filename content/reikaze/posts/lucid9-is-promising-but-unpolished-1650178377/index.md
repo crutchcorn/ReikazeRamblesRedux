@@ -15,7 +15,7 @@ While there are tons of indie games being made out there, it's not that often th
 
 
 
-Before we get started, I'm going to give some background information: *Lucid9* is developed by Fallen Snow Studios, a group of people from the Fuwanovel community who wanted to make a visual novel. Fuwanovel is one of the biggest Visual Novel communities out there, and there was recently a [fuwacast](http://www.mixcloud.com/OriginalRen/welcome-to-the-fuwacast-episode-14/) (the Fuwanovel Podcast) by with the creators of the game and if you are interested, you should give a listen**. Keep in mind that this is my thoughts of an alpha demo, so lots of things don't really work (like saving, skipping or pausing) and it may not actually be this way when it comes out.**
+Before we get started, I'm going to give some background information: *Lucid9* is developed by Fallen Snow Studios, a group of people from the Fuwanovel community who wanted to make a visual novel. Fuwanovel is one of the biggest Visual Novel communities out there, and there was recently a [fuwacast](http://www.mixcloud.com/OriginalRen/welcome-to-the-fuwacast-episode-14/) (the Fuwanovel Podcast) by with the creators of the game and if you are interested, you should give a listen. **Keep in mind that this is my thoughts of an alpha demo, so lots of things don't really work (like saving, skipping or pausing) and it may not actually be this way when it comes out.**
 
 #### Writing
 
@@ -53,6 +53,6 @@ After the first backround, I was hoping to be impressed by the visuals, but this
 
 #### Conclusion
 
-*Lucid9*'s demo left me wanting more, and that's more than I can say for a lot of indie VN's. The issue is that this feeling wasn't just because it was interesting, but also because really happened and I couldn't really get a grasp about what *Lucid9* is going to be like. I'm looking forward seeing what *Lucid9 *really is about and really hope it succeeds, but I hope the team takes the time they need to make this great. It looks promising, but unpolished.
+*Lucid9*'s demo left me wanting more, and that's more than I can say for a lot of indie VN's. The issue is that this feeling wasn't just because it was interesting, but also because really happened and I couldn't really get a grasp about what *Lucid9* is going to be like. I'm looking forward seeing what *Lucid9* really is about and really hope it succeeds, but I hope the team takes the time they need to make this great. It looks promising, but unpolished.
 
 If you want to give the game a try, check out the demo [here](http://lucid9.weebly.com/).
