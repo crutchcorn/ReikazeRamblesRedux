@@ -13,7 +13,7 @@ Fall. It’s the season of blockbusters, the big hitters that blow our minds... 
 
 ***
 
-## []()Thoughts on the Season Overall
+## Thoughts on the Season Overall
 
 ![](./qtfok3nzxyuv3jyovrct.png)
 
@@ -21,7 +21,7 @@ Meh? After coming off of the fantastic winter and spring seasons of anime, one m
 
 ***
 
-## []()Rules
+## Rules
 
 ![](./djdsbz9mhyuvwkid92kt.png)
 
@@ -31,7 +31,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-## []()Honorable Mention: *Shelter*
+## Honorable Mention: *Shelter*
 
 **Anime Made By:** Porter Robinson, A-1 Pictures
 
@@ -43,7 +43,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### []()5. *WWW.Working!!*
+### 5. *WWW.Working!!*
 
 **Anime Made By: **A-1 Pictures
 
@@ -55,7 +55,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### []()4. *Yuri on Ice*
+### 4. *Yuri on Ice*
 
 **Anime Made By: **MAPPA
 
@@ -67,7 +67,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### []()3. *Flip Flappers*
+### 3. *Flip Flappers*
 
 **Anime Made By: **Studio 3Hz
 
@@ -81,7 +81,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-## []()2. *Haikyuu!! Season 3*
+## 2. *Haikyuu!! Season 3*
 
 **Anime Made By: **Production I.G
 
@@ -91,13 +91,13 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 **Justification & Thoughts:**
 
-## []()***HYPEKYUU!!!!!!!!!!!!!!!!!!!!***
+## ***HYPEKYUU!!!!!!!!!!!!!!!!!!!!***
 
 I really love sports anime, and Haikyuu has been an integral part of my sports anime experience. Every episode being as hype as it could be with some of the best animation sequences you can think of, Haikyuu was a show to beat, one that would provide an amazing viewing experience as I watched it. This season was no exception, and I loved it to bits (even though I already knew what was gonna happen because I read the manga! yay).
 
 ***
 
-### []()1. *Girlish Number*
+### 1. *Girlish Number*
 
 **Anime Made By: **Diomedea
 

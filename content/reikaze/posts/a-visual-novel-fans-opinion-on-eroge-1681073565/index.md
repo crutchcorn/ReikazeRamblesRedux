@@ -21,7 +21,7 @@ What exactly is a Visual Novel? Why should I care, and why are you talking about
 
 Also, due to the nature of this topic, expect some opinions or issues you may disagree with, so I'd be really grateful if you came into this with an as open mind as possible. I'll try my best to represent both sides fairly. I do have my opinion though, and I'll spew them out. That being said, the article isn't exactly going to talk about the Eroge itself, which is more a moral issue that I don't want to sway people on. It's going to be more about the things that it influences rather than the content itself. I'm no SJW, and I'm not going to try to be one.
 
-## []()It Creates a Stereotype, a Stigma, and it's one I can't stand.
+## It Creates a Stereotype, a Stigma, and it's one I can't stand.
 
 ![](./lq36m6siungld7yraqjh.jpg)
 
@@ -53,7 +53,7 @@ While Visual Novels usually slow affairs with either meticulous writing or Slice
 
 [Read more](https://rockmandash12.kinja.com/g-senjou-no-maou-the-tay-review-1524540625)
 
-## []()Eroge is there, whether you like it or not.
+## Eroge is there, whether you like it or not.
 
 ![](./neeakhsvphfacdmdiepv.jpg)
 
@@ -89,7 +89,7 @@ While I would personally love it if there weren't H-scenes in visual novels at a
 
 As of late, because of the efforts of indies and publishers like Sekai project trying to branch out into the mainstream gaming audience, we've seen a lot more AA versions, which is really a step in the right direction…. but there are so many where you simply do not have the option, which to me is really frustrating. I don't like it in any of my media. I don't want to see it tied to a narrative, and I don't want to have any part with H-Scenes, but I'm forced to deal with it, even when there are versions out there that do not have these. The community forces it's opinion that 18+ is greater than AA, and more often than not doesn't even give you the option to pick.
 
-## []()To me, H-scenes don't add anything to the experience...
+## To me, H-scenes don't add anything to the experience...
 
 ![](./aadithihdohkuavysopi.jpg)
 

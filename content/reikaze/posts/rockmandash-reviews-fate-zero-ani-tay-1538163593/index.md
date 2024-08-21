@@ -21,7 +21,7 @@ In preparation for the Fate/stay night: Unlimited Blade Works Adaptation by Ufot
 
 What do you get when you let Gen Urobuchi have a slice of the Nasuverse? You get *Fate/Zero* of course! *Fate Zero* was written by Gen Urobuchi, and Gen takes a very interesting approach to the Nasuverse, but one that blends in with the rest of the Nasuverse very well. *Fate/Zero* is the predecessor to *Fate/stay night*, and takes place during the 4th Holy grail war (which isn’t really a war....) where people known as Masters fight with Heroes throughout history, known as servants, for a chance to get the Holy Grail, which grants their wishes. Each servant is one of the 7 classes, Saber, Archer, Lancer, Berserker, Rider, Assassin, and Caster. If you didn’t get that, well, *Fate/Zero* includes an extremely long 45 minute first episode that’s almost nothing but exposition, and exposition on pretty much every topic. It’s a well written, polished plot, with interesting themes, great ideas, and amazing premise. One issue I came into is that *Fate/Zero* has some pacing issues. *Fate/Zero* tries to be both an action show yet have a dark, and conversational plot, and these interfere with each other. The pacing is much better than KnK (having a plot in order helps a lot), but still it’s still slow at the beginning.
 
-#### []()Plot - 9/10
+#### Plot - 9/10
 
 ![](./1313360469629133091.png)
 
@@ -31,19 +31,19 @@ Normally when I review, I usually clump plot and characters into one category kn
 
 Due to the ensemble cast and focus on ideals, there are only a few characters I was attached to, and truly enjoyed. The only original characters that get any development are Rider and Waiver. Rider is epic, always brings up the mood and is so charismatic that every time he’s on the screen, you cannot help but look at him. Waiver is Rider’s master, and is a dynamic character with amazing development as he grows from a spineless wimp to one who you can relate to, yet admire for his actions. Depending on who you are, You might like this approach with ensemble characters to focus on the action, but I wish it had more time to flesh in the characters, and more focus.
 
-#### []()Characters - 7.5/10
+#### Characters - 7.5/10
 
 ![](./1313360469820556323.png) ![](./1313360470038798115.png)
 
 Ufotable does it once again. *Fate/Zero *has some of the best visuals in anime, with absolutely beautiful visuals: Visuals that are so good, that people still debate that they haven’t been surpassed yet. In my eyes, what *Fate/Zero* does really well in the visuals is the is the fight scenes, with fluid animation and excellent consistency. *Fate/Zero* has some of the best fight scenes in anime, in my opinion, and as a Fate fan, it’s great to see characters I love animated so beautifully. It’s one of the best looking anime I’ve seen, and it’ll hold up for years.
 
-#### []()Visuals - 9.5/10
+#### Visuals - 9.5/10
 
 ![](./1313360470096217379.png)
 
 One name can sum up what I think about the soundtrack, and that’s Yuki Kajiura. Just like Kara no Kyoukai, this series is full of epic music that is pleasing to the ear and absolutely beautiful, once again made by Yuki Kajiura. It’s truly excellent music, this time with a nice orchestral sound. They use it extremely well, with each track sounding awesome and supporting the show at the same time. The superb voice acting helps make up for that a bit though as all the characters had great voices and they all did a great job. As for the eternal Dub vs Sub debate, I’m going to have to give this to Dub, but the voice work is fantastic no matter what language you’re watching this in. While the sub has the returning characters from other Fate works, I felt like the dub cast did a better job in representing the characters. (Especially the servants, who are mostly foreign to Japan anyways.)
 
-#### []()Sound - 9.5/10
+#### Sound - 9.5/10
 
 ![](./1313360470164487715.png)
 
@@ -53,13 +53,13 @@ While I did enjoy *Fate/Zero*, I didn’t like it nearly as much as the rest of 
 
 About the hype backlash; I heard so much coming into this that I was expecting something amazing, and what I saw was pretty good; but not as good as I was expecting. I heard so many saying it’s the best show ever, but that never clicked with me. I gave it plenty of chances, but it really didn’t engage me. My biggest gripe is the lack of character development throughout the series. I really don’t care for a good majority of the characters, because how they are embodiments of ideals instead of fleshed out characters with personalities. Because of this distinct lack of character development, episodes with it like Rin’s Big Adventure (Rin, EP 10), Distant Memories (EP 18) & Where Justice Swells (EP 19) are the peaks for me, if the show was like this the whole time, I’d love it. If you are looking for something that grips you , you aren’t going to find that here.
 
-#### []()Enjoyment - 7.5/10
+#### Enjoyment - 7.5/10
 
 ![](./1313360470518411811.png)
 
 Fate/Zero is a fantastic show, as it’s polished as all hell and is a good watch. The show is epic and has some really good points, and many fans will love it, but I have a few gripes with it and I just can’t love it as much as you guys do.
 
-## []()Overall - 8.75/10, Polarization +1,-.5
+## Overall - 8.75/10, Polarization +1,-.5
 
 ![](./1313360470930873123.png) ![](./1313360471021958691.png)
 

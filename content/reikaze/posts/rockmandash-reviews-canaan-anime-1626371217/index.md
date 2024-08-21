@@ -27,19 +27,19 @@ ue to this being an action show, with Type-Moon writing, this show can get into 
 
 The writing has it’s ups and downs. An interesting premise combined with Nasu’s writing style and solid action keeps it together, but everything that’s supposed to keep it together fails. It should be good enough to keep you interested, but it does fall apart.
 
-#### []()Writing - 6.5/10
+#### Writing - 6.5/10
 
 ![](./1248091305958899118.png) ![](./1248091305996334254.jpg)
 
 I have no complaints here. The action looks good, the characters are pleasing to the eye, and the world looks beautiful. It’s sharp, and it does what it wants to do. It’s solid for the time, and it hasn’t aged poorly. It doesn’t do anything really special though, and that lack of style is the difference between good and great. The only real way to describe the visuals is solid: Good, but not great.
 
-#### []()Visuals - 7.5/10
+#### Visuals - 7.5/10
 
 ![](./1248091306045399982.png)
 
 The soundtrack in Canaan is hard to talk about. It has the same tones and beautiful atmospheric sounds as other Type-Moon stuff, and it definitely feels like a type moon soundtrack... but it’s not. It’s an early PA Works soundtrack and it definitely doesn’t have an impact. While Kara no Kyoukai never leaves my head, Canaan left my head as soon as I finished the episode. It does a great job at making an atmosphere, it fits the show well and it makes the mood, but as good as it is, it doesn’t do anything special. This is a soundtrack that’s better standalone, as it’s a beautiful soundtrack, but it doesn’t do much for the show. The soundtrack overall is pretty enjoyable yet forgettable, and that’s a darn shame. As for the voice over, It does the job. Miyuki Sawashiro did a stellar job with Canaan and Alphard, but other than that performance, it was just OK.
 
-#### []()Sound - 7.5/10
+#### Sound - 7.5/10
 
 ![](./1248091306094503086.png)
 
@@ -57,13 +57,13 @@ When I first saw Under the Dog, I wasn't exactly sure what to think about it. I 
 
 [Read more](https://anitay.kinja.com/rockmandash-rambles-why-you-should-fund-under-the-dog-1626833454)
 
-#### []()Enjoyment - 8/10
+#### Enjoyment - 8/10
 
 ![](./1248091306232403374.png)
 
 Canaan represents an age of anime that’s past, but in it’s path to homage, it forgot to execute well. It was a nice change of pace and it was an enjoyable ride, but it’s one to enjoy not because of what it is, but because of what it represents.
 
-## []()OVERALL - 7.5/10, Polarization +1, -3
+## OVERALL - 7.5/10, Polarization +1, -3
 
 ![](./zfiv3yn0zpultasiol9x.png) ![](./1248091306403187630.png)
 

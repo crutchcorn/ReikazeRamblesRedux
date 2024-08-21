@@ -17,7 +17,7 @@ Also, I’d like to keep in mind that all of the movies here are ones I think ar
 
 ***
 
-#### []()**HM#1: *Cowboy Bebop: Knockin’ on Heaven’s Door***
+#### **HM#1: *Cowboy Bebop: Knockin’ on Heaven’s Door***
 
 **Plot Description: **As the Cowboy Bebop crew travels the stars, they learn of the largest bounty yet, a huge 300 million Woolongs. Apparently, someone is wielding a hugely powerful chemical weapon, and of course the authorities are at a loss to stop it. The war to take down the most dangerous criminal yet forces the crew to face a true madman, with bare hope to succeed. *- Plot Description from MAL*
 
@@ -29,7 +29,7 @@ About *Cowboy Bebop: Knockin’ on Heaven’s door*... It’s ***COWBOY BEBOP***
 
 ***
 
-#### []()HM#2. Trigun: Badlands Rumble
+#### HM#2. Trigun: Badlands Rumble
 
 **Plot Description: **20 years after meddling into the bank heist of a notorious robber named Gasback, Vash the Stampede is heading towards Macca City. Rumors say that the legendary thief might appear there causing an enormous influx of bounty hunters in the area who want to collect the $$300,000,000 prize for his head.* - Plot Description from MAL*
 
@@ -39,7 +39,7 @@ About *Cowboy Bebop: Knockin’ on Heaven’s door*... It’s ***COWBOY BEBOP***
 
 ***
 
-### []()**HM#3.* Full Metal Alchemist: Conqueror of Shamballa***
+### **HM#3.* Full Metal Alchemist: Conqueror of Shamballa***
 
 **Plot Description: **Munich, Germany, 1923. Two years have passed since Edward Elric was dragged from his own world to ours, leaving behind his country, his friends and his younger brother, Alphonse. Stripped of his alchemical powers, he has been all this time researching rocketry together with Alphonse Heiderich, a young man who resembles his own brother, hoping to one day find a way back home. His efforts so far had proven fruitless, but after lending a hand to a troubled gypsy girl, Edward is thrown in a series of events that can wreak havoc in both worlds. Meanwhile, at his own world, Alphonse Elric ventures deeper into the mysteries of alchemy in search for a way to reunite with his older brother. - *Plot Description from MAL*
 
@@ -49,7 +49,7 @@ About *Cowboy Bebop: Knockin’ on Heaven’s door*... It’s ***COWBOY BEBOP***
 
 ***
 
-## []()**10.* The Place Promised in Our Early Days***
+## **10.* The Place Promised in Our Early Days***
 
 **Plot Description: **In an alternate timeline, Japan was divided after losing World War II: Hokkaido was annexed by “Union” while Honshu and other southern islands were under US sovereignty. A gigantic yet mysterious tower was constructed at Hokkaido and could be seen clearly from Aomori (the northernmost prefecture of Honshu) across Tsugaru Strait. In the summer of 1996, three 9th-graders had made a promise that one day they’ll build an aircraft and unravel the tower’s mystery, but their project was abandoned after the girl, Sayuri Sawatari, began experiencing sleeping sickness and transferred to Tokyo for better treatment. Three years later, Hiroki Fujisawa accidentally found out that Sayuri had been in a coma since then, and he asked Takuya Shirakawa to help him finding a way to revive her. What they don’t know yet is that Sayuri’s unconsciousness is somehow linked with secrets of the tower and the world. - *Plot Description from MAL*
 
@@ -63,7 +63,7 @@ If that’s the case, you may ask me, why is it at the bottom of my list? That�
 
 ***
 
-## []()**9. *Patema Inverted***
+## **9. *Patema Inverted***
 
 **Plot Description: **Patema lives in an underground world of tunnels, the long-abandoned ruins of a giant industrial complex. Though she is a princess, she is held back by the rules imposed by the elders of her clan. One day when she is exploring in a forbidden zone, she is startled by a strange bat-like creature and tumbles headlong into a void - and out into the wide open world above the surface, a place with reversed physics, where if she let go she would “fall up” into the sky and be lost forever. Age is a student on this surface world, a totalitarian society whose compliant population has been brainwashed against the “sinners who fell into the sky.” When he spies Patema hanging upside-down from a tree, he pulls her down to safety, struggling with all his might to keep her earthbound as she grips on to him for dear life. Together their weights cancel each other out, and once they master the art of navigating competing gravitational forces, they set out to evade the leaders of Age’s world and discover the secret that keeps their worlds apart. - *Plot Description from MAL*
 
@@ -77,7 +77,7 @@ Why 9th on the list then? Mainly because while this movie is done really well, s
 
 ***
 
-## []()**8. *Jin-Roh: The Wolf Brigade***
+## **8. *Jin-Roh: The Wolf Brigade***
 
 **Plot Description: **After witnessing the suicide bombing of a terrorist girl, Constable Kazuki Fuse becomes haunted by her image, and is forced to undergo retraining for his position in the Capital Police’s Special Unit. However, unknown to him, he becomes a key player in a dispute between Capital and Local Police forces, as he finds himself increasingly involved with the sister of the very girl he saw die. - *Plot Description from MAL*
 
@@ -91,7 +91,7 @@ Mamoru Oshii works are great because they provide a great world with an engaging
 
 ***
 
-## []()**7. *Redline***
+## **7. *Redline***
 
 **Plot Description: **Redline is about the biggest and most deadly racing tournament in the universe. Only held once every five years, everyone wants to stake their claim to fame, including JP, a reckless dare-devil driver oblivious to speed limits with his ultra-customized car—all the while, organized crime and militaristic governments want to leverage the race to their own ends. Amongst the other elite rival drivers in the tournament, JP falls for the alluring Sonoshee—but will she prove his undoing, or can a high speed romance survive a mass destruction race? - *Plot Description from MAL*
 
@@ -101,7 +101,7 @@ If my words aren’t enough, go and watch DouchebagChocolat’s review, a review
 
 ***
 
-## []()**6. *Evangelion: 2.22 You Can (Not) Advance***
+## **6. *Evangelion: 2.22 You Can (Not) Advance***
 
 **Plot Description: **In the earliest battles against the monstrous Angels, young Eva pilots Shinji and Rei were forced to carry humanity’s hopes on their shoulders. Now, with the deadly onslaught of the Angels escalating and the apocalyptic Third Impact looming, Shinji and Rei find their burden shared by two new Eva pilots, the fiery Asuka and the mysterious Mari. Maneuvering their enormous Eva machines into combat, the four young souls fight desperately to save mankind from the heavens—but will they be able to save themselves? - *Plot Description from Funimation*
 
@@ -115,7 +115,7 @@ If you’re an Eva fan, you may ask me, Why did I make that pick 2.22 over *EoE*
 
 ***
 
-## []()**5.* Wolf Children***
+## **5.* Wolf Children***
 
 **Plot Description: **Wolf Children is about a young woman named Hana who falls in love with her mysterious college classmate who is actually a wolf man. The couple produce two children who also possess their father’s lineage; the big sister Yuki, who was born on a snowy day, and the little brother, Ame, who was born on a rainy day.
 
@@ -131,7 +131,7 @@ The wolf man suddenly dies one day, leaving Hana to raise the two wolf children 
 
 ***
 
-## []()**4. *The Disappearance of Haruhi Suzumiya***
+## **4. *The Disappearance of Haruhi Suzumiya***
 
 **Plot Description: **It is mid-December, and SOS Brigade chief Haruhi Suzumiya announces that the Brigade is going to hold a Christmas party in their clubroom, with Japanese hotpot for dinner. The brigade members Kyon, Yuki Nagato, Mikuru Asahina and Itsuki Koizumi start preparing everything for the party, such as costumes and decorations. But a couple of days later, Kyon arrives at school only to find that Haruhi is missing. Not only that, but Mikuru claims she has never known Kyon before, Koizumi is also missing, and Yuki has become the sole member of the literature club. The SOS Brigade seems to have never existed, nor has Haruhi Suzumiya. No one in the school has ever heard about her... except for Kyon. - *Plot Description from MAL*
 
@@ -141,7 +141,7 @@ The wolf man suddenly dies one day, leaving Hana to raise the two wolf children 
 
 ***
 
-## []()**3.* Perfect Blue***
+## **3.* Perfect Blue***
 
 **Plot Description:** Mima Kirigoe, a member of a pop-idol group called “CHAM!”, decides to quit singing to pursue a career as an actress. Some of her fans are displeased with this decision though, particularly a stalker named Me-Mania. As Mima progresses into her new career, those close to her are violently murdered one by one, and Mima begins to lose the ability to distinguish reality from fantasy. - *Plot Description from MAL*
 
@@ -153,7 +153,7 @@ I haven’t seen all of Kon’s works so far so I’m not the best to judge, but
 
 ***
 
-## []()2*. Akira*
+## 2*. Akira*
 
 **Plot Description: **It’s the year 2019 in Neo Tokyo, thirty-one years have passed since the start of World War III. A top-secret child with amazing powers of the mind breaks free from custody and accidentally gets a motorcycle gang involved in the project. This incident triggers psychic powers within one of the gang members, Tetsuo, and he is taken by the army to be experimented on. His mind has been altered and is now on the path of war, seeking revenge on the society that once called him weak. -
 
@@ -163,7 +163,7 @@ I haven’t seen all of Kon’s works so far so I’m not the best to judge, but
 
 ***
 
-## []()1. *Kara no Kyoukai: Paradox Spiral*
+## 1. *Kara no Kyoukai: Paradox Spiral*
 
 > \*Note\* - Video Trailer is not of *Paradox Spiral* in particular, but a trailer of the whole series in general.
 

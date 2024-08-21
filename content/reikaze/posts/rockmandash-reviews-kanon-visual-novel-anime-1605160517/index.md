@@ -25,7 +25,7 @@ The characters in Kanon are best described as fantastic. Most notable is Yuuichi
 
 Kanon is written very well, and it’s a solid romance, even though it was one of the pioneers of the romantic visual novel. No matter which version you check out, you are going to get a solidly written show.
 
-#### []()Writing - 9/10
+#### Writing - 9/10
 
 ![](./1394850402617293384.png) ![](./1394850402668648264.jpg)
 
@@ -33,7 +33,7 @@ Kanon is written very well, and it’s a solid romance, even though it was one o
 
 Other than visuals, there are a few other things that are worse about 2002 anime like the voice acting delivery being surprisingly bad considering it’s the same voice actors, the music was botched up pretty badly, the show as a while is nowhere near as enjoyable as the other versions and from what I’ve heard the pacing suffers also due to the fact that it’s a 13 episode adaptation of a long game. If you are interested in Kanon, avoid the 2002 anime. I like to think that this version doesn’t exist... it hasn’t aged well at all, it’s the worst version, and put plainly, it’s a pain to watch.
 
-#### []()2002 Anime - 5/10
+#### 2002 Anime - 5/10
 
 ![](./1394850403021508936.png) ![](./1394850403058857032.jpg)
 
@@ -45,7 +45,7 @@ The execution of the plot is very solid, but that’s to be expected, as it is t
 
 Kanon as a visual novel is solid. You get a great story, but there are things that held it back, like H-scenes, and slow pacing.
 
-#### []()Visual Novel - 8/10
+#### Visual Novel - 8/10
 
 ![](./1394850403288668488.png) ![](./1394850403542571080.jpg)
 
@@ -59,7 +59,7 @@ With this adaptation, they made Kanon enjoyable, with great comedy, and excellen
 
 KyoAni did a fantastic job with adaptation and improved the story in almost every way while keeping the charm of the original, thus making the definitive version of Kanon. It’s absolutely fantastic anime, and it’s a shining example of what an adaptation should be.
 
-#### []()2006 Anime - 9.5/10
+#### 2006 Anime - 9.5/10
 
 ![](./1394850403626233672.png) ![](./1394850404125170248.jpg)
 
@@ -67,13 +67,13 @@ When I first experienced Kanon, I watched it for the sake of filling up the “V
 
 This run through Kanon also taught me a few things: it has way less impact if you have it in your mind, and if you want to play a VN and watch the Anime, play through the VN first. It’s hard to enjoy a slice of life VN like this when you already know what it leads to.
 
-#### []()Enjoyment - 9.5/10
+#### Enjoyment - 9.5/10
 
 ![](./1394850404165926216.jpg)
 
 At this point, Kanon is a like a lost memory in the seas of Key, buried under stuff like Little Busters, and Clannad.... but when you find Kanon, you have a very charming and well executed story that should not be forgotten. It’s a must watch for any Key fan, and a great story overall.
 
-## []()OVERALL - 9/10, Polarization +.5, -2
+## OVERALL - 9/10, Polarization +.5, -2
 
 ![](./1394850404208501576.png) ![](./1394850404276375880.png)
 

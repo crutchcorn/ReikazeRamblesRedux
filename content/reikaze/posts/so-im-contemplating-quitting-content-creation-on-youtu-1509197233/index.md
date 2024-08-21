@@ -15,7 +15,7 @@ The biggest reason why i'm deciding on quitting YouTube is that YouTube is very 
 
 Next up is the bullshit that happens when you put a video out onto YouTube, the net known as Content ID, and the punishment of failing a claim which is a copyright strike. I'm so damn tired of Content ID. Anytime I do ANYTHING modern that's not totally obscure, I get this really fucking annoying content ID flag. Without Question. My Steins;Gate Review, my Valvrave review, and Fate/Stay Night: Unlimited Blade Works Movie Review (btw the fucking whole movie is up on YouTube yet I can't fucking get a review up?) all got tagged. I'm the type of person who believes in rules and content ID taking down any form of review is blasphemy. Under Title 17, section 107 of United States Copyright law, reviews are protected:
 
-> ### []()Quote:
+> ### Quote:
 >
 > Notwithstanding the provisions of sections 106 and 106A, the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section,** for purposes such as criticism, comment,** news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright.
 

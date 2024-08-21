@@ -73,7 +73,7 @@ Also, the changes with NG+ were absolutely amazing, being touching, tense, engag
 
 *Sound of Drop - fall into poison *is a flawed game that has traits that are normally game breakers, but manages to do other things like having a great sense of tension in it’s atmosphere to keep it an engaging and enjoyable experience. Even with it’s flaws though, I wholeheartedly recommend it to anyone as it’s a horror game that’s moving and engaging, one that is definitely worthwhile to play and doesn’t deserve being overshadowed by others like it is.
 
-### []()Overall - 8/10, Polarization +.5, -1
+### Overall - 8/10, Polarization +.5, -1
 
 ![](./1513818382954080805.png) ![](./1513818383371188261.png)
 

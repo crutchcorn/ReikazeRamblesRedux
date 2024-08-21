@@ -21,7 +21,7 @@ Katawa Shoujo is a free Visual Novel by Four Leaf Studios released last January 
 
 Before we get started, I'm going to give some background information: *Lucid9* is developed by Fallen Snow Studios, a group of people from the Fuwanovel community who wanted to make a visual novel. Fuwanovel is one of the biggest Visual Novel communities out there, and there was recently a [fuwacast](http://www.mixcloud.com/OriginalRen/welcome-to-the-fuwacast-episode-14/) (the Fuwanovel Podcast) by with the creators of the game and if you are interested, you should give a listen**. Keep in mind that this is my thoughts of an alpha demo, so lots of things don't really work (like saving, skipping or pausing) and it may not actually be this way when it comes out.**
 
-#### []()Writing
+#### Writing
 
 ![](./yduvpsiotwxi5wgpyj9p.png)
 
@@ -47,7 +47,7 @@ I jumped into the story without reading it's plot summary (like a normal person 
 
 That being said, the writing that was there was enjoyable: the main character's sarcasm is surprisingly good, The interactions are pretty funny and I feel like the final product will be pretty enjoyable, but I worry how they are going to balance the drama with the comedy, an issue that a lot of series have nowadays.
 
-#### []()Art
+#### Art
 
 ![](./958517171169919522.png)
 
@@ -55,11 +55,11 @@ After the first backround, I was hoping to be impressed by the visuals, but this
 
 ![](./kwf4houtd9vzoiagsj2g.png)
 
-#### []()Soundtrack
+#### Soundtrack
 
 *Lucid9*'s soundtrack is pretty good. They have a [soundcloud with some of the soundtrack](https://soundcloud.com/fallensnowstudios), and I found it pleasing to the ear. The tracks fit the situation well, and are well composed in general. I can't wait to see some of these tracks implemented in the game.
 
-#### []()Conclusion
+#### Conclusion
 
 *Lucid9*'s demo left me wanting more, and that's more than I can say for a lot of indie VN's. The issue is that this feeling wasn't just because it was interesting, but also because really happened and I couldn't really get a grasp about what *Lucid9* is going to be like. I'm looking forward seeing what *Lucid9 *really is about and really hope it succeeds, but I hope the team takes the time they need to make this great. It looks promising, but unpolished.
 

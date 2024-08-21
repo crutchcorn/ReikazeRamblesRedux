@@ -13,7 +13,7 @@ In 2011, when the original iPad came out, tablets were marketed as the next revo
 
 ***
 
-## []()What is it?
+## What is it?
 
 ![](htaraiftmowekpqsnhxq.jpg)
 
@@ -38,7 +38,7 @@ It’s a rectangular tablet that has the same Cherry Trail chip that so many of 
 
 ***
 
-## []()Design
+## Design
 
 ![](htrs2mh3b2jz3xpimo9w.jpg)
 
@@ -58,7 +58,7 @@ Unlike the Teclast x98 Air I reviewed which bundled all of the ports in the bott
 
 ***
 
-## []()Using it
+## Using it
 
 ![](awkfkpzz26kpkfw3ba6u.jpg)
 
@@ -106,7 +106,7 @@ There was one thing about my unit that was particularly bad though, bad enough t
 
 ![](xnavc9rnnfpr5se2p9wa.jpg)
 
-### []()Like
+### Like
 
 **The display - **High resolution IPS displays are great and this is no different. Coupled with a great size and this is a solid experience.
 
@@ -114,7 +114,7 @@ There was one thing about my unit that was particularly bad though, bad enough t
 
 **The experience as a 2 in 1 - **As good as it’s more expensive rivals, a great production experience that gives confidence in regards to replacing a laptop.
 
-### []()No Like
+### No Like
 
 **Weak WiFi performance - **WiFi is our world and poor connection only leads to frustration. Also has the side effect of making Android much less useful.
 
@@ -124,7 +124,7 @@ There was one thing about my unit that was particularly bad though, bad enough t
 
 ***
 
-### []()Should you buy it?
+### Should you buy it?
 
 ![](jw8cuffqkwkeufzsxod7.jpg)
 

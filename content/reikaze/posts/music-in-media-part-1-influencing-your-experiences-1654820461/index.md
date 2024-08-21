@@ -21,7 +21,7 @@ Everything Anime and Beyond
 
 [Read more](http://anitay.kinja.com/)
 
-### []()Getting Absorbed into the World - Creating an Atmosphere
+### Getting Absorbed into the World - Creating an Atmosphere
 
 When we experience a game or movie, we are inherently detached from the experience. Unlike events in our real life, the events that take place inside a movie or a game have a very minimal effect on our own lives. Due to this, these works have to try absorbing us into the world by creating an atmosphere that is engaging and a mood that interests the viewer. In medias like TV shows and Video Games, one of the tools that that creators can utilize to absorb us into the world is our senses, thus Visuals and Music are usually used to appease them. They are a crucial element or removing the barriers of a media and making the world feel believable. Through music, these works of art can create an environment in which we can experience, and give a sense of what the scene is like. Through the composition of the songs, you get sensory information the tone of the scene, while acquiring knowledge on the scope of the world. In the track I selected above, Stranger from [*Fate/hollow ataraxia*](http://rockmandash12.kinja.com/rockmandash-reviews-fate-hollow-ataraxia-visual-novel-1612260148?rev=1414624834220) is a tranquil, serene track. Just listening to this, it creates a calming atmosphere which helps you to imagine a calm and tranquil environment which a track like this would play in, and it creates a feeling of existence. Music like this makes you feel like you are in this serine world that this music plays in, and this is an important part of music in media.
 
@@ -29,7 +29,7 @@ This atmosphere is especially important to make in Video Games, where there are 
 
 Also, this is incredibly important to make for works that do not occur in modern times, in our world, or just any setting we are not familiar with. Creating this atmosphere is essential to how you experience said work, and it will directly influence the your enjoyment of the game. It can be the difference between getting attached to a story, or not. Due to the fact that the person experiencing a work is unfamiliar with the world, music usually acts as a supplement to the world building, as it helps to create a culture and feel for the world. Via the use of genres, specific instruments and play style, Music can heavily influence your perceived notion of the world: it can create a feeling of age, it can create a feeling of fantasy, it can create a feeling of alienation, etc. A great example is the **not ***Final Fantasy* game, [*The Last Story*](http://kotaku.com/the-last-story-the-kotaku-review-5889812). If you just had the writing and the world, it may just feel like another high fantasy, but with Nobuo Uematsu's beautiful soundtrack, it creates a rich world, one with its own history and past. It builds a very distinct tone and feel using instruments like the violin that is not typically found in fantasies, and it helps to create a tone for what the game will feel like. The world feels older than our modern times, but it has a lot of character, and this soundtrack makes the world feel very alive. It gives you a good feel for what the world is like, and is a huge part of the world building in The Last Story.
 
-### []()Enhancing the Meaning - Using a Soundtrack Well
+### Enhancing the Meaning - Using a Soundtrack Well
 
 It's one thing to have a track that portrays an atmosphere, but it's another to use it well. For a soundtrack to be really effective, it has to utilize its music to coincide with what is happening on screen, and accompany the narrative or experience the work is trying to execute. A soundtrack that is used well will capture the themes, make important scenes stand out from the rest, with a well-timed track that matches with what the visuals and writing is doing, but used well enough to make sure that it the track itself leaves impact on the viewer. Sometimes using a track too much may dull the impact, but repetition manages to enforce the meaning of the song.
 
@@ -45,7 +45,7 @@ Thanks to an amazing title sequence and an imagination-capturing low fantasy wor
 
 [Read more](https://kotaku.com/attack-on-titan-is-good-so-far-but-doesnt-live-up-to-643242311)
 
-### []()Controlling How You Feel - Dictating Mood
+### Controlling How You Feel - Dictating Mood
 
 Why is the execution important? Mood. Music is what dictates the mood of the story, and by doing this, directly influences how you the viewer/player feels. One can say that music is emotion itself, and I'd have to agree with thatWhen you have a good soundtrack, the music will attach you to the characters, and the music will mess with you. When you engage a story, you come into it with your own mindset: It is the music's job to snap you into the mindset that the scene intends you to be in, and when it does this, it usually elicits emotions. When you and the music are in the same mindset, it can really memorable moments, and those are the moments when they flood gates open, the emotions start impacting. My example for this is *Clannad, *as the track Roaring Tides does an absolutely fantastic job moving you, and it certainly did a number on me when I first heard it... I was pouring tears.
 
@@ -61,6 +61,6 @@ Welcome to Rockmandash Reviews, and this is my review of the highly regarded Muv
 
 [Read more](https://rockmandash12.kinja.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967)
 
-### []()Conclusion
+### Conclusion
 
 Music is an aspect of media that is underrepresented in discussions, and I hope this article makes you think and appreciate the influences it has. The next time you are watching a show or playing a game, try to think of the music and it's influences. The next time you discuss your favorite show or game with someone, bring up the soundtrack, as it's rarely discussed... and for those reviewers or analyzers of media reading this: **PLEASE MENTION THE SOUNDTRACK**. It's a crucial element of the experience, and it pains me to see so many people gloss over it. Music dramatically influences a person's experience, so not mentioning it is leaving out an important aspect unmentioned, and it really should be mentioned to spur discussion.

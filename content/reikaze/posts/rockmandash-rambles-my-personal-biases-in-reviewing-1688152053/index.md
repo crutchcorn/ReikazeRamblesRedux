@@ -29,7 +29,7 @@ I judge works primarily based on the experience it provides, the thrill, the fee
 
 ***
 
-### []()Storytelling
+### Storytelling
 
 ![](./acvlqcmxxgy3vpsb6kia.jpg)
 
@@ -59,7 +59,7 @@ Welcome to Rockmandash Reviews! Today I’m reviewing one of my favorite anime, 
 
 ***
 
-### []()Atmosphere/World
+### Atmosphere/World
 
 ![](./abgxyzh7slw1coolfvcu.jpg)
 
@@ -75,7 +75,7 @@ I’m pretty well known around here for being a Fate/fanboy, but if there’s on
 
 ***
 
-### []()Emotion
+### Emotion
 
 ![](./mqhr1ljuzhcvhhcq4pg5.jpg)
 
@@ -91,7 +91,7 @@ In preparation for Fate/stay night, and because I felt like marathoning somethin
 
 ***
 
-### []()Etcetera
+### Etcetera
 
 ![](./uyq4pyl8wwocummrja5k.jpg)
 
@@ -103,7 +103,7 @@ I do have a hipster tendency to prefer obscure things over more popular things..
 
 ***
 
-### []()Conclusion
+### Conclusion
 
 By being able to see one's biases, it enables you to better understand the perspective of the reviewer, and why they would say stuff in that way. I personally believe that everyone who does reviewing should make an article like this that shows all their biases, so people can better gauge your thoughts on said articles. Overall, mine can really be summed up with a focus on the influence of said experience, and I hope you learned something about me as you read through this. :)
 

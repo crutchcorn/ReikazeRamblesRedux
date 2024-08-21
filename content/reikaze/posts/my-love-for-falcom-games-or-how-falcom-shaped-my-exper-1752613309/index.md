@@ -13,7 +13,7 @@ During the early years in gaming, JRPGs were one of the few ways of getting a go
 
 ***
 
-## []()**The Fall from Grace, Held up by *Ys*****
+## **The Fall from Grace, Held up by *Ys*****
 
 ![](wrujtap7tparhogmvgnp.jpg)
 
@@ -37,7 +37,7 @@ The *Ys *series is an old series that has its origins in the 80's, but for me, t
 
 ***
 
-### []()**A Revival of Interest by *Kiseki***
+### **A Revival of Interest by *Kiseki***
 
 ![](ywsal38esfpsbs1gmptp.jpg)
 

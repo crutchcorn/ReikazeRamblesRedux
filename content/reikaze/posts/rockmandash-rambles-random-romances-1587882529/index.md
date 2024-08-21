@@ -17,7 +17,7 @@ This isn't really a full on article but I'm going to be shifting gears a bit in 
 
 [Read more](https://tay.kinja.com/rockmandashs-state-of-the-review-address-key-maratho-1555068823)
 
-### []()My Teen Romantic Comedy SNAFU
+### My Teen Romantic Comedy SNAFU
 
 ![](./segtqqpvdrtqqjsdegws.jpg)
 
@@ -31,7 +31,7 @@ A Genre Savvy character doesn't necessarily know they're in a story, but they do
 
 [Read more](http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy)
 
-### []()White Album 2
+### White Album 2
 
 ![](./cejfv1wypiw5vlxjkd2m.jpg)
 
@@ -47,7 +47,7 @@ Today we're going to look at White Album 2, a series which takes place in the sa
 
 [Read more](https://tay.kinja.com/dexs-review-white-album-2-1488422133)
 
-### []()Ef - A Fairy Tale of the Two + Animes
+### Ef - A Fairy Tale of the Two + Animes
 
 ![](./s9glyqyic22pu0owyofr.jpg)
 

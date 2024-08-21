@@ -55,7 +55,7 @@ For a game like this, story is everything. If you experience the game as intende
 
 **Conclusion –** Fate Stay Night is a fantastic yet really long Visual Novel. As a story, it's bloody amazing, but it's not perfect in its current state as a game. Everything negative I say about this game is nitpicky though, as this game is fantastic, with great writing, a great world, and great characters. This is not a part of the review, but availability is an important part of any series and considering the popularity of this series, you would think Fate Stay Night would come to the states. NOPE! The only way to play this game in English is via pc thanks to the fantastic translation by the guys at mirror moon, or on the DS and Android platforms via VNDS. I hope in the future we can get something like the Vita version of the game, or if they ever decide to do an HD remake with the new character designs and art from Ufotable, but for now, the only way to get the definitive version of the FSN story in English is via a fan translation.
 
-### []()Pros:
+### Pros:
 
 Fantastic Writing
 
@@ -63,11 +63,11 @@ Great World
 
 Great Characters
 
-### []()Cons:
+### Cons:
 
 Nothing major
 
-## []()9.25/10
+## 9.25/10
 
 I am the Keyboard of my Review
 

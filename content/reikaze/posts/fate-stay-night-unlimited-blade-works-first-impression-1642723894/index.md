@@ -13,7 +13,7 @@
 
 [![](1476080727821779888.jpg)](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-### []()Visuals
+### Visuals
 
 ![](940934613098786190.jpg)
 
@@ -27,25 +27,25 @@ The fight scenes are so lightning fast that it blows my mind. They have a high s
 
 [![](1291273890055762608.png)](https://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-unlimited-blade-wo-1504755437)
 
-### []()Soundtrack
+### Soundtrack
 
 The soundtrack is just as amazing as I thought it would be, and I'm a fan. It's beautifully composed, and it's used well in creating an amazing atmosphere and mood. It's pleasing to the ear and it sounds great. It sounds much more fitting to F/SN than the soundtrack did before; the new tracks fit the atmosphere well and the remixes fit much better, giving the show a more accurate tone, but I still really like the 2012 soundtrack. 1 thing I have to say here though is that it's a lot more subtle than I was expecting, especially when you compare it to the really overbearing 2012 soundtrack for FSN and Mahoutsukai no Yoru's soundtrack, and this is probably the part that differs the most from the VN. The tracks so far are amazing, and I'm looking forward to where it's going from here.
 
 Also, about the OP and ED: I think Ideal White is a great OP, but it's not my favorite, especially in comparison to the Realta Nua OP, or even in comparison to disillusion.. but that's my Type-Moon Fanboy screaming at you. As for the ED believe, it's good. It's kalafina so of course it's good, but I don't think it's as good as some of the other stuff they have made.
 
-### []()Episode 0 - Prologue
+### Episode 0 - Prologue
 
 ![](940934613327064462.jpg)
 
 Episode 0 was an hour long, beautiful straightforward adaptation of the prologue: It was amazing, and Rin=Best girl. Ufotable did a great job in capturing the tension, showing Rin's thoughts/emotions well, and it showed the relationship between Rin and Archer extremely well. The more light hearted part of the prequel was handled well (Rin's expressions with Shinji were golden), and the more serious parts were extremely good. I loved the amount of camera angles in the episode, as it really helps to the show. It's a big difference between the static VN and I appreciated it. Also, The Lancer and Archer fight was amazing... it's so fluid, fast and pretty... my jaws were on the floor when I saw that. Overall, I was pretty impressed with this episode... really impressed. It was amazing, and every bit of it was done extremely well.
 
-### []()Episode 1 - Winter Days, A Fateful Night
+### Episode 1 - Winter Days, A Fateful Night
 
 ![](letkk4l33msrrp94mblh.png)
 
 Episode 1 was also an hour long, and it it was the first bit of the VN, the part that's pretty much consistent with every route, up until the end where there's the shift into the UBW arc. It's the same block of time that the prologue is, but under the viewpoint of Shirou. This episode was pretty good as well, but I don't think it was nearly as good as Ep 0. Most of it was just the slice of life for Shirou, with the expressions of Shirou and Taiga done really well. What really stole the show however, was backstory scene with Kiritsugu, and it makes for a better transition from F/Z to F/SN. Also... the Lancer vs Saber fight was unbelievable, especially when Lancer used his gae bulge... They visualized that incredibly well and I love it. I'm pretty sure I'm going to be blown away with every fight scene in this... Looking forward to the rest :D
 
-### []()Something's different....
+### Something's different....
 
 ![](rfqvflj9133oqcpqr90a.jpg)
 
@@ -61,7 +61,7 @@ It may be the music. Like I said before, the soundtrack is totally different, an
 
 I feel like it's missing something so far.. Maybe it's the inner monologue, maybe it's the music, but it feels off. I mean, It's still great, but it's definitely different and it feels kinda off to me. I hope that i'm not the only one who feels this way.
 
-### []()Overall
+### Overall
 
 ![](nzoiadvovbveeefhqjsm.jpg)
 

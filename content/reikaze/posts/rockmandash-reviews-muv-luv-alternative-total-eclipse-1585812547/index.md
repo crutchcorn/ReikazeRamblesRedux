@@ -53,25 +53,25 @@ A big downside in my opinion about Total Eclipse is that it's very dependent on 
 
 The last reason why Total Eclipse isn't as good as Alternative is the absolutely horrible point where they and off the season. It's almost like they ended it halfway through the Visual Novel they were adapting, as the ending didn't feel like it really answered anything, and it doesn't feel complete. Slight spoilers about Alternative here, but It's like ending Alternative at the 12/5 incident. the 12/5 incident was the human interaction right in the middle of Alternative, and it was a fantastic arc. The thing is… Alternative picks up right after that arc and the best was truly after that... it baffles my mind why they would stop right there or not make a second season.
 
-#### []()Writing - 8.5/10
+#### Writing - 8.5/10
 
 ![](./xbaoi8fxa3juxe7vjp8m.png) ![](./tf5qxiieg9hscty7ttii.jpg)
 
 The Visuals in Muv-Luv Alternative: Total Eclipse is good. The animation isn't mind blowing like some other mechs I've seen, but that was expected because the production was handled by Ixtl and Satelight, who aren't really well known for their animation being totally great, but man the gradient fan in me loves it and in my opinion, this is one of the better jobs they did. It's passable animation for most of the time when they aren't in a battle and sometimes gets a visual bump during combat but overall it's pretty truthful to the source. If you don't mind CG, The BETA and Mechs were nice and I believed they did a good job with them, especially on the Mech vs Mech scenes, but never to the point that it was mind blowing. One thing that has to be mentioned and which is big problem with the visuals in this is the unnecessary top fan service… which didn't really bother me because of suspension of disbelief, and the fact that Alternative explains why the suits are so fanservice-y, but that bit isn't explained in the anime, re-enforcing my beliefs that this show is dependent on alternative…. but if that was the only issue, this really wouldn't be too bad. Total Eclipse likes to show fanservice whenever something important isn't happening, and this habit leads to unnecessary shots that get grating and detract from the experience.
 
-#### []()Visuals - 7.5/10
+#### Visuals - 7.5/10
 
 ![](./t8of29o1vxs2tihwdhn0.png)
 
 The audio is the in a same situation as it's good. The soundtrack is mostly background, and it put itself in the forefront often so you usually don't really pay attention to it… but it can be good when it wants to and when it's good, it's pretty good, like this Apocalypse of Destiny track, but these are very few and far between while the rest of the soundtrack is average. Also, I'm not a big fan of the OP, or ED. It's Satelight's typical too cheesy for it's own good rap OP, and I don't think it works well here. Personally, I just wish they just took AGE's VN OP that they used for the last few episodes and used it all season...
 
-#### []()Audio - 7.5/10
+#### Audio - 7.5/10
 
 ![](./htmfme9zlm345ksvmexr.png)
 
 I enjoyed Total Eclipse, as it was quenching my thirst for a story that was in the Alternative universe and this show did that very well. It was different enough so it wasn't re-treading water, while being an enjoyable yet similar experience with interesting characters doing equally as important things in the world… but this is a show where all the little things built up and made this less enjoyable than it could have been. it's the normal Muv-Luv fun with engrish, good conversations, and great strategical viewpoint of a battle, like every Muv-Luv story, but everything I mentioned earlier in the review like Yuuya's assholery, the average presentation, the meh ending, the character interactions overall, etc. adds up and just detracts from the experience. This might just sound like me nitpicking and making excuses on why Alternative is better, but these things add up and overall its just not as nice as Alternative, and it baffles my mind that this got an anime adaptation.
 
-#### []()Enjoyment - 8.5/10
+#### Enjoyment - 8.5/10
 
 ![](./eu8i4jpwppupmvaxeinj.png)
 
@@ -85,7 +85,7 @@ Today I'm reviewing Muv-Luv Alternative; the third part of the Muv-Luv visual no
 
 [Read more](https://tay.kinja.com/muv-luv-alternative-the-tay-review-1546183909)
 
-## []()Overall - 8/10, Polarization +0.5,-1
+## Overall - 8/10, Polarization +0.5,-1
 
 ![](./njtvwycszoinveihf2nm.png) ![](./765158406985333903.png)
 

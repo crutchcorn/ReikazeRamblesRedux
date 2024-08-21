@@ -43,7 +43,7 @@ Due to the routes being pretty similar to the others, your experiences add up, a
 
 All of these aspects culminate to create a well written story with lots of depth and intrigue. Ever 17 is one of my favorite stories I’ve ever experienced, and due to the writing, it was a blast to experience. There’s the pacing that may bother some out there, but I didn’t really find anything wrong with it. I wish every story was like this: extremely intriguing, extremely enjoyable, and extremely interesting.
 
-#### []()**Writing - 10/10**
+#### **Writing - 10/10**
 
 ![](./1306104798297618858.png) ![](./1306104798364933034.jpg)
 
@@ -63,7 +63,7 @@ In 2011, 5pb & Cyberfront gave *Ever 17* a 360 only remake, and with this remake
 
 Ignoring the remake’s horrible 3d models, the visuals in *Ever 17* have passed the test of time, and still look good today. This is a feat that many shows would dream of achieving, and it’s an aspect I enjoy.
 
-#### []()**Visuals - 8/10**
+#### **Visuals - 8/10**
 
 ![](./1306104798550752170.png)
 
@@ -79,7 +79,7 @@ When 5pb decided to remake *Ever 17* in 2011, they also decided to remake the so
 
 Ignoring the crummy remixes, *Ever 17* has a soundtrack that I love. While the tracks themselves may not be the greatest thing since sliced bread, they sound nice, and the execution is stellar.
 
-#### []()**Sound - 9/10**
+#### **Sound - 9/10**
 
 ![](./1306104798603466410.png) ![](./v9s06u0mljd7u1yfkfcn.jpg)
 
@@ -87,7 +87,7 @@ I’m pretty sure I gushed over it enough in this review, but if it hasn’t sun
 
 Also, I didn’t think this warranted it’s own segment, but I found it interesting: *Ever 17* got a manga adaptation. It’s a pretty low budget, poorly done manga, but it exists, and the fact that it does makes me happy.
 
-#### []()Enjoyment - 10/10
+#### Enjoyment - 10/10
 
 ![](./1306104798951681450.png)
 
@@ -95,7 +95,7 @@ Also, I didn’t think this warranted it’s own segment, but I found it interes
 
 If you’ve enjoyed *999* or* Zero Escape: Virtue’s Last Reward*, this is a must. You’ll love it just as much as I do. If you haven’t, you may find *999* and* VLR* more accessible, but I’d view this as a must play for you. If there was only one recommendation you would take from me from all my reviews thus far, it’s this one. Seriously. Go play this.
 
-## []()**Overall - 9.5/10, Polarization +.25, -2**
+## **Overall - 9.5/10, Polarization +.25, -2**
 
 ![](./1306104799141230250.png) ![](./1306104799209301418.png)
 

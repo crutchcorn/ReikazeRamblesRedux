@@ -13,19 +13,19 @@ Have you ever imagined SEGA consoles turned into cute girls doing silly things i
 
 ![](./xoxwxtchzg6juhnfxepp.png)
 
-#### []()The Concept
+#### The Concept
 
 ![](./1058790216224462696.jpg)
 
 Regardless of the quality of the show, I'm just so amused by the concept that I have to give it some credit. I mean, someone has to be either really bored, or really creative to make an anime about 3 Sega Game Consoles (Mega Drive, Saturn & Dreamcast) turning into high school girls, attending a SEGA High school where they have to go through SEGA related games/events to get medals to graduate. Seriously... who comes up with this stuff? It's great.
 
-#### []()The Consoles/Girls
+#### The Consoles/Girls
 
 ![](./wpigtckuy37knarjcv8d.jpg)
 
 The consoles/girls/things/whatever... make for surprisingly great characters. From the bookworm Mega Drive, to the Tsundere Saturn, to the OMG SO AWESOME Kawaii Dreamcast, they are all entertaining and work well with the original console in mind. The dynamics the characters have together, and the way they react to situations are reminiscent to the original consoles, and is quite enjoyable. The way that they mesh with the SEGA worlds is entertaining, and mildly surprising. Really, I wasn't expecting anything out of them, or out of anything original this show has to offer, but I was pleasantly surprised.
 
-#### []()A love letter to SEGA Fans
+#### A love letter to SEGA Fans
 
 ![](./1058762121634547116.png)
 
@@ -35,17 +35,17 @@ Personally, I loved this bit here where they show the genesis and she's dressed 
 
 ![](./efxmstdkpal5hmp9glre.png)
 
-#### []()The Presentation
+#### The Presentation
 
 Were you really expecting anything here? The show uses cheap CG throughout most of the show, which helps cut costs and blend the characters more seamlessly into the games. but it's really nothing special. The games are produced faithfully, and the models of the main characters are pretty nice at times, but it all has that cheapy look to it. Shouldn't really hinder your enjoyment of the show though. As for the music and voice acting, average job overall.. but that OP Music... it's so catchy....
 
-#### []()It's Exactly What It Says on the Tin
+#### It's Exactly What It Says on the Tin
 
 ![](./1058790216332575080.png)
 
 You're getting exactly what the description says: A short anime about SEGA Consoles going to a SEGA high school. It's for SEGA fans and nobody else, so keep that in mind, and don't expect greatness: there's nothing great about this show, i t's just this kind of silly comedy show with no real depth to it. It doesn't have a real plot or any amazing writing, it's an episodic show where every episode or two goes over an aspect of SEGA. Other than the references, if you've seen one episode, you've seen them all, and there's nothing that will suprise you about it. I mean it kinda has to, considering it's that it's trying to do a lot with only 10 minutes, and a pretty small budget, but I wish it was a bit better.
 
-#### []()Humor
+#### Humor
 
 ![](./hpnsc2yprs1a12qafd9n.jpg)
 
@@ -53,7 +53,7 @@ As a short show with a quirky concept, this show relies on the humor to carry th
 
 ![](./jzzhei8vxtz4auul24zt.png)
 
-#### []()Cringe-Worthy
+#### Cringe-Worthy
 
 ![](./1058790216403415912.jpg)
 

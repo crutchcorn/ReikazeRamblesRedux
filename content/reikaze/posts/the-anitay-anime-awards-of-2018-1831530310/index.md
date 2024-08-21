@@ -16,181 +16,181 @@ The AniTAY Anime Awards is a collaborative effort by members in the AniTAY commu
 
 ***
 
-## []()**Author Awards**
+## **Author Awards**
 
 Here’s what the authors of AniTAY have to say! We here at AniTAY are an opinionated bunch, a group of people who vary drastically yet all magically have a consensus on certain things. We watch a lot of anime, so expect some different results than from most.
 
 ***
 
-#### []()**Author’s Pick for AniTAY Favorites:** *Yuru Camp*
+#### **Author’s Pick for AniTAY Favorites:** *Yuru Camp*
 
 ![](./xlzhvxbrksrlz50ykfww.jpg)
 
 ***
 
-#### []()**Author’s Pick for Most Trash Show:* Conception***
+#### **Author’s Pick for Most Trash Show:* Conception***
 
 [](./fd7n1sbplqhoozvym2pi.mp4)
 
 ***
 
-#### []()**Author’s Pick for Best Female Character: Violet Evergarden - ***Violet Evergarden*
+#### **Author’s Pick for Best Female Character: Violet Evergarden - ***Violet Evergarden*
 
 ![](./tfbpbz0uhxtuyoh0z59p.jpg)
 
 ***
 
-#### []()**Author’s Pick for Best Male Charcter: **Immortal Sugimoto - *Golden Kamuy*
+#### **Author’s Pick for Best Male Charcter: **Immortal Sugimoto - *Golden Kamuy*
 
 [](./ww0egqy2mxgfcryzn9bd.mp4)
 
 ***
 
-#### []()**Author’s Pick for Best ED: *Dragon Pilot & Rascal Does Not Dream of Bunny Girl Senpai***
+#### **Author’s Pick for Best ED: *Dragon Pilot & Rascal Does Not Dream of Bunny Girl Senpai***
 
 ***
 
-#### []()**Author’s Pick for Best OP: *Zombieland Saga***
+#### **Author’s Pick for Best OP: *Zombieland Saga***
 
 ***
 
-#### []()**Author’s Pick for Best Slice of Life: *Yuru Camp***
+#### **Author’s Pick for Best Slice of Life: *Yuru Camp***
 
 ![](./yw7esyozda4s5mlxim4q.jpg)
 
 ***
 
-#### []()**Author’s Pick for Best Comedy: *Hinamatsuri***
+#### **Author’s Pick for Best Comedy: *Hinamatsuri***
 
 [](./rzf8fsgat2v0sfa5sxze.mp4)
 
 ***
 
-#### []()**Author’s Pick for Best Romance: *Rascal Does Not Dream of Bunny Girl Senpai***
+#### **Author’s Pick for Best Romance: *Rascal Does Not Dream of Bunny Girl Senpai***
 
 ![](./fysm53q45pzet2k4nimg.png)
 
 ***
 
-#### []()**Author’s Pick for Best Drama: *Violet Evergarden***
+#### **Author’s Pick for Best Drama: *Violet Evergarden***
 
 ![](./va0baeyis0nx5rzphez2.jpg)
 
 ***
 
-#### []()**Author’s Pick for Best Action: *Megalo Box***
+#### **Author’s Pick for Best Action: *Megalo Box***
 
 [](./r9lzwxwtcokdbrvw6csf.mp4)
 
 ***
 
-#### []()**Author’s Pick for Best Animated: ***Violet Evergarden*
+#### **Author’s Pick for Best Animated: ***Violet Evergarden*
 
 ![](./yhrd11b3n0ufdpcj3y8i.jpg)
 
 ***
 
-#### []()**Author’s Pick for Hidden Gem: *SSSS Gridman***
+#### **Author’s Pick for Hidden Gem: *SSSS Gridman***
 
 ![](./cujb7quxpic7c0ufbxxy.jpg)
 
 ***
 
-#### []()**Author’s Pick for Anime Movie of the Year:* My Hero Academia: Two Heroes***
+#### **Author’s Pick for Anime Movie of the Year:* My Hero Academia: Two Heroes***
 
 ***
 
-#### []()**Author’s Pick for Anime of the Year:* Yuru Camp***
+#### **Author’s Pick for Anime of the Year:* Yuru Camp***
 
 ![](./kbpe3u12o3kefe1tv82e.png)
 
 ***
 
-## []()**Reader Results**
+## **Reader Results**
 
 Now for the Community’s results! The community that reads AniTAY is pretty varied, but that doesn’t stop them from watching great anime! Definitely some interesting picks, and a surprising amount of ties.
 
 ***
 
-#### []()**Reader’s Pick for AniTAY Favorites: *Yuru Camp & A Place Further than the Universe***
+#### **Reader’s Pick for AniTAY Favorites: *Yuru Camp & A Place Further than the Universe***
 
 [](./kvzqvgcmsuaxqpbvjqvd.mp4) ![](./cu8k8b8yqoubzvjhkwom.jpg)
 
 ***
 
-#### []()**Reader’s Pick for Most Trash Show: *How NOT To Summon A Demon Lord & My *** ***Sister, My Writer***
+#### **Reader’s Pick for Most Trash Show: *How NOT To Summon A Demon Lord & My *** ***Sister, My Writer***
 
 ![](./lkwrlmvpruibdjvq7ucm.jpg) ![](./hgpqzonuhvnmn68mmaro.jpg)
 
 ***
 
-#### []()**Reader’s Pick for Best Female Character: Mai Sakurajima - *Rascal Does Not Dream of Bunny Girl Senpai***
+#### **Reader’s Pick for Best Female Character: Mai Sakurajima - *Rascal Does Not Dream of Bunny Girl Senpai***
 
 [](./ysuzeccwmtojhrhaulpm.mp4)
 
 ***
 
-#### []()**Reader’s Pick for Best Male Character: Sakuta Azusagawa - *Rascal Does Not Dream of Bunny Girl Senpai***
+#### **Reader’s Pick for Best Male Character: Sakuta Azusagawa - *Rascal Does Not Dream of Bunny Girl Senpai***
 
 ![](./mh0fttepmap1dzzsczxy.jpg)
 
 ***
 
-#### []()**Reader’s Pick for Best ED: *Rascal Does Not Dream of Bunny Girl Senpai***
+#### **Reader’s Pick for Best ED: *Rascal Does Not Dream of Bunny Girl Senpai***
 
 ***
 
-#### []()**Reader’s Pick for Best OP: ***Overlord III*
+#### **Reader’s Pick for Best OP: ***Overlord III*
 
 ***
 
-#### []()**Reader’s Pick for Best Slice of Life: *Yuru Camp***
+#### **Reader’s Pick for Best Slice of Life: *Yuru Camp***
 
 [](./xidqzynvjnfxitbbqops.mp4)
 
 ***
 
-#### []()**Reader’s Pick for Best Comedy: *Hinamatsuri***
+#### **Reader’s Pick for Best Comedy: *Hinamatsuri***
 
 [](./gbbtymy0dixznifes6ln.mp4)
 
 ***
 
-#### []()**Reader’s Pick for Best Romance: *Rascal Does Not Dream of Bunny Girl Senpai***
+#### **Reader’s Pick for Best Romance: *Rascal Does Not Dream of Bunny Girl Senpai***
 
 ![](./ccjn2acpzk5kwgucm6j9.jpg)
 
 ***
 
-#### []()**Reader’s Pick for Best Drama: *A Place Further than the Universe***
+#### **Reader’s Pick for Best Drama: *A Place Further than the Universe***
 
 ![](./o3wg7etup3fwf4112bsg.jpg)
 
 ***
 
-#### []()**Reader’s Pick for Best Action: ***Golden Kamuy, Overlord II & III*
+#### **Reader’s Pick for Best Action: ***Golden Kamuy, Overlord II & III*
 
 ![](./ixu3wrla2v2xieikusl6.jpg) ![](./gsqkq2uvpb08tovukd0r.jpg)
 
 ***
 
-#### []()**Reader’s Pick for Best Animated: *Violet Evergarden***
+#### **Reader’s Pick for Best Animated: *Violet Evergarden***
 
 [](./lx6x4kbddico1tlpipjr.mp4)
 
 ***
 
-#### []()**Reader’s Pick for Hidden Gem: ***Planet With*
+#### **Reader’s Pick for Hidden Gem: ***Planet With*
 
 ![](./jwhyejgtysvh3jbenag7.jpg)
 
 ***
 
-#### []()**Reader’s Pick for Anime Movie of the Year: ***My Hero Academia: Two Heroes & Night is Short, Walk on Girl*
+#### **Reader’s Pick for Anime Movie of the Year: ***My Hero Academia: Two Heroes & Night is Short, Walk on Girl*
 
 ***
 
-#### []()**Reader’s Pick for Anime of the Year: ***A Place Further than the Universe*
+#### **Reader’s Pick for Anime of the Year: ***A Place Further than the Universe*
 
 ![](./o3kzq44qtvia9makkzvp.jpg)
 

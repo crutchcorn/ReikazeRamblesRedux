@@ -13,7 +13,7 @@ These are gonna be mini versions of the reviews I’d like to write, might as we
 
 ***
 
-### []()*The House in Fata Morgana Review*
+### *The House in Fata Morgana Review*
 
 ![](lwk2bn8u6n05vjtftadq.jpg)
 
@@ -27,7 +27,7 @@ Also, I’ve been thinking about shaking up my review style, it’s really dry a
 
 ***
 
-### []()*The House in Fata Morgana: A Requiem for Innocence Review*
+### *The House in Fata Morgana: A Requiem for Innocence Review*
 
 ![](ucqpem4agjjmtkdfoypa.png)
 
@@ -39,7 +39,7 @@ Also, I’ve been thinking about shaking up my review style, it’s really dry a
 
 ***
 
-### []()*VA-11 HALL-A Review*
+### *VA-11 HALL-A Review*
 
 ![](tteduafha9lw4kdk8y0j.jpg)
 
@@ -51,7 +51,7 @@ Also, I’ve been thinking about shaking up my review style, it’s really dry a
 
 ***
 
-### []()***YU-NO* Review**
+### ***YU-NO* Review**
 
 **What: **An old PC-98 Visual Novel that was revolutionary for it’s epic storyline
 
@@ -63,7 +63,7 @@ Also, I guess I’m kinda waiting for either the anime or visual novel remake to
 
 ***
 
-### []()***Trails in the Sky Third *Review**
+### ***Trails in the Sky Third *Review**
 
 ![](clcogqhlijjf1bckcuur.jpg)
 
@@ -74,7 +74,7 @@ Also, I guess I’m kinda waiting for either the anime or visual novel remake to
 
 ***
 
-### []()*Megalo Box and the Magic of Music*
+### *Megalo Box and the Magic of Music*
 
 ![](ebgrfr8buw2lvaqzfuxw.jpg)
 
@@ -85,7 +85,7 @@ Also, I guess I’m kinda waiting for either the anime or visual novel remake to
 
 ***
 
-### []()*Steins;Gate 0* - How Adaptation is Not A Bad Thing
+### *Steins;Gate 0* - How Adaptation is Not A Bad Thing
 
 ![](bnrz8sab0c9grbb5pbgf.jpg)
 
@@ -97,7 +97,7 @@ Also, I guess I’m kinda waiting for either the anime or visual novel remake to
 
 ***
 
-### []()**Praise about the Perfect Aesthetic of PC-98**
+### **Praise about the Perfect Aesthetic of PC-98**
 
 ![](kvekvor7odjvmn6emuj7.png)
 
@@ -107,7 +107,7 @@ Also, I guess I’m kinda waiting for either the anime or visual novel remake to
 
 ***
 
-### []()Retro Gaming on a Budget
+### Retro Gaming on a Budget
 
 ![](povedj5ypwzaukpd2vre.jpg)
 

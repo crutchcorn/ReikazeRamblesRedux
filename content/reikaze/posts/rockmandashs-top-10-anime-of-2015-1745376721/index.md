@@ -17,7 +17,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-#### []()*HM1: Fate/stay night: Unlimited Blade Works*
+#### *HM1: Fate/stay night: Unlimited Blade Works*
 
 **Plot Description**: *Fate/stay night: Unlimited Blade Works* follows Emiya Shirou as he is dragged into a Fight-to-the-death tournament called The Fifth Holy Grail War, where people known as masters fight with Heroes throughout history, known as servants, for a chance to get the Holy Grail, which grants their wishes. This version of *Fate/stay night* is an adaptation of the Visual Novel route with the same name, and in comparison to the Fate route which the 2006 anime by Studio Deen adapted, it focuses more on action, and the main character. Also, Rin Tohsaka is the main heroine of this route/anime in comparison to Saber from the Fate route/2006 anime. – Plot Description from the [Fall 2014 AniTAY Collab](http://anitay.kinja.com/the-ten-anime-of-fall-2014-to-watch-1659473893)
 
@@ -27,7 +27,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-#### []()*HM2: Jojo’s Bizarre Adventure - Stardust Crusaders Battle in Egypt*
+#### *HM2: Jojo’s Bizarre Adventure - Stardust Crusaders Battle in Egypt*
 
 **Plot Description: **In a Japanese jail sits 17-year-old Joutarou Kuujou: punk, fighter, delinquent...and possessed by a force beyond his control! Around the world, evil spirits are awakening: “Stands,” monstrous invisible creatures which give their bearers incredible powers. To save his mother’s life, Joutarou must tame his dark forces and travel around the world to Cairo, Egypt, where a hundred-year-old vampire thirsts for the blood of his family. But the road is long, and an army of evil Stand Users wait to kill JoJo and his friends... -*Plot Summary from MAL*
 
@@ -39,7 +39,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### []()*10. Yuri Kuma Arashi & Gatchaman Crowds Insight*
+### *10. Yuri Kuma Arashi & Gatchaman Crowds Insight*
 
 **Plot Description: ***For Yuri Kuma Arashi - *Long ago, a far-off planet known as Kumaria exploded, turning into a meteor shower that fell upon earth. This led to bears becoming violent and attacking humans, who created the Wall of Severance to separate humans and bears. Several years later, two bears named Ginko Yurishiro and Lulu Yurigasaki disguise themselves as humans and enroll in Arashigaoka Academy, where Ginko takes interest in a human girl named Kureha Tsubaki. - *- Plot Description from Wikipedia*
 
@@ -55,7 +55,7 @@ With *Gatchaman Crowds Insight*, we have... Politics in anime? While this may no
 
 ***
 
-### []()*9. Noragami Aragoto*
+### *9. Noragami Aragoto*
 
 **Plot Description: **In the second season of *Noragami, *the main focus is on Bishamon, god of war. She has many shinki due to her being unable to abandon spirits attacked by Ayakashi. She has a large group of shinki with her as leader, causing her trouble as she sometimes cannot tend to all of them properly, especially when one of them gets sick or is in pain. She has a strong hate for Yato, as a dark past binds the two of them. How will the horrifying events dated hundreds of years ago in combination with current evil happenings affect Yato and Yukine? *- Plot Description from MAL*
 
@@ -65,7 +65,7 @@ With *Gatchaman Crowds Insight*, we have... Politics in anime? While this may no
 
 ***
 
-### []()*8. OreGairu (My Teen Romance SNAFU) S2*
+### *8. OreGairu (My Teen Romance SNAFU) S2*
 
 **Plot Description: **So exactly what’s going to happen when Hachiman Hikigaya, an isolated high school student with no friends, no interest in making any and a belief that everyone else’s supposedly great high school experiences are either delusions or outright lies, is coerced by a well meaning faculty member into joining the one member “Services Club” run by Yukino Yukinoshita, who’s smart, attractive and generally considers everyone in her school to be her complete inferior? *- Plot Description of sorts from MAL who got it from CR....*
 
@@ -77,7 +77,7 @@ With *Gatchaman Crowds Insight*, we have... Politics in anime? While this may no
 
 ***
 
-### []()*7. Saekano - How To Raise A Boring Girlfriend*
+### *7. Saekano - How To Raise A Boring Girlfriend*
 
 ![](./trcub3ewc6lmdummdyzs.jpg)
 
@@ -91,7 +91,7 @@ The tale of a small not quite doujin circle, but not quite indie studio’s jour
 
 ***
 
-### []()*6. Shirobako*
+### *6. Shirobako*
 
 **Plot Description:** I find that most summaries out there about *Shirobako* are a bit deceiving and don’t actually represent what happens in the show, stating that Shirobako is the story of five girls who, after making a short anime while members of their high school animation club, promise to come back together as adults and make their own full anime. I believe that, it’s the story of everyone involved in Shirobako trying to do their best, to succeed with their goals, usually involving the creation of anime. While the 5 girls do make an appearance in the story and are what the story starts with, they are just a piece of the puzzle, a part of the grand scheme, and it actually focuses more on the struggles of the animation studio Musashino, and the people there. *- Plot Description from my review of Shirobako*
 
@@ -101,7 +101,7 @@ The tale of a small not quite doujin circle, but not quite indie studio’s jour
 
 ***
 
-### []()*5. Sports Anime 2015 - YowaPedal S2/Ace of Diamonds S2/Haikyuu!! S2/Baby Steps 2*
+### *5. Sports Anime 2015 - YowaPedal S2/Ace of Diamonds S2/Haikyuu!! S2/Baby Steps 2*
 
 [http://www.dailymotion.com/video/x2dy12s\_…](http://www.dailymotion.com/video/x2dy12s_yowamushi-pedal-grande-road-opening-1-tv-size-hd-lastgasp-determination_music)
 
@@ -113,7 +113,7 @@ The tale of a small not quite doujin circle, but not quite indie studio’s jour
 
 ***
 
-### []()*4. Your Lie in April*
+### *4. Your Lie in April*
 
 ![](./z41dozbrvx3ibrqh2xmf.jpg)
 
@@ -127,7 +127,7 @@ The tale of a small not quite doujin circle, but not quite indie studio’s jour
 
 ***
 
-### []()*3. Non Non Biyori Repeat*
+### *3. Non Non Biyori Repeat*
 
 ![](./qq34wobhr7yfoponohaa.jpg)
 
@@ -141,7 +141,7 @@ What sets *Non Non Biyori *far and away from it’s competitors is how it feels 
 
 ***
 
-### []()*2. One Punch Man*
+### *2. One Punch Man*
 
 ![](./ne6zmzz0olgnf6elb1nx.jpg)
 
@@ -157,7 +157,7 @@ Because of the nature of the show, making fun of a really popular and easy to wa
 
 ***
 
-### []()*1. Kekkai Sensen/Blood Blockade Battlefront*
+### *1. Kekkai Sensen/Blood Blockade Battlefront*
 
 **Plot Description:** A breach between Earth and the netherworlds has opened up over the city of New York, trapping New Yorkers and creatures from other dimensions in an impenetrable bubble. They’ve lived together for years, in a world of crazy crime sci-fi sensibilities. Now someone is threatening to sever the bubble, and a group of stylish superhumans is working to keep it from happening. *- Plot Description from MAL*
 

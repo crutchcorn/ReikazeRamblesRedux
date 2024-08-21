@@ -13,7 +13,7 @@ If you've been watched anime or read manga in the early 2000's, you've probably 
 
 ![](./za9xv2tbikad78nptdhg.png)
 
-#### []()Episodic Fun, with an Overarching story
+#### Episodic Fun, with an Overarching story
 
 ![](./1193011880188378538.png)
 
@@ -23,13 +23,13 @@ As an adaptation of an older manga with a more episodic writing style, many elem
 
 That being said, this isn't all episodic: Similar to shows like *Death Parade,* *Magic Kaito *has an overarching story which every episodic episode is related to in some way, and it keeps the show cohesive and interesting. The story follows Kaito Kuroba after he learns that father used to be the famous Kaito Kid thief and that he was murdered by a mysterious organization for refusing to aid them in retrieving the "Pandora Gem," a mystical stone that bestows immortality, and thus the show is pretty much spent looking for this Gem. Due to the fact that the "Pandora Gem" is persumed to be a very large gem, Kaito goes about this by stealing them (but he always returns them, so he's technically not a bad guy!), with the individual thefts being one arc in an overarching story. Honestly, it works really well, as you get the feeling that the story is going somewhere, while feeling self-contained and satisfying, something that a lot of shows should learn from. (AKA, CLIFFHANGERS SUCK.)
 
-#### []()Conan - Death = Win
+#### Conan - Death = Win
 
 ![](./1193011880328876458.png)
 
 Who knew that *Detective Conan* without constant death in the series would be so entertaining? I've always been a big fan of Conan, but the consistent murder has always been a gripe of mine, making the impact weaker the further it goes on, making the show feel repetitive and annoying. In *Magic Kaito*, we get to see robberies of rare and precious gems done with a magical flare instead of constant murder cases, and like how watching Conan solve cases in *Detective Conan* was fun, watching Kaito stealing these gems, doing these magic tricks, solving mysteries, etc. is a fun blast. It's pretty much everything I loved about Conan without the death, and it makes the show that much more enjoyable. It has a similar cast of characters that are pretty enjoyable (personally like Conan's cast a bit more, but it's pretty close), similar setups, and the same trill that comes with reading Conan, but in a more bearable way. It's great and it makes for a good watch.
 
-#### []()Solid Execution
+#### Solid Execution
 
 ![](./1193011880426821034.png)
 
@@ -45,7 +45,7 @@ Tomoya is your average hardcore otaku, obsessed with manga, anime, visual novels
 
 ![](./o51hc7uwrnwlejco1iyj.png)
 
-#### []()Amazing/Annoying Audio
+#### Amazing/Annoying Audio
 
 The Sound was really was the only aspect of this show that bothered me while watching. Some aspects were great, like the fantastic opening (which is really good, one of my favorites for the season), and most of the sound like the voice acting in general was pretty good but there are parts of this show that are absolutely jarring and I think sound pretty horrible. Most of this is the Engrish thrown in this series that just sounds bad, or Kaito's voice which is hit or miss, but this is really a small annoyance.
 

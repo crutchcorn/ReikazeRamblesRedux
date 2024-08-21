@@ -15,13 +15,13 @@ Before we actually get started, there is one thing I need to clarify; I’m talk
 
 ***
 
-## []()*What is a Visual Novel?*
+## *What is a Visual Novel?*
 
 A Visual Novel is genre of video games (I like to think of it as an interactive storytelling medium, as there isn’t really much gameplay), that’s similar to Choose Your Own Adventure books and Adventure games from the 90’s. As the name implies, Visual Novels are text heavy, but they usually have music, voice acting and stills of characters to help you get absorbed into the story. The biggest gameplay aspect of a Visual novel is choices; The player has to decide what the protagonist does in the form of options. The options can lead you to different story plotlines called routes, or they could just lead you to a bad end and you’ll have to try again. Visual Novels without choices are usually referred to as Sound Novels or Kinetic Novels.
 
 ***
 
-## []()*Why should I care?*
+## *Why should I care?*
 
 ![](./1381548999286848841.jpg)
 
@@ -29,7 +29,7 @@ Visual novels are a very flexible genre, storytelling wise. Visual novels have v
 
 ***
 
-## []()*What is it like to play a Visual Novel?*
+## *What is it like to play a Visual Novel?*
 
 ![](./1381548999374013257.jpg)
 
@@ -37,7 +37,7 @@ How exactly do Visual Novels play? It’s like watching a really long anime, or 
 
 ***
 
-## []()*How would I get my hands on a Visual Novel?*
+## *How would I get my hands on a Visual Novel?*
 
 ![](./othk9zfrurfqmyknjr7e.jpg)
 
@@ -45,7 +45,7 @@ The fact that Visual Novels are not popular in the west means that most of them 
 
 ***
 
-## []()*Terms used in Visual Novel talk:*
+## *Terms used in Visual Novel talk:*
 
 ![](./1381548999599590473.png)
 
@@ -78,7 +78,7 @@ If I missed any terms please post a comment below and i’ll update this post, o
 
 ***
 
-## []()*Recommendations*
+## *Recommendations*
 
 ![](./fmmmhcuyezqxascimzna.jpg)
 
@@ -88,7 +88,7 @@ If there’s anything you think that’s missing, that’s probably because I ha
 
 ***
 
-### []()*Sci-Fi -**999: Nine Hours, Nine Persons, Nine Doors***** (DS,iOS)**
+### *Sci-Fi -**999: Nine Hours, Nine Persons, Nine Doors***** (DS,iOS)**
 
 ![](./1381548999883322953.jpg)
 
@@ -108,7 +108,7 @@ When trapped in a do or die situation, how do you react? How do you change when 
 
 ***
 
-### []()*Romances - **Clannad***
+### *Romances - **Clannad***
 
 ![](./1381548999954589001.jpg)
 
@@ -130,7 +130,7 @@ Some Utsuges I’d like to point out would be [eden\*](http://anitay.kinja.com/a
 
 ***
 
-### []()*Horror - **Higurashi - When They Cry***
+### *Horror - **Higurashi - When They Cry***
 
 ![](./smqlqy5jar28y5jodart.jpg)
 
@@ -142,7 +142,7 @@ Some Utsuges I’d like to point out would be [eden\*](http://anitay.kinja.com/a
 
 ***
 
-### []()*Mystery - **G-Senjou no Maou***
+### *Mystery - **G-Senjou no Maou***
 
 ![](./1381549000401034569.jpg)
 
@@ -154,7 +154,7 @@ Some Utsuges I’d like to point out would be [eden\*](http://anitay.kinja.com/a
 
 ***
 
-### []()*Action - **Fate/ Stay Night***
+### *Action - **Fate/ Stay Night***
 
 ![](./1381549000657642825.jpg)
 
@@ -168,7 +168,7 @@ Edit: I have to mention [**Muv-Luv**](http://tay.kotaku.com/rockmandash-reviews-
 
 ***
 
-### []()***Phoenix Wright***
+### ***Phoenix Wright***
 
 ![](./1381549000724781641.jpg)
 
@@ -188,7 +188,7 @@ A woman is in peril! Unbeknownst to her, a killer is leaning out from the shadow
 
 ***
 
-### []()*Strange Visual Novels*
+### *Strange Visual Novels*
 
 ![](./1381549000758865737.jpg)
 
@@ -204,7 +204,7 @@ Visual Novels usually come from Japan. You kinda have to expect stuff like this.
 
 ***
 
-## []()*Conclusion*
+## *Conclusion*
 
 In conclusion, the Visual Novel genre is unlike anything else; a video game genre solely focused on storytelling, but not a book or show because of the presentation and interaction. The reason why VNs are great are because they enable you to experience amazing stories in a way you will not find elsewhere. I love them for that, and I hope you do too. If you see anything missing, post it in the comments and I’ll update this post.
 

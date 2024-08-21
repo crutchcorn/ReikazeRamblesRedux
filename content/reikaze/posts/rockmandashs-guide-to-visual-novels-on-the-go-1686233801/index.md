@@ -17,7 +17,7 @@ When I first got into the [Visual Novel ](http://rockmandash12.kinja.com/the-beg
 
 ***
 
-## []()***Why Should I care, and what’s it like ?***
+## ***Why Should I care, and what’s it like ?***
 
 ![](./1272816347229786796.jpg)
 
@@ -27,7 +27,7 @@ Being able to carry the device that can play a VN and bring it wherever you like
 
 ***
 
-## []()***How do I get VNs on a tablet?***
+## ***How do I get VNs on a tablet?***
 
 It really depends on the tablet you have, and the the method you use, but for most people with tablets, it’s kinda a pain. Those with Windows tablets should have no issues, as you can just get the Visual Novel in the same way you would with a laptop or desktop, and everything will work like it should but those with an Android or iOS tablet have to jump through some hoops to get most VNs working (And if you have a windows RT tablet… hahahahahahaha).
 
@@ -35,7 +35,7 @@ The biggest issue for Android/ iOS users is that Visual Novels are programmed li
 
 ***
 
-### []()***Streaming: Splashtop FTW!***
+### ***Streaming: Splashtop FTW!***
 
 [](./1272816347287232940.mp4)
 
@@ -59,7 +59,7 @@ Edit: While I haven’t personally tried it out, It has been mentioned that Chro
 
 ***
 
-### []()***Applications: Games and Engines***
+### ***Applications: Games and Engines***
 
 ![](./1272816348777156780.jpg)
 
@@ -83,7 +83,7 @@ Also, I’m just going to plug in here that handheld game systems like the Vita 
 
 ***
 
-## []()***So, about those Windows tablets you mentioned…***
+## ***So, about those Windows tablets you mentioned…***
 
 ![](./1272816348820627628.jpg)
 
@@ -105,7 +105,7 @@ Also, one last tip: you may run into issues with the touchscreen where because t
 
 ***
 
-## []()***Conclusion***
+## ***Conclusion***
 
 I think that Windows tablets are really the best way to play Visual Novels, and if you are interested in visual novels, you should pick one up. That being said, even if you don’t have the money, if you have any of the stuff available, you should really give some of these methods a shot. The experience is quite a bit more ergonomic, and it enables you to experience VNs in a better way, in more places.
 

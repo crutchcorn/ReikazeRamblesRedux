@@ -37,7 +37,7 @@ About the characters: keep in mind that a lot of the characters are from F/SN an
 
 In my opinion, the best way to think of Fate/illya is as a more lighthearted and girly version of F/SN, with Illya as the protagonist instead of Shirou. Even though there’s quite a bit more silliness running around in Fate/illya, and the tone overall isn’t nearly as serious, the mood is similar. The most important bit though is how Fate/illya has the “essence” of Fate/stay night; when I see Fate/illya, I can’t help but think about parallels from F/SN and compare the two. This is not exactly a bad thing as I enjoyed F/SN and enjoy stuff like it, but it pretty much makes this show much more dependent on it.
 
-### []()Writing - 8/10
+### Writing - 8/10
 
 ![](./1471910961014285204.png) ![](./1471910961066912404.jpg)
 
@@ -53,7 +53,7 @@ Also, in comparison to the rest of the fate series, the character designs looks 
 
 Speaking of the manga, I find that it looks quite nice. It has clean lines, solid backgrounds, nice effects and action that is pleasing to the eye... just showing you how well done Silver Link did with the adaptation. I don’t really have any experience with critiquing visuals in manga, but I found that it looked nice.
 
-#### []()Visuals - 8/10
+#### Visuals - 8/10
 
 ![](./1471910961450108308.png)
 
@@ -61,7 +61,7 @@ I don’t really have much to say about the sound in Fate/illya, mainly because 
 
 I don’t really have much to add about the voice actors. The returning characters have their old voice actors and once again they do a bang-up job with their roles, and the voice actors for the new characters are equally as solid.
 
-#### []()Sound - 7.5/10
+#### Sound - 7.5/10
 
 ![](./1471910961513546388.png)
 
@@ -77,7 +77,7 @@ I also really enjoyed the occurrence of the Fate/hollow ataraxia characters like
 
 However, this is my opinion and your mileage may vary. **Simply put, Fate/illya is a show made for Type-Moon fanatics like me, and if you are not one, you will probably like this much less than I did.**
 
-#### []()Enjoyment - 8.5/10
+#### Enjoyment - 8.5/10
 
 ![](./1471910961780995988.png)
 
@@ -85,7 +85,7 @@ Fate/Kaleid liner Prisma Illyais a good show with a clear idea on what it wants 
 
 If you enjoyed Fate/stay night’s VN and want more of that and can handle the more lighthearted and girly approach to the show at the beginning, I’d recommend you check out Fate/illya. **However, you still have to wait for 3rei for the best of the series.** I recommend you check out the manga if you are a fan of the Nasuverse, but the anime is serviceable as well.
 
-## []()OVERALL 8.25/10; Polarization +.25, -1.25
+## OVERALL 8.25/10; Polarization +.25, -1.25
 
 ![](./1471910961843536532.png) ![](./1471910961883812500.png)
 

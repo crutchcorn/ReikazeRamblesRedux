@@ -11,7 +11,7 @@ Here on Ani-TAY, we have very opinionated and passionate people. These people li
 
 ![](./gx9fpqb5nfyll1tet2xe.png)
 
-## []()What is Ani-Debate, and How will it work?
+## What is Ani-Debate, and How will it work?
 
 Ani-Debate is going to be a series of articles about more controversial topics in anime that people have been talking about lately, to start discussion with the community, and to have a good time debating on said topic. The debates themselves will be a semi-organized debate similar to the style of debate over on [debate.org](http://www.debate.org/), but not as complicated. There will be 2 teams of 1-3 people from the community debating over a topic, and I'll be a moderator in the debates. There will be 3 rounds of debate and these rounds are:
 
@@ -21,7 +21,7 @@ Ani-Debate is going to be a series of articles about more controversial topics i
 
 Also, I'll put a poll at the bottom of every debate, and after a week, I'll check back and I'll make a flashy banner declaring which one "won", depending on the results of the poll.
 
-## []()How will this be managed, and How can I participate?
+## How will this be managed, and How can I participate?
 
 I'll be doing most of the management for the Ani-Debates. I want this to be a fun (yet heated) way to get the opinions out that anybody can do, so I don't want formatting or organizing to be a burden for people. I plan to have the debates on a Skype chatroom (text chat so you don't need a webcam. All you need is an MS account) and I'll take the debate Skype chat and format it so it looks pretty and consistent.
 
@@ -29,12 +29,12 @@ That being said, I really won't be able to organize most of the debates. I made 
 
 The date of the release of the article with the poll and such will be the next Monday after the debate. If it's on the later half of the week, and I can't find time to format it, It'll be up the week after that on Monday, or whenever I have time... but it'll always be released on monday for a level of consistancy. Also, I'll only have time for 1 per every two weeks when it comes to formatting.
 
-## []()~~When will we be able to see an Ani-Debate?~~
+## ~~When will we be able to see an Ani-Debate?~~
 
 ~~Very soon! Some of the guys who are working on the Ani-TAY Summer Collaboration project (Our Anime of the season that you should be watching article or whatever Dex calls it) got into a very heated argument about if Aldnoah.Zero is a good show or not, so we decided that we'd do an Ani-Debate! Look forward to it in the next few weeks. Also, If you checked out the spreadsheet, there's a bunch of debates sitting there, but no planning yet; I listed a bunch of topics that I thought would be interesting, so join up! (I'm looking forward to the NGE one, worst anime one, and the Shounen one, personally) ~~Just ignore this, I dungoofed :/
 
 ![](./p0yx3ua45n0m0w5g2ehi.png)
 
-## []()Plans for the Future
+## Plans for the Future
 
 This is a community event I'm really am looking forward to, because it'll be fun, and it'll lead to interesting discussions. That being said, there may be times I won't be able to do the moderation due to IRL commitments, and if anybody wants to do an Ani-Debate without me, go ahead. If anybody picks up my slack, just make sure to follow the format that I use, and use the Ani-Debate Assets that I'll post in the near future. ATM, the assets are a work in progress, and won't be finalized until we actually do one of these. I hope you like it, and I hope it comes out well!

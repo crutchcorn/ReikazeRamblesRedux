@@ -13,7 +13,7 @@ Confession time: I’m an idiot who carries two tablets. I have my Android table
 
 ***
 
-### []()**What is it?**
+### **What is it?**
 
 ![](1231932435989997201.jpg)
 
@@ -33,7 +33,7 @@ The Teclast X98 Air II is a dual booting tablet made by a Chinese brand you’ve
 
 ***
 
-### []()**Why Does it Matter?**
+### **Why Does it Matter?**
 
 I like to think of these Chinese tablets as both similar to those those [budget 27 inch Korean panels that were essentially Apple Cinema Displays but for a fraction of the cost](https://lifehacker.com/three-cheap-but-awesome-alternatives-to-the-apple-cinem-1500692411), and a great example of why brands aren’t everything: Yes, there are issues, but the gains really outweigh the negatives and these would have never happened without these Chinese brands. Yes, these tablets aren’t perfect and you risk not having customer service, but as a tradeoff, you get something that is surprisingly good. No tier 1 OEM sells a tablet this nice at this price point, and these even have the ability to run both Android and Windows! Outside of these Chinese OEMs, there’s really nothing like this, and in comparison this tablet is pretty well spec’d, feature filled, and great for the money.
 
@@ -47,7 +47,7 @@ Whether you're a fan of Apple or not, you have to admit, they make some of the m
 
 ***
 
-### []()**Design**
+### **Design**
 
 ![](1231932436027303057.jpg)
 
@@ -77,7 +77,7 @@ Also, total first world problems, but it’s only available in white. One more r
 
 ***
 
-### []()**Using it**
+### **Using it**
 
 ![](1231932436224014993.jpg)
 
@@ -135,13 +135,13 @@ As for the camera... it isn’t the worst thing I’ve seen with generally accur
 
 Also, this tablet has solid battery life (it better have solid battery life, given the 8500 mAh battery), giving me about 8 hours on my video loop test, where I had the screen on 50% bightness, playing my 720p rip of *Code Geass: Akito the Exiled* on loop on windows. Normally, it gets me through 1-2 days of usage during normal use, and I’ve had no issues with battery life in general.
 
-#### []()**Like**
+#### **Like**
 
 It’s a Dual Booting tablet, and the Dual Booting works really well. It’s great in almost every situation, and I don’t think I can come back from a Dual Booting tablet.
 
 It’s 200 dollars! Let that sink in. This is half the cost of the Nexus 9 and iPad Air 1, $300 Dollars cheaper than the Surface 3 and iPad Air 2, and it provides a great experience, something pretty different than your typical tablet. It’s the best windows tablet experience you can have south of the Surface 3, and it’s one of the better android experiences in that price range, if you don’t mind the larger size.
 
-#### []()**No Like**
+#### **No Like**
 
 It’s a budget Chinese tablet from a no name brand, and it’s an import. There’s no customer support, there’s little QC, setup is a pain, etc. When buying stuff like this, you run a risk, and this tablet has that risk.
 
@@ -151,7 +151,7 @@ The placement of nearly everything is a joke. Buttons on the wrong side, all the
 
 ![](./1231932436789783441.jpg)
 
-### []()**Should You Buy it?**
+### **Should You Buy it?**
 
 Maybe. If you can deal with the issues that it has, I’d say yes as it’s a stellar value. I personally do not regret buying this one bit, but there are plenty of people that would be better suited by a tablet from a tier 1 OEM. That being said, If you don’t mind not having customer service, dealing with quirks that come with using a device like this, want a great experience, and an feature that you can’t find on a regular device that makes the device so much better, you can’t go wrong here. The dream of Dual Booting Tablets is finally realized, and it’s pretty great.
 

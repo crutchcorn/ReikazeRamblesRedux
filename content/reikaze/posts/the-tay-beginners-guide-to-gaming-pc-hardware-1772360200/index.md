@@ -25,7 +25,7 @@ If you’re on a budget, I’d recommend checking out my Budget gaming guide to 
 
 ***
 
-### []()Why game on PC?
+### Why game on PC?
 
 ![](./cb9ypgftvkaqfzqqsuzv.jpg)
 
@@ -33,7 +33,7 @@ While consoles have their advantages like having a better TV experience, ease of
 
 ***
 
-### []()Terminology
+### Terminology
 
 ![](./jxwo1pfk3fkodhn6tptr.jpg)
 
@@ -69,7 +69,7 @@ Building a computer from scratch gives you the perfect machine for your needs, b
 
 ***
 
-### []()Myth Busting
+### Myth Busting
 
 ![](./p5zhssekusj1qgbu6wpp.png)
 
@@ -95,7 +95,7 @@ PC makers are generally in parity, so this usually doesn’t apply, try not to b
 
 ***
 
-### []()Putting It Together
+### Putting It Together
 
 Putting a PC together is very simple, and while I could tell you step by step, but that would take a long time and there are many guides out there on how to do it. Putting a PC is like putting legos together so you shouldn’t have too much trouble if you’re following a guide. Here is my favorite guide for building a PC, made by newegg in video form, while lifehacker has a great one if you’d rather not watch a video. If you don’t like these, there are plenty of other guides out there, and it’s really just a quick search away.
 
@@ -111,7 +111,7 @@ Building a computer from scratch gives you the perfect machine for your needs, b
 
 ***
 
-### []()Q\&A
+### Q\&A
 
 ![](./r1pncwsolmwznnjnqjae.jpg)
 
@@ -127,7 +127,7 @@ for general purpose use, I’d recommend an SSD. Blazing fast, and they are gett
 
 ***
 
-### []()The Builds
+### The Builds
 
 ![](./dd5pg0oenzriwmkcy19g.jpg)
 
@@ -205,7 +205,7 @@ If you really want more performance and have the money, get a K processor. Overc
 
 ***
 
-### []()Software
+### Software
 
 ![](./yiwdyb4svoljzmddrz4g.jpg)
 
@@ -219,7 +219,7 @@ If you want to make your own installer, here’s a link to the [Ninite](https://
 
 ***
 
-## []()Accessories
+## Accessories
 
 ![](./rnm5juj84ipkajgwi31z.png)
 
@@ -497,7 +497,7 @@ From amazon
 
 ***
 
-## []()***Conclusion***
+## ***Conclusion***
 
 In conclusion, while PCs can be rather intimidating, they make for a great gaming platform and the hardware needed to do so can be seen here. PC Hardware can be a big barrier to get on the platform, but if you follow this guide, you should be able to get a PC that fits your needs for gaming.
 

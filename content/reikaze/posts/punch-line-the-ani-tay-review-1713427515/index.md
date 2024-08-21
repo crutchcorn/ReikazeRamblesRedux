@@ -13,7 +13,7 @@ With a tagline of* “If he sees underwear, humanity will be destroyed!?”*, wh
 
 ![](./1313950704000588389.png)
 
-#### []()Solid Story
+#### Solid Story
 
 ![](./1313950704080039013.jpg)
 
@@ -37,7 +37,7 @@ It’s executed like a lighter version of Uchikoshi’s works: it’s not super 
 
 ***
 
-#### []()Punchy Visuals
+#### Punchy Visuals
 
 ![](./1313950704351288933.jpg)
 
@@ -77,13 +77,13 @@ Over six years ago director Hiroyuki Imaishi and writer Kazuki Nakashima collabo
 
 ***
 
-#### []()Sound
+#### Sound
 
 While the opening of this show may be the single most flashy thing you’ll see this year, most of the music in *Punch Line* isn’t exactly that, with the music serving a supporting role. That being said, don’t let that make it sound like it’s a bad thing though, as this soundtrack does a great job at supporting the show, putting the viewer in the mood that the scenes dictate and they really help engage the viewer with the work. Whether it’s an upbeat scene or one that’s more somber, the music does a great job at fitting in, working well and just doing a good job at being a soundtrack.
 
 ***
 
-#### []()**Puts a Smile on your Face**
+#### **Puts a Smile on your Face**
 
 ![](./1313950704535812453.jpg)
 
@@ -95,7 +95,7 @@ Also, the small touches are nice too, and really help the story along: All the c
 
 ![](./1313950704631449701.png)
 
-#### []()Iffy Pacing
+#### Iffy Pacing
 
 ![](./1313950704725512037.jpg)
 
@@ -105,7 +105,7 @@ These pacing issues can take out most of the momentum that this has to viewers, 
 
 ***
 
-#### []()*Punch Line*’s Perversion
+#### *Punch Line*’s Perversion
 
 ![](./1313950704911490405.png)
 
@@ -115,7 +115,7 @@ The fact that the show even uses this gimmick is kinda annoying, considering tha
 
 ***
 
-#### []()Smashing Expectations
+#### Smashing Expectations
 
 ![](./1313950704995651941.png)
 
@@ -129,7 +129,7 @@ I was pretty exited to see another *FLCL*-like absurd show that does not give a 
 
 *Punch Line* is an odd show, acting like an ecchi show turned *Zero Escape: Lite*, taking everything Uchkoshi typically does well and watering it down to fit the type of show it is, but not at the same time. Of course, because it’s an Uchikoshi work the writing is as great as usual, it’s fun to go through and the plot is engaging, but there’s some core issues that may keep you from enjoying this show. Personally? I liked it for the most part, but was kinda disappointed in some aspects. Your mileage may vary.
 
-#### []()Overall - 8.25/10, Polarization +1, -2.75
+#### Overall - 8.25/10, Polarization +1, -2.75
 
 ![](./1313950705503707237.png) ![](./1313950705666991717.png)
 

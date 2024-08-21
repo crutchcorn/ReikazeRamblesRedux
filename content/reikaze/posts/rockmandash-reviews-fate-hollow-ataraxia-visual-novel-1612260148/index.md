@@ -39,7 +39,7 @@ No matter what tone *Fate/hollow ataraxia* utilizes, it excels in creating excel
 
 I can go on and on about how great the writing is in *Fate/hollow ataraxia,* and how well it does every little thing, but i'll spare you the gushing. It's like a compilation of everything great about Type-Moon stories to me, and it's a story I can't help but enjoy. It's well written, very enjoyable, and does very little wrong.
 
-#### []()Writing - 10/10
+#### Writing - 10/10
 
 ![](./qyomnbefip4tovwuiy9a.png) ![](./uhpnnugfc9muxivl3n06.jpg)
 
@@ -47,7 +47,7 @@ Due to *Fate/hollow ataraxia's* interesting way of plot progression, this create
 
 This system of gameplay gives you a lot of control on the pace you want to go at: you can fool around with all the Slice of Life side scenes, and have slower SoL pacing, or you can go straight to the important stuff and have a very tight, almost thriller-esque story. I did a mix of the two depending on my mood, and I absolutely loved the amount of control they give you when it comes to pace; it's like a book in that aspect. This makes you feel more like you are actually progressing through the plot with Shirou, and accompanied by the ability to change the pace makes for a game that is a change of pace for visual novels (pun intended). I loved this aspect of it, and it made for an engaging experience that you typically don't see in a visual novel.
 
-#### []()Gameplay - 9/10
+#### Gameplay - 9/10
 
 ![](./es82fq9twmqc7escmwtq.png) ![](./jy5j3peo1t6uaphjm2yy.jpg)
 
@@ -55,13 +55,13 @@ If you haven't noticed, this game is pretty. While a good majority of art is jus
 
 Also, just like its predecessor, This is an eroge... soo.. **QUE THE OBLIGATORY EROGE WARNING HERE**. That being said, most of the H scenes are completely optional, which is nice but there's one at the end of the game that you'll have to get through to finish the story, so be aware of that.
 
-#### []()Visuals - 9/10
+#### Visuals - 9/10
 
 ![](./ntjmkpk8zbpaw1f9fw64.png)
 
 Icing on the cake. That's what this soundtrack is. Wonderful. Personally, I wasn't a big fan of F/SN's soundtrack, so stepping into F/HA's was something that blew my mind. *Fate/hollow ataraxia* has variety, extremely memorable tracks, and is just composed well. There's some really stellar stuff in here, and almost always you'll be listening to something that's pleasing to your ear. This soundtrack does it all: great usage, sets up an atmosphere that works extremely well, is great to listen to outside of the game, and manages to blow your mind. One thing to note though is that there's no voice acting like in *Fate/stay night*, which sucks, but considering how great the soundtrack is, it's not a really big deal.
 
-#### []()Sound - 9.25/10
+#### Sound - 9.25/10
 
 ![](./p7xcjc5yd7op9w8ptwmr.png) ![](./lvnhuy6rmiv6tnyshalb.jpg)
 
@@ -71,13 +71,13 @@ I first played this on the 3.1 official translation, and only got about 40 perce
 
 The list of great things about *Fate/hollow ataraxia* can go on and on... The references from* Fate/Zero* and *Fate/stay night* were entertaining, the world building was outstanding, the balance of slice of life and plot was great, the game has a great sense of humor, and overall... I love *Fate/hollow ataraxia*.
 
-#### []()Enjoyment - 10/10
+#### Enjoyment - 10/10
 
 ![](./er1ltwqcqaw0c5zcotdt.png)
 
 If you haven't gotten the message yet, **I love *Fate/hollow ataraxia***. How can a small fan disk sequel be better than the original game that spawned a huge series that's adored by tons of fans? Simple. By being much more entertaining, improving upon it's predecessor every way, and having a charm that few games can match. It's a great game, and hope you'll love it just as much as I did.
 
-### []()OVERALL - 9.5/10, Polarization -1
+### OVERALL - 9.5/10, Polarization -1
 
 ![](./qf5k8ewokuafinrugyef.png) ![](./zq6bki7xv9wqpmayguli.png)
 

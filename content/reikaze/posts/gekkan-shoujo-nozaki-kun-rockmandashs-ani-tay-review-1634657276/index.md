@@ -13,13 +13,13 @@ I love a good Shoujo from time to time, and I'm sure you've probably enjoyed som
 
 ![](./dismgyymtoygmo2cgngz.png) ![](./t4godikskyfvfbpgudrx.jpg)
 
-#### []()It's focused and hilarious
+#### It's focused and hilarious
 
 *Nozaki-Kun* is one of the better comedies from anime that I've seen in years, primarily because it's a well executed [subversion](http://tvtropes.org/pmwiki/pmwiki.php/Main/SubvertedTrope) and [lampshading](http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging) of the Shoujo manga genre. It's focused on being an entertaining comedy, which does it to a level that many would find absurd, but that's the charm of it. Nozaki-kun takes what would normally be a regular scene in a shoujo manga, and make it into an hilarious and entertaining gag. A great example would be the scene in the picture above: it started off with discussion about how Nozaki should put a scene about walking home, but Suzuki, the hero in the manga of the show, typically rides a bike home. Due to the fact that riding on the back of a bike they typically show in shoujo is illegal, we get this: A two seated bike that nobody can take seriously, and it creates a gag so absurd that it's amazing.
 
 [Hilarities will ensue](http://tvtropes.org/pmwiki/pmwiki.php/Main/HilarityEnsues).. They execute it so well that you can't help but laugh! It's focused on putting a smile on your face, and due to the fact that this is a 4coma adaptation, it has a lot of focus. They take a joke, and then focus on doing that joke. Everything that they show is for a purpose, and this focus makes the show great. Every aspect of the show contributes to the hilarity of the show, which includes the amazing cast.
 
-#### []()A Cast of Awesomeness
+#### A Cast of Awesomeness
 
 ![](./wb1nzayo9fpn949magus.jpg)
 
@@ -31,13 +31,13 @@ A comedy needs a great cast, and *Nozaki-kun* definitely has one. Continuing wit
 
 Another great touch is how well they managed to pull off an [ensemble cast](http://tvtropes.org/pmwiki/pmwiki.php/Main/EnsembleCast). The fact that all the characters get their own time to shine instead of just focusing on Chiyo and Nozaki is great because so many [other shows just focus on a few characters even when they have a cast done as well as they have here](http://rockmandash12.kinja.com/rockmandash-reviews-angel-beats-anime-1618928342/all), and to see them develop all the characters equally as well and keep the humor going is something to be appreciated.
 
-#### []()Amazing Adaptation
+#### Amazing Adaptation
 
 ![](./vfvcgnnd9dovozamdsjj.jpg)
 
 When I learned that *Nozaki-Kun* was adapted from a 4 panel comedy manga, I was blown away. I was surprised on how seamless it felt, and how well they managed to put it together. Dogakobo did a great job with the adaptation of the manga. They kept the light tone intact, improved the writing, great pacing, and amazing execution. While they made some changes, all the decisions they made positively influenced the work, and make it more enjoyable. Even if you already experienced the manga, the anime spins it in such a way that it's still hilarious. I would even say that every scene done in the anime is done better than the manga counterpart, and the manga's pretty great. One thing that may bother manga readers however is that it skips around with its adaptation, but I find that this is not an issue at all.
 
-#### []()Pleasing Presentation
+#### Pleasing Presentation
 
 ![](./y2qngovooo0gtppvwqnc.jpg)
 

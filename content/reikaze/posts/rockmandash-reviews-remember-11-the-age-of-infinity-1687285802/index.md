@@ -27,7 +27,7 @@ Shortly after, Kokoro and Satoru realize that they are somehow exchanging bodies
 
 the writing is pretty much really solid in almost every way, and it’s quite hard to find faults. The sci-fi aspects and ideals that this game runs with, like the mind swapping, how one would react when they are claimed to be dead, what an identity is ([Dissociative Identity Disorder](http://en.wikipedia.org/wiki/Dissociative_identity_disorder) is extremely interesting and this game handled it extremely well), and the core essence of survival were all aspects that I appreciated quite a bit. The way it handles sanity and mental psyche in general was really just solid and entertaining, and really I loved how thought provoking the game was. The characters and interactions are interesting and engaging as well,and a majority of them even are really likable too! (Except Lin Mayazumi. She deserved to die. Damn lawyers...) The pacing is extremely solid and much more thrilling, especially in comparison to *Ever 17*. *Remember 11 *is a brilliant ride that was executed extremely well with phenomenal writing, but there’s one** BIG** issue with the writing of* Remember 11* that wrecked it all….
 
-## []()**THE WORST GODDAMN ENDING I’VE EVER SEEN IN MY LIFE.**
+## **THE WORST GODDAMN ENDING I’VE EVER SEEN IN MY LIFE.**
 
 ![](./1341173075384470820.jpg)
 
@@ -45,7 +45,7 @@ This just burns, especially because **EVERYTHING ELSE WAS DONE SO WELL… **The 
 
 You are stuck in an infinity loop forever, there is no solution. You will not understand what happened. You will not like what happened. You are trapped in an infinity loop, and unlike the others, there is no way out... the most frustrating aspect of the whole entire series.
 
-#### []()Writing - 8/10
+#### Writing - 8/10
 
 ![](./1341173075966058276.png) ![](./1341173076332023588.jpg)
 
@@ -53,7 +53,7 @@ Rarely do VNs look as nice as *Remember 11* does after such a long period of tim
 
 Let me put into context on why I’m so impressed: This was a PS2 game, coming out in 2004. That’s the same age as* Fate/stay night*, but it looks quite a bit better, still looking great today. Yes, there’s been better out since this game like* Steins;Gate*, *Eden\** and* Rewrite*, but those also had like half a decade or more advantage.* Remember 11*’s visuals have aged extremely well, and they look solid no matter what standards you judge them by.
 
-#### []()Visuals - 9/10
+#### Visuals - 9/10
 
 ![](./1341173076413519140.png)
 
@@ -61,7 +61,7 @@ I’m a fan of *Remember 11*’s soundtrack, with it being very it’s just as l
 
 It’s no *Umineko* with every track being golden but it’s still very pleasing to the ears with a decent amount of standalone tracks and the soundtrack in general being just pretty good. It doesn’t have a main environmental theme like *Ever 17 *does with its water, so it takes a totally different approach to its atmosphere: Instead of creating a world with music where everything blending in together, *Remember 11* uses the music to create an atmosphere that is focused on tension, on emotion via a more situational, more emotional track. it’s an atmosphere of mystery and confusion or unknown, focused on engaging you with the narrative and what it wants to do. I also really appreciate the focus on the psyche and mind with the music, or focus on moving how you feel and I actually think this approach works well. Also, I have no qualms with the voice actors, as everyone did a great job. Really, the sound in* Remember 11 *is quite nice, and I really liked it.
 
-#### []()Sound - 8.5/10
+#### Sound - 8.5/10
 
 ![](./1341173076433724708.png) ![](./1341173076790870052.jpg)
 
@@ -69,13 +69,13 @@ There’s nothing more painful than something building up your hopes and dreams,
 
 When you are so close to perfection, only for everything to collapse like this, it makes for a confusing state of affairs. Do I love it, or do I hate it? I don’t know....
 
-#### []()Enjoyment - 8/10
+#### Enjoyment - 8/10
 
 ![](./1341173076869529380.png)
 
 *Remember 11 *is the best game with the worst ending. It was phenomenal, hitting all the right marks, but it all came down, collapsing right there. I loved it so much, but I just can’t accept that ending, from a story perspective, and especially not from a narrative perspective. It’s just rubbish and it keeps me from loving what could have been one of my favorite games. The hunt for the perfect visual novel will have to go on. I’d give it a Rockman Remarkable if it was finished, but it’s not. So Rockmandash Recommends will have to do.
 
-## []()Overall - 8.5/10, Polarization +1, -1
+## Overall - 8.5/10, Polarization +1, -1
 
 ![](./1341173077143238436.png) ![](./1341173077226792740.png)
 

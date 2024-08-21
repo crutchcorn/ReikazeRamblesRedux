@@ -17,7 +17,7 @@ So, What are the rules of this list, you may ask? If it aired/released this seas
 
 ***
 
-#### []()**HM#1.* Punch Line***
+#### **HM#1.* Punch Line***
 
 ![](./1341053165083161744.jpg)
 
@@ -27,7 +27,7 @@ So, What are the rules of this list, you may ask? If it aired/released this seas
 
 ***
 
-#### []()HM#2. *Knights of Sidonia Season 2*
+#### HM#2. *Knights of Sidonia Season 2*
 
 ![](./1341053165248083856.jpg)
 
@@ -39,7 +39,7 @@ That being said, It’s not a bad show by any means, still being entertaining an
 
 ***
 
-#### []()HM#3:* Fate/stay night: Unlimited Blade Works*
+#### HM#3:* Fate/stay night: Unlimited Blade Works*
 
 ![](./1341053165566082704.jpg)
 
@@ -49,7 +49,7 @@ That being said, It’s not a bad show by any means, still being entertaining an
 
 ***
 
-### []()5. ***Yamada-kun and the Seven Witches***
+### 5. ***Yamada-kun and the Seven Witches***
 
 ![](./1341053165701319312.jpg)
 
@@ -59,7 +59,7 @@ That being said, It’s not a bad show by any means, still being entertaining an
 
 ***
 
-### []()4. *Code Geass: Akito the Exiled - Episode 3*
+### 4. *Code Geass: Akito the Exiled - Episode 3*
 
 ![](./1341053165781558416.png)
 
@@ -71,7 +71,7 @@ My only real complaint is this ridiculous release schedule... this is an OVA, an
 
 ***
 
-### []()**3. *Shokugeki no Soma (Food Wars!)***
+### **3. *Shokugeki no Soma (Food Wars!)***
 
 ![](./1341053166022227600.png)
 
@@ -81,7 +81,7 @@ My only real complaint is this ridiculous release schedule... this is an OVA, an
 
 ***
 
-### []()2. *Ore Monogarari (My Love Story)/**OreGairu (SNAFU) S2***
+### 2. *Ore Monogarari (My Love Story)/**OreGairu (SNAFU) S2***
 
 ![](./1341053166082331792.png)
 
@@ -93,7 +93,7 @@ So exactly what’s going to happen when Hachiman Hikigaya, an isolated high sch
 
 ***
 
-### []()1.* Kekkai Sensen (Blood Blockade Battlefront)*
+### 1.* Kekkai Sensen (Blood Blockade Battlefront)*
 
 ![](./1341053166309351824.jpg)
 

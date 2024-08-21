@@ -45,7 +45,7 @@ A prime example of Nintendo doing what they do best is [Mario Kart 8](https://ko
 
 ![](./diizd3yjvx8rrbuypqhu.jpg)
 
-> ### []()Quote:
+> ### Quote:
 >
 > "Mario Kart 8 feels like the best rides at Disney World. The tracks always show you something amazing, and the high definition facelifts of the content from older games is nearly as good. I would put the visuals of Mario Kart 8 against almost all other games on the Xbox One or PlayStation 4 in a blind "taste test" with random people and expect Mario Kart 8 to win a majority of the time."
 

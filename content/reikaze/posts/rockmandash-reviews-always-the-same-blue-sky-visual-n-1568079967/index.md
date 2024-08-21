@@ -23,31 +23,31 @@ My biggest issue with the writing is that things happen because they happen; the
 
 The writing would have been much better if this game did a better job connecting the plot; actually showing the world, characters, plot etc. instead of throwing random scenarios. Another con is the length: this game is short. Very short. You can finish this in about 10-20 minutes. Don't get me wrong; I don't mind short VNs. I loved the heck out of Planetarian, but that had the charm, great world building, interesting characters, etc. In ATSBS, the writing is pretty meh, and there is so much they could have done to improve it.
 
-#### []()Writing - 5/10
+#### Writing - 5/10
 
 ![](./703121630207845802.png)
 
 Always the Same Blue Sky is a Short kinetic novel. This means there is no gameplay and nothing to talk about. It's literally just reading. It works but I'd rather see decisions. One thing to note is that it's available on android, and that's a pretty nice experience, but other than that, nothing to mention here.
 
-#### []()Gameplay - 6/10
+#### Gameplay - 6/10
 
 ![](./j3schqkecvykqvh6cgas.png) ![](./703121641407516842.jpg)
 
 I don't really know what to think about the visuals on this game. It's water colored nicety in a pretty high resolution, but the whole game looks pretty generic. There's something that really bothers me about this game's visuals, I guess it's just not my taste. The Art style is nice, but it's just not my cup of tea. I didn't like the character art... but my biggest gripe was about the visuals was that I felt like it needed more art, and in general it could have been improved. The game runs on the Ren'py visual novel engine, and I'm not too keen on how the engine looks in general, but in this game the UI is not scaled well, as the text, the text-box and any of the UI elements felt too small, no matter what device I was playing. ATSBS does some things right, but others horribly wrong when it comes to visuals.
 
-#### []()Visuals - 7/10
+#### Visuals - 7/10
 
 ![](./yeooatmyeowqmcr5niby.png)
 
 The music is pretty charming, and calming. It's charming, but it suffers through the same problems that plagues this whole game: There's not enough of it, and it doesn't try to stand out, thus it doesn't really stand out.
 
-#### []()Sound - 6.5/10
+#### Sound - 6.5/10
 
 ![](./cmkxqiashl8qksjowkd5.png)
 
 Grant Wilde, if you are reading/[watching](https://www.youtube.com/watch?v=o9vNjnknN_I\&list=UU4ho5vWtymodIky88AQIaUw) this, I'm very happy that you gave me a review copy, and you check out my stuff. It's been an interesting experience to have a review copy, and I thank you for it. That won't sway my opinion of this game though, as it's not very good. It's not the worst I've played, but it comes pretty close to it. I cannot recommend this game to anybody at the price it currently sits at, and I wouldn't recommend this game even if it was free. This game is bad, and I'm hoping it'll be better the next time.
 
-## []()Overall - 5/10, Polarization +3 -1
+## Overall - 5/10, Polarization +3 -1
 
 ![](./juzzidmk6ay4v42et3wb.png) ![](./lxecz7nmr5c8nejoulz5.png)
 

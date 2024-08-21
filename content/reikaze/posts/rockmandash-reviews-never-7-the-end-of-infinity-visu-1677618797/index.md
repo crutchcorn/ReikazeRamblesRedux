@@ -29,19 +29,19 @@ While the premise sounds interesting, (and it is certainly interesting when it p
 
 Speaking of things you probably won’t care about, let’s talk about the characters! They aren’t the worst I’ve seen, but they got on my nerves at times and are so generic that you can pretty much describe them with one sentence: Okihiko is an asshole, Yuka’s a cheerful yet level headed girl (who’s a really bad drunk), Haruka is a kuudere way before the deres were a thing, Saki’s a bitch, and the two you meet at the island Izumi and Kurumi are nice and annoying respectively. They’re engaging and entertaining enough, but really, the game doesn’t really give you reasons to care too much about them, and thus I didn’t care. After I got through the end of the game, I found that the only characters I really even remembered well were Yuka and Izumi, mainly because they were the only characters that didn’t bug me, and the only ones that got interesting development because out of the 5 routes in this game, those are the routes that left an impression due to the sci-fi implemented in it. (BTW, if you’re interested in playing this game, you might want to use a guide because it can get confusing, and play Yuka’s first. You won’t regret it.) The rest of the routes were meh and nowhere near as gripping. They were good enough to keep your attention, but really nothing more. That statement is kinda telling of the whole writing in general... It’s good enough, but it could be a lot better.
 
-#### []()Writing - 7/10
+#### Writing - 7/10
 
 ![](./1248096666192693133.png) ![](./1248096666243858317.jpg)
 
 *Never 7* is an pretty old VN, and it looks the part. It looks dated, with a low resolution, an older style of character art, UI elements that scream the 90s (seriously? A rainbow textbox? **WTF?)** and a complete absence of a UI for the menus, but it doesn’t look that bad in general because it’s pretty well drawn, expresses emotions well, has clean lines, solid backgrounds (with an interesting painting/pencil sketch design), good CG, and there’s no real main issues visually in the game. The game uses it’s visuals decently enough, and it never detracts from your experience. *Never 7* doesn’t really have any issues with the way it looks, but there weren’t anything that will really wow you either. Pretty middle of the road.
 
-#### []()**Visuals - 7.5/10**
+#### **Visuals - 7.5/10**
 
 ![](./1248096666301549965.png)
 
 Simplicity is the name of the game with *Never 7*’s soundtrack, as all of it’s songs are pretty simple and straightforward. As expected due to the time it was released, it sounds very PS1-ish, with decent sound quality and relatively simple melodies but it’s really nothing special. There’s something charming about it’s MIDI soundtrack that I find myself attracted to, as it’s very pleasing to the ears (and it really grew with me listening to it standalone) but there’s nothing that’ll blow you away. Everything else about the soundtrack is pretty averag, from the atmosphere building to the usage to the tracks. It sounds nice, but it doesn’t do really anything special.. at all. Also, surprisingly for the time, a lot of it is voiced, so that’s nice, and they do a good job expressing the other character but it didn’t do too much to influence my opinion of the game.
 
-#### []()Sound - 7.5/10
+#### Sound - 7.5/10
 
 ![](./1248096666348165005.png) ![](./1248096666406246797.jpg)
 
@@ -51,7 +51,7 @@ No joke, when I first played this game, I abhorred it, loathed it, hated it. Com
 
 *Never 7: The end of infinity*’s name is silly when you think about it: It’s not *Never 7*, 7 is the only score I’d ever consider giving this game because it’s just so... average, and* End of Infinity* doesn’t make sense either because it’s the beginning of the infinity series and it shows. Average and aged doesn’t sound too great, but that’s the best way can describe about this game, and only those curious in the origins of the infinity series should give it a shot.
 
-## []()Overall - 7/10, Polarization +1.5, -1
+## Overall - 7/10, Polarization +1.5, -1
 
 ![](./xpq63kfovfiz2xne4ieu.png) ![](./1248096666549591949.png)
 

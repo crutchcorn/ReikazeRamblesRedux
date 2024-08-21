@@ -13,7 +13,7 @@ There’s so many things that define 2018 for me, but at the end of the year, it
 
 ***
 
-## []()Rules
+## Rules
 
 [](./agiz2alqtfoa2rrjhjw0.mp4)
 
@@ -23,7 +23,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-## []()Thoughts on Anime in 2018:
+## Thoughts on Anime in 2018:
 
 ![](./s3pokgn5cfihj5rzmeu9.jpg)
 
@@ -35,7 +35,7 @@ One thing about 2018 I did appreciate a lot however, is that because of the anim
 
 ***
 
-## []()Honorable Mention: *Steins;Gate 0*
+## Honorable Mention: *Steins;Gate 0*
 
 ![](./ek9emd9tikrfp2vs5kab.jpg)
 
@@ -53,7 +53,7 @@ This anime is still *Steins;Gate* so the strengths like the enjoyable cast, the 
 
 ***
 
-## []()10.* A Place Further than the Universe*
+## 10.* A Place Further than the Universe*
 
 ![](./bzfaijv8y2po4tmbpn99.jpg)
 
@@ -69,7 +69,7 @@ This anime is still *Steins;Gate* so the strengths like the enjoyable cast, the 
 
 ***
 
-## []()9. *Liz and the Blue Bird*
+## 9. *Liz and the Blue Bird*
 
 **Anime Made By: **Kyoto Animation
 
@@ -81,7 +81,7 @@ This anime is still *Steins;Gate* so the strengths like the enjoyable cast, the 
 
 ***
 
-## []()8.* Hinamatsuri*
+## 8.* Hinamatsuri*
 
 ![](./kyojx84vwbiq3mil0s2o.jpg)
 
@@ -96,7 +96,7 @@ This anime is still *Steins;Gate* so the strengths like the enjoyable cast, the 
 
 ***
 
-## []()7. ***Revue Starlight***
+## 7. ***Revue Starlight***
 
 ![](./zf3d9mkdkpuosv29vlwr.jpg)
 
@@ -110,7 +110,7 @@ This anime is still *Steins;Gate* so the strengths like the enjoyable cast, the 
 
 ***
 
-## []()6. ***Planet With***
+## 6. ***Planet With***
 
 ![](./wbhfxdleayghxxm6ztai.jpg)
 
@@ -124,7 +124,7 @@ This anime is still *Steins;Gate* so the strengths like the enjoyable cast, the 
 
 ***
 
-## []()**5. *Devilman Crybaby***
+## **5. *Devilman Crybaby***
 
 ![](./hvv0ac8b4iim4cabfie8.jpg)
 
@@ -142,7 +142,7 @@ With his new power, Akira must fight to protect humanity and his loved ones agai
 
 ***
 
-## []()**4. *Megalo Box***
+## **4. *Megalo Box***
 
 ![](./tjtsxslubsmisf1avbbq.jpg)
 
@@ -156,7 +156,7 @@ With his new power, Akira must fight to protect humanity and his loved ones agai
 
 ***
 
-## []()3. *Night Is Short, Walk On Girl*
+## 3. *Night Is Short, Walk On Girl*
 
 **Anime Made By: **Science Saru (Masaaki Yuasa)
 
@@ -170,7 +170,7 @@ Meanwhile, the black-haired girl believes that everything is connected by fate a
 
 ***
 
-## []()2. *Rascal Does Not Dream of Bunny Girl Senpai*
+## 2. *Rascal Does Not Dream of Bunny Girl Senpai*
 
 ![](./s6vbvzqmuckuoyuvgfd6.png)
 
@@ -188,7 +188,7 @@ Each arc of *Bunny Girl* was great and I thoroughly enjoyed the show throughout,
 
 ***
 
-## []()1. *Yuru Camp*
+## 1. *Yuru Camp*
 
 ![](./ivjl6iednbc5iiofaqvd.png)
 

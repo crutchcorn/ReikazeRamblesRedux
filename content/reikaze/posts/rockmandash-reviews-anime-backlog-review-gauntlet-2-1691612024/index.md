@@ -13,7 +13,7 @@ Welcome back to the **SUPER DELUXE ANIME BACKLOG REVIEW GAUNTLET EXTRAVAGANZA, *
 
 ***
 
-## []()*Paprika*
+## *Paprika*
 
 ![](./1271696743300165039.jpg)
 
@@ -31,7 +31,7 @@ I find that the name really is fitting for the show as the best way to describe 
 
 ***
 
-## []()*Zero Escape: Virtue’s Last Reward OVA*
+## *Zero Escape: Virtue’s Last Reward OVA*
 
 ![](./1271696743574136751.jpg)
 
@@ -53,7 +53,7 @@ Overall, it’s pretty much an ad for the game. I love the fact that I’m able 
 
 ***
 
-### []()*Tamako Market + Love Story*
+### *Tamako Market + Love Story*
 
 ![](./1271696743659713711.png)
 
@@ -81,7 +81,7 @@ Spoilers for Tamako Market & Tamako Love Story, proceed with caution or don't pr
 
 ***
 
-### []()*Humanity Has Declined*
+### *Humanity Has Declined*
 
 ![](./1271696743761142191.jpg)
 
@@ -109,7 +109,7 @@ Speaking of places, The setting in particular was handled really interestingly a
 
 ***
 
-### []()*Sayonara Zetsubou Sensei*
+### *Sayonara Zetsubou Sensei*
 
 ![](./1271696744164505519.png)
 
@@ -125,7 +125,7 @@ That being said, I was pretty entertained by it as its very entertaining show, w
 
 ***
 
-### []()*Einzbern Consultation Room*
+### *Einzbern Consultation Room*
 
 ![](./1271696744260863919.png)
 

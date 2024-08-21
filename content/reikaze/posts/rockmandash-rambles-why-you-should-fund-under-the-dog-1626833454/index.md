@@ -13,7 +13,7 @@
 
 **DISCLAIMER:** I am not paid to write this, and I have no relation to the people making it. I'm just a fan that really hopes that they hit the goal, and I want to see how something like this will influence anime in the future. I realized as I was typing this that it might just echo the kickstarter, but I hope I can get the point out in a clearer way. Last but not least, I'm not an expert at how the industry works and such. I might have some errors. I'm just a high school student writing about what they love. Also, there's a lot of anime talk that you may or may not be familiar with... so sorry. Anyways, Thanks for reading!
 
-## []()About Under The Dog itself
+## About Under The Dog itself
 
 Well, I can't really convince you to fund something without giving you reasons on why it's **AWESOME**. First off, just check that [Kickstarter](https://www.kickstarter.com/projects/1300298569/under-the-dog) page. Look at it. Play the Video.
 
@@ -33,7 +33,7 @@ On that note, we have the absolutely amazing team that's working on this. Orange
 
 It looks great, sounds great, and will probably have a great story. Under The Dog however, is it's own underdog, and it's fighting to exist.
 
-## []()The State of the Anime Industry in General
+## The State of the Anime Industry in General
 
 ![](./873254601435647409.jpg)
 
@@ -51,7 +51,7 @@ This kickstarter is not just about the show, but to shake up the anime industry,
 
 We are funding an episode to show to the industry that... yes, there is an interest. Yes, this is a show that will sell, and it will be amazing. We are showing them that this is a type of show that we like, and we like people to do what they want to do. While this is just funding a single episode, and to the consumer, it doesn't make sense because it's literally a dollar an minute... that's not the point. It's not about what you are getting, quantity wise. It's about making someone willing to foot the bill to see this dream come true, so we can have Under The Dog become one of the greatest anime in the longest time.
 
-## []()What Under The Dog Represents for the Future of Action Anime
+## What Under The Dog Represents for the Future of Action Anime
 
 ![](./873254602012741041.jpg)
 
@@ -63,6 +63,6 @@ At this point in time, Kickstarters for anime are more symbolic than anything. K
 
 We need to keep up that drum beat... but also show how much we love these type of shows! I know there's a lot of you guys out there that are like ... 90's anime is the best! While I'm not one to follow that doctrine, I still love a lot of that shows from that era, and I'm sure there's a lot of people out there who do to... The west is where those were originally really popular! (Cowboy Bebop and Trigun tanked in japan, if you didn't know.) Yes, there are exceptions like Fate/stay night, and Zankyou no Terror, but for the most part, its gone. If you want shows like those that have high quality writing with Action and AAA Animation, we'll have to prove we care about this. We'll need to fund this to show to the Anime Industry in Japan that people in the west still love those kind of shows... and hopefully this will be a start of a trend twords having those shows available. Diversity in anime is a good thing... and why not have more? We need to continue this, and show them we care.
 
-## []()The Bad News
+## The Bad News
 
 Most fans just can't get over the whole value proposition. Hell, I was one of those a few days ago! As of writing, we have 12 days to go and $250,009 USD out of the $580,000 USD we need. That's a lot we need to fund. Please do me a favor and spread this as much as you can, I really want to see this thing happen. As a poor high school student, I really don't have a lot of money to chunk in... so I'm trying to make the difference by getting the word out. Let's get this all over the web... I certainly will be spreading it to every anime site I know, and you should too. Also, don't just spread the word, try to legit fund this. If I can put in 25, most of you should be able to put in at least enough to match me. Every bit helps... let's get this goal through! This has been Rockmandash, see ya later.

@@ -13,7 +13,7 @@ If you’ve read any of my reviews and wanted to know why I did them the way I d
 
 ***
 
-### []()Categories
+### Categories
 
 Every now and then, I’ll use the TAY/AniTAY review’s Fantastic, Not Great, and Terrible, but I usually have different categories sorted by the topic instead of the quality. In the respective order, the categories for review I personally use is Writing, Visuals, Sound, Gameplay, Source Material Comparison, Experience, and Conclusion, but usually the Order changes depending on importance.
 
@@ -28,7 +28,7 @@ Also, I now have a[ checklist](http://rockmandash12.kinja.com/rockmandashs-check
 
 ***
 
-### []()Banners
+### Banners
 
 This one is a pretty recent change, but I’m a fan of how it looks so i’ll keep on doing it. I’ve started to change the colors on the banners for the categories (or have entirely different banners) depending on the said work. It’s just an aesthetic change and doesn’t influence the review’s actual contents. Here’s an example from my [*Rewrite* review](http://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1609445042#_ga=1.247352333.888615642.1438970662), [*FSN UBW *review](http://rockmandash12.kinja.com/fate-stay-night-unlimited-blade-works-tv-is-beautifu-1642722982) and [*Sound of Drop *review](http://rockmandash12.kinja.com/rockmandash-reviews-sound-of-drop-fall-into-poison-1741263649) to represent the different types of banners I use.
 
@@ -36,7 +36,7 @@ This one is a pretty recent change, but I’m a fan of how it looks so i’ll ke
 
 ***
 
-### []()Scores
+### Scores
 
 I use a 1-10 scale to rank the quality of the work in my reviews, with 7 as average, just like the letter system for school. I’m familiar with it, and it’s easiest to place it for me. Everything is compared to stuff I’ve already reviewed to, so the higher number means better in my eyes. Keep in mind this is ranking quality, not how much I enjoyed it.
 
@@ -52,7 +52,7 @@ I’ll break the number system down a bit more to help clarify this.
 
 ***
 
-### []()Polarization
+### Polarization
 
 Polarization is usually my thoughts on what you might think of it, or others do. The larger the number, the more polarizing.
 
@@ -60,7 +60,7 @@ To give an example, I rather disliked [Mekakucity Actors](http://anitay.kinja.co
 
 ***
 
-### []()Tiers
+### Tiers
 
 These tiers are my personal thoughts on said work, and if you asked me what I thought about them, they would fall into said category. These ranks how much I enjoyed them. Keep in mind that quality, personal thoughts, and recommendations are all different, so in my reviews, I split them up.
 
@@ -73,7 +73,7 @@ The tiers are:
 
 ***
 
-### []()Recommendations
+### Recommendations
 
 For my thoughts on if you should check it out I just rely on the TAY’s Verdict system. These do not correlate with my personal thoughts on the show and can differ.
 
@@ -83,7 +83,7 @@ For my thoughts on if you should check it out I just rely on the TAY’s Verdict
 
 ***
 
-### []()Ending Card
+### Ending Card
 
 I used the same title card as everyone else originally, but when TAY originally changed the review card to t[his style of ending card](http://i.kinja-img.com/gawker-media/image/upload/s--6gko-_Z4--/1341232497695445861.jpg) that’s in place, I disliked some of the omissions in the new card info-wise so I decided to tweak it a bit and make it my own. These tweaks eventually lead to the AniTAY Review card, so I use a variation of that (pros/cons instead of Who’s it for and not for) or I use a custom card, depending on review. They are small changes, but I prefer it this way.
 
@@ -93,13 +93,13 @@ Here are some examples of both types:
 
 ***
 
-### []()Policy on Edits
+### Policy on Edits
 
 My reviews will constantly change. If I go back to it and find that something’s off about it, I’ll go in and tweak it. If there’s so much change that it’s so different that you can’t tell it’s the same review, I’ll redo it under my Review+ name, or what i’ve been doing lately, which is making an archive copy at the end of the post.
 
 ***
 
-### []()Policy in regards to content in VNs
+### Policy in regards to content in VNs
 
 I will review any VN that I feel like is worth my time and has a good enough story to warrant a review, but I have to cross my lines somewhere. I kinda have to review some 18+ VNs, because there are so many but I will never review a VN in which Fanservice, or H-scene are the main selling point of the game, so you’ll never see me review a nukige. Also, gag VNs are out as well, just FYI to those devs who want me to review your VNs.
 

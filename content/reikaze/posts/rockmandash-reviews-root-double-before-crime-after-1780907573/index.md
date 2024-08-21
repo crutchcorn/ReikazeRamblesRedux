@@ -79,7 +79,7 @@ I’d say the sound of this game follows the same philosophy as well, managing t
 
 It’s not often you see a work that prioritizes one thing over everything else, and it’s even more unusual to see that it’s prioritization lead to a worse experience, but *Root Double *is this game, and it’s almost disheartening to see it that way. That being said, while this review may sound harsh with the incessant hammering on aspect of story over experience as it is a key aspect of the game that went wrong, *Root Double* overall, as a work is truly a great game, even if it has flaws that can seem to be rather apparent. With an engaging, interesting, and compelling story, *Root Double *is a game that is absolutely worth playing through, and one of the best VNs that Steam has to offer. This game is definitely worth your time, but just be aware that it has its fair share of issues like suspension of disbelief breaking and exposition dumping that may just keep it from greatness to many.
 
-### []()Overall 8.5/10, Polarization +1.5, -1.5
+### Overall 8.5/10, Polarization +1.5, -1.5
 
 ![](./ccd63qikcpaadolpqnmp.png)
 

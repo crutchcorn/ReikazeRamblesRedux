@@ -17,7 +17,7 @@ I love Key works as much as the next person, but unfortunately for me, that love
 
 ![](./gitlopltghzshwnvqnno.png)
 
-#### []()The Root of *Rewrite*
+#### The Root of *Rewrite*
 
 Regardless of the quality of the adaptation, there are aspects to a story that are nearly impossible to ruin (unless they completely change the work in a way that it becomes unrecognizable from the original). Those aspects would be the core of the work, the premise, and the assets that originate from the source (like character design). Luckily, in this adaptation these aspects are maintained for the most part, and because of these aspects, the show isn’t the worst thing ever to watch and individual episodes can be interesting to watch, but taken as a whole Rewrite is not great. FYI, the story of *Rewrite *follows our protagonist Kotarou, who lives an average life in the environmental conscious Kazamatsuri, a city that is a forerunner in ecological studies. He lives a normal life for the most part, until Kotarou decides to make the occult research society go into the forest looking for unidentified mysterious animals. Instead of UMAs however, Kotarou finds himself in the middle of a conspiratorial conflict and with a weird power. Unknown to most, there is an underground war between 2 factions fighting for a way to save the earth: the Superhumans known as Guardian, and the Summoners known as Gaia. These factions are rather interesting, with very different goals and ideals, which makes watching this conflict unravel intriguing. Unfortunately, the story was way too ambitious, something that carries over from the source material. If the source was too ambitious… just imagine how a bad adaptation would handle that….
 
@@ -47,13 +47,13 @@ This means that every aspect of the story is fragmented. In a visual Novel, this
 
 Changes are not necessarily bad, if they can make the work more enjoyable, than good for them! I actually really enjoyed some of the changes (like giving Kagari a personality… until they used it as a joke until it was stale and made me regret ever liking it). Honestly, giving the original writer a role in this rewrite may have been a big mistake, as they would want to maintain the story as much as possible. For a variety of reasons, there are many aspects of this work that don’t really work well in anime form, and they will never really work well. An adaptation first and formost needs to be its own work, needs stand by itself, regardless of how the source material differs from the intended medium. One cannot get a free pass because an adaptation is hard, and *Rewrite *certainly does not. The way they handled the story was a mess, and* this is without getting into the changes that pissed off the fans. *(What I have to say about that is that we’ll get those changes in the form of *Rewrite+*, and this is more an adaptation of that instead of the current *Rewrite* available on the internet.) It was not enjoyable to watch, and taken as a whole, it doesn’t fit into the medium. It’s another case of a poor adaptation, and those who have seen it had to suffer through some horrible stuff. Speaking of horrible…
 
-#### []()**What Production Values?**
+#### **What Production Values?**
 
 ![](./jlkjqdqfgadqh9gu8njq.jpg)
 
 ….8-Bit and their production Values! 8-bit is the animation studio that adapted *Rewrite*, and they’re primarily known for (to fans at least) making terrible adaptations, killing the dreams of a good version for anime fans. Just look at what resident AniTAY’er Fatalis [*had to say about their adaptation of *Grisaia**](http://anitay.kinja.com/grisaia-no-kajitsu-the-anime-you-should-not-be-watchin-1651115065)! Yeah… not great. *Rewrite* managed to be somehow worse than *Grisaia* though, because while the story of grisaia was butchered, at least there they didn’t have massive production issues. This show screams budget. While it’s passable for the most part, the visuals look cheap, the CGI used looks like trash, and later on in the show they had massive production issues that lead to off model characters, garbage animation, etc… it looked something out of *Shirobako’s Jiggly Jiggly Heaven. *It was not pretty, and is inexcusable given the era we live in, where this has to compete with media of all types. Hell, the original source looked great… Rewrite, in the grand scheme of things, is sa relatively new VN. Made in 2012, it was Key’s first VN into the widescreen HD world, and one of the first HD VNs in general. It had more than just technical aspects to its name however, as it was a great looking visual novel with a great and consistent art direction, excruciatingly detailed artwork with plenty of care put into it. If you ask me, even today’ it’s one of the best looking Visual Novels I’ve ever played. Yet, in 2016, thanks to the (lack of) efforts by 8 bit, we have none of this, leading to the worst looking anime I’ve seen all year, maybe some of the worst ever. Major QC issues here, and it’s incredibly irritating.
 
-#### []()**The Same Soundtrack, for better or worse**
+#### **The Same Soundtrack, for better or worse**
 
 I’d like to say that even the soundtrack wasn’t spared in the massacre of *Rewrite*, but while that would sound great, it’s not the case, for better or for worse. In my Visual Novel review of *Rewrite*, I stated
 
@@ -61,7 +61,7 @@ I’d like to say that even the soundtrack wasn’t spared in the massacre of *R
 
 And I still stand by that! The anime didn’t change the soundtrack for the worse, but... *they didn’t change the soundtrack. *It sounds as great as it did back then, with the soothing and calm piano, the tranquility that perfectly captures the setting... but while I really enjoyed hearing all these tracks once again... anime is anime, not a VN, a fundamentally different medium. A score needs to be able to manipulate emotion, needs to create an atmosphere, etc. and a key part of this is how you use the score. In a VN, this can be done via BGM music, music that constantly plays in the background as you read, but an anime can’t just sloppily put a track on. They need to make a soundtrack work with the scenes that they have, and I can’t argue at all that they did this... really at all. Listening to the score by itself, it’s a wonderful and moving score, but the anime did nothing with it, squandering one of the best that it has to offer. I’m glad it wasn’t mutilated, but it wasn’t handled well either.
 
-#### []()**The best for… not here.**
+#### **The best for… not here.**
 
 ![](./cwhcvmyxljh01wcspbvq.jpg)
 

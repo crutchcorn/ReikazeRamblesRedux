@@ -19,13 +19,13 @@ PS2 commerical that was referenced -
 
 > About The Last Guardian, because of the way the PS9 works, all of your senses get sucked into the game. I can't really describe the plot because 1. The Japanese Government would assassinate me if the masterpiece known as The Last Guardian was leaked about 50 years ago… 2. It would cause catastrophic effects upon the world because of how timed messages work and 3. It's impossible to describe with early 21st century english. It's very similar to ICO, except this game is the most absorbing, mind blowing thing you will ever see. Team ICO have managed to make a game with a better plot than even Final Fantasy 50 had in less than 5 minutes, and it stays that way. Last Guardian has this charm no other game will ever have, it's so simplistic yet so complex that every emotion possible rushes into your mind. There's no way you can hate this plot…. literally. The Last Guardian is being deployed as medicine throughout the Universe, and if you like the game, It'll heal any wound, disease, etc but if you manage to hate it, the game will suck all of your senses and you will die. Kinda scary for people of your time, but the way we look at it in 2078 is that the pros outweigh the cons. Just imagine if somebody made Big Rigs for the PS9…. everybody would die :|
 
-#### []()Writing - 10/10
+#### Writing - 10/10
 
 ![](./aqrgq4t2qmq0qox6yufb.png) ![](./659978758113708459.jpg)
 
 > "The gameplay is the most fun, realistic and unique gameplay experience that's ever created. If you liked what team Ico has already created and if you like what you've seen from the trailers, you will love this, as it's pretty much that but a million times better. It has the best AI, the best interactions with AI, the best puzzles, the best escape sections, the best everything. It's the most glorious thing you will ever experience (If you are still alive by the time it's out), and like the plot it's impossible to describe with early 21st century English. I'll just say that this is the best possible gameplay that mankind will be able to create….."
 
-#### []()Gameplay - 10/10
+#### Gameplay - 10/10
 
 ![](./659978758353620139.png) ![](./euvwa0a9zoq08pzlkhsp.jpg)
 
@@ -37,19 +37,19 @@ Visuals - 10/10
 
 > "My ears were in heaven every time I was experiencing this. The best minds of this gaming generation teamed up to create an amazing soundtrack that is The Last Guardian soundtrack. It's realistic, but amazing at the same time. It's atmospheric, yet it has depth. There is no voice acting for the main character, but all the other voices were the best voice cast ever seen in one game. I loved the sound of the Last Guardian. It's perfection. There's no other ways to describe this."
 
-#### []()Sound - 10/10
+#### Sound - 10/10
 
 ![](./qomdfjrwjb1kbub9r3ox.png)
 
 > "This is the easiest category to explain. This is what it means to enjoy something. It has everything you want in it, and nothing you don't. You would think a mashup of so many gameplay styles would clash, but nope, it all ends up being perfect. The experience playing through this game, is a once and a lifetime experience, with nothing ever coming close to this. If you like something that's both enjoyable and great, this is the game you should play when it comes out.
 
-#### []()Enjoyment - 10/10
+#### Enjoyment - 10/10
 
 ![](./xbjlanwzejlwr33nzqdy.png)
 
 > In 2078, the most revolutionary game came out, known as Last Guardian. This is a game that will leave an impact on the world, and you cannot even compare this to anything previously released to this. It's the best thing mankind has ever created and it's left an impact on my life. It's well worth the wait, I can die happy now.
 
-## []()Overall - 10/10
+## Overall - 10/10
 
 ![](./jhjh0ekfoemcgm5pdz76.png) ![](./gphlgkhw7da0zidhp9en.png)
 

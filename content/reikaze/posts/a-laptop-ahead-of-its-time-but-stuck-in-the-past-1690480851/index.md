@@ -14,13 +14,13 @@ A laptop that is unbelievably thin, is missing a ton of stuff everyone uses like
 
 [![](./js6eihx4oyukxvk8a1lw.jpg) ](https://gizmodo.com/macbook-air-review-348753)
 
-### []()Pushing the Boundaries
+### Pushing the Boundaries
 
 ![](./1157347426369960738.jpg)
 
 Both devices blew people's minds on what a laptop could be by being extremely thin, and light. Both devices also fundamentally change how laptops are designed, with the original air doing everything it can like shipping with SSDs, something that has never really been done. This time it's stacking batteries to fit the curve, something we've seen in mobile phones for a while now, but is pretty much unheard of in the construction of laptops. Technology keeps on marching forward, and devices keep on pushing the boundaries of what people believe is feasible. It's great.
 
-### []()Where are the ports?
+### Where are the ports?
 
 ![](./1157347426438528802.jpg)
 
@@ -28,7 +28,7 @@ The most controversial issue of the new Macbook has got to be the [ports](https:
 
 [![](./du9cill4kdqywygoxtdi.png) ](https://gizmodo.com/why-apple-could-leave-ports-behind-1677838462)
 
-### []()Slow Processors?
+### Slow Processors?
 
 ![](./1157347426454645026.jpg)
 
@@ -36,37 +36,37 @@ Apple's vision was much more far reaching than what intel imagined, and the orig
 
 [![](./rapdxovlhswubyhct7j2.jpg) ](https://gizmodo.com/intels-core-m-might-finally-give-us-the-laptop-tablet-h-1630778247)
 
-### []()What's with the dongles?
+### What's with the dongles?
 
 ![](./1157347426493034786.jpg)
 
 Due to the new type C connection, you can't connect anything you currently own with the new Macbook, but apple's going to ship a quite expensive 80 dollar dongle which will allow you to use your old stuff. Where have I heard that before? OH WAIT! When the Macbook Air came out, they charged 100 dollars for a "superdrive" which was equally as clunky and annoying as these dongles will be. Oh well.
 
-### []()High price?
+### High price?
 
 ![](./ivvwgslcrjorpq7tpaaa.jpg)
 
 With new technologies comes a new way to stretch wallets? Once again the laptops are extremely poor values spec wise in comparison to everything available, but this time it's nowhere near as bad. The original Macbook Air launched at 1800 USD with an ipod HDD, and this time it's 1300 USD with an amazing display. Cutting edge has never been this affordable?
 
-### []()480p Webcam
+### 480p Webcam
 
 ![](./1157347426528107810.jpg)
 
 Have we stepped into a bizarre world where people still have 480p webcams in 2015? Yeah, we have, and that's one thing that the Macbook Air had in 2008 as well. Come on Apple! WTF?
 
-### []()Compromise...
+### Compromise...
 
 ![](./1157347426536470562.jpg)
 
 I'm sure everyone remembers how much of a mixed bag the original Macbook Air was, and if you can see from above, The Macbook seems like it's shaping up to be another compromise, in pretty much the same ways. Honestly, I'd rather OEMs work on making the best experience possible with what they have instead of trying to shoot for the future with compromise, but that's what the Macbook has done, for better or for worse.
 
-### []()Where does it differ?
+### Where does it differ?
 
 ![](./1157347426567168290.jpg)
 
 Well, the first place is that it's 2015 so we're more equipped for a device like this, but even now it's still too early, especially because apple put in the type c connector, an amazing port that is a standard, but hasn't gone mainstream yet. I think in comparison however, new Macbook does more to make the device a better experience: It's a fanless device with a great screen and less compromises in general, but who knows how it'll fare? I certainly don't.
 
-### []()Creating a Legacy
+### Creating a Legacy
 
 ![](./1157347426607225378.jpg)
 
@@ -74,6 +74,6 @@ The Macbook Air had a strong impact on the PC industry, the incentivization of I
 
 [![](./tvob83yjcnlx8xgsqkfu.jpg) ](https://gizmodo.com/dell-xps-13-review-2015-the-windows-laptop-to-beat-1681976712)
 
-### []()Conclusion
+### Conclusion
 
 All things considered, the new Macbook echoes the spirit of the 2008 Macbook while updating everything (except the webcam).... which is a good and bad thing. Looking at it, this device makes compromises, and I don't really think that this iteration will be a great device like the Air, but these are issues that can be fixed in later iterations, so let's hope that this new Macbook will be refined to be a solid computing experience, just like the Air did a few years back. History does have a tendency to repeat itself, and this is one I think will repeat. Too bad they couldn't get it right the first time!

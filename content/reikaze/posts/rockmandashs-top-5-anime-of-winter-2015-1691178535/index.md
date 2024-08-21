@@ -15,7 +15,7 @@ So, What are the rules of this list, you may ask? If it aired/released this seas
 
 ***
 
-### []()Honorable Mention #1: *Durarara!! X2 Shou*
+### Honorable Mention #1: *Durarara!! X2 Shou*
 
 ![](./1417776969105961360.jpg)
 
@@ -25,7 +25,7 @@ So, What are the rules of this list, you may ask? If it aired/released this seas
 
 ***
 
-### []()Honorable Mention #2/Guilty Pleasure: *Aldnoah.Zero Season 2*
+### Honorable Mention #2/Guilty Pleasure: *Aldnoah.Zero Season 2*
 
 ![](./1417776969153217680.png)
 
@@ -37,7 +37,7 @@ So, What are the rules of this list, you may ask? If it aired/released this seas
 
 ***
 
-### []()5. *Death Parade*
+### 5. *Death Parade*
 
 ![](./1417776969193796752.jpg)
 
@@ -47,7 +47,7 @@ So, What are the rules of this list, you may ask? If it aired/released this seas
 
 ***
 
-### []()4. *Parasyte*
+### 4. *Parasyte*
 
 ![](./1417776969335555984.jpg)
 
@@ -59,7 +59,7 @@ Because Shinichi was able to prevent Migi from traveling further up into his bra
 
 ***
 
-### []()3*. Shirobako*
+### 3*. Shirobako*
 
 ![](./1417776969368186000.jpg)
 
@@ -69,7 +69,7 @@ Because Shinichi was able to prevent Migi from traveling further up into his bra
 
 ***
 
-### []()2. *Saekano: Saenai Heroine no Sodatekata*
+### 2. *Saekano: Saenai Heroine no Sodatekata*
 
 ![](./1417776969482460816.png)
 
@@ -81,7 +81,7 @@ The tale of a small not quite doujin circle, but not quite indie studio’s jour
 
 ***
 
-### []()1. *Your Lie in April*
+### 1. *Your Lie in April*
 
 ![](./1417776969506093200.jpg)
 

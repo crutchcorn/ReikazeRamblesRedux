@@ -21,15 +21,15 @@ The Characters were pretty enjoyable, even the minor characters were entertainin
 
 ![](./afszpq9qzua5ur9ujwwo.png)
 
-#### []()**Plot 7.5/10**
+#### **Plot 7.5/10**
 
-#### []()**Characters 8.5/10**
+#### **Characters 8.5/10**
 
 ![](./itgjhcovpxswvoi7k9lv.png)
 
 Unfortunately, the pacing is probably the weakest point of the anime, as it's very inconsistent. Gargantia is a 13 episode anime series, which spends about half of it's episodes giving you a feel for the world and developing characters. Gargantia has one of the best starts of recent anime, equivalent to that of Attack on Titan's great start, but that pace slows down…. Episodes 2-7 are extremely slow, and almost nothing really gets done, like it's a Slice of Life anime. The show takes it's time to tell it's story and show it's world. What's weird is that the same thing is done in Madoka Magica, maybe that's just Gen Urobuchi's style. Once it picks up again though, it's like a roller coaster. The Pacing could be much, much better.
 
-#### []()**Pacing 6/10**
+#### **Pacing 6/10**
 
 ![](./lzhnosszaeldhpzm2acj.png)
 
@@ -37,25 +37,25 @@ Unfortunately, the pacing is probably the weakest point of the anime, as it's ve
 
 ![](./kjscfqc53f8hiaw0jkh2.png)
 
-#### []()**Visuals 9/10**
+#### **Visuals 9/10**
 
 ![](./lwwuy3ps6o2q48nu0lnr.png)
 
 The sound is one of the best parts of Gargantia. The music, in battles is orchestrated goodness, it's beautiful. It's just fantastic, I've never loved mecha music in animes other than Code Geass, but I loved Gargantia's music. In normal parts of the show, it's great, with a very tropical feel with unique instruments. The Voice acting is pretty good, some of the characters are fantastic, and some are just OK. Chamber's voice is perfect for the character, and he sounds great. The fake language that Leno speaks is really interesting, it sounds like German and it's awesome. Amy's voice acting, is kinda annoying though, like the character. The Opening and ending themes are nothing special, they are relaxing but nothing outstanding. Overall, the sound is solid, and quite amazing.
 
-#### []()**Sound 9/10**
+#### **Sound 9/10**
 
 ![](./gvajbhn2hoffizxrqynx.png)
 
 I enjoyed Gargantia, and though it was a fun anime. I watched this right after Valvrave; another mecha of this season, expecting this to be worse off than that but I came out surprisingly positive about this show. What I look for in an anime is to be engaged, like how I was in Code Geass, and Steins;Gate. This does that, but only at the end. The rest isn't bad, but it's kind of slow. The overall, the show was enjoyable, especially at the end.
 
-#### []()**Personal Enjoyment 8.75/10**
+#### **Personal Enjoyment 8.75/10**
 
 ![](./bvppl7iww4fsbwpwfu2c.png)
 
 Gargantia is a great show ruined by bad pacing, and wasted potential. The show is a very entertaining mecha, and is one of the better mechas I've seen. It's a beautiful show with a good soundtrack, and interesting premise. This anime is currently available for internet on Crunchyroll for free legal streaming, A DVD release from Viz eventually, or Blu-Ray import from Japan.
 
-## []()**Overall - 8/10**
+## **Overall - 8/10**
 
 ![](./z5xwegzh1zpweqj1riu7.png) ![](./wa2rmqrvmr4tfnk3h6me.png)
 

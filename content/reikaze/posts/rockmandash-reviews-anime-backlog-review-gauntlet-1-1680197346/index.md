@@ -23,7 +23,7 @@ For the last year I've had a problem. I've watched several shows that I never re
 
 ***
 
-### []()*Tokyo Magnitude 8.0*
+### *Tokyo Magnitude 8.0*
 
 ![](./t2r8ly17vfhzhm1fqopi.jpg)
 
@@ -49,7 +49,7 @@ Tokyo Magnitude 8.0 poses a question: What would happen if Tokyo were hit by a l
 
 ***
 
-### []()*Time of Eve*
+### *Time of Eve*
 
 ![](./a2urca6ypg3fgh5rbyzv.jpg)
 
@@ -81,7 +81,7 @@ Overall, I liked *Time of Eve.* I ended up a bit disappointed with it due to som
 
 ***
 
-### []()*Black Lagoon*
+### *Black Lagoon*
 
 ![](./vjyt3c7ugqb8qqitkmto.jpg)
 
@@ -107,7 +107,7 @@ Overall, Black Lagoon is pretty great. It's the best type of action show that yo
 
 ***
 
-### []()*Death Billiards*
+### *Death Billiards*
 
 ![](./1083258962662776872.jpg)
 
@@ -131,7 +131,7 @@ Overall, Black Lagoon is pretty great. It's the best type of action show that yo
 
 ***
 
-### []()*Perfect Blue*
+### *Perfect Blue*
 
 ![](./1083258962639990568.jpg)
 

@@ -11,7 +11,7 @@
 
 In my english class, I had the opportunity to re-read one of my favorite books, 1984. I got an assignment that stated that I had to do a speech in newspeak, the fake language in the story... so I sat there trying to figure out what I'd write, until I came up with the brilliant idea that I would do a review of 1984. How meta! I decided I'd post this anyways if anybody was interested, sorry if this is a bit different than usual.
 
-### []()Oldspeak (English)
+### Oldspeak (English)
 
 ![](./994518291013436706.jpg)
 
@@ -31,7 +31,7 @@ Due to the interesting concepts, wonderful world, and an interesting premise, re
 
 1984 is a book that I love, and it's one of my favorites. It's a story that is entertaining and is extremely thought provoking which all add up to a great experience, and it's one that I find to be one the best out there.
 
-### []()Newspeak
+### Newspeak
 
 ![](./994518291093595682.png)
 

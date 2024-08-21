@@ -13,7 +13,7 @@ Welcome to Rockmandash Reviews, and this is my review of the highly regarded *Mu
 
 Even though there are 2 Visual Novels in the series: *Muv-Luv* and* Muv Luv Alternative,* there are 3 Arcs of this series that are very different from each other but are all very integral to the plot. The 3 Arcs are Extra, Unlimited, and Alternative, and I’m going to talk about them one at at a time, for the sake of convenience.
 
-### []()Extra
+### Extra
 
 ![](./oqrfsprr74mgj7hihkyx.png)
 
@@ -23,7 +23,7 @@ For those of you who aren’t a fan of the genre, and aren’t particularly used
 
 The game really engages you with the world that surrounds Takeru: get to know how his close friends and accentuates act, and you get used to this nice, peaceful world that is in Muv Luv....
 
-### []()Unlimited
+### Unlimited
 
 ![](./c9td9wjp1yjdoyawynvp.png)
 
@@ -31,7 +31,7 @@ The game really engages you with the world that surrounds Takeru: get to know ho
 
 Unfortunately, *Muv-Luv Unlimited *has one huge flaw that keeps it from being something spectacular… Unlimited does a weird balancing act between the slice of life of *Extra* and the seriousness that is* Alternative *and ends up too lighthearted to it’s determent. In every aspect of *Muv-Luv Unlimited*, everything is a bit too lighthearted: from the atmosphere, to the pacing, to the writing in general. There is absolutely no sense of urgency, which is ultimately frustrating, but the arc squanders those ideas thanks to this imbalance. The atmosphere and tone of a game is very important, and *Unlimited *is an example of what goes wrong when you don’t pay attention to them. Ultimately, it’s done in this fashion to make alternative better, being a key part of the coming of age for Takeru, but as an arc itself, it doesn’t live up to it’s potential.
 
-### []()Alternative
+### Alternative
 
 ![](./711978557808876072.jpg)
 
@@ -51,7 +51,7 @@ Plot wise, *Muv-Luv Alternative *is a military invasion story similar to the pop
 
 The writing in this game is absolutely phenomenal, manipulating the player in ways they have not been manipulated before. If [*G-Senjou no Maou*](http://tay.kotaku.com/g-senjou-no-maou-the-tay-review-1524540625) is a roller coaster of a plot, then* Muv-Luv *is a road trip; beautifully showing you the world at the pace you want to go, getting you absorbed, and getting you attached to the plot. I wouldn’t say alternative is the best story ever; it’s not in my opinion. It is however, one of the best stories I’ve ever experienced. It’s does everything you would want in this setting, and does it very well.
 
-### []()Overall
+### Overall
 
 It’s hard to sum up* Muv-Luv *as a whole, because there’s so much variance between the arcs. That being said: *Muv Luv* has some of the highest highs in the medium, with *Alternative* being 20+ hours of highs. Even though there are lows in the form of *Extra* for some, the better arcs absolutely overshadow the negative arcs, especially because of how well Alternative uses every element of your experience and integrates it into the story.* Muv-Luv Alternitive* is one of the best experiences you’ll ever find in this medium, but if you want to play Alternative, you will have to go through quite a bit lows to get to the better parts of the series.
 
@@ -107,7 +107,7 @@ Today I’m reviewing Muv-Luv, a visual novel developed by âge. On the surface,
 
 [Read more](https://anitay.kinja.com/muv-luv-the-tay-review-1541968420)
 
-## []()Overall - 9/10, Polarization +1,-3
+## Overall - 9/10, Polarization +1,-3
 
 ![](./gobehtkn7tc67v0tqrt0.png) ![](./yuggwq82whstiyquzqxb.png)
 

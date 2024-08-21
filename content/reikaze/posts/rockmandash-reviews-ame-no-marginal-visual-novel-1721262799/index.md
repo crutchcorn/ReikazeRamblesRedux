@@ -49,7 +49,7 @@ Ame no Marginal is a good game. It’s a solid experience with an interesting st
 
 Also, I need to mention pricing: *Ame no Marginal* is sitting at $12.99, which is a bit expensive, considering the length of the game. It’s a good time, but it’s probably not worth that much to most people and even if you’re a *Narcissu* fan, it’s a lot. That being said, wait for a sale or something, it’s definitely worth trying out at some point.
 
-#### []()Overall - 8/10, Polarization +.5,-2
+#### Overall - 8/10, Polarization +.5,-2
 
 ![](./1396310174228478243.png) ![](./pb9v2zemodxg410yxnea.png)
 

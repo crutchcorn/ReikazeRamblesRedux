@@ -13,7 +13,7 @@ This post will be updated as reviews get done.
 
 ![](./1476080727821779888.jpg)
 
-#### []()Completed:
+#### Completed:
 
 * [Fate Stay Night \[Review+\]](http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1613176306?rev=1407787126382)
 * [Fate Stay Night \[2006 Anime\]](http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-2006-anime-1497715875)
@@ -28,13 +28,13 @@ This post will be updated as reviews get done.
 * [Fate/stay night: UBW TV AniTAY Review (Cour 1)](http://anitay.kinja.com/fate-stay-night-unlimited-blade-works-s1-ani-tay-revie-1677058631)
 * [Fate/stay night: UBW TV AniTAY Review](http://anitay.kinja.com/anitay-reviews-fate-stay-night-unlimited-blade-works-1710281838)
 
-#### []()Non-Review Articles:
+#### Non-Review Articles:
 
 * [Rockmandash Rambles: *Fate/Zero *Revisited](http://rockmandash12.kinja.com/rockmandash-rambles-fate-zero-revisited-1637549445)
 * [Rockmandash Rambles: *Fate/stay night *Hype!](http://rockmandash12.kinja.com/rockmandash-rambles-fate-stay-night-hype-1633708239)
 * [*Fate/stay night: Unlimited Blade Works *First Impressions!](http://rockmandash12.kinja.com/fate-stay-night-unlimited-blade-works-first-impression-1642723894)
 
-#### []()Leftovers:
+#### Leftovers:
 
 * Fate/stay night Heaven’s Feel Movie - whenever it comes out and gets subbed
 * Mahoutsukai no Yoru - waiting for translation, played 1-5 and loved it.

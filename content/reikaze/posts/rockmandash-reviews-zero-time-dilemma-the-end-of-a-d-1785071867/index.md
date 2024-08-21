@@ -41,7 +41,7 @@ Another issue this game has is an incapability to handle expectations. Unlike th
 
 ***
 
-## []()- WARNING *VLR* SPOILER AHEAD -
+## - WARNING *VLR* SPOILER AHEAD -
 
 ![](./lxboihlf3iujjadflhmu.png)
 
@@ -55,7 +55,7 @@ We did not get that get that Reward. *VLR* framed *ZTD*, billed it as a conclusi
 
 Basically, everything about the secret Another Time ending was thrown out of the window, with key concepts like 4th dimensional beings and Key characters like Kyle Klim and ?/BW completely absent from the game. The main aspect of the *VLR* ending, the devastation of the world by Radical-6 was supposed to be the core of the game, instead we got one that used it as a tool for plot convenience, a set piece: We learn nearly nothing about it, only seeing it get released in an ending or two. A whole organization, Free the Soul is basically absent from the game aside from one conversation, etc. *ZTD* threw out *VLR* and along with it, threw out my connection and interests with it. Even the aspects of *VLR* that do make appearances only were there very briefly, like it was an afterthought, something put in to appease the fans, a depressing and disappointing development.
 
-## []()- *VLR* SPOILER END -
+## - *VLR* SPOILER END -
 
 ***
 
@@ -69,13 +69,13 @@ And of course… the ending.
 
 ***
 
-## []()- *ZTD* SPOILERS AHOY! -
+## - *ZTD* SPOILERS AHOY! -
 
 ![](./hxvbuybw2jlvdpsdacda.jpg)
 
 The ending of *ZTD* is basically for me, a combination of everything wrong with *ZTD*. The endings make or break *ZTD*, and people’s opinions are rather split for the most part. I get why people would be satisfied with the ending, as it’s one that flows logically given the events of the game and it wraps up the series, but it’s a contrived ending. It’s filled with plot holes, it has to deal with the fragments which make the lead up to the ending very disjointed, the writing goes down the drain, it relies on plot convenience while underplaying *VLR*, it rides on the rule of cool to finish the story, and more, being an ending that is filled to the brim with problems (at least for me). The ending of *Zero Time Dilemma* surrounds the character Delta, and he’s basically everything wrong with it and more, a bullshit and contrived twist that pops out of nowhere to seemingly be the bad guy that everyone can hate (Yes, it’s hinted in the game but there’s no reason not to show him, *VLR*’s was stated several times and it’s twist felt significantly less contrived), basically the Deus Ex Machina of massive proportions. Delta himself is a horrible character too, with stupid plans (someone wants to kill 8 billion people? Let’s kill 6 billion to prevent that from happening) and a stupid gimmick of “Mind Hacking” that kills any suspension of disbelief if you had any. With Alien technology, wibbly wobbly time travel BS, Shifting in ways that make the whole concept look dumb, the whole ending is a load of bullshit and ultimately leaves me disappointed. It’s the tragedy of* *[*Remember 11*](http://rockmandash12.kinja.com/rockmandash-reviews-remember-11-the-age-of-infinity-1687285802) all over again, an incomplete work that succeeds greatness with a shitty ending, but instead of making an amazing work that was incomplete, they made a complete work that wasn’t amazing.
 
-## []()- *ZTD* SPOILERS END -
+## - *ZTD* SPOILERS END -
 
 ***
 

@@ -41,7 +41,7 @@ Keeping the aspects of the presentation in mind, you can see how the presentatio
 
 *Narcissu *is a wonderful and captivating experience that is unlike any visual novel out there. It’s written well, it’s presentation is unlike anything else, and it’s just a great ride. Really, what are you doing still reading this review? This is a visual novel that I would recommend to anyone and considering that it’s free on steam thanks to Sekai Project, you should be downloading it now.
 
-## []()Overall - 9/10, Polarization +1, -2
+## Overall - 9/10, Polarization +1, -2
 
 ![](./gnb8bvcdmz7xupdui4p5.png) ![](./1248076395771516517.png)
 

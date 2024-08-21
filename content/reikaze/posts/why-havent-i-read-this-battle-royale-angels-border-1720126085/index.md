@@ -11,7 +11,7 @@
 
 I am a big *Battle Royale* fan, to the point that the book is my favorite book, and the movie is my favorite live action movie, so imagine my surprise when I saw a manga spin off that I never heard of called *Angel’s Border*, written by the original author, Koushin Takami, The BR fix I didn’t know I wanted.
 
-## []()**What is it?**
+## **What is it?**
 
 ![](./1355811463380707685.png)
 
@@ -19,7 +19,7 @@ It’s *Battle Royale*! (Well, a spinoff of it...) Like the original, it tells t
 
 ***
 
-### []()**What’s Awesome**
+### **What’s Awesome**
 
 ![](./1355811463494499173.png)
 
@@ -29,7 +29,7 @@ It’s just really solid in general, as it’s own story. The characters were de
 
 ***
 
-### []()**What’s not Awesome**
+### **What’s not Awesome**
 
 ![](./1355811463775776613.jpg)
 
