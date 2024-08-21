@@ -41,7 +41,7 @@ I've always found it weird that the soundtracks of the anime adaptations are usu
 
 I really don't have much to say that hasn't already been said before in [Richard's review](http://kotaku.com/the-steins-gate-movie-is-an-emotional-ride-through-time-477595024/all) of the movie. It's an inferior version of Disappearance of Haruhi Suzumiya, and was kinda a disappointment to me, but by no means is it bad. It's still a pretty good movie. It takes place a year after the OVA episode, and Okabe Rintarou feels the side effects of going through all the different world lines, as his memories are unstable and he keeps on leaving the timeline. Kurisu, with the help of Amane Suzuha help change the past and get Okabe back. I felt that the movie had a bit more plot holes and pacing wasn't as good, but it was still a nice part of the Steins;Gate universe. This time, more than ever it's entirely focused on characters. If you didn't like Kurisu or Okabe, You probably will like this movie even less than I do. But, if you're reading this, that shouldn't really be a problem. It was a nice epilogue, but I felt the OVA gave Steins;Gate enough closure, and if they really wanted to use this movie to add to the show, it really could have used more time. If it had the pacing that Disappearance of Haruhi Suzumiya had, than it would be way better.
 
-[[](./yviukzekv3qzhr9ngcoh.mp4)](http://kotaku.com/the-steins-gate-movie-is-an-emotional-ride-through-time-477595024/all)
+
 
 
 

@@ -39,15 +39,15 @@ It’s executed like a lighter version of Uchikoshi’s works: it’s not super 
 
 If you only had a phrase to describe the visuals, the title of *Punch Line* is s surprisingly accurate way of describing how this show looks. Animated by Studio MAPPA (of [*Terror of Resonance*](https://anitay.kinja.com/terror-in-resonance-the-ani-tay-review-1640199423),* *[*GARO*](https://anitay.kinja.com/garo-the-animation-the-ani-tay-review-1695909572), and [*Rage of Bahamut *](https://anitay.kinja.com/rage-of-bahamut-genesis-the-ani-tay-review-1676327262)fame) with the character designs from Shouta Iwasaki (of [*Kill La Kill*](https://tay.kinja.com/kill-la-kill-the-ani-tay-review-1554090665) fame), this show looks pretty fantastic with a bright, punchy and engaging aesthetic design, combined with the fluid animation you would expect from MAPPA. The way that everything is rendered, the way that everything looks is pretty entertaining and the show is full of life, with great facial expressions and other aspects that add tons of character to the show. It’s a very fun to watch show, and the visuals are a big part of that.
 
-[[](./njbj3pvrxfx8pxoamfns.mp4)](https://anitay.kinja.com/terror-in-resonance-the-ani-tay-review-1640199423)
 
 
 
-[[](./uohdbgi4rxsjt3uasad3.mp4)](https://anitay.kinja.com/garo-the-animation-the-ani-tay-review-1695909572)
 
 
 
-[[](./flcr80vaunb6soyhigsy.mp4)](https://anitay.kinja.com/rage-of-bahamut-genesis-the-ani-tay-review-1676327262)
+
+
+
 
 
 

@@ -109,7 +109,7 @@ I didn’t watch too many movies on this tablet because I try to avoid black bez
 
 As for gaming, you have a wide selection of games to choose from, because you have both the android library of games and the windows library of games. Don’t expect to run demanding games on this: High resolution + Atom does not equal a great PC gaming experience. I’ve been playing a ton of lighter games on this though because it’s a portable windows machine and playing PC games on the go is all kinds of fun. If you follow what I normally write, you would probably know that I’m a big[ Visual Novel](https://rockmandash12.kinja.com/the-beginners-guide-to-visual-novels-1541975662) fan, and the primary reason I got this tablet was because of [Visual Novels on the go](http://rockmandash12.kinja.com/rockmandashs-guide-to-visual-novels-on-the-go-1686233801). Really, if this was all this review was about, I could rave on and on as this is absolutely amazing for that purpose, the best VN experience I’ve ever had, it’s sooo good and if you want a tablet for VNs, this is a no brainer at the price point it’s at. The 4:3 screen ratio is awesome here because almost all VNs are 4:3, and the screen makes them look really nice, especially on modern VNs which can render text at a higher resolution.
 
-[[](dt2sgbswno93qzsckozl.mp4)](https://rockmandash12.kinja.com/the-beginners-guide-to-visual-novels-1541975662)
+
 
 
 

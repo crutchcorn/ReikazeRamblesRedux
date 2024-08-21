@@ -31,7 +31,7 @@ The story centers on Mirai, a middle school freshman girl who goes to Tokyo's ar
 
 **Why I watched it: **There are a few reasons why I pick up a show, and this is one of the most typical reasons: I see a review that peaks my interest, and I go watch it because of said review. In this case, Dex's hype and [review ](https://anitay.kinja.com/tokyo-magnitude-8-0-the-ani-tay-review-1677232000)convinced me that I needed to watch it immediately, thus I did. The premise also peaked my interest immensely, so I watched it the day after I read Dex's review.
 
-[[](./qtdxprmrvo7mvgsrvixv.mp4)](https://anitay.kinja.com/tokyo-magnitude-8-0-the-ani-tay-review-1677232000)
+
 
 
 
@@ -105,7 +105,7 @@ Overall, Black Lagoon is pretty great. It's the best type of action show that yo
 
 **Why I watched it: **To be blunt, I wanted more[ ](https://anitay.kinja.com/death-parade-has-the-potential-to-become-great-1680091988)[*Death *](https://anitay.kinja.com/death-parade-has-the-potential-to-become-great-1680091988)[*Parade*](http://anitay.kinja.com/by-fruity-drinks-and-nomadic-dec-in-the-midst-of-an-unc-1679848416)* *(A currently airing anime that is based off of this OVA), and I was too impatient to wait a week. I was also curious about what it was like considering what I saw from *Death Parade*.
 
-[[](./ntwbr7jeonvvkylvba4e.mp4)](https://anitay.kinja.com/death-parade-has-the-potential-to-become-great-1680091988)
+
 
 
 

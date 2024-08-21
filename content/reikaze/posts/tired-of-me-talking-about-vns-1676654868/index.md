@@ -12,5 +12,5 @@ Well, too bad! I'll keep on talking about them.. and this time, actually talking
 
 That being said, It's full of spoilers (like, what podcast isn't though?), and it may help lessen the blow that there will be no December[ AniTAY Podcast Episode](http://anitay.kinja.com/ani-tay-podcast-episode-9-spoil-all-the-things-1668096686). I had fun with this one, and I hope you guys (if interested) give it a shot! I may be in more of these FuwaFM podcasts in the future.
 
-[[](./1306104797334163626.mp4)](https://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485)
+
 

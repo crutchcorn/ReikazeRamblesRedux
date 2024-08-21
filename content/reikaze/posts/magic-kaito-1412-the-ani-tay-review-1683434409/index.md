@@ -35,7 +35,7 @@ Who knew that *Detective Conan* without constant death in the series would be so
 
 A-1 Pictures did a good job with* Magic Kaito*: everything is solid, it's a fun watch, and there's nothing that you can truly count as a flaw for this show. The art is good, the pacing is good, the use of tone is good, the mystery is good, etc. Pretty much every aspect of this show is good, and at worse passable, and for what's essentially a side project of the season given they were working on* *[*Saekano*](https://anitay.kinja.com/saekano-how-to-raise-a-boring-girlfriend-the-ani-tay-1693443663)*, *[*Your Lie in April*](http://anitay.kinja.com/your-lie-in-april-the-ani-tay-review-1691904314)* *and* Seven Deadly Sins* as well this season, it's quite good, and very well rounded.
 
-[[](./1269606197877212519.mp4)](https://anitay.kinja.com/saekano-how-to-raise-a-boring-girlfriend-the-ani-tay-1693443663)
+
 
 
 

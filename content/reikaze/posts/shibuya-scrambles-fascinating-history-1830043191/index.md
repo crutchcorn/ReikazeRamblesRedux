@@ -21,7 +21,7 @@ Chunsoft<!-- --> continued to buck the trend even further in 1998 when they rele
 \
 Thanks for joining me on this little tour through the Spike Chunsoft history that <!-- -->lead<!-- --> to 428! If you want thoughts on said VN, check out my review here, and let me know your thoughts on 428 and this history article in the comments. Thank you very much. :)
 
-[[](./sw4kl2vyawrcfklj973c.mp4)](https://rockmandash12.kinja.com/rockmandash-reviews-428-shibuya-scramble-1830053550)
+
 
 
 

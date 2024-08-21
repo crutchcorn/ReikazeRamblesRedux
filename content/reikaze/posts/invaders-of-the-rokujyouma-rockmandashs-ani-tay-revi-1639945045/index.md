@@ -49,7 +49,7 @@ When they stopped doing that I was disappointed. They switched into a more tradi
 
 I need to stop expecting every harem show to be another [Date a Live 2](https://anitay.kinja.com/dexs-review-date-a-live-2-1590778711), or [Nisekoi](http://tay.kotaku.com/nisekoi-is-a-harem-romantic-comedy-anime-that-centers-a-1582395958) when I watch a harem comedy. Those shows were comedy first, harem second, and when they do harem, they do it in a funny way. Those were consistently entertaining... but we get shows like this and [Flag](http://anitay.kinja.com/kanojo-ga-flag-wo-oraretara-rockmandashs-ani-tay-revie-1595020190) that try to be a comedy at the beginning, but by the end, would rather prefer to do a character drama, and fail.
 
-[[](./wqsxi8ky3bfgux64zxpv.mp4)](https://anitay.kinja.com/dexs-review-date-a-live-2-1590778711)
+
 
 
 

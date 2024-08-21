@@ -113,7 +113,7 @@ I speak a lot about how I put experience above all else when it comes to a story
 
 **Justification & Thoughts:** And here’s that very crown jewel I mentioned earlier! There’s a lot here that is worse than in the *Zero Escape *series, and in comparison* Ever 17 *feels like a prototype but this is a far more memorable work because what it does well, it does exceedingly well. The soundtrack of this game, the mystery that this game handles, the out of this world atmosphere, the characters that actually are memorable and interesting in comparison to the characters in ZE which are interesting in general but do not really stick out, and the extremely well done endings/final route that will make you feelz or absolutely blow your mind really make this game something I love. This game is one that blew my mind so much that I decided to even do this blog/review thing in the first place, and it’s one that shaped my viewpoints on how a VN (particularly the atmosphere) should be done. I love *Ever 17*, and I hope you do too. If you want to see more of my thoughts on this game, check out the [FuwaFM podcast ](https://www.youtube.com/watch?v=w8q8bOlXRDU)I was in, or [my review](https://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485) of this game.
 
-[[](./1306104797334163626.mp4)](https://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485)
+
 
 
 

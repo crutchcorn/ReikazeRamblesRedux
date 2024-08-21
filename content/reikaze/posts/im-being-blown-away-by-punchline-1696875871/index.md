@@ -23,15 +23,15 @@ I’ve been hyping up* Punchline!* for a while, ever since I learned that my fav
 
 Mind = Blown, right? I came in expecting a stupid, WTF show that has just a ridiculous amount of fanservice, and I got that... but what I didn’t expect was how just well executed it was, and how they would manage to infuse humor extremely well into such a premise. In hindsight, I probably should have put more faith into MAPPA and Uchikoshi as they’ve[ done](https://anitay.kinja.com/garo-the-animation-the-ani-tay-review-1695909572) [great](https://anitay.kinja.com/rage-of-bahamut-genesis-the-ani-tay-review-1676327262) [stuff](https://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485), but with a premise like that, I had to be a little bit skeptical.
 
-[[](./uohdbgi4rxsjt3uasad3.mp4)](https://anitay.kinja.com/garo-the-animation-the-ani-tay-review-1695909572)
 
 
 
-[[](./flcr80vaunb6soyhigsy.mp4)](https://anitay.kinja.com/rage-of-bahamut-genesis-the-ani-tay-review-1676327262)
 
 
 
-[[](./1306104797334163626.mp4)](https://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485)
+
+
+
 
 
 

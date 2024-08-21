@@ -9,7 +9,7 @@
 
 To those who came and found this from google or something, Please check out my [re-done review](https://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485) of Ever 17 as it's much better written and executed in general. This review is here for archival purposes, but it does not completely represent my thoughts on the game, or the quality of writing of reviews I make now. This message was written on 11/13/14, and I originally wrote this review on 2/1/13 ([for my video and forums I used to go to](http://petesgameroomforum.com/topic/5061836/1/).)
 
-[[](./1306104797334163626.mp4)](https://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485)
+
 
 
 

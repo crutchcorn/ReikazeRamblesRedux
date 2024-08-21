@@ -9,7 +9,7 @@
 
 To those who came and found this from google or something, Please check out my [re-done review](https://rockmandash12.kinja.com/rockmandash-reviews-remember-11-the-age-of-infinity-1687285802) of Remember 11 as it's much better written and executed in general. This review is here for archival purposes, but it does not completely represent my thoughts on the game.
 
-[[](./1341173074178868772.mp4)](https://rockmandash12.kinja.com/rockmandash-reviews-remember-11-the-age-of-infinity-1687285802)
+
 
 
 

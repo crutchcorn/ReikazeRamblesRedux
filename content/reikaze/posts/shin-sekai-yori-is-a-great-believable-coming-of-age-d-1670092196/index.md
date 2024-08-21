@@ -45,7 +45,7 @@ About that atmosphere? Just amazing. It's what gets you hooked into the story, t
 
 I managed to get this far without mentioning the ending? Better get onto that: it was a nice change of pace, wrapping up everything it needed to, explaining stuff and actually having some falling action ([something that ](https://anitay.kinja.com/tokyo-ghoul-the-ani-tay-review-1636678069)[quite a few](http://anitay.kinja.com/akame-ga-kill-the-ani-tay-review-1671140613) [shows nowadays can't](http://anitay.kinja.com/aldnoah-zero-the-ani-tay-review-1637330529) [figure out](http://anitay.kinja.com/chaika-the-coffin-princess-avenging-battle-the-ani-1669678729) [is a ](http://anitay.kinja.com/terror-in-resonance-the-ani-tay-review-1640199423)[good thing](http://anitay.kinja.com/tokyo-esp-the-ani-tay-review-1641119141)) while being very satisfying. It ends in a way that shows really should end, and I appreciated it.
 
-[[](./or9sskeryrsked2hr3vf.mp4)](https://anitay.kinja.com/tokyo-ghoul-the-ani-tay-review-1636678069)
+
 
 
 
