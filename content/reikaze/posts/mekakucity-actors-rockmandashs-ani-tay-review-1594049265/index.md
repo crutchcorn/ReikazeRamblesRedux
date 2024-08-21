@@ -73,9 +73,4 @@ This show is bad. Stay far, far away. It had an interesting idea with a great ca
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*. For An explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-
-
-
-
-*This show is available on *[*Crunchyroll*](http://www.crunchyroll.com/mekakucity-actors)* for Free & Legal streaming.*\
-**
+*This show is available on *[*Crunchyroll*](http://www.crunchyroll.com/mekakucity-actors)* for Free & Legal streaming.*
