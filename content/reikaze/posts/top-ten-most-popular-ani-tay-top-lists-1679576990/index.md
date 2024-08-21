@@ -15,13 +15,9 @@ As we were working on our 15 Most Popular Anime of 2014, We started to think met
 
 While not the most popular lists, these are here because I liked them thus they are here. Also,[ here are](https://anitay.kinja.com/protonstorms-music-awards-for-summer-2014-anime-1637517602) [a bunch ](http://anitay.kinja.com/top-10-non-japanese-anime-opening-and-endings-1627821161)[I lik](http://anitay.kinja.com/mainprotagonists-10-favorite-anime-openings-ever-of-al-1617296281)[ed ](http://anitay.kinja.com/mainprotagonists-10-favorite-anime-openings-ever-of-al-1617296281)[that I'm ](http://anitay.kinja.com/my-best-list-of-best-girls-of-2014-1678411311)[not dedicating](http://anitay.kinja.com/fataliss-thoughts-on-anime-in-2014-also-my-top-5-list-1678425199) [a whole](http://anitay.kinja.com/the-15-most-popular-anime-of-2014-1679402237) [section to ](http://anitay.kinja.com/kodas-anime-favorites-of-2014-1676935298)[though](http://anitay.kinja.com/kodas-top-10-2014-anime-openings-1665580488).
 
-[![](./qypsxztidgpagcg882sc.png)](https://anitay.kinja.com/protonstorms-music-awards-for-summer-2014-anime-1637517602)
 
-###### [Protonstorm's Music Awards for Summer 2014 Anime](https://anitay.kinja.com/protonstorms-music-awards-for-summer-2014-anime-1637517602)
 
-As many of you may be aware, there are a variety of wonderful songs that appear in anime, both…
 
-[Read more](https://anitay.kinja.com/protonstorms-music-awards-for-summer-2014-anime-1637517602)
 
 #### Fruity's Miscellaneous Anime Awards of 2014!! (huzarr!)
 

@@ -13,23 +13,15 @@ It's that time of the year again! The time where I tell you about my review sche
 
 Before I discuss that though, I want to discuss my current plans for my writing. As for the [Type-Moon review marathon](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534), It's pretty much done, thanks to stuff like [Fate/hollow ataraxia](http://rockmandash12.kinja.com/rockmandash-reviews-fate-hollow-ataraxia-visual-novel-1612260148) coming out so I can review. There's a lot of smaller Type-Moon stuff I haven't got to yet, but everything I want to get, I already tackled, or it's not out yet. The way I'm going to tackle the FSN anime later this year will be one review at the end, with a Rockmandash Rambles inserted at the end of the seasons, and a first impressions.
 
-[![](./1476080727821779888.jpg)](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-###### [Rockmandash Reviews: *Type-Moon Marathon*](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-In preparation for the Fate/stay night: Unlimited Blade Works Adaptation by Ufotable, I decided to…
 
-[Read more](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
 As for the [Key marathon](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641), It's still going strong. We are only half-way with it, after all. The thing is, I can't keep up the pace... I've gone kinda writing crazy over the summer, and this key marathon is a daunting task. I've been keeping up a once every 2 week schedule, but that's with a lot of prep work and already having opinions because I already experienced the VNs. The rest of the stuff is stuff that I've already seen the anime but haven't seen the VN (probably the worst because then I don't really have the motivation to go through), or I haven't experienced any of it. It's really hard to go through a VN if you've already seen the anime, and I just recently started school, so my time to get through them is lessened. After my clannad review, my Key reviews will be more of a monthly affair.
 
-[![](./1449901844658159786.jpg)](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)
 
-###### [Rockmandash Reviews: *Key Marathon*](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)
 
-Like I said a few months ago, I’m starting up a Key Review Marathon: Reviewing all the main Key…
 
-[Read more](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)
 
 I'm burned out of VN's. I'm going to try to make up for that with the Ani-Debates and other stuff, but you know, other commitments and stuff. You have to be in the right mood to play through them, and I'm not in that mood at the moment. Yes, I'm kinda the VN guy here, but the reason why I do VN reviews is not because I only like VN's and anime, but because
 

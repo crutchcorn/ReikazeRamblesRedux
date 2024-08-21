@@ -13,13 +13,9 @@ I believe that there is an inherent flaw in the way we typically talk about musi
 
 Also, I'm just going to throw a disclaimer so this doesn't become an issue in the future: I spend most of my time watching [Anime](http://anitay.kinja.com/) and playing[ Visual Novels](http://tay.kotaku.com/the-beginners-guide-to-visual-novels-1541975662). Most of my examples will be from those medias, but I'll try to throw in more familiar music ~~and will probably fail~~. Also, everything in this article is my opinion, so feel free to disagree. I'm not trying to discuss facts, I'm trying to encourage discussion.
 
-[![](./q5ycshrmzzlhsbww3rec.png)](http://anitay.kinja.com/)
 
-###### [AniTAY | Everything Anime and Beyond](http://anitay.kinja.com/)
 
-Everything Anime and Beyond
 
-[Read more](http://anitay.kinja.com/)
 
 ### Getting Absorbed into the World - Creating an Atmosphere
 
@@ -39,11 +35,7 @@ It'll be nearly impossible to show you in this text article about what a well-ex
 
 [[](./18slrg0rc6h9ogif.mp4) ](https://kotaku.com/attack-on-titan-is-good-so-far-but-doesnt-live-up-to-643242311)
 
-###### [*Attack on Titan* is Good So Far, But Doesn't Live Up to Its Potential](https://kotaku.com/attack-on-titan-is-good-so-far-but-doesnt-live-up-to-643242311)
 
-Thanks to an amazing title sequence and an imagination-capturing low fantasy world, Attack on Titan
-
-[Read more](https://kotaku.com/attack-on-titan-is-good-so-far-but-doesnt-live-up-to-643242311)
 
 ### Controlling How You Feel - Dictating Mood
 
@@ -53,13 +45,9 @@ Most important music in games and film are made to do this. Music is a powerful 
 
 To me, the ideal soundtrack is one that takes that feeling of existence I mentioned earlier and connects you with the characters, and makes you feel what they feel. When you start to think like the protagonist, and feel like your actions would be exactly the same as the protagonist, the soundtrack is doing it's job in creating an amazing atmosphere and getting you to feel. When this combination appears, there is nothing more emotional and impactful that I can think of; you feel the consequences, you feel in the mood, and the music influences you to no end. If you've been on Ani-TAY for an extended period of time, You've probably heard this before, but[*Muv-Luv*](https://rockmandash12.kinja.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967) does this extremely well. It was the [collimation of everything](http://tay.kotaku.com/rockmandash-rambles-why-i-loved-muv-luv-but-you-might-1566859006) I've been talking about in the article: Amazing atmosphere due to the music, excellent execution that [enhances the purpose of the plot](https://dexomega.kinja.com/why-muv-luv-was-a-defining-entry-in-modern-science-fict-1656724699) and making you feel. They utilize the music to make you despair, and after experiencing this moment, you probably will be bauling up just like the main character Takeru did. It's a great example of music in a media done right.
 
-[![](./dawudqmpimngnkpxt2zq.png)](https://rockmandash12.kinja.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967)
 
-###### [Rockmandash Reviews: *Muv-Luv & Alternative* \[Visual Novel\]](https://rockmandash12.kinja.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967)
 
-Welcome to Rockmandash Reviews, and this is my review of the highly regarded Muv-Luv Visual Novels
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967)
 
 ### Conclusion
 

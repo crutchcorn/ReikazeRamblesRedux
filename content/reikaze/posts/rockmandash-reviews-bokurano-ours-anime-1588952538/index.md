@@ -13,25 +13,17 @@ This review exists for 2 reasons: 1. I needed something to fill the void that Mu
 
 Ahhh, deconstructions. You gotta love those shows that take a tried and true method of doing a show, then subverting the tropes and making something relatively light and happy genre into a dark and depressing show. This is a deconstruction of the mecha genre, similar to how [Neon Genesis Evangelion](https://tay.kinja.com/dexs-review-neon-genesis-evangelion-1490753096) was, but without what makes NGE eva. The basic gist of Bokurano is this: A group of middle school students in find a cave with a bunch of electrical equipment. They meet the owner of the equipment called Kokopelli, who asks them if they want to play a game to defend the earth against aliens. They sign a [contract](http://tvtropes.org/pmwiki/pmwiki.php/Main/MagicallyBindingContract) to play the "game", but this "game" turned out to be actually piloting a giant mecha where they fight against other mechas and if they fail, the earth is destroyed. they cannot quit, because if they do, the world will end, and after they pilot the mechs, they will die.
 
-[![](./19b1kysmz9wnyjpg.jpg)](https://tay.kinja.com/dexs-review-neon-genesis-evangelion-1490753096)
 
-###### [Dex's Review: Neon Genesis Evangelion](https://tay.kinja.com/dexs-review-neon-genesis-evangelion-1490753096)
 
-Today I'm going to take on one of the most polarizing shows of the 1990's: Neon Genesis Evangelion.
 
-[Read more](https://tay.kinja.com/dexs-review-neon-genesis-evangelion-1490753096)
 
 ![](./gzak70gshd8ie3lznw3e.png)
 
 What makes Bokurano special is that instead of mindscrews like NGE, they create a hopeless atmosphere which looms over the show and with some very dark writing. The show spends it's time smacking you down with a hammer with very bleak and depressing writing. They constantly beat you down and the show even manages to make death feel absolutely insignificant, blowing off the deaths of the children as they die one by one. You could consider this to be the predecessor to [Modoka Magica](http://tvtropes.org/pmwiki/pmwiki.php/Anime/PuellaMagiMadokaMagica?from=Main.PuellaMagiMadokaMagica) (which actually references bokurano, bokurano chairs make an appearance.), with a similar concept and writing style, but different genres and approach to shocking the audience. Fun with deconstructions, amirite?
 
-[![](./uf6itbqa7fqsj701om02.png)](http://tvtropes.org/pmwiki/pmwiki.php/Anime/PuellaMagiMadokaMagica?from=Main.PuellaMagiMadokaMagica)
 
-###### [Puella Magi Madoka Magica](http://tvtropes.org/pmwiki/pmwiki.php/Anime/PuellaMagiMadokaMagica?from=Main.PuellaMagiMadokaMagica)
 
-Madoka Kaname is an Ordinary Middle School Student with a loving family and a close circle of…
 
-[Read more](http://tvtropes.org/pmwiki/pmwiki.php/Anime/PuellaMagiMadokaMagica?from=Main.PuellaMagiMadokaMagica)
 
 ![](./jrdp7yanoivpbpizrm2z.jpg)
 
@@ -71,10 +63,6 @@ Bokurano is a good show. A pretty solid one, with great writing and no major fla
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*. For An explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-[![](./1520891687004619076.png)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-###### [Rockmandash Rambles: *An Explanation on my Review System* (Updated 11/15/2015)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-If you’ve read any of my reviews and wanted to know why I did them the way I do, here’s an…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)

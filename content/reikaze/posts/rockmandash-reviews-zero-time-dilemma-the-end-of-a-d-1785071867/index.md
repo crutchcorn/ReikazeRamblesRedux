@@ -113,10 +113,6 @@ Too bad the voice acting screws over a lot of the music, at least for the Englis
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)* and the rest of my *[*Infinity & Zero Escape *](http://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798?rev=1435279519903#_ga=1.28426556.1243070986.1463716221)[*Marathon here*](http://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798?rev=1435279519903)*. For An explanation of my review system, *[*check this out*](http://tay.kotaku.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-[![](./qxs5nisjzh1ndbpikw1p.jpg)](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)
 
-###### [Rockmandash Reviews: *Infinity & Zero Escape Marathon \[DONE!\]*](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)
 
-I’m pretty well known around here for being a Fate/fanboy, but if there’s one thing that I love…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)

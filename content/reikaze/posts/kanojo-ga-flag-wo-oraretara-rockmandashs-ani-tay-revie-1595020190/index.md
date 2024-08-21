@@ -61,9 +61,9 @@ To make it even worse, because they try to throw in a darker plot, they start **
 
 #### Ending
 
-****SPOILERS HERE, SO READ THIS WITH CAUTION. SKIP THIS IF YOU HAVEN'T SEEN THE ENDING****
-
-To add to the bad writing, is a horrible ending. The ending to this show, is absolutely horrible. Everything up to episode 11, was a virtual world.... not real. **THEY MADE THE WHOLE SHOW ABSOLUTELY POINTLESS. FAKE. NOT REAL.** Souta leaves this virtual world to fight against a foe, and with the power of [Deus Ex Machina](http://tvtropes.org/pmwiki/pmwiki.php/Main/DeusExMachina), the rest of the Quest dorm saves him and they reset the real world back to normal. This is bad and lazy writing, but at least it concludes the series. While it's a happy ending, it's an ending that doesn't belong. This show is about [LAMPSHADING](http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging) tropes, and they use one of the worst tropes in the book. Do they not know the target audience for this show? This ending can be best described as an excuse, and it was bad.
+**\*SPOILERS HERE, SO READ THIS WITH CAUTION. SKIP THIS IF YOU HAVEN'T SEEN THE ENDING\***\
+****\
+****To add to the bad writing, is a horrible ending. The ending to this show, is absolutely horrible. Everything up to episode 11, was a virtual world.... not real. **THEY MADE THE WHOLE SHOW ABSOLUTELY POINTLESS. FAKE. NOT REAL. **Souta leaves this virtual world to fight against a foe, and with the power of [Deus Ex Machina](http://tvtropes.org/pmwiki/pmwiki.php/Main/DeusExMachina), the rest of the Quest dorm saves him and they reset the real world back to normal. This is bad and lazy writing, but at least it concludes the series. While it's a happy ending, it's an ending that doesn't belong. This show is about [LAMPSHADING](http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging) tropes, and they use one of the worst tropes in the book. Do they not know the target audience for this show? This ending can be best described as an excuse, and it was bad.
 
 ![](./i8yftfxv9tmjlrjks28p.png)
 
@@ -79,4 +79,8 @@ When I started to watch Flag, I came in expecting a show about... well, Flags. F
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*. For An explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-[![](1520891687004619076.png)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
+
+
+
+
+*This show is available on *[*Crunchyroll*](http://www.crunchyroll.com/kanojo-ga-flag-wo-oraretara-if-her-flag-breaks)* for Free & Legal streaming.*

@@ -75,12 +75,8 @@ Taro gets a lot of hate. Yes, he may be the amalgamation of every annoyance the 
 
 *Rockmandash is a frequent writer of Visual Novels and anime on *[*his blog*](http://rockmandash12.kinja.com/)* and **AniTAY **as well. Come and check them out if you are interested in reviews and opinion pieces on these topics! For an explanation of my review system, *[*check this out*](http://tay.kotaku.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*, and here's *[*my biases in reviewing*](http://rockmandash12.kinja.com/rockmandash-rambles-my-personal-biases-in-reviewing-1688152053)*.*
 
-[![](./g4w5timhzxkuwfh9wuua.png)](http://rockmandash12.kinja.com/)
 
-###### [RockmanDash Reviews](http://rockmandash12.kinja.com/)
 
-rockmandash12
 
-[Read more](http://rockmandash12.kinja.com/)
 
 *Thanks to Toshi Nakamura of Kotaku for letting me use his comment that was on *[*Richard's review of Shirobako*](http://kotaku.com/shirobako-is-an-anime-about-making-anime-1680383301)*, and thanks to Protonstorm for helping with these reviews like always. ^.^*

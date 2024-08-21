@@ -45,13 +45,9 @@ Each section will have the main points that apply to them, just like the TAY rev
 
 It should be followed up with the appropriate conclusion section the review card here. I wrote a separate article about the [Review Card Etiquette](https://anitay.kinja.com/anitay-psa-review-card-etiquette-1692782948), so please check that out if you are unsure about anything about this.
 
-[![](./vhlonadfcrivcypjqirk.png)](https://anitay.kinja.com/anitay-psa-review-card-etiquette-1692782948)
 
-###### [​AniTAY PSA: Review Card Etiquette](https://anitay.kinja.com/anitay-psa-review-card-etiquette-1692782948)
 
-As of late, I've noticed that some have been making some mistakes with the Review Card (or at least
 
-[Read more](https://anitay.kinja.com/anitay-psa-review-card-etiquette-1692782948)
 
 Your article should be tagged with “AniTAY”, “The Ani-TAY Review”(“The AniTAY Review” works as well, it’ll redirect you to the same tag), and the name of the anime (if there are multiple names, use your own discretion) to promote cohesiveness among AniTAY. A lot of people also use “AniTAY Review” without “The” (i’m guilty of this), so keep in mind that it’s supposed to be “The AniTAY review”, and try to change it if you noticed you did so.\
 \

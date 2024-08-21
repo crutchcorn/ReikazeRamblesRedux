@@ -17,11 +17,9 @@ Gaming on PC can be expensive, as the upfront cost is rather high and upgrades c
 
 Before you check this out, if you’re new to the PC gaming hardware world, check out my guide to PC gaming hardware.
 
-[![](./bex3qvengvxqz9vxersf.png)](http://tay.kinja.com/preview/the-tay-beginners-guide-to-gaming-pc-hardware-1772360200?rev=1461369317772)
 
-###### [Kinja](http://tay.kinja.com/preview/the-tay-beginners-guide-to-gaming-pc-hardware-1772360200?rev=1461369317772)
 
-[Read more](http://tay.kinja.com/preview/the-tay-beginners-guide-to-gaming-pc-hardware-1772360200?rev=1461369317772)
+
 
 ***
 

@@ -12,13 +12,9 @@
 
 A while ago, we wanted to do something on AniTAY called [AniDebate](https://anitay.kinja.com/lets-ani-debate-ani-debate-annoucement-topic-1621418976), but we never it rolling because of timing issues. I'm changing the structure of it a bit, and reshaping this so hopefully we can get this up and rolling.
 
-[![](./gx9fpqb5nfyll1tet2xe.png)](https://anitay.kinja.com/lets-ani-debate-ani-debate-annoucement-topic-1621418976)
 
-###### [Let's Ani-Debate! Ani-Debate Annoucement Topic](https://anitay.kinja.com/lets-ani-debate-ani-debate-annoucement-topic-1621418976)
 
-Here on Ani-TAY, we have very opinionated and passionate people. These people like to write and…
 
-[Read more](https://anitay.kinja.com/lets-ani-debate-ani-debate-annoucement-topic-1621418976)
 
 **1)** I got rid of the moderator bit because I'll try to get this running myself so others don't have to do it, and for the ones that we have someone else, just leave it in the comments.
 

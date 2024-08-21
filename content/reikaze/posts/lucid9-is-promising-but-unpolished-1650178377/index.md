@@ -11,13 +11,9 @@
 
 While there are tons of indie games being made out there, it's not that often that you'll find one being made by the Western Visual Novel community. These tend to vary in quality, from the [well regarded *Katawa Shoujo*](https://tay.kinja.com/katawa-shoujo-review-510682746), to not so great games like [*Always The Same Blue Sky*](http://tay.kotaku.com/rockmandash-reviews-always-the-same-blue-sky-visual-n-1568079967). When the head of this project asked me to give the demo a shot, I said, why not? From what I can tell from the [demo](http://lucid9.weebly.com/), *Lucid9* holds potential and is much closer to Katawa Shoujo in that axis, but it's rough around the edges.
 
-[![](./z8knelj626wotggywrjf.jpg)](https://tay.kinja.com/katawa-shoujo-review-510682746)
 
-###### [Katawa Shoujo Review](https://tay.kinja.com/katawa-shoujo-review-510682746)
 
-Katawa Shoujo is a free Visual Novel by Four Leaf Studios released last January 4, 2012. It drops…
 
-[Read more](https://tay.kinja.com/katawa-shoujo-review-510682746)
 
 Before we get started, I'm going to give some background information: *Lucid9* is developed by Fallen Snow Studios, a group of people from the Fuwanovel community who wanted to make a visual novel. Fuwanovel is one of the biggest Visual Novel communities out there, and there was recently a [fuwacast](http://www.mixcloud.com/OriginalRen/welcome-to-the-fuwacast-episode-14/) (the Fuwanovel Podcast) by with the creators of the game and if you are interested, you should give a listen**. Keep in mind that this is my thoughts of an alpha demo, so lots of things don't really work (like saving, skipping or pausing) and it may not actually be this way when it comes out.**
 
@@ -35,13 +31,9 @@ Before we get started, I'm going to give some background information: *Lucid9* i
 
 Unfortunately, the demo is pretty short, so we can't really see both sides of the game: all the demo contains at the moment is the slice of life. The writing itself is entertaining ( it gives me a [*Rewrite*](https://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1609445042) vibe) and it got me interested in the story, but I have a big gripe with it: the intro doesn't give much of an idea where the story is going and what it's about. They throw you into a Slice of life world without a good introduction.
 
-[![](./1395906708261334600.png)](https://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1609445042)
 
-###### [Rockmandash Reviews+: *Rewrite* \[Visual Novel\]](https://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1609445042)
 
-As I was starting this review marathon, I saw that first Rewrite review could use some…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1609445042)
 
 I jumped into the story without reading it's plot summary (like a normal person would), and when I finished the demo, I didn't really know what any of it was about, and had to read the plot summary to figure out the premise. I didn't know the characters (especially the protagonist), I didn't know anything about the setting, and I didn't know what made this game special (and I played the demo more than once for this write-up). It really begs the question: Why should I care about them if I don't know who they are or anything about them other than their personality and a few aspects of their past? The demo really needs to be longer to encompass all of this in my opinion. It also doesn't present anything that would help it stand from the crowd, or make you remember it. Yes, it's a mystery visual novel but that doesn't necessarily mean it's good... it still needs to have it's own identity and it doesn't show any of that in the demo. It's not memorable at all, and that makes me worry about it.
 

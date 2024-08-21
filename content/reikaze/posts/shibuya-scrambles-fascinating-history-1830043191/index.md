@@ -23,11 +23,7 @@ Thanks for joining me on this little tour through the Spike Chunsoft history tha
 
 [[](./sw4kl2vyawrcfklj973c.mp4)](https://rockmandash12.kinja.com/rockmandash-reviews-428-shibuya-scramble-1830053550)
 
-###### [RockmanDash Reviews:* 428: Shibuya Scramble*](https://rockmandash12.kinja.com/rockmandash-reviews-428-shibuya-scramble-1830053550)
 
-There’s nothing quite like 428 Shibuya Scramble. It’s been a long time since I first learned about…
-
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-428-shibuya-scramble-1830053550)
 
 ***
 

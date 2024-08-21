@@ -11,7 +11,7 @@
 
 [I've been hyping it up all this time](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534), and now that the prologue and episode 1 are out... I figure it's about time for a first impressions. What do I think? It's fantastic.
 
-[![](1476080727821779888.jpg)](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
+
 
 ### Visuals
 
@@ -19,13 +19,13 @@
 
 Let's get this off the bat: Ufotable's done a brilliant job with the visuals. It's one of the best out there, and I dare say that it is the best. The insane attention to detail, the atmosphere, the fluid art, the effects, the beautiful lighting (By far the best lighting in anime imo), the brilliant camera movement... it's really beautiful. Only a few animation studios can really nail it this well. It's really complete; you can take a screenshot of any frame and it'll look beautiful. The Scenery is up there with [Nagi no Asukara](https://rockmandash12.kinja.com/rockmandash-reviews-nagi-no-asukara-anime-1567969970), and the character art is up to par with the best [Kara no Kyoukai films](http://tay.kotaku.com/rockmandash-reviews-kara-no-kyoukai-the-garden-of-si-1524615358). The visuals in this anime, nail the atmosphere in a way the original VN couldn't. The way it handles some of the scenes like Rin's summoning of archer is infinitely better than the VN, and I'm really enjoying it.
 
-[![](1323445382693668965.png)](https://rockmandash12.kinja.com/rockmandash-reviews-nagi-no-asukara-anime-1567969970)
+
 
 [](./xdiaydrxwcjh5dos0peg.mp4)
 
 The fight scenes are so lightning fast that it blows my mind. They have a high standard of quality when it comes to visuals, and the result is stunning shows that that many studios \_cough\_[DEEN](https://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-unlimited-blade-wo-1504755437)\_cough\_ could only dream of, and I can only admire. It's kinda surreal to see ufotable art with Fate/stay night, but I love it.
 
-[![](1291273890055762608.png)](https://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-unlimited-blade-wo-1504755437)
+
 
 ### Soundtrack
 
@@ -69,5 +69,5 @@ What do I think about F/SN so far? It's been amazing, and you guys should defini
 
 ***
 
-[![](1476080727821779888.jpg)](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
+
 

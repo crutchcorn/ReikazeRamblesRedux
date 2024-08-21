@@ -49,13 +49,9 @@ When building expectations, I tend to categorize shows and build my expectations
 
 What I got was a fun action show that screamed Type-Moon, while trying to do some things differently than other shows. Yes, the execution of the plot wasn’t that great, but I still enjoyed the action while it was there. After dealing with nothing but slice of life romances, shounen and meh mechas (not saying that any of those genres are bad, per se), seeing a serious Seinen was refreshing. It’s been so long since I’ve seen a well done Seinen, and to get this, I was happy. I miss this type of show, and I really enjoyed this ride. I enjoyed the raw action: gunshots all over the place, and cool stunts done by the characters. It wasn’t a mindblowing ride like other Type-Moon works; it was a smooth and solid ride with small touches that made it all the more enjoyable. (like Chinese people actually speaking Chinese!) I liked it for what it was, and I really hope[ stuff like this is made in the future](https://anitay.kinja.com/rockmandash-rambles-why-you-should-fund-under-the-dog-1626833454).
 
-[![](./873254600827556273.png)](https://anitay.kinja.com/rockmandash-rambles-why-you-should-fund-under-the-dog-1626833454)
 
-###### [Why You Should Fund *Under The Dog*, and What this Kickstarter Represents](https://anitay.kinja.com/rockmandash-rambles-why-you-should-fund-under-the-dog-1626833454)
 
-When I first saw Under the Dog, I wasn't exactly sure what to think about it. I thought that it…
 
-[Read more](https://anitay.kinja.com/rockmandash-rambles-why-you-should-fund-under-the-dog-1626833454)
 
 #### Enjoyment - 8/10
 
@@ -73,10 +69,6 @@ Canaan represents an age of anime that’s past, but in it’s path to homage, i
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*. For An explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-[![](./1520891687004619076.png)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-###### [Rockmandash Rambles: *An Explanation on my Review System* (Updated 11/15/2015)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-If you’ve read any of my reviews and wanted to know why I did them the way I do, here’s an…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)

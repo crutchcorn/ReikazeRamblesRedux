@@ -9,13 +9,9 @@
 
 [Over the past few months, I've been writing about everything related to Fate/stay night, and everything in the Type Moon universe](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534), in anticipation for *Fate/stay night: Unlimited Blade Works*. While I have a review on [*Fate/stay night*](http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1613176306), it covers my thoughts on how good I think it is, it only has brief description on my thoughts on my experience. I want to expand on my personal thoughts on my experience with it, and why I'm looking forward to the new *Fate/stay night*.
 
-[![](./1476080727821779888.jpg)](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-###### [Rockmandash Reviews: *Type-Moon Marathon*](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-In preparation for the Fate/stay night: Unlimited Blade Works Adaptation by Ufotable, I decided to…
 
-[Read more](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
 ![](./897304880894929218.jpg)
 
@@ -29,13 +25,9 @@ What does it mean to be a hero? What is good, what is bad? Is sacrificing few fo
 
 To me, *Fate/stay night* is more than just a story. It was an experience. It told a story of philosophy and grand ideals, but as it was doing that, it was shaping my own viewpoint on the world around us. Type-Moon has been crafting ideal bending stories extremely well for a decade now, and I can't help but fall in love with them, and hype about them. It told a type of story I never experienced before: a story full of action, but full of development. A story that was thrilling, but painfully slow at the same time. It told a story that was filled with the ideals and motivations of characters, but also the story of some people in the day to day life. This perfect harmony between slice of life and action is something I love. While I wasn't immediately drawn into what *Fate/stay night* was trying to do, but as it sunk in, I enjoyed it more and more and it started to influence my viewpoint of the world. It was my gateway drug into the Nasuverse, and it lead me to many more experiences like [*Kara no Kyoukai*](https://rockmandash12.kinja.com/rockmandash-reviews-kara-no-kyoukai-the-garden-of-si-1524615358), [*Carnival Phantasm*](http://tay.kotaku.com/rockmandash-reviews-carnival-phantasm-ani-tay-1546038401), [*Fate/hollow ataraxia*](http://rockmandash12.kinja.com/rockmandash-reviews-fate-hollow-ataraxia-visual-novel-1612260148), *Fate/extra*, and so on. These games then added to the influence on my thoughts and made me appreciate and enjoy *Fate/stay night* even more (or were just silly and enjoyable :P).
 
-[![](./1313370283695264404.jpg)](https://rockmandash12.kinja.com/rockmandash-reviews-kara-no-kyoukai-the-garden-of-si-1524615358)
 
-###### [Rockmandash Reviews: *Kara no Kyoukai: The Garden of Sinners* \[Anime\]](https://rockmandash12.kinja.com/rockmandash-reviews-kara-no-kyoukai-the-garden-of-si-1524615358)
 
-Welcome to Rockmandash Reviews and today on Ani-Tay is part 5 of my Type-Moon Marathon, we have…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-kara-no-kyoukai-the-garden-of-si-1524615358)
 
 ![](./xbanby19k2xtinhsh3qf.png)
 
@@ -43,23 +35,15 @@ Yes, I adore Fate/stay night, and the Nasuverse... but many people do not share 
 
 [[](./wjw0wg43ct1dm7uvxe9b.mp4) ](https://kotaku.com/fate-zero-sets-a-high-bar-for-all-other-fighting-anime-1638963368)
 
-###### [*Fate/Zero* Sets a High Bar for All Other Fighting Anime](https://kotaku.com/fate-zero-sets-a-high-bar-for-all-other-fighting-anime-1638963368)
 
-Gen Urobuchi has written some of the most psychologically dark anime in recent memory. He is a…
-
-[Read more](https://kotaku.com/fate-zero-sets-a-high-bar-for-all-other-fighting-anime-1638963368)
 
 Which leads us to the New *Fate/stay night*. Of course there's the Ufotable adaptation of the Unlimited Blade Works, but before we cover that, I want to talk about relatively recent release of the VN that was overlooked by a good majority of people (including me, until I started writing this): Beast's Lair's English release for *Realta Nua*. If you are interested in playing the visual novel but were turned off by the eroge, you now have the option turn them on or off, if you played through the original release, they have new, *Realta Nua* exclusive scenes, if you want to see all of the OPs, they include 8 of them, if you were impressed by the visuals in *Fate/hollow ataraxia*, they now have those effects and slightly improved art. The guys over at Beast's lair have toiled to make this release amazing. It's leaps and bounds better then the original Mirror-Moon release, and maybe perhaps the definitive version of Fate/stay night. I've played a bit of it, and I really like it so far, especially the ability to switch to the new 2012 soundtrack. I'll update my review with a *Realta Nua* segment when I'm done with it.
 
 So, now to the main topic. *Fate/stay night: Unlimited Blade Works*. I don't think I've ever been this exited for a single piece of medium. Never before have I been obsessively been speculating on what it will be like. Never before have I watched trailers in anticipation for a series. Never before have I ever got so exited over an announcement of a series that I decided to do a review marathon over everything a company has made before this. It's the first time that someone is adapting a show i'm a big fan of that's relatively obscure (at least here in the west), and I can finally show people what I really enjoy without them being alienated in some way. People finally have the chance to see the story of the original VN, shown in a way that is amazing. I finally can see the fight scenes in a way they should be in. I'm looking forward to the best visuals that anime has to offer, I'm looking forward to an amazing soundtrack by the guy who did Mahotsukai no Yoru's soundtrack, and [I'm looking forward to a fate show that I can recommend that I really love](https://rockmandash12.kinja.com/rockmandash-rambles-fate-zero-revisited-1637549445). From what I can tell, it looks amazing, and I'm looking forward to the execution of it.
 
-[![](./912391593553345859.jpg)](https://rockmandash12.kinja.com/rockmandash-rambles-fate-zero-revisited-1637549445)
 
-###### [Rockmandash Rambles: *Fate/Zero* Revisited](https://rockmandash12.kinja.com/rockmandash-rambles-fate-zero-revisited-1637549445)
 
-In preparation for Fate/stay night, and because I felt like marathoning something with decent…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-rambles-fate-zero-revisited-1637549445)
 
 > I am the Hype of my Fate/stay night
 >

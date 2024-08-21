@@ -89,12 +89,8 @@ Tsukihime has a direct sequel called Kagetsu Tohya, but i'll probably be skippin
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*, and the rest of my *[*Type-Moon Marathon here*](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)*. For An explanation of my review system, *[*check this out*](http://tay.kotaku.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-[![](./1476080727821779888.jpg)](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-###### [Rockmandash Reviews: *Type-Moon Marathon*](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-In preparation for the Fate/stay night: Unlimited Blade Works Adaptation by Ufotable, I decided to…
 
-[Read more](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
 *This game is availible on *[*Fuwanovel *](http://fuwanovel.org/novels/tsukihime)*for download.*

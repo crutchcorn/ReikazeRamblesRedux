@@ -15,7 +15,7 @@ With a tagline of *“If he sees underwear, humanity will be destroyed!?”*, wh
 
 ![](./1312309564257087010.png)
 
-I’ve been hyping up *Punchline!* for a while, ever since I learned that my favorite writer, Koutarou Uchikoshi (of [*Zero Escape*](http://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798#_ga=1.53174632.1523386611.1417386122) fame) was involved. I wasn’t sure what to expect out of this show, given it’s premise... really, how could I? After reading about the plot, what would you expect, especially given how vastly different it really is to everything he’s done, or anything in general? From the source itself,
+I’ve been hyping up* Punchline!* for a while, ever since I learned that my favorite writer, Koutarou Uchikoshi (of [*Zero Escape*](http://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798#_ga=1.53174632.1523386611.1417386122)* *fame ) was involved. I wasn’t sure what to expect out of this show, given it’s premise... really, how could I? After reading about the plot, what would you expect, especially given how vastly different it really is to everything he’s done, or anything in general? From the source itself,
 
 > If he sees underwear, humanity will be destroyed!? An original anime series from the noitaminA block, PUNCH LINE centers on Yuta Iridatsu, a high school student, with a peculiar habit. When he sees a girl’s panties, he gets so excited he faints! After a certain incident with a ghost cat, his soul gets separated from his body. Using his special powers, Yuta watches the daily lives of the inhabitants of an apartment and sometimes plays tricks on them. Eventually, Yuta decides to unlock the secrets to why Earth will be destroyed and tries to save it!
 
@@ -25,9 +25,15 @@ Mind = Blown, right? I came in expecting a stupid, WTF show that has just a ridi
 
 [[](./uohdbgi4rxsjt3uasad3.mp4)](https://anitay.kinja.com/garo-the-animation-the-ani-tay-review-1695909572)
 
+
+
 [[](./flcr80vaunb6soyhigsy.mp4)](https://anitay.kinja.com/rage-of-bahamut-genesis-the-ani-tay-review-1676327262)
 
+
+
 [[](./1306104797334163626.mp4)](https://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485)
+
+
 
 ![](./1312309564531959330.png)
 
@@ -49,4 +55,18 @@ This show has cemented it’s place at the top of my guilty pleasures, even afte
 
 *Rockmandash is a frequent writer of Visual Novels and anime on *[*his blog*](http://rockmandash12.kinja.com/#_ga=1.122760139.1523386611.1417386122)* and the*[*AniTAY Blog*](http://anitay.kinja.com/#_ga=1.196883561.473183827.1418699279)* as well. Come and check them out if you are interested in reviews and opinion pieces on these topics! For an explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*, and here’s *[*my biases in reviewing*](https://rockmandash12.kinja.com/rockmandash-rambles-my-personal-biases-in-reviewing-1688152053)*.*
 
-[![](./g4w5timhzxkuwfh9wuua.png)](http://rockmandash12.kinja.com/#_ga=1.122760139.1523386611.1417386122)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -21,13 +21,9 @@ When your life is on the line, everything is different. In *999*, this statement
 
 The[ Zero Escape](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798) series (with 999 as the first game, Virtue’s Last Reward as the Sequel) is a collection of everything done right in the Infinity series then amped up to another level, polishing everything you can imagine: it excels with its premise to hook you in, it has the extremely well executed character interactions and mystery you would come to expect from Uchikoshi, it has nearly perfect pacing throughout the story, which is executed in a way that keeps you hooked and engaged throughout. The SciFi elements of the story are executed in a way that intrigues and engages, it creates an amazing atmosphere that only improves immersion and to top it all off, and it has plot twists that will blow your mind.
 
-[![](./qxs5nisjzh1ndbpikw1p.jpg)](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)
 
-###### [Rockmandash Reviews: *Infinity & Zero Escape Marathon \[DONE!\]*](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)
 
-I’m pretty well known around here for being a Fate/fanboy, but if there’s one thing that I love…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)
 
 ![](./1313401717980419396.png)
 
@@ -79,13 +75,9 @@ This all is even more impressive when you consider that they were limited to the
 
 To emphasize how impressed and hooked I was, I’d like to tell you what my first experience was like playing *999. *When I picked up the game, I had absolutely no clue what I was getting into. While I heard it was pretty good, I didn’t really know anything about it, what it was about, or what I was about to experience. What awaited me was a game that would [entrench me into my new favorite genre](https://rockmandash12.kinja.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739), a game that I view as the pinnacle of storytelling in video games, and a game that would blow my mind so much that it changed my perspective of games forever. To me, *999* was a game that was so gripping, so compelling, with an amazing atmosphere, and just amazing writing: I started the game at 7 PM, and when I finished the first route, it was 3 in the morning. It hooked me like no other game has hooked me before, and no game has hooked me since, and it did this with a compelling story, writing that makes you connect with the characters, writing that engages you with the work, writing that is both interesting SciFi and just an interesting story in general, and the way that it uses horror to control the mood and tension is one of the best out there. Everything it does fits in to make your experience with the story excellent, everything is done extremely well and the time spent playing this has completely changed who I am.
 
-[![](./707380194186916753.jpg)](https://rockmandash12.kinja.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739)
 
-###### [Rockmandash Rambles: Why I love Visual Novels so much, and How I got into this Insane Genre](https://rockmandash12.kinja.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739)
 
-I was writing my response tword Dex’s article about Storytelling and Gameplay in Video Games.....…
 
-[Read more](https://rockmandash12.kinja.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739)
 
 This is what started it all for me: the game that got me into what is now my favorite genre of gaming, the game that blew me away with it’s cumulation of mastery of writing and atmosphere. It’s an amazing experience, one that I don’t think can be topped any time soon.
 
@@ -103,10 +95,6 @@ To me, 999 is an absolute masterpiece in writing, a game I’ll adore to no end.
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)* and the rest of my *[*Infinity & Zero Escape *](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)[*Marathon here*](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)*. For An explanation of my review system, *[*check this out*](http://tay.kotaku.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-[![](./qxs5nisjzh1ndbpikw1p.jpg)](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)
 
-###### [Rockmandash Reviews: *Infinity & Zero Escape Marathon \[DONE!\]*](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)
 
-I’m pretty well known around here for being a Fate/fanboy, but if there’s one thing that I love…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)

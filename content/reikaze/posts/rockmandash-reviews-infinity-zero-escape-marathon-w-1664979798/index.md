@@ -11,21 +11,13 @@
 
 I’m pretty well known around here for being a [Fate/fanboy](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534), but if there’s one thing that I love more than fate, it’s Kotarou Uchikoshi works. He’s probably my favorite writer, and I started doing reviews because of his works, so I kinda have to do a review marathon of the works he wrote (that I can read). [With the announcement of Punchline](https://anitay.kinja.com/noitamina-2015-lineup-announced-time-slot-reduced-to-h-1664125217), his first anime, it’s about time that I get to that. (sorry, but no Pepsiman though :O)
 
-[![](./suaghhqsjyatg3sdmaea.jpg)](https://anitay.kinja.com/noitamina-2015-lineup-announced-time-slot-reduced-to-h-1664125217)
 
-###### [noitaminA 2015 Lineup Announced, Time Slot Reduced To Half](https://anitay.kinja.com/noitamina-2015-lineup-announced-time-slot-reduced-to-h-1664125217)
 
-Fuji TV programming block noitaminA announced during its noitaminA Announcement Conference 2015 the
 
-[Read more](https://anitay.kinja.com/noitamina-2015-lineup-announced-time-slot-reduced-to-h-1664125217)
 
-[![](./1476080727821779888.jpg)](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-###### [Rockmandash Reviews: *Type-Moon Marathon*](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-In preparation for the Fate/stay night: Unlimited Blade Works Adaptation by Ufotable, I decided to…
 
-[Read more](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
 Now, in no specific order:
 

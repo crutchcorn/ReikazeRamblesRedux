@@ -98,13 +98,9 @@ If you are interested in *Grisaia*, you have to ask yourself a few questions, fi
 
 Also, about the anime adaptation: While I haven’t seen all of the *Grisaia no Kaijitsu* anime, stopping around episode 5, [I’ll let this article by Fatalis do the talking](http://anitay.kinja.com/grisaia-no-kajitsu-the-anime-you-should-not-be-watchin-1651115065#_ga=1.30369526.838445421.1439275084), but I think it’s another case of your milage may vary as they cut out a lot of the crap the VN has. The anime of *Grisaia no Meikyuu* and* Grisaia no Rakuen* were pretty good. I don’t know how the VN stacks up in comparison, and I’ll tell you how they do when Sekai Project releases them, but I’ve heard the Anime does a good job adapting them.
 
-[![](./962722326614814866.jpg)](https://anitay.kinja.com/grisaia-no-kajitsu-the-anime-you-should-not-be-watchin-1651115065)
 
-###### [Grisaia no Kajitsu: The Anime You SHOULD NOT Be Watching](https://anitay.kinja.com/grisaia-no-kajitsu-the-anime-you-should-not-be-watchin-1651115065)
 
-I had hoped and prayed that this wouldn't happen, but part of me knew it was inevitable.
 
-[Read more](https://anitay.kinja.com/grisaia-no-kajitsu-the-anime-you-should-not-be-watchin-1651115065)
 
 ***
 

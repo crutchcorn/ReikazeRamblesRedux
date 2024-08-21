@@ -49,20 +49,12 @@ This show is hard to talk about. It’s the polar opposite of the visual novel y
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*, and the rest of my *[*Type-Moon Marathon here*](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)*. For An explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-[![](./1476080727821779888.jpg)](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-###### [Rockmandash Reviews: *Type-Moon Marathon*](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-In preparation for the Fate/stay night: Unlimited Blade Works Adaptation by Ufotable, I decided to…
 
-[Read more](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-[![](./1520891687004619076.png)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-###### [Rockmandash Rambles: *An Explanation on my Review System* (Updated 11/15/2015)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-If you’ve read any of my reviews and wanted to know why I did them the way I do, here’s an…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
 Note: This review had an aesthetic overhaul and minor editing on 9/15

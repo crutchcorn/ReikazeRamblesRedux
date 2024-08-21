@@ -115,11 +115,7 @@ I speak a lot about how I put experience above all else when it comes to a story
 
 [[](./1306104797334163626.mp4)](https://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485)
 
-###### [Rockmandash Reviews+: *Ever 17: The Out of Infinity* \[Visual Novel\]](https://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485)
 
-Have you ever experienced a work that left such a strong impression on you that it started to…
-
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485)
 
 ***
 

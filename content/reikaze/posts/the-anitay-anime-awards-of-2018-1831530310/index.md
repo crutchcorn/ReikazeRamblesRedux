@@ -200,10 +200,6 @@ Now for the Community’s results! The community that reads AniTAY is pretty var
 \
 *If you want more thoughts on anime of 2018, check out the *[*AniTAY Podcast here*](https://anitay.kinja.com/anitay-podcast-season-3-episode-8-2018-in-review-1831825951)*!*
 
-[![](./wjbqy2xwnqv1zqbusxze.png)](https://anitay.kinja.com/anitay-podcast-season-3-episode-8-2018-in-review-1831825951)
 
-###### [AniTAY Podcast Season 3 Episode 8: 2018 in Review](https://anitay.kinja.com/anitay-podcast-season-3-episode-8-2018-in-review-1831825951)
 
-The AniTAY podcast’s year-in-review episode is finally here! Join us as we take an extra long look…
 
-[Read more](https://anitay.kinja.com/anitay-podcast-season-3-episode-8-2018-in-review-1831825951)

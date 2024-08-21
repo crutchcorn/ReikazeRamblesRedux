@@ -13,25 +13,17 @@ There are 2 things that I can tell you about Lain that I have a concrete opinion
 
 *Lain* is an experience. Like* Evangelion*, Lain is a show that you should watch to experience it, as it's an interesting experience that everyone will get something out of. (Don't be wimpy like me and keep on pushing it back because you are afraid that it's too much of a mindfuck). I didn't think it was that much of a mindfuck ([after I/O, nothing's a mindfuck. That being said, I/O is pretty similar to lain, so if you like lain, check I/O out](https://rockmandash12.kinja.com/rockmandash-reviews-i-o-visual-novel-1563212529)) Lain is such a vague experience that everything is up to one's interpretation. It's so surreal, so philosophical, that one's viewpoints, analysis ability and state of mind drastically shape the experience and opinions that they have on the themes that this show runs through. It's one that everyone may not appreciate, but should give a chance. Maybe you'll love it like other people I've seen. Maybe you'll like it but not love it like I did, or maybe you'll dislike it. Who knows? The show leaves it up to you, and that's something I'm going to respect.
 
-[![](./696950649706577186.png)](https://rockmandash12.kinja.com/rockmandash-reviews-i-o-visual-novel-1563212529)
 
-###### [Rockmandash Reviews: *I/O* \[Visual Novel\]](https://rockmandash12.kinja.com/rockmandash-reviews-i-o-visual-novel-1563212529)
 
-Ever 17 is a fantastic visual novel written by Kotaro Uchikoshi and Takumi Nakazawa. While…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-i-o-visual-novel-1563212529)
 
 ![](./1005907274351798084.jpg)
 
 This show is a show that I enjoy, and it made my think about shows like this.... I miss shows like this where the creator can do whatever they want to without compromising on their ideals, or goals with the show. With the way anime is, focused on what sells well instead of what's interesting or good, we'll never get a show like this. Today, while we do get a lot of great anime ([and I'll argue all day that this time in anime is pretty awesome](https://anitay.kinja.com/this-is-one-of-the-best-eras-of-anime-stop-saying-it-s-1607791047)), but one aspect I've noticed is that shows now are too afraid to embrace it's ideals, to go the full way out. They are too afraid to be bold, to try something really out there. Producers, animation studios, etc are playing it safe: they don't want to do experimental things (similar to the gaming industry, but not as bad...). The practice makes sense, as making anime is expensive, and the investors want a return on the investments they make, but this compromises on the experience on a show. We don't see a lot of these surreal shows like this nowadays... we don't see many shows that run on philosophical ideals, or shows so surreal and doesn't give a fuck about what the audience thinks about it. (but they do exist: F/Z is nihilism in a nutshell, Kaiba questions what a person is, Psycho Pass looks at a system controlled by computers and what that entails to the psyche and the beliefs of society)
 
-[![](./pitiavzys60byqvwx9i7.jpg)](https://anitay.kinja.com/this-is-one-of-the-best-eras-of-anime-stop-saying-it-s-1607791047)
 
-###### [This is One of the Best Eras of Anime, Stop Saying It Sucks](https://anitay.kinja.com/this-is-one-of-the-best-eras-of-anime-stop-saying-it-s-1607791047)
 
-Today I came across a peculiar number of people touting the usual opinions that "anime is dead",…
 
-[Read more](https://anitay.kinja.com/this-is-one-of-the-best-eras-of-anime-stop-saying-it-s-1607791047)
 
 The atmosphere is something to be mentioned: A mix between outdated technology and hyper-advanced tech creates this half cyberpunk, half 90's world that is weird yet charming. The world this creates is one of the better near cyberpunks out there, and it's very enjoyable. (I personally think I/O's is a bit more enjoyable and it's future proofed a bit more) *Lain* was made to be inherently dated, but the dated nature doesn't detract from the show.* Lain* shows us how far we've gone since the 90s; while the tech shown is horribly outdated (with the exception of the Mind interface where one dives into the net), but the ideals are not outdated and that's the most important part.
 

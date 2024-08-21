@@ -51,12 +51,8 @@ Keeping the aspects of the presentation in mind, you can see how the presentatio
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*. For An explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-[![](./1520891687004619076.png)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-###### [Rockmandash Rambles: *An Explanation on my Review System* (Updated 11/15/2015)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-If you’ve read any of my reviews and wanted to know why I did them the way I do, here’s an…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
 *Note: You may have seen this like a week ago, being only video. I wanted to be artsy because sound a primary focus in this VN so I wanted people to watch the video, but considering it’s sitting at ~150 views on YouTube, and the point of my reviews is to spead the word, that’s not really going so well. Speaking of said Video Review, if you are interested, check it out here.*

@@ -53,13 +53,9 @@ Planetarian is a charming Visual Novel that proves how well Key can write. It's 
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*, and the rest of my *[*Key Marathon*](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)[* Here*](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)*. For An explanation of my review system, *[*check this out*](http://tay.kotaku.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-[![](./1449901844658159786.jpg)](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)
 
-###### [Rockmandash Reviews: *Key Marathon*](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)
 
-Like I said a few months ago, I’m starting up a Key Review Marathon: Reviewing all the main Key…
 
-[Read more](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)
 
 *This game is available on *[*Steam*](http://store.steampowered.com/app/316720)* from Sekai Project.*
 

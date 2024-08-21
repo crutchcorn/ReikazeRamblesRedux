@@ -51,13 +51,9 @@ It goes without saying that *Hanasaku Iroha* has great soundtrack... but there�
 
 Normally, with Okada stories, I have strong opinions on the stories she writes. With *Hanasaku Iroha*, that’s not really the case. I’ve been saying it throughout the review; this show is very subtle and what it’s trying to do, and this subtlety is something that makes me appreciate the show after the fact more than while watching it. It gives it a feeling that this show was more planned than others, and I liked that. However, this can be a flaw; the show was thoroughly enjoyable and found it to be great… but it doesn’t have the passion I usually feel when dealing with Mari Okada works. I missed that, and I’m not exactly sure what to think of the change, but I don’t think that’s the point with this show. This was a show that set out to be an enjoyable slice of life and a feel good show, which it certainly does. It’s kinda like the [Anti-Sakurasou](https://anitay.kinja.com/rockmandash-rambles-sakurasou-is-the-first-romantic-co-1603256720) in execution, but they share a lot of similarities otherwise. It’s an enjoyable ride that you’ll appreciate, but it’s not a story that’s memorable because of the emotions it inflicted on you.
 
-[![](./1238150483095088486.jpg)](https://anitay.kinja.com/rockmandash-rambles-sakurasou-is-the-first-romantic-co-1603256720)
 
-###### [*Sakurasou* is the first Romantic Comedy that caused me to despair.](https://anitay.kinja.com/rockmandash-rambles-sakurasou-is-the-first-romantic-co-1603256720)
 
-I made a post about a month ago about random romances I was watching, and I asked a few…
 
-[Read more](https://anitay.kinja.com/rockmandash-rambles-sakurasou-is-the-first-romantic-co-1603256720)
 
 #### Enjoyment - 8.5/10
 
@@ -75,13 +71,9 @@ I made a post about a month ago about random romances I was watching, and I aske
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*. For An explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-[![](./1520891687004619076.png)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-###### [Rockmandash Rambles: *An Explanation on my Review System* (Updated 11/15/2015)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-If you’ve read any of my reviews and wanted to know why I did them the way I do, here’s an…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
 *This show is available on *[*Crunchyroll*](http://www.crunchyroll.com/hanasaku-iroha)* for Free & Legal streaming.*
 

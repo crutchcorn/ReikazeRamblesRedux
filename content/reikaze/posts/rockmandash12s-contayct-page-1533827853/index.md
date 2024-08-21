@@ -10,13 +10,9 @@
 
 Hey, I'm Rockmandash12, and I thought it's about time to do a ConTAYct page now that there's a [direcTAYry](https://tay.kinja.com/tay-directory-1533543595), and I've been on TAY for a bit now.
 
-[![](./ojbvnwvdpr7mnudrzk3q.jpg)](https://tay.kinja.com/tay-directory-1533543595)
 
-###### [The DirecTAYry](https://tay.kinja.com/tay-directory-1533543595)
 
-Need to contact someone directly on the TAY? Use this handy guide to make things easy!
 
-[Read more](https://tay.kinja.com/tay-directory-1533543595)
 
 I've only started to frequent TAY recently (before I just lurked on Kotaku, Gizmodo and Lifehacker), mostly doing reviews. I'm a fan of Tech, Games (primarily RPGs, Platformers, Visual Novels), Anime, etc.
 

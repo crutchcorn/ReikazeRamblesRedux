@@ -13,13 +13,9 @@ When I write a review, I typically do so because I want to talk about it, and ge
 
 The Anime Backlog Gauntlet serves multiple purposes. First off, I've heard a lot of complaints that we really don't cover older shows here on AniTAY. This is a completely valid complaint because... we don't. It just so happens that most of my backlog are older shows (not this time in particular, but in the future there will be more older shows) and are the ones that have been recommended with near universal praise, so it kinda works out. Second, I don't really have the time to do full reviews for everything I see, but even when I don't, I still want to talk about them. This is my way of compromising on that: it's shorter reviews in the style of my lists but in more detail or Dex's[ Purgatory reviews ](https://anitay.kinja.com/dex-reviews-space-yuri-school-and-more-1676056274)(which I may have a Gauntlet dedicated to). Third, In my opinion, this season is relatively dry, so I'm working on trying to slay the beast that is a backlog, and this is the best way I thought of to cover these shows in my backlog. Now that I've said all of that, it's time to get into the gauntlet! (Note: The order of this is the order I watched it, there's no rhyme or reason to it.)
 
-[![](./wgndgewf2lsjxxtwgyjw.jpg)](https://anitay.kinja.com/dex-reviews-space-yuri-school-and-more-1676056274)
 
-###### [Dex Reviews Space Yuri, School, and More](https://anitay.kinja.com/dex-reviews-space-yuri-school-and-more-1676056274)
 
-For the last year I've had a problem. I've watched several shows that I never really wanted to…
 
-[Read more](https://anitay.kinja.com/dex-reviews-space-yuri-school-and-more-1676056274)
 
 ***
 
@@ -37,11 +33,7 @@ The story centers on Mirai, a middle school freshman girl who goes to Tokyo's ar
 
 [[](./qtdxprmrvo7mvgsrvixv.mp4)](https://anitay.kinja.com/tokyo-magnitude-8-0-the-ani-tay-review-1677232000)
 
-###### [*Tokyo Magnitude 8.0*: The Ani-TAY Review](https://anitay.kinja.com/tokyo-magnitude-8-0-the-ani-tay-review-1677232000)
 
-Tokyo Magnitude 8.0 poses a question: What would happen if Tokyo were hit by a long-expected 8.0…
-
-[Read more](https://anitay.kinja.com/tokyo-magnitude-8-0-the-ani-tay-review-1677232000)
 
 **Thoughts: **It's an interesting, realistic disaster show that is something that everyone should watch. I pretty much agree with Dex on most aspects, as it's an amazing coming of age story with an awesome, powerful narrative, and a great feeling of tension, especially in the second half. What really got me into it was how realistic it felt, how it gets you to know these characters like you knew them in real life, and how it felt like you were actually in the situation. The mystery felt real, the situation in general felt real, and it's just fantastic. The impact that the show has on you is just amazing: It's a coming of age done in a fantastic, realistic way, and it will evoke feelings from you. I really mean that: I don't think I've cried this much while watching a show since White Album 2, and it just blew my mind. I had a great time watching through this show, even though it was a bit depressing.
 
@@ -59,13 +51,9 @@ Tokyo Magnitude 8.0 poses a question: What would happen if Tokyo were hit by a l
 
 **Why I watched it: **After seeing [*Patema Inverted*](https://anitay.kinja.com/patema-inverted-ani-tay-review-and-discussion-1678652596) (which was made by the same director, Yasuhiro Yoshiura) and hearing about it from people in the AniTAY chatroom, I was curious about it.
 
-[![](./m2qmtn4z5uxvqqmmyfwn.png)](https://anitay.kinja.com/patema-inverted-ani-tay-review-and-discussion-1678652596)
 
-###### [*Patema Inverted *Ani-TAY Review and Discussion](https://anitay.kinja.com/patema-inverted-ani-tay-review-and-discussion-1678652596)
 
-Dexomega: Hey everyone. Today Rockmandash and I are going to talk about Patema Inverted. It's a…
 
-[Read more](https://anitay.kinja.com/patema-inverted-ani-tay-review-and-discussion-1678652596)
 
 **Thoughts:** The *Time of Eve *is a great and realistic near sci-fi that felt believable, something I really appreciate. I really enjoyed it, but I wish they had more time to flesh the characters out, as the way that it's done here leaves room for improvement. The best part of the show has to be the society and the world: the way that the show expanded on how society viewed human/robot interactions, the look on the social structure, and just seeing the characters act in the way that they did was pretty interesting and engaging, especially at the Time of Eve cafe. The premise is based around the human/robot relationships, and they executed everything about that extremely well with interesting scenarios throughout the show/movie. Also, due to the way that the characters interact and the way it presents the story, the show gets you to think, even if you've seen these themes and have been asked these questions tons of times already. What is a human? What is a Robot? Which is which, and does it even matter? How would you treat a robot if they were nearly humanoid, and how does that reflect your treatment twords humans? It's a pretty deep show/movie, especially considering the time it has to work with.
 
@@ -119,11 +107,7 @@ Overall, Black Lagoon is pretty great. It's the best type of action show that yo
 
 [[](./ntwbr7jeonvvkylvba4e.mp4)](https://anitay.kinja.com/death-parade-has-the-potential-to-become-great-1680091988)
 
-###### [*Death Parade* Has the Potential to Become Great](https://anitay.kinja.com/death-parade-has-the-potential-to-become-great-1680091988)
 
-2013 is the only year that Madhouse ever was one of the studios to give a final project in Anime…
-
-[Read more](https://anitay.kinja.com/death-parade-has-the-potential-to-become-great-1680091988)
 
 **Thoughts: **If you are watching Death Parade, it's pretty much the same thing, and pretty similar to the first episode in particular. (Makes sense though, it's essentially a pitch version) There was pretty much no real explanation, it was just 2 guys told to play a game of billiards for their lives, and it was great. I really liked the characters in it: the old man was fantastic, entertaining and quick-minded while the other guy was School Days'd :P, and both of them were very entertaining, with an awesome rant at the end. The OVA in general was just pretty good: it had interesting back stories, an interesting premise, a great atmosphere, is absolutely beautiful when it comes to visuals, and it was very entertaining. It's well done, as expected from Madhouse, and it's pretty good.
 
@@ -143,13 +127,9 @@ Overall, Black Lagoon is pretty great. It's the best type of action show that yo
 
 **Thoughts: THAT WAS AWESOMEEEEE!!!!! MIND = BLOWN. **I always avoided Satoshi Kon's stuff because I was afraid of mindfuck, but if everything is like that, I'm going to marathon through all of his movies this week! Seriously, [think Lain](https://anitay.kinja.com/some-rambling-about-serial-experiments-lain-1663388188) but better, as this has all the same core themes of an identity crisis and delusions, but this time wrapped up in a thriller package. I love psychological thrillers, and that was just great. Throw in Dissociate Identity Disorder, Killing, creepy stalkers, and some of the best disillusion I've ever seen where reality and imagination literally blur, and it's just awesome. It was an amazing movie with a great narrative, an amazing feel of suspense, and a surprisingly well done horror. The plot twist too... such a great movie. Mima as a character was pretty interesting as well ignoring all the other aspects, as she confronts her ideals of idol vs acting, and I was engaged.
 
-[![](./1005907274314476356.jpg)](https://anitay.kinja.com/some-rambling-about-serial-experiments-lain-1663388188)
 
-###### [Some Rambling about *Serial Experiments Lain*](https://anitay.kinja.com/some-rambling-about-serial-experiments-lain-1663388188)
 
-There are 2 things that I can tell you about Lain that I have a concrete opinion on: I like it, and
 
-[Read more](https://anitay.kinja.com/some-rambling-about-serial-experiments-lain-1663388188)
 
 I kinda have to wonder though: what would this movie be like in a live action? It was originally supposed to be a live action, and if they did it, they probably would had the same effect, maybe it could have been better because it would have felt more real (but I really don't mind because I watch a lot of anime), but that's just food for thought. About the actual visuals, it hasn't aged perfectly because you know, it's nearly 20 years old, but it's Madhouse so it's held up pretty well and it really shouldn't hold you back. I have nothing really to say about the soundtrack, didn't really notice it at all.
 
@@ -163,13 +143,9 @@ Overall, I really loved Perfect Blue, and I'm really looking forward to enjoying
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews#_ga=1.121004232.1184866688.1416094773)*. For An explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-[![](./1520891687004619076.png)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-###### [Rockmandash Rambles: *An Explanation on my Review System* (Updated 11/15/2015)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-If you’ve read any of my reviews and wanted to know why I did them the way I do, here’s an…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
 *Like always, thanks to Protonstorm for helping me out with this article. Without his help, this article would be like the events after protons collide. Really appreciate everything you do to help!*
 

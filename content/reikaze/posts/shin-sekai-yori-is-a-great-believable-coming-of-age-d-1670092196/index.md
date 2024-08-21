@@ -13,13 +13,9 @@ A few weeks ago, I watched an anime that's been recommended to me several times:
 
 **Disclaimer: This is my pure thoughts on the show and thus structures can be damned. If you want a more structured, less ramble-y review of Shin Sekai Yori, check out the one** [**MainProtagonist**](https://tay.kinja.com/cleverly-titled-anime-review-shin-sekai-yori-1494395136) **posted earlier this year.**
 
-[![](./19bgv3v8bkdbbjpg.jpg)](https://tay.kinja.com/cleverly-titled-anime-review-shin-sekai-yori-1494395136)
 
-###### [Cleverly Titled Anime Review: Shin Sekai Yori](https://tay.kinja.com/cleverly-titled-anime-review-shin-sekai-yori-1494395136)
 
-Hello all! Today I am getting off of my butt to review a nifty little series called Shin Sekai…
 
-[Read more](https://tay.kinja.com/cleverly-titled-anime-review-shin-sekai-yori-1494395136)
 
 What is *Shin Sekai Yori* exactly? It's an adaptation of the novel with the same name, and it's a Sci-fi, Coming of Age Dystopian that takes place millions of years from now where there's been people who have psychic powers, but live in a world with a seemingly primitive society. If you are interested in this plot, i'd recommend it to you as it's an interesting, well done story that I think anybody interested in the ideals of it will enjoy.
 
@@ -39,13 +35,9 @@ That being said, *Shin Sekai Yori* is much more than a dystopian, if you couldn'
 
 There is no bad guy to the story, and even the characters that seem to be a bad guy are well rounded, interesting characters, executed in ways you would **NEVER** expect. It utilizes it's world to create a moral ambiguity where everyone is justified with their actions. It utilizes this ambiguity to make a point (something I rarely see) pushing it far past something like [*Psycho*](https://anitay.kinja.com/psycho-pass-protonstorms-ani-tay-review-1634716298)[*-*](http://anitay.kinja.com/psycho-pass-2-the-ani-tay-review-1673700249)[*Pass*](http://tay.kotaku.com/fabulous-fyst-trainime-review-psycho-pass-1482700742) to me, making it feel like a cohesive world, building up and helping to create a great atmosphere.
 
-[![](./rp4lyc4qyphkj5lburmv.png)](https://anitay.kinja.com/psycho-pass-protonstorms-ani-tay-review-1634716298)
 
-###### [*Psycho-Pass*: Protonstorm's Ani-TAY Review](https://anitay.kinja.com/psycho-pass-protonstorms-ani-tay-review-1634716298)
 
-The year is 2113, and society is far from what one might know it as today. Technology has…
 
-[Read more](https://anitay.kinja.com/psycho-pass-protonstorms-ani-tay-review-1634716298)
 
 About that atmosphere? Just amazing. It's what gets you hooked into the story, to experience this weird world with this unique tone with qualities I can't describe. It's so immerse, and it's so well done that everything bleeds in together and makes for this believable and cohesive experience. It's damn good. A core part of that amazing brilliant music, which is absolutely amazing with great violin that helps supplant the tone into a point of prominence. It supports the story in ways that words could not and amplifying everything else. It's really unlike anything you'll hear in anime, and it makes an impact: it hones in on the raw feelings that may be bouncing around at the time: unknown, loneliness, peace, tension, etc. It's a soundtrack that is ethereal, haunting, memorizing, beautiful, soothing, pleasing to the ears... all at once and it makes for an out of this world experience that does exactly what it should.
 
@@ -55,11 +47,7 @@ I managed to get this far without mentioning the ending? Better get onto that: i
 
 [[](./or9sskeryrsked2hr3vf.mp4)](https://anitay.kinja.com/tokyo-ghoul-the-ani-tay-review-1636678069)
 
-###### [*Tokyo Ghoul*: The *Ani-TAY* Review](https://anitay.kinja.com/tokyo-ghoul-the-ani-tay-review-1636678069)
 
-Ken Kaneki is a quiet and reserved bookworm who manages to score a date with a stunningly…
-
-[Read more](https://anitay.kinja.com/tokyo-ghoul-the-ani-tay-review-1636678069)
 
 ![](./1042989631108645776.jpg)
 

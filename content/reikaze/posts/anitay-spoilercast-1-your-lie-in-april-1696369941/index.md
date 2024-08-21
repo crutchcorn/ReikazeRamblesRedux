@@ -23,6 +23,8 @@ Download MP3 [here ](https://ia601505.us.archive.org/8/items/podcast_20150408/po
 
 iTunes: [Click here](https://itunes.apple.com/gb/podcast/ani-tay-podcast/id852229181?mt=2)
 
-[![](./x03rw2ett8gcnpo7xuol.png)](https://itunes.apple.com/gb/podcast/ani-tay-podcast/id852229181?mt=2)
+
+
+
 
 YT and iTunes version will be up soon!

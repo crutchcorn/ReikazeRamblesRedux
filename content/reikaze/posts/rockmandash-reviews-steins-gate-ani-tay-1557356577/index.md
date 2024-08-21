@@ -11,13 +11,9 @@ Welcome to Rockmandash Reviews! This is my review of the Anime of Steins;Gate. S
 
 Link to [Visual Novel Review](https://rockmandash12.kinja.com/rockmandash-reviews-steins-gate-visual-novel-1557340615)
 
-[![](./admtqsdyg5qytpnbus3q.jpg)](https://rockmandash12.kinja.com/rockmandash-reviews-steins-gate-visual-novel-1557340615)
 
-###### [Rockmandash Reviews: *Steins;Gate* \[Visual Novel\]](https://rockmandash12.kinja.com/rockmandash-reviews-steins-gate-visual-novel-1557340615)
 
-Welcome to Rockmandash Reviews! This is my review Steins; Gate, the Visual Novel. Steins;Gate is…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-steins-gate-visual-novel-1557340615)
 
 ![](./ycotpdh5uhlyzyggncx0.png) ![](./nji4pukcnipxbtbx2kkb.png) ![](./1136963154246886803.jpg)
 
@@ -47,11 +43,7 @@ I really don't have much to say that hasn't already been said before in [Richard
 
 [[](./yviukzekv3qzhr9ngcoh.mp4)](http://kotaku.com/the-steins-gate-movie-is-an-emotional-ride-through-time-477595024/all)
 
-###### [The Steins;Gate Movie is an Emotional Ride Through Time](http://kotaku.com/the-steins-gate-movie-is-an-emotional-ride-through-time-477595024/all)
 
-Richard: Today, myself and fellow Kotaku author Toshi Nakamura are here to look at the recently…
-
-[Read more](http://kotaku.com/the-steins-gate-movie-is-an-emotional-ride-through-time-477595024/all)
 
 #### Movie - 8/10
 
@@ -77,12 +69,8 @@ Steins;Gate is an experience that nobody should miss. This is an amazing game th
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*. For An explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-[![](./1520891687004619076.png)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-###### [Rockmandash Rambles: *An Explanation on my Review System* (Updated 11/15/2015)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-If you’ve read any of my reviews and wanted to know why I did them the way I do, here’s an…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
 This is available for legal streaming on Youtube, or you could buy the DVD & Blu ray combo from Funmation.

@@ -67,13 +67,9 @@ Overall, it’s pretty much an ad for the game. I love the fact that I’m able 
 
 That sentiment continues over to *Tamako Love Story*, the sequel film that wraps up the series with one of the simplest, nicest, sweetest, cutest love stories you’ll ever see.. and amplifies this series into great territory. Almost all romances in anime are greatly exaggerated (which I really don’t mind), but a change of pace is really nice, and rarely do you ever see a romance done so well. It’s** EXTREMELY** well executed with everything working out perfectly... the visuals being absolutely beautiful, the music used to it’s fullest (especially[ Koi no Uta](https://anitay.kinja.com/op-ed-a-day-31-tamako-love-story-1683035947), which I had playing on repeat for days on end), the story getting out the emotions it wants to tell out so well (which was made even better considering I watched this on Valentine’s day, which had to be the ABSOLUTE perfect time to watch this) and the ending... the ending is just perfect. Yes, this whole movie [could have been done in like a minute](https://www.youtube.com/watch?v=CZL00G7j3OE), as it’s pretty uneventful, just being a slice of life, but that’s a part of the charm to it: It feels realistic, it’s simple and it’s very, very enjoyable. While not to the same extent as last time, KyoAni, you’ve done it again, you’ve made another amazing sequel film that outshines it’s predecessor, and it’s great. Just an absolute amazing execution of a romance, and it’s so perfect for what it is... one of the best romances done in a slice of life show out there, very fitting for with the name* Tamako Love Story*.
 
-[![](./qyswze4xfz9bz2qptghe.jpg)](https://anitay.kinja.com/op-ed-a-day-31-tamako-love-story-1683035947)
 
-###### [OP/ED A Day #32: Tamako Love Story](https://anitay.kinja.com/op-ed-a-day-31-tamako-love-story-1683035947)
 
-Spoilers for Tamako Market & Tamako Love Story, proceed with caution or don't proceed at all! Turn…
 
-[Read more](https://anitay.kinja.com/op-ed-a-day-31-tamako-love-story-1683035947)
 
 **Tamako Love Story:** 9/10, Polarization: +1, -1. **Rockmandash Recommends/Go For It!**
 
@@ -135,13 +131,9 @@ That being said, I was pretty entertained by it as its very entertaining show, w
 
 **Thoughts: **Like how *Fate/Zero* was a prequel of *Fate/stay night*, *Einzebern Consultation Room* is a prequel to Taiga Dojo, the comedic scenes in the VN that gave you tips on what to do next when you hit a bad end while being entertaining and hilarious in general... and man, do I love it! Really, this is just like the Taiga Dojo scenes, and I really appreciated that they made this. It explains aspects that Fate/Zero didn’t go in depth about, which is mostly the Holy Grail War. I think this works well, as it’s pretty good for* Fate/Zero* only watchers, while having enough entertaining aspects for VN fans to enjoy it and get a kick as well. That being said, Fate/Zero fans may be in for a shock because unlike the seriousness from Urobuchi, we’re back to Nasu, and the humor is a big clash from F/Z because it’s [Carnival Phantasm](https://tay.kinja.com/rockmandash-reviews-carnival-phantasm-ani-tay-1546038401) levels of humor, which may not be to everyone’s liking, but I adored it.
 
-[![](./j1xjwi3nyuvfycomevsj.png)](https://tay.kinja.com/rockmandash-reviews-carnival-phantasm-ani-tay-1546038401)
 
-###### [Rockmandash Reviews: *Carnival Phantasm* \[Anime\]](https://tay.kinja.com/rockmandash-reviews-carnival-phantasm-ani-tay-1546038401)
 
-You know how I typically spend most of my time here talking about VN's with stellar stories or…
 
-[Read more](https://tay.kinja.com/rockmandash-reviews-carnival-phantasm-ani-tay-1546038401)
 
 Really, I didn’t expect anything special about this, but another dosage of Nasu humor makes me smile, and this one has the added benifit of being the most nihilistic comedy I have ever seen and Ufotable animation (which is a cut down from F/Z & UBW due to it’s SOL style, but it’s still great)! I loved every minute of it, and I would watch this again. It even had a bit of tiny character development, and it was really solid! (It reminded me a lot of Fate/Extra of all things...) If you have any interest in what I said, I urge you: Give it a shot! It’s a great short that’s pretty great.
 
@@ -153,12 +145,8 @@ Really, I didn’t expect anything special about this, but another dosage of Nas
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews#_ga=1.42207205.1523386611.1417386122)*. For An explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-[![](./1520891687004619076.png)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-###### [Rockmandash Rambles: *An Explanation on my Review System* (Updated 11/15/2015)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-If you’ve read any of my reviews and wanted to know why I did them the way I do, here’s an…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
 ***Note: ****This Article was Updated 5/27/15 to clarify Humanity has Declined and to replace the Koi no Uta as the version I had was taken down.*

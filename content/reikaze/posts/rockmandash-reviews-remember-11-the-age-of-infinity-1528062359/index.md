@@ -11,11 +11,7 @@ To those who came and found this from google or something, Please check out my [
 
 [[](./1341173074178868772.mp4)](https://rockmandash12.kinja.com/rockmandash-reviews-remember-11-the-age-of-infinity-1687285802)
 
-###### [Rockmandash Reviews+: *Remember 11: The Age of Infinity *\[Visual Novel\]](https://rockmandash12.kinja.com/rockmandash-reviews-remember-11-the-age-of-infinity-1687285802)
 
-Have you ever played a game that you loved, so much so that it was on its way to become one of your
-
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-remember-11-the-age-of-infinity-1687285802)
 
 ***
 

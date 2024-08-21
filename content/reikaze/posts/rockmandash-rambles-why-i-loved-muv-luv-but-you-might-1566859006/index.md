@@ -9,13 +9,9 @@
 
 It’s been a while since I’ve played a game that has broken expectations as much as Muv-Luv Alternative has. It’s been a while since I felt the need to do an entire post on just my random thoughts on a game, It’s just that amazing. This is my thoughts and experiences on Muv-Luv so expect spoilers. It’s not exactly concise and might be a bit tangential, but that’s what a ramble is. If you want a spoiler free and more concise opinion or want to know what i’m talking about, check out [my review](https://rockmandash12.kinja.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967), or [Dex’s](http://tay.kotaku.com/muv-luv-the-tay-review-1541968420) [reviews](http://tay.kotaku.com/muv-luv-alternative-the-tay-review-1546183909).
 
-[![](./dawudqmpimngnkpxt2zq.png)](https://rockmandash12.kinja.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967)
 
-###### [Rockmandash Reviews: *Muv-Luv & Alternative* \[Visual Novel\]](https://rockmandash12.kinja.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967)
 
-Welcome to Rockmandash Reviews, and this is my review of the highly regarded Muv-Luv Visual Novels
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967)
 
 ![](./ewyrpj5xmwnpkyjmxj0w.png)
 

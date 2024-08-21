@@ -11,13 +11,9 @@ I guess i'll start off by saying HELLO TO TAY! I've been doing anime reviews and
 
 BTW- If you like video reviews, here is my [Video Review](http://www.youtube.com/watch?v=7bfVwJ5KSik), and here's my[ New Review](https://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1613176306).
 
-[![](./gcuzisvfbftoyr4tzg3j.png)](https://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1613176306)
 
-###### [Rockmandash Reviews+: *Fate/stay night* \[Visual Novel\]](https://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1613176306)
 
-"I ask of you. Are you my master?" It's a quote that started it all; a huge franchise, an amazing
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1613176306)
 
 ![](./aqnlrckljvptxodonqdi.png)
 
@@ -91,12 +87,8 @@ UNLIMITED REVIEW WORKS
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*, and the rest of my *[*Type-Moon Marathon here*](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)*. For An explanation of my review system, *[*check this out*](http://tay.kotaku.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-[![](./1476080727821779888.jpg)](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-###### [Rockmandash Reviews: *Type-Moon Marathon*](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-In preparation for the Fate/stay night: Unlimited Blade Works Adaptation by Ufotable, I decided to…
 
-[Read more](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
 *This game is availible on *[*Fuwanovel *](http://fuwanovel.org/novels/fate-stay-night)*for download.*

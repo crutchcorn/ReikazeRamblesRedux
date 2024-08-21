@@ -11,13 +11,9 @@ This isn't really a full on article but I'm going to be shifting gears a bit in 
 
 First off, I'm going to be finally wrapping up the loose ends of my [Type Moon Marathon](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534), with Melty Blood and Fate Ilya coming up in the next few weeks. Of course, the marathon isn't over, as it'll be finishing once the Fate/Stay Night 2014 anime airs ,and there's a few games I still want to do that i'm either too lazy to play for review purposes (Fate Extra, Kagetsu Tohya) or aren't completely translated yet (Fate Hollow Ataraxia, Mahoutsukai no Yoru).
 
-[![](./1476080727821779888.jpg)](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-###### [Rockmandash Reviews: *Type-Moon Marathon*](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-In preparation for the Fate/stay night: Unlimited Blade Works Adaptation by Ufotable, I decided to…
 
-[Read more](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
 Next is a bunch of straggler reviews that don't really belong in any specific marathon or catagory. I have a surprise review coming up next week, and I'm going to be finishing my Steins;Gate reviews because of the official US release. Other reviews that don't really have any deadline or category is I/O (another VN, probably in 1-2 weeks, depending on how busy I am) and Muv-Luv series (1-2 weeks after I/O, to respond to all the hubbub dex is making), the Sharin no Kuni fan disk (Review date TBA) and the Durarara! season one review (because of season 2, Review date TBA),
 

@@ -13,13 +13,9 @@ Welcome to Rockmandash Reviews! Today we have a Key Visual Novel, called Rewrite
 
 FYI - I re-did this review, so please read that version instead. This is up for archival reasons.
 
-[![](./1395906708261334600.png)](https://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1609445042)
 
-###### [Rockmandash Reviews+: *Rewrite* \[Visual Novel\]](https://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1609445042)
 
-As I was starting this review marathon, I saw that first Rewrite review could use some…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1609445042)
 
 ## Writing
 
@@ -115,12 +111,8 @@ Needs More CG
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*, and the rest of my *[*Key Marathon*](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)[* Here*](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)*. For An explanation of my review system, *[*check this out*](http://tay.kotaku.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-[![](./1449901844658159786.jpg)](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)
 
-###### [Rockmandash Reviews: *Key Marathon*](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)
 
-Like I said a few months ago, I’m starting up a Key Review Marathon: Reviewing all the main Key…
 
-[Read more](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)
 
 *This game is availible on *[*Fuwanovel *](http://fuwanovel.org/novels/rewrite)*for download.*

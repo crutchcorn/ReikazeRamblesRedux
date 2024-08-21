@@ -27,8 +27,4 @@ So... after that rant, what do you guys think? Even if I quit youtube for an ext
 
 [![](19dkniggt0l6ljpg.jpg) ](https://kotaku.com/that-still-aint-right-youtube-1508544702)
 
-###### [That Still Ain't Right, YouTube](https://kotaku.com/that-still-aint-right-youtube-1508544702)
 
-Back in December the YouTube ContentID fiasco was punctuated by a copyright claim against indie…
-
-[Read more](https://kotaku.com/that-still-aint-right-youtube-1508544702)

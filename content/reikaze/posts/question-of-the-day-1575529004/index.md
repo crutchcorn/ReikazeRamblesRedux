@@ -9,33 +9,21 @@
 
 [The Messiah is busy with school](https://messaika.kinja.com/cutting-lines-for-now-1574909721)(I kinda am too...), so I'll be covering the QoTD for today. Today... is a longer than usual.
 
-###### [Cutting Lines (For Now)](https://messaika.kinja.com/cutting-lines-for-now-1574909721)
 
-Hey guys, I'm not in the best of shapes when it comes to school and mood right now, so I won't…
-
-[Read more](https://messaika.kinja.com/cutting-lines-for-now-1574909721)
 
 ![](./isu27tjfwzfusisiaz9p.jpg)
 
 You know, the TAY community is quite an impressive place.... We have amazing reviews, random facts, interesting opinions, etc, all coming in at a consistent rate (for the most part) from average joes that pump out quality equivalent to pro's for no monetary gain. Reading through [stormborn's post about the last Pokemon One a Day](https://tay.kinja.com/a-farewell-to-pokemon-one-a-day-thank-you-note-for-ta-1574915626) just made me absolutely shocked and amazed about the stories of the people behind the mask of the name and avatar, and got me curious on the reasons why prople create this content on TAY as the story of stormborn's post was just as interesting as the artwork itself. So, I ask of you... **Why do you do what you do on TAY?**
 
-[![](./zaclntigbi6id4fwsmjh.png)](https://tay.kinja.com/a-farewell-to-pokemon-one-a-day-thank-you-note-for-ta-1574915626)
 
-###### [A Farewell to Pokemon One a Day + Thank You Note for TAY](https://tay.kinja.com/a-farewell-to-pokemon-one-a-day-thank-you-note-for-ta-1574915626)
 
-Before we get into the nitty gritty, I wanted to answer some questions as left by you guys from a…
 
-[Read more](https://tay.kinja.com/a-farewell-to-pokemon-one-a-day-thank-you-note-for-ta-1574915626)
 
 (Think of this as an extension to [Thursday's QoTD](https://tay.kinja.com/question-of-the-day-1573374553), which was essentially What are your reasons for being on TAY. Also, while I'm targeting content creators on TAY who makes articles and stuff, I don't want to alienate people who are just commenting and such, so a backup question is: How did you get on TAY?)
 
-[![](./qen5rrtl4gxeqkbmg6we.jpg)](https://tay.kinja.com/question-of-the-day-1573374553)
 
-###### [Question of the Day!](https://tay.kinja.com/question-of-the-day-1573374553)
 
-What is your "true" purpose here at TAY?
 
-[Read more](https://tay.kinja.com/question-of-the-day-1573374553)
 
 I'm on TAY for 2 reasons:
 

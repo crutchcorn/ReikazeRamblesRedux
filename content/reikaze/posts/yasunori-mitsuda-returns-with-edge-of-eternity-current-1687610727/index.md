@@ -22,10 +22,6 @@ I'm pretty exited, I absolutely adore his soundtracks and can't wait for another
 
 Note: edited this after reading the KS page a bit more.
 
-[![](yxzdgm3upd5q5kczprua.jpg)](https://www.kickstarter.com/projects/midgarstudio/edge-of-eternity-pc-mac-linux-ps4-xbox-one)
 
-###### [Edge Of Eternity (Pc, Mac, Linux, PS4, XBOX ONE)](https://www.kickstarter.com/projects/midgarstudio/edge-of-eternity-pc-mac-linux-ps4-xbox-one)
 
-An indie tribute to J-RPG classics. Explore a universe blending fantasy with science-fiction,…
 
-[Read more](https://www.kickstarter.com/projects/midgarstudio/edge-of-eternity-pc-mac-linux-ps4-xbox-one)

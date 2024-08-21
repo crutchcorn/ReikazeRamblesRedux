@@ -11,13 +11,9 @@
 
 Welcome to the second article of [Project Hydra](https://anitay.kinja.com/ani-tay-presents-project-hydra-1650055177), the review series where random AniTAY members review random episodes of a show. Today, we have the 4 episode OVA anime adaptation of a PSP horror game, *Corpse Party: Tortured Souls*.
 
-[![](rciy95bkknzfvfzlwnlu.jpg)](https://anitay.kinja.com/ani-tay-presents-project-hydra-1650055177)
 
-###### [Ani-TAY Presents: Project Hydra](https://anitay.kinja.com/ani-tay-presents-project-hydra-1650055177)
 
-Ever wanted to just jump right into a random episode of a show and just start watching with no…
 
-[Read more](https://anitay.kinja.com/ani-tay-presents-project-hydra-1650055177)
 
 To give you a ~~brief~~ summary, Corpse party follows a group of students that decide to perform a charm called "Sachiko Ever After" which enables them to be friends forever if they do it right. They don't (of course, we wouldn't have a story if they did it right), and they are sent to an alternate universe that contains the Heavenly Host Elementary School, an elementary school that was torn down but is haunted by the ghosts of the school's murdered children in this dimension. The students try to find their way home and figure out the truth to this mystery but things don't always go to plan. Due to it being a horror, several of them die and it doesn't really end on a pretty note. The game had many bad ends through the game (one of them leading to a spin-off called Book of Shadows), but *Tortured Souls* only follows the true end.
 
@@ -27,13 +23,9 @@ To give you a ~~brief~~ summary, Corpse party follows a group of students that d
 
 In the respective ~~chopping~~ order, we have Krakken\_Unleashed, Protonstorm, Messiah, and thatsmypizza ~~dying~~ watching this show and then writing up a quip for Project Hydra. As for the formatting for the Project Hydra for *Corpse Party: Tortured Souls*, I decided that I'd do it differently than the way Exile did the formatting for our first Project Hydra article, [*Tenchi Muyô*](https://anitay.kinja.com/anitay-presents-project-hydra-versus-tenchi-muyo-1667362501). Instead of lumping them in one article, I thought it would be better if we released them one per day, as a separate article, and this article will serve to link to them. Please post feedback on thoughts for which you would prefer, as Project Hydra is very much a work in progress.
 
-[![](tgj5vwjrcjm3rdwf7g4p.png)](https://anitay.kinja.com/anitay-presents-project-hydra-versus-tenchi-muyo-1667362501)
 
-###### [AniTAY Presents: Project Hydra Versus Tenchi Mûyo!](https://anitay.kinja.com/anitay-presents-project-hydra-versus-tenchi-muyo-1667362501)
 
-Greetings all, and welcome to the inaugural article/trial run of Project Hydra. An idea sourced…
 
-[Read more](https://anitay.kinja.com/anitay-presents-project-hydra-versus-tenchi-muyo-1667362501)
 
 ![](u8znaq3etbigwx4sfajv.png) ![](1032601978110085035.jpg)
 

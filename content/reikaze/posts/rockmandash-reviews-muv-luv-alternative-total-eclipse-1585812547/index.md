@@ -13,13 +13,9 @@ More Muv-Luv! I'm sure all of you here on TAY is absolutely sick and tired of me
 
 You may ask... Why are you doing a review of this when [Dex has a perfectly good review out already?](https://tay.kinja.com/dexs-review-total-eclipse-1478426224) The reason is pretty simple. Dex wrote his review before playing Alternative, I'm writing this after I played Muv-Luv Alternative, thus our viewpoints for the reviews are different (but i'm sure he agrees with this review now). Because of this difference in viewpoint, I'd recommend you check out his review as he has a more positive spin on things.
 
-[![](./txhcwugkzko93gn0wnit.png)](https://tay.kinja.com/dexs-review-total-eclipse-1478426224)
 
-###### [Dex's Review: Total Eclipse](https://tay.kinja.com/dexs-review-total-eclipse-1478426224)
 
-Officially known by the rather long name Muv-Luv Alternative: Total Eclipse. This series was…
 
-[Read more](https://tay.kinja.com/dexs-review-total-eclipse-1478426224)
 
 ![](./bzn8zmgebltocnsxly1d.png)
 
@@ -77,13 +73,9 @@ I enjoyed Total Eclipse, as it was quenching my thirst for a story that was in t
 
 Don't get me wrong, this is not a bad show… in fact, I believe it has most the perks of Alternative like the excellent setting, good exposition, a great troop-like feel, and more things that [Dex](https://tay.kinja.com/muv-luv-alternative-the-tay-review-1546183909) and [I](http://tay.kotaku.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967?rev=1401861209) raved about in our Alternative reviews and frankly, I had a fantastic time with it. The problem is that in comparison, It's just not as good and it's the only one that got adapted, in an incomplete form. This means that Total Eclipse will only be just "good" to a good majority of the people who check this out because Muv-Luv and because Alternative will probably never get a full fledged adaptation, most people will check out the inferior side story without knowing the full potential of the series. To make Total Eclipse great, you'll have to check out Alternative, and we'll need the second half of Total Eclipse… but until then… it'll just be "good".
 
-[![](./vx1n5lx6vgvp3nv7mre8.png)](https://tay.kinja.com/muv-luv-alternative-the-tay-review-1546183909)
 
-###### [*Muv-Luv Alternative*: The TAY Review](https://tay.kinja.com/muv-luv-alternative-the-tay-review-1546183909)
 
-Today I'm reviewing Muv-Luv Alternative; the third part of the Muv-Luv visual novel saga that began
 
-[Read more](https://tay.kinja.com/muv-luv-alternative-the-tay-review-1546183909)
 
 ## Overall - 8/10, Polarization +0.5,-1
 
@@ -95,13 +87,9 @@ Today I'm reviewing Muv-Luv Alternative; the third part of the Muv-Luv visual no
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*. For An explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-[![](./1520891687004619076.png)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-###### [Rockmandash Rambles: *An Explanation on my Review System* (Updated 11/15/2015)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-If you’ve read any of my reviews and wanted to know why I did them the way I do, here’s an…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
 *This show is available on *[*Crunchyroll *](http://www.crunchyroll.com/total-eclipse)*for Free & Legal streaming.*\
 **

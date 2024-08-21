@@ -11,13 +11,9 @@
 
 [In preparation for Fate/stay night](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534), and because I felt like marathoning something with decent storytelling and an interesting world, I decided I'd rewatch Fate/zero. I've never been the biggest fan of Urobucher stuff, and I hated Aoki's directing in Aldnoah.Zero, but looking back, was I wrong about [Fate/Zero](http://tay.kotaku.com/rockmandash-reviews-fate-zero-ani-tay-1538163593?rev=1411377604292)?
 
-[![](./1476080727821779888.jpg)](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-###### [Rockmandash Reviews: *Type-Moon Marathon*](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-In preparation for the Fate/stay night: Unlimited Blade Works Adaptation by Ufotable, I decided to…
 
-[Read more](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
 Before we delve into my thoughts on Fate/Zero, I'm going to put my thoughts on if you should watch it before or after Fate/stay night. It's hard to say which to watch first without seeing Ufotable F/SN, but I'd based on my experience with FSN's VN and F/Z, I'd say that both are pretty good starting points. The Ending to Fate/Zero flows seamlessly into Fate/stay night, but many would debate that F/Z spoils too much of Fate/stay night. I personally think you should do F/Z then FSN, but it's really more about patience than anything at this point.
 
@@ -29,13 +25,9 @@ I don't love it like other Type-Moon stories; I admire it. I admire how Urobuchi
 
 I never got attached to it, even after the 3rd watch, and that's really my biggest gripe with it. A show that doesn't engage the viewer cannot be called great in my opinion. I love stories I can get absorbed into, stories with main characters I can relate to, and experience events with. I love stories like [Muv-Luv](https://rockmandash12.kinja.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967), [Steins;Gate](http://rockmandash12.kinja.com/rockmandash-reviews-steins-gate-visual-novel-1557340615), and [G-Senjou no Maou](http://tay.kotaku.com/g-senjou-no-maou-the-tay-review-1524540625): stories that suck you in for a roller coaster of a ride, and That's why, even though Fate/stay night may have a generic protagonist and it panders with high school tropes, I love it much more than Fate/Zero.
 
-[![](./dawudqmpimngnkpxt2zq.png)](https://rockmandash12.kinja.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967)
 
-###### [Rockmandash Reviews: *Muv-Luv & Alternative* \[Visual Novel\]](https://rockmandash12.kinja.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967)
 
-Welcome to Rockmandash Reviews, and this is my review of the highly regarded Muv-Luv Visual Novels
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967)
 
 ![](./gkdfcc97bbttbvdkcjok.jpg)
 

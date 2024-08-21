@@ -92,17 +92,11 @@ PS: <!-- -->Here’s<!-- --> some things worth mentioning, but don’t really ha
 
 Here’s<!-- --> two guides that helped me: <https://translate.google.com/translate?hl=en&sl=ja&tl=en&u=http%3A%2F%2F428.gkwiki2.com%2F&sandbox=1> &
 
-###### [Steam Community :: Error](https://steamcommunity.com/sharedfiles/filedetails/?id=1503746753)
 
-[Read more](https://steamcommunity.com/sharedfiles/filedetails/?id=1503746753)
 
 * Kinda spoiler here, but the normal end fucking sucks. There’s a true end, and you should try your damndest to get it on your first try. Ending it on the normal end could easily sour your experience. On a tangent, I hate the idea of a “true end” that you have to earn. When it’s so essential to the story, it only serves to punish players and ruin experiences. This is antiqueated gameplay and it really should be abolished.
 * Spike Chunsoft has a fascinating history that lead to 428. Was gonna include it in the review but it really shouldn’t be in the review. Click here for a read:
 
-[![](./lrilmbcix9hsapt9eugb.jpg)](https://rockmandash12.kinja.com/428-shibuya-scrambles-fascinating-history-1830043191)
 
-###### [*428: Shibuya Scramble*'s Fascinating History](https://rockmandash12.kinja.com/428-shibuya-scrambles-fascinating-history-1830043191)
 
-Heralded as one of the few games to receive the perfect 40/40 from Japanese magazine Famitsu, 428…
 
-[Read more](https://rockmandash12.kinja.com/428-shibuya-scrambles-fascinating-history-1830043191)

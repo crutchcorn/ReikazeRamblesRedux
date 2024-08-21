@@ -9,13 +9,9 @@
 
 It's that time of year again! [CON](https://tay.kinja.com/tay-goes-to-pax-the-second-day-a-conflict-of-interest-1628985137) [TIME](http://tay.kotaku.com/dragon-wins-dragon-con-1628703776/all)! I don't have the funds to go to PAX, but there's a local anime convention that is twice a year that I go to, known as SacAnime (in Sacramento, CA) I went to some really cool panels, saw some cool stuff, hung out with great friends, and had a lot of fun. I decided I'd do a write up on my thoughts.
 
-[![](./kwtvcba4zpbklpzv6cnp.jpg)](https://tay.kinja.com/tay-goes-to-pax-the-second-day-a-conflict-of-interest-1628985137)
 
-###### [TAY Goes to PAX: The Second Day (A Conflict of Interests)](https://tay.kinja.com/tay-goes-to-pax-the-second-day-a-conflict-of-interest-1628985137)
 
-The morning is pitch black again... it's a weird feeling waking up when it's still dark. I'm just…
 
-[Read more](https://tay.kinja.com/tay-goes-to-pax-the-second-day-a-conflict-of-interest-1628985137)
 
 ![](./nj3yjpierbyck2auegfb.jpg)
 
@@ -35,11 +31,9 @@ This is my 3rd time going to SacAime, I prepared this time, and I felt like I ha
 
 As par for the course for an anime convention... there were so many great cosplays, and they were AWESOME! My favorites were the lancer from F/Z and the teacher from Kill la Kill. People put some serious time into these cosplays, and they show. While I'm not a personal fan of the whole idea, I admire what they do, and they come out great. I took a bunch of pics of cosplays, check this [imgur](http://imgur.com/a/XIj0h#1) for it... but i'm an amateur at photography so some of the pics aren't that great.
 
-[![](./rrqwsuqs26qwwfb8mv44.jpg)](http://imgur.com/a/XIj0h#1)
 
-###### [SacAnime Summer 2014 RMD12](http://imgur.com/a/XIj0h#1)
 
-[Read more](http://imgur.com/a/XIj0h#1)
+
 
 ### Pretty much everyone in the industry who goes to panels are awesome
 
@@ -57,13 +51,9 @@ At the J Micheal Tatum Panel, I ran into some pretty interesting news. Apparentl
 
 Probably the most fun I had all week was during the fan Anime Debate panel. ([who would have thunk it?](https://anitay.kinja.com/lets-ani-debate-ani-debate-annoucement-topic-1621418976)) It was a lot of fun because there was actually back and forth discussion and such, unlike every other place where there was very little talking. The cool thing is that you'll probably run into people from that panel in other places, and it helps create friends. GO TO FAN PANELS! Btw, the guy who ran the panel was Paladincecil on youtube, and he should be uploading them soon. btw if you do check it out, I'm the annoying guy in the pokemon shirt :P.
 
-[![](./gx9fpqb5nfyll1tet2xe.png)](https://anitay.kinja.com/lets-ani-debate-ani-debate-annoucement-topic-1621418976)
 
-###### [Let's Ani-Debate! Ani-Debate Annoucement Topic](https://anitay.kinja.com/lets-ani-debate-ani-debate-annoucement-topic-1621418976)
 
-Here on Ani-TAY, we have very opinionated and passionate people. These people like to write and…
 
-[Read more](https://anitay.kinja.com/lets-ani-debate-ani-debate-annoucement-topic-1621418976)
 
 ### Merch: Hit and Miss
 
@@ -73,13 +63,9 @@ Cons always have a vender's hall... the place where your wallet goes empty. Most
 \
 Also... OTAKU STUFF IS EXPENSIVE >\_>
 
-[![](./dawudqmpimngnkpxt2zq.png)](https://rockmandash12.kinja.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967)
 
-###### [Rockmandash Reviews: *Muv-Luv & Alternative* \[Visual Novel\]](https://rockmandash12.kinja.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967)
 
-Welcome to Rockmandash Reviews, and this is my review of the highly regarded Muv-Luv Visual Novels
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967)
 
 ### Artist alleys don't always rock
 
@@ -109,12 +95,8 @@ Us seasonal anime watchers and people who care about character development and q
 
 Running on the theme of there's only a few shows people care about... yeah there's no wonder why the Japanese market hikes the prices up... because there's such a niche market. There was a lot of people there sure, but none of them gave a shit about 90% of what's out there. If it's not big like AoT, nobody cares and it won't sell well, especially in the west. There's a reason why [Under The Dog](https://anitay.kinja.com/rockmandash-rambles-why-you-should-fund-under-the-dog-1626833454) hasn't hit the kickstarter goal: because the anime fanbase here in the west don't care about the future, or the quality of the show. They only bandwagon on what their anime friend told them was good.... and the horrible part about that is they don't even go to legal sites to watch them... just piracy. This can't be sustainable for a market, and it truly shows that we are pennies to the Japanese market who buys stuff like this on a day to day basis, and watches all the types of shows. If you haven't read this yet, check out this [ANN post about Anime Economy](http://www.animenewsnetwork.com/feature/2012-03-05) that'll help you with understanding the industry a bit more.
 
-[![](./873254600827556273.png)](https://anitay.kinja.com/rockmandash-rambles-why-you-should-fund-under-the-dog-1626833454)
 
-###### [Why You Should Fund *Under The Dog*, and What this Kickstarter Represents](https://anitay.kinja.com/rockmandash-rambles-why-you-should-fund-under-the-dog-1626833454)
 
-When I first saw Under the Dog, I wasn't exactly sure what to think about it. I thought that it…
 
-[Read more](https://anitay.kinja.com/rockmandash-rambles-why-you-should-fund-under-the-dog-1626833454)
 
 Cons are a fun time, if you can get over the fans. I had a blast, and if you go to a con like this, I hope you do too.

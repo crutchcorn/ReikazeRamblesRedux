@@ -9,13 +9,9 @@
 
 Recently, I posted an article about my views on [Eroge in Visual Novels ](https://anitay.kinja.com/a-visual-novel-fans-opinion-on-eroge-1681073565)which was mostly about how I felt like they were doing a disservice to the genre by creating a stigma, how there should be a choice, and how I personally don't like them. I also happened to post that article to [/r/visualnovels](http://www.reddit.com/r/visualnovels/comments/2tc6l6/a_visual_novel_fans_opinion_on_eroge/), one of the biggest visual novel communities on the web. The response?* "Stop being so prude and selfish, If you don't like Eroge, you like the wrong medium."* So, I beg the question... What's wrong with liking [Visual Novels](http://tay.kotaku.com/the-beginners-guide-to-visual-novels-1541975662) and not liking Eroge?
 
-[![](b8koyvrkft81yhdblkig.jpg)](https://anitay.kinja.com/a-visual-novel-fans-opinion-on-eroge-1681073565)
 
-###### [A Visual Novel Fan's Opinion on Eroge](https://anitay.kinja.com/a-visual-novel-fans-opinion-on-eroge-1681073565)
 
-It seems like that the west has rediscovered the Visual Novel Genre, commonly referred to as Dating
 
-[Read more](https://anitay.kinja.com/a-visual-novel-fans-opinion-on-eroge-1681073565)
 
 ![](1091771054409362210.jpg)
 
@@ -25,11 +21,7 @@ I oppose eroge for the same reasons that many oppose[ fanservice](https://gizmod
 
 [![](1492995377198207782.jpg) ](https://gizmodo.com/ecchi-fan-service-is-a-sexist-relic-that-needs-to-go-aw-1580313926)
 
-###### [Ecchi Fan Service Is A Sexist Relic That Needs To Go Away](https://gizmodo.com/ecchi-fan-service-is-a-sexist-relic-that-needs-to-go-aw-1580313926)
 
-When you look at this still-shot from Highschool of the Dead, what are you meant to look at? If…
-
-[Read more](https://gizmodo.com/ecchi-fan-service-is-a-sexist-relic-that-needs-to-go-aw-1580313926)
 
 Why is it that people react like this, and why is this a problem with my viewpoint? Is the community too petty to accept someone with a viewpoint like this, just because the oppose it themselves, and what's the point for creating content for a community like this? Seriously, I really don't know. It's a waste of time to spend time promoting a genre in a story focused way, when the community doesn't put the narrative as the most important aspect. Why should I be a part of that community if they reject who I am?
 

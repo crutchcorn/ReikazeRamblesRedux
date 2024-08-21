@@ -27,11 +27,7 @@ Given that, you would assume the show is about looking at panties, but it’s no
 
 [![](./18acwizrqrnk5jpg.jpg) ](https://kotaku.com/why-zero-escape-virtues-last-reward-should-be-game-of-5972462)
 
-###### [Why *Zero Escape: Virtue's Last Reward* Should Be Game Of The Year](https://kotaku.com/why-zero-escape-virtues-last-reward-should-be-game-of-5972462)
 
-To describe why Zero Escape: Virtue's Last Reward was my favorite game of 2012 is to describe why I
-
-[Read more](https://kotaku.com/why-zero-escape-virtues-last-reward-should-be-game-of-5972462)
 
 It’s executed like a lighter version of Uchikoshi’s works: it’s not super hard SciFi like in the Zero Escape and Infinity series (Probably due to time restraints, this is a 12 episode anime after all), with the SciFi being pretty much irrelevant and focusing on the characters and scenerio at hand (with the world ending and all) but like everything he’s done, it’s done really well, and his writing style really shines through. It creates a great sense of mystery and like his other works, it slowly unravels that mystery in a very satisfying way. Every scene, regardless of if it’s important or not is done pretty well, and it really ramps up the tension and action later on. It’s pretty great.
 
@@ -45,35 +41,19 @@ If you only had a phrase to describe the visuals, the title of *Punch Line* is s
 
 [[](./njbj3pvrxfx8pxoamfns.mp4)](https://anitay.kinja.com/terror-in-resonance-the-ani-tay-review-1640199423)
 
-###### [*Terror in Resonance*: The Ani-TAY Review](https://anitay.kinja.com/terror-in-resonance-the-ani-tay-review-1640199423)
 
-Tokyo has been lulled into a sense of security in an alternate version of the 21st century.…
-
-[Read more](https://anitay.kinja.com/terror-in-resonance-the-ani-tay-review-1640199423)
 
 [[](./uohdbgi4rxsjt3uasad3.mp4)](https://anitay.kinja.com/garo-the-animation-the-ani-tay-review-1695909572)
 
-###### [*GARO: The Animation*: The *Ani-TAY* Review](https://anitay.kinja.com/garo-the-animation-the-ani-tay-review-1695909572)
 
-The king of the Valiante Kingdom launches a witch hunt under the advice of his advisor Mendoza.…
-
-[Read more](https://anitay.kinja.com/garo-the-animation-the-ani-tay-review-1695909572)
 
 [[](./flcr80vaunb6soyhigsy.mp4)](https://anitay.kinja.com/rage-of-bahamut-genesis-the-ani-tay-review-1676327262)
 
-###### [*Rage of Bahamut: Genesis*: The *Ani-TAY* Review](https://anitay.kinja.com/rage-of-bahamut-genesis-the-ani-tay-review-1676327262)
 
-Long ago in the land of Mistarcia, a magical realm where humans, gods, demons, and all sorts of…
 
-[Read more](https://anitay.kinja.com/rage-of-bahamut-genesis-the-ani-tay-review-1676327262)
 
-[![](./f8e9qj11o1bawebd1erh.jpg)](https://tay.kinja.com/kill-la-kill-the-ani-tay-review-1554090665)
 
-###### [*Kill la Kill*: The *Ani-TAY* Review](https://tay.kinja.com/kill-la-kill-the-ani-tay-review-1554090665)
 
-Over six years ago director Hiroyuki Imaishi and writer Kazuki Nakashima collaborated to create the
-
-[Read more](https://tay.kinja.com/kill-la-kill-the-ani-tay-review-1554090665)
 
 ***
 
@@ -139,10 +119,6 @@ I was pretty exited to see another *FLCL*-like absurd show that does not give a 
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)* and the rest of my *[*Infinity & Zero Escape *](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)[*Marathon here*](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)*. For An explanation of my review system, *[*check this out*](http://tay.kotaku.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-[![](./qxs5nisjzh1ndbpikw1p.jpg)](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)
 
-###### [Rockmandash Reviews: *Infinity & Zero Escape Marathon \[DONE!\]*](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)
 
-I’m pretty well known around here for being a Fate/fanboy, but if there’s one thing that I love…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)

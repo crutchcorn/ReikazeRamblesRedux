@@ -73,26 +73,14 @@ So, KyoAni: Thanks. Thanks for helping me get through dark times, thanks for mak
 
 *Thanks for reading, this is my article for the *[*KyoAni Appreciation Week*](https://anitay.kinja.com/announcing-kyoani-appreciation-week-s-1836579367)* and I hope you enjoyed it. Linked here are my KyoAni articles, so if you liked this one feel free to check those out.*
 
-[![](./1394850402356606536.png)](https://anitay.kinja.com/rockmandash-reviews-kanon-visual-novel-anime-1605160517)
 
-###### [Rockmandash Reviews: *Kanon* \[Visual Novel & Anime\]](https://anitay.kinja.com/rockmandash-reviews-kanon-visual-novel-anime-1605160517)
 
-Welcome to Rockmandash Reviews and Today we have the first entry into my Key Marathon: Kanon. As…
 
-[Read more](https://anitay.kinja.com/rockmandash-reviews-kanon-visual-novel-anime-1605160517)
 
-[![](./1533533613075919789.png)](https://rockmandash12.kinja.com/rockmandash-reviews-clannad-visual-novel-anime-1609437459)
 
-###### [Rockmandash Reviews: *Clannad* \[Visual Novel & Anime\]](https://rockmandash12.kinja.com/rockmandash-reviews-clannad-visual-novel-anime-1609437459)
 
-It’s only once in a blue moon that you’ll run into a story that fundamentally changes who you are.…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-clannad-visual-novel-anime-1609437459)
 
-[![](./1437033116284624675.png)](https://anitay.kinja.com/the-perfect-day-to-watch-one-of-my-favorite-anime-movie-1672053100)
 
-###### [The Perfect Time to Watch One of My Favorite Anime Movies - *The Disappearance of Haruhi Suzumiya*](https://anitay.kinja.com/the-perfect-day-to-watch-one-of-my-favorite-anime-movie-1672053100)
 
-It’s Mid-December. There’s nothing special about this time... but there’s a charm to that nothing…
 
-[Read more](https://anitay.kinja.com/the-perfect-day-to-watch-one-of-my-favorite-anime-movie-1672053100)

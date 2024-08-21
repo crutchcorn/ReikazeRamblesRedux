@@ -11,13 +11,9 @@
 
 Have you ever experienced something well regarded and great, then looked back to see what the creator has made before, only to be disappointed by the results? Today on Rockmandash Reviews, I’m reviewing the beginning of the [Infinity](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798) series,* Never 7: The End of Infinity*, a game that’s remarkably average on almost every way.
 
-[![](./qxs5nisjzh1ndbpikw1p.jpg)](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)
 
-###### [Rockmandash Reviews: *Infinity & Zero Escape Marathon \[DONE!\]*](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)
 
-I’m pretty well known around here for being a Fate/fanboy, but if there’s one thing that I love…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)
 
 ![](./1248096666025973645.png) ![](./1248096666087137933.jpg)
 

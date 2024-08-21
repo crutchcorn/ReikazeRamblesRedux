@@ -37,11 +37,7 @@ A-1 Pictures did a good job with* Magic Kaito*: everything is solid, it's a fun 
 
 [[](./1269606197877212519.mp4)](https://anitay.kinja.com/saekano-how-to-raise-a-boring-girlfriend-the-ani-tay-1693443663)
 
-###### [*Saekano - How to Raise a Boring Girlfriend:* The Ani-TAY Review](https://anitay.kinja.com/saekano-how-to-raise-a-boring-girlfriend-the-ani-tay-1693443663)
 
-Tomoya is your average hardcore otaku, obsessed with manga, anime, visual novels, you name it. One…
-
-[Read more](https://anitay.kinja.com/saekano-how-to-raise-a-boring-girlfriend-the-ani-tay-1693443663)
 
 ![](./o51hc7uwrnwlejco1iyj.png)
 
@@ -59,10 +55,6 @@ Kaito Kid isn't "Best anime evar" material, but it doesn't really need to be. Ev
 
 *Rockmandash is a frequent writer of Visual Novels and anime on *[*his blog*](http://rockmandash12.kinja.com/)* and AniTAY as well. Come and check them out if you are interested in reviews and opinion pieces on these topics! For an explanation of my review system, *[*check this out*](http://tay.kotaku.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*, and here's *[*my biases in reviewing*](http://rockmandash12.kinja.com/rockmandash-rambles-my-personal-biases-in-reviewing-1688152053)*.*
 
-[![](./g4w5timhzxkuwfh9wuua.png)](http://rockmandash12.kinja.com/)
 
-###### [RockmanDash Reviews](http://rockmandash12.kinja.com/)
 
-rockmandash12
 
-[Read more](http://rockmandash12.kinja.com/)

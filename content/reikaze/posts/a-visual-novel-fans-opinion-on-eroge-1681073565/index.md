@@ -13,11 +13,7 @@ It seems like that the west has rediscovered the[ Visual Novel Genre](https://ro
 
 [[](./dt2sgbswno93qzsckozl.mp4)](https://rockmandash12.kinja.com/the-beginners-guide-to-visual-novels-1541975662)
 
-###### [Rockmandash's Beginner's Guide To Visual Novels](https://rockmandash12.kinja.com/the-beginners-guide-to-visual-novels-1541975662)
 
-What exactly is a Visual Novel? Why should I care, and why are you talking about them? The Visual…
-
-[Read more](https://rockmandash12.kinja.com/the-beginners-guide-to-visual-novels-1541975662)
 
 Also, due to the nature of this topic, expect some opinions or issues you may disagree with, so I'd be really grateful if you came into this with an as open mind as possible. I'll try my best to represent both sides fairly. I do have my opinion though, and I'll spew them out. That being said, the article isn't exactly going to talk about the Eroge itself, which is more a moral issue that I don't want to sway people on. It's going to be more about the things that it influences rather than the content itself. I'm no SJW, and I'm not going to try to be one.
 
@@ -35,23 +31,15 @@ It's not just a cliche, and definitely it's not like reading "Playboy for the ar
 
 The H-scenes (aka Hentai Scenes, the scenes that display sex), dating elements, explicit content and everything that makes a dating sim so well known have overshadowed everything else about the genre, causing people to just assume that the genre is just weird text based adventure games with cute 2D anime girls that are focused around smut. This is a real shame, given that some of the most highly rated, [well known](https://rockmandash12.kinja.com/rockmandash-reviews-clannad-visual-novel-anime-1609437459) [anime are ](http://kotaku.com/steins-gate-the-kotaku-review-1559811854#_ga=1.50412905.1523386611.1417386122)[based off](http://anitay.kinja.com/rockmandash-reviews-kanon-visual-novel-anime-1605160517) [of visual novels](http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1613176306), and it ignores that some[ visual novels](http://kotaku.com/danganronpa-trigger-happy-havoc-the-kotaku-review-1520857478) [are well](http://kotaku.com/danganronpa-2-goodbye-despair-the-kotaku-review-1629788491) [known for](http://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485?rev=1415068987374#_ga=1.46190311.1523386611.1417386122)[ stellar stories](http://kotaku.com/kara-no-shojo-the-kotaku-review-1486926848#_ga=1.115016007.1523386611.1417386122), with [*Zero Escape: Virtue's Last Reward*](http://kotaku.com/why-zero-escape-virtues-last-reward-should-be-game-of-5972462) ([#Operationbluebird #ZE3](http://kotaku.com/fans-fight-to-bring-virtues-last-reward-back-to-life-1524369580)) almost winning a best game of the year from Kotaku. When looking from the outside in like Patricia did, you can't really tell, but if you delve in, it's like there are two genres in Visual Novels, but with the same name: The Visual Novel written for the sake of fanservice and sex scenes, and my preferred version of Visual Novel, the ones written for a story. Some of the best stories I've ever experienced have been from visual novels, because it's inherently a [great story](http://tay.kotaku.com/storytelling-and-gameplay-in-video-games-1571189453)[telling](http://tay.kotaku.com/understanding-the-makings-of-a-video-game-story-1572747131) [medium](http://tay.kotaku.com/what-is-a-video-game-1573864350), but eroge just hinders the spread of this genre because it creates a stigma.
 
-[![](./1533533613075919789.png)](https://rockmandash12.kinja.com/rockmandash-reviews-clannad-visual-novel-anime-1609437459)
 
-###### [Rockmandash Reviews: *Clannad* \[Visual Novel & Anime\]](https://rockmandash12.kinja.com/rockmandash-reviews-clannad-visual-novel-anime-1609437459)
 
-It’s only once in a blue moon that you’ll run into a story that fundamentally changes who you are.…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-clannad-visual-novel-anime-1609437459)
 
 I spend a lot of time over on AniTAY and TAY talking about stories in visual novels, and so does a lot of the visual novel community. Both of the largest visual novel communities ([Fuwanovel ](http://forums.fuwanovel.org/)and [Reddit](http://www.reddit.com/r/visualnovels/)) spend much of their time try to open peoples' minds and try the medium this medium already has a barrier of entry, because let's face it: How many gamers really want to spend their time reading? Adding Eroge into the mix just makes this even harder for people to get into it, and conflicts with the interest of many in the community. There are social norms that this community doesn't follow, and because of this, there are a lot of great works that are really hard to talk about. I can't just recommend stuff like [*G-Senjou no Maou*](https://rockmandash12.kinja.com/g-senjou-no-maou-the-tay-review-1524540625) to people, because there are people out there that would probably look down upon me because of this recommendation due to that one fact, and ignoring everything else (Usami Haru = Best Girl :P), which just gets me down. The stigma is real, and it's depressing.
 
 [[](./1529558210760817480.mp4)](https://rockmandash12.kinja.com/g-senjou-no-maou-the-tay-review-1524540625)
 
-###### [RockmanDash Reviews: *G-Senjou no Maou* \[Visual Novel\]](https://rockmandash12.kinja.com/g-senjou-no-maou-the-tay-review-1524540625)
 
-While Visual Novels usually slow affairs with either meticulous writing or Slice of life, There’s…
-
-[Read more](https://rockmandash12.kinja.com/g-senjou-no-maou-the-tay-review-1524540625)
 
 ## Eroge is there, whether you like it or not.
 
@@ -61,13 +49,9 @@ You take it, or you leave it. If you are here for the story and want to experien
 
 If you like VN's as a storytelling medium [like I do](https://rockmandash12.kinja.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739), you will run into these scenes whether you like them or not, and you have to deal with them if you want to experience them. Unlike with AA versions on Steam which make it very easy to get back H-Scenes (even with [*IMHHW*](http://kotaku.com/if-my-heart-had-wings-the-kotaku-review-876585712), you can easily go to Fuwa and get a 18+ version), if there's H-Scenes, you are pretty much stuck with them and there's very little to get around it. With many fan translated VNs and most of Mangagamer's releases, AA (All Ages) versions rarely get translated, and some of them years after the original. (It wasn't until 2014 that you could play a English version of *Fate/stay night *without the H-Scenes, and the game originally came out in 2004.) If you are interested in the story, you better be interested for eroge, because there is rarely a way to get them out. The translators and publishers for the most part don't give a shit whether you like them or not. Censorship patches are not common, while the other way around is pretty common for AA games. This is increasingly frustrating as more and more VNs enter the mainstream market like [*Steins;Gate*](http://kotaku.com/steins-gate-the-kotaku-review-1559811854) and [*Dangan*](http://kotaku.com/danganronpa-trigger-happy-havoc-the-kotaku-review-1520857478)[*ronpa*](http://kotaku.com/danganronpa-2-goodbye-despair-the-kotaku-review-1629788491) with a great storytelling experience, only to learn that these are a minority in a genre full of Hentai.
 
-[![](./707380194186916753.jpg)](https://rockmandash12.kinja.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739)
 
-###### [Rockmandash Rambles: Why I love Visual Novels so much, and How I got into this Insane Genre](https://rockmandash12.kinja.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739)
 
-I was writing my response tword Dex’s article about Storytelling and Gameplay in Video Games.....…
 
-[Read more](https://rockmandash12.kinja.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739)
 
 ![](./nkc5ro38pwindpvgmgec.jpg)
 
@@ -75,11 +59,7 @@ This lack of choice is frustrating primarily because it shows a complete disrega
 
 [![](./18v1g7bzl8noajpg.jpg) ](https://kotaku.com/why-i-am-reluctantly-okay-with-cutting-the-sex-out-of-v-919482294)
 
-###### [Why I am Reluctantly Okay With Cutting the Sex Out Of Visual Novels](https://kotaku.com/why-i-am-reluctantly-okay-with-cutting-the-sex-out-of-v-919482294)
 
-Late last month, If My Heart Had Wings, a winner of several visual novel related awards, was…
-
-[Read more](https://kotaku.com/why-i-am-reluctantly-okay-with-cutting-the-sex-out-of-v-919482294)
 
 Every now and then, a very common complaint from the visual novel community appears: *"If you are playing an eroge, why are you complaining about the H-scenes?" ""Why must visual novels be censored?". *By asking these questions, the people are essentially ignoring other ideals and opinions out there, which infuriates me to no end. I'm not mad about the community holding the values they have: I'm mad about how the community as a whole does not respect the opinions of others when it comes to this topic, and does not acknowledge that others may have another viewpoint. While they are just scenes in an obscure medium, they represent something much bigger. This is an issue on morality, an issue based around the core viewpoints that surround things like sexuality, and those are things you can't really try to change. Ignoring the fact that there are other opinions here is just rude, and I wish the community as a whole would learn to be more accepting, considering what they are even dealing with. Telling others to be open and try something else, then being closed minded to the thoughts of the people who have been told to be open is hypocrisy at its finest, and I wish this sentiment went away.
 
@@ -97,21 +77,13 @@ As of late, because of the efforts of indies and publishers like Sekai project t
 
 [![](./1492995377198207782.jpg) ](https://gizmodo.com/ecchi-fan-service-is-a-sexist-relic-that-needs-to-go-aw-1580313926)
 
-###### [Ecchi Fan Service Is A Sexist Relic That Needs To Go Away](https://gizmodo.com/ecchi-fan-service-is-a-sexist-relic-that-needs-to-go-aw-1580313926)
 
-When you look at this still-shot from Highschool of the Dead, what are you meant to look at? If…
-
-[Read more](https://gizmodo.com/ecchi-fan-service-is-a-sexist-relic-that-needs-to-go-aw-1580313926)
 
 I'm not saying that my experience is everything, but out of all of the Visual Novels I've played (which is probably around 40... There's a lot I want to go through but haven't gotten around to yet), I've only seen two of them that used H-scenes effectively to enhance the story and that's* *[*Saya no Uta*](https://kotaku.com/saya-no-uta-the-song-of-saya-the-kotaku-review-509012142), and [*Muv-Luv *](http://tay.kotaku.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967)[*Alternative*](http://tay.kotaku.com/muv-luv-alternative-the-tay-review-1546183909), both using it to show how fucked up the situation is, and to show you the horrors of the respective worlds, which most don't really aim for. The typical use of a sex scene in a narrative is to show that the relationship is closer, with sex being a peak of the relationship, but I find that this argument falls apart. There are so many other ways you can display a close bond, and those come without the inherent issues that a sex scene has, with its atmosphere/immersion breaking, alienating a section of the audience, distracting from the plot points and relationships that the characters have in hand. Take [Key's VNs](http://tay.kotaku.com/rockmandash-reviews-key-marathon-wip-1606707641?rev=1421965085410) for an example, one of the few exceptions people have with AA versions of VNs. They portray bonds via character interactions, and subtle changes in a relationship that build up into something great, something amazing.
 
 [![](./18obxfryyxtuzjpg.jpg) ](https://kotaku.com/saya-no-uta-the-song-of-saya-the-kotaku-review-509012142)
 
-###### [*Saya no Uta — The Song of Saya*: The Kotaku Review](https://kotaku.com/saya-no-uta-the-song-of-saya-the-kotaku-review-509012142)
 
-Saya no Uta — The Song of Saya is often called the single most fucked-up game ever released—and…
-
-[Read more](https://kotaku.com/saya-no-uta-the-song-of-saya-the-kotaku-review-509012142)
 
 ![](./pnarnljzbu7ilf6ak8nc.jpg)
 
@@ -119,11 +91,7 @@ Plus, in our modern day society, sex doesn't necessarily correlate to a close bo
 
 [![](./18gjsvntlrc1ijpg.jpg) ](https://kotaku.com/school-days-hq-is-a-beautiful-shocking-yet-flawed-tit-5937487)
 
-###### [*School Days HQ* is a Beautiful, Shocking, Yet Flawed Title](https://kotaku.com/school-days-hq-is-a-beautiful-shocking-yet-flawed-tit-5937487)
 
-School Days HQ is a visual novel about a highschooler trapped in a love triangle with the girl of…
-
-[Read more](https://kotaku.com/school-days-hq-is-a-beautiful-shocking-yet-flawed-tit-5937487)
 
 If you see any of my writing about Visual Novels, you will see that I am personally opposed to them, and just the inclusion of them can be a negative for me, but I'm opposed to them because I believe they serve no real value, they do not benefit your experience with the medium and only serve to stir trouble. I'm not opposed to them because of what they are, but how they are done. I'm not opposed to it because of moral reasons, and because this is an issue of morality, it's up to you to make your own viewpoint on this topic. I have mine, and I don't want them to sway yours. Thank you for reading what is essentially my rambling on my main thoughts on eroge in visual novels, and I hope you can learn to respect the different viewpoints and games that this genre has.
 

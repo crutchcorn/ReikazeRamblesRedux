@@ -39,11 +39,7 @@ I like to think of these Chinese tablets as both similar to those those [budget 
 
 [![](19cgpikna6oivjpg.jpg) ](https://lifehacker.com/three-cheap-but-awesome-alternatives-to-the-apple-cinem-1500692411)
 
-###### [Three Cheap but Awesome Alternatives to the Apple Cinema Display](https://lifehacker.com/three-cheap-but-awesome-alternatives-to-the-apple-cinem-1500692411)
 
-Whether you're a fan of Apple or not, you have to admit, they make some of the most beautiful…
-
-[Read more](https://lifehacker.com/three-cheap-but-awesome-alternatives-to-the-apple-cinem-1500692411)
 
 ***
 
@@ -61,11 +57,7 @@ Same can be said for the screen: it’s a beautiful high resolution IPS display,
 
 [![](r8oyfjm3rvaevx0hjxaw.jpg) ](https://gizmodo.com/ipad-air-2-review-when-thin-actually-means-something-1652966327)
 
-###### [iPad Air 2 Review: When Thin Actually Means Something](https://gizmodo.com/ipad-air-2-review-when-thin-actually-means-something-1652966327)
 
-Gadgets get thinner every year. That's a given. But the iPad Air 2 crosses a threshold where thin…
-
-[Read more](https://gizmodo.com/ipad-air-2-review-when-thin-actually-means-something-1652966327)
 
 There are some downsides to the design however, and the one that through me off the most is the absolutely baffling placement of pretty much everything. It feels like the placement of the ports, the buttons etc, are different for the sake of being different, and it’s kinda hard to get used to. All of the Buttons are on the left side which is different from the typical right, and all of the ports are on the very left bottom right next together. To be fair, this works out really well when using the tablet in landscape, as nothing is really blocking your hand and it’s easy to reach the buttons, but it’s really hard to get used to and has been throwing me off since I got it.
 
@@ -109,13 +101,9 @@ As for performance, I have no complaints, but those who are pickier than will pr
 
 I didn’t watch too many movies on this tablet because I try to avoid black bezels as much as possible and 4:3 isn’t the best ratio when it comes with videos, but from the time I spent watching videos ([usually anime](http://anitay.kinja.com/)), it’s pretty nice due to the brilliant screen. You can say that about a lot of tablets though, so yeah...
 
-[![](q5ycshrmzzlhsbww3rec.png)](http://anitay.kinja.com/)
 
-###### [AniTAY | Everything Anime and Beyond](http://anitay.kinja.com/)
 
-Everything Anime and Beyond
 
-[Read more](http://anitay.kinja.com/)
 
 ![](1231932436620636049.jpg)
 
@@ -123,11 +111,7 @@ As for gaming, you have a wide selection of games to choose from, because you ha
 
 [[](dt2sgbswno93qzsckozl.mp4)](https://rockmandash12.kinja.com/the-beginners-guide-to-visual-novels-1541975662)
 
-###### [Rockmandash's Beginner's Guide To Visual Novels](https://rockmandash12.kinja.com/the-beginners-guide-to-visual-novels-1541975662)
 
-What exactly is a Visual Novel? Why should I care, and why are you talking about them? The Visual…
-
-[Read more](https://rockmandash12.kinja.com/the-beginners-guide-to-visual-novels-1541975662)
 
 ![](./1231932436717941393.jpg)
 
@@ -161,10 +145,6 @@ For the low cost of $200 dollars, you’re getting a device that aims high and m
 
 *Kevin Mai - Rockmandash12 is a frequent writer of Visual Novels and anime on *[*his blog*](http://rockmandash12.kinja.com/#_ga=1.122760139.1523386611.1417386122)* and the *[*AniTAY Blog*](http://anitay.kinja.com/#_ga=1.107530946.1523386611.1417386122)*, but does have a pretty deep interest in the world of Tech. If you’re interested, come check this out!*
 
-[![](g4w5timhzxkuwfh9wuua.png)](http://rockmandash12.kinja.com/#_ga=1.122760139.1523386611.1417386122)
 
-###### [RockmanDash Reviews](http://rockmandash12.kinja.com/#_ga=1.122760139.1523386611.1417386122)
 
-rockmandash12
 
-[Read more](http://rockmandash12.kinja.com/#_ga=1.122760139.1523386611.1417386122)

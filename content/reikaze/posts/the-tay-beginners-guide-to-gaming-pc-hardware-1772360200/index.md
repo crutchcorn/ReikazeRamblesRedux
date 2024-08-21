@@ -17,11 +17,9 @@ If you’re not tech savvy or saw the massive amounts of information about PC ga
 
 If you’re on a budget, I’d recommend checking out my Budget gaming guide to squeeze all the performance you can get out of your dollar.
 
-[![](./bex3qvengvxqz9vxersf.png)](http://tay.kinja.com/preview/the-tay-beginner-s-guide-to-budget-pc-gaming-1772573128?rev=1461369285208)
 
-###### [Kinja](http://tay.kinja.com/preview/the-tay-beginner-s-guide-to-budget-pc-gaming-1772573128?rev=1461369285208)
 
-[Read more](http://tay.kinja.com/preview/the-tay-beginner-s-guide-to-budget-pc-gaming-1772573128?rev=1461369285208)
+
 
 ***
 
@@ -41,11 +39,7 @@ When learning about anything, there’s always a new set of terminology to learn
 
 [![](./965146201195914388.jpg) ](https://lifehacker.com/how-to-build-a-computer-lesson-1-hardware-basics-5826509)
 
-###### [How to Build a Computer, Lesson 1: Hardware Basics](https://lifehacker.com/how-to-build-a-computer-lesson-1-hardware-basics-5826509)
 
-Building a computer from scratch gives you the perfect machine for your needs, but it can be…
-
-[Read more](https://lifehacker.com/how-to-build-a-computer-lesson-1-hardware-basics-5826509)
 
 **CPU (Central Processing Unit) -** The “brains” of your computer, what runs the programs you are using. In games, a CPU runs all the logic and physics behind it. This affects the speed of your everyday tasks, as well as in games.
 
@@ -103,11 +97,7 @@ Lifehacker’s Guide:
 
 [![](./zdpg8ivxuaub1xsx4qkt.png) ](https://lifehacker.com/how-to-build-a-computer-the-complete-guide-5828747)
 
-###### [How to Build a Computer: The Complete Guide](https://lifehacker.com/how-to-build-a-computer-the-complete-guide-5828747)
 
-Building a computer from scratch gives you the perfect machine for your needs, but it can be…
-
-[Read more](https://lifehacker.com/how-to-build-a-computer-the-complete-guide-5828747)
 
 ***
 
@@ -333,7 +323,7 @@ G/O Media may get a commission
 
 [](https://smile.amazon.com/PX277-27-inch-2560x1440-FreeSync-Technology/dp/B01HPDAF68/ref=sr_1_14?ascsubtag=344f94cde4882aaca973f3fc1b39ec57548e4ca0\&ie=UTF8\&keywords=freesync\&qid=1473842109\&sr=8-14\&tag=kinja-20)
 
-[![](./lflzhxnwvyljrvkpgysv.jpg)](https://smile.amazon.com/PX277-27-inch-2560x1440-FreeSync-Technology/dp/B01HPDAF68/ref=sr_1_14?ascsubtag=344f94cde4882aaca973f3fc1b39ec57548e4ca0\&ie=UTF8\&keywords=freesync\&qid=1473842109\&sr=8-14\&tag=kinja-20)
+
 
 ## [Pixio PX277 27-inch 2560x1440 144Hz AMD FreeSync IPS Technology WQHD...](https://smile.amazon.com/PX277-27-inch-2560x1440-FreeSync-Technology/dp/B01HPDAF68/ref=sr_1_14?ascsubtag=344f94cde4882aaca973f3fc1b39ec57548e4ca0\&ie=UTF8\&keywords=freesync\&qid=1473842109\&sr=8-14\&tag=kinja-20)
 

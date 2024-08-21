@@ -41,10 +41,6 @@ And here’s the art book that came with it!
 
 Once again, big thanks to NIS America do doing this release and supporting AniTAY. If you’re interested in getting your own copy, [click this link](http://store.nisamerica.com/a-lull-in-the-sea-premium-bonus-set), and if if you want to see the quote from my review on the box, check out the [standard edition](http://store.nisamerica.com/a-lull-in-the-sea-standard-edition-bundle-dvd) which comes out july 14th.
 
-[![](./1323445382693668965.png)](https://rockmandash12.kinja.com/rockmandash-reviews-nagi-no-asukara-anime-1567969970)
 
-###### [Rockmandash Reviews: *Nagi no Asukara* \[Anime\]](https://rockmandash12.kinja.com/rockmandash-reviews-nagi-no-asukara-anime-1567969970)
 
-Welcome to Rockmandash Reviews! Today I’m reviewing one of my favorite anime, Nagi no Asukara, a…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-nagi-no-asukara-anime-1567969970)

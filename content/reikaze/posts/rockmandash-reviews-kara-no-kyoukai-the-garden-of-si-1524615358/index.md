@@ -9,13 +9,9 @@
 
 Welcome to Rockmandash Reviews and today on Ani-Tay is part 5 of my [Type-Moon Marathon](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534), we have series of movies made by Ufotable & Type-Moon called *Kara no Kyoukai: The Garden of Sinners*. *Kara no Kyoukai* is the first series of Type-Moon adaptations by Ufotable, so the question has to be asked: is it a good series? Let’s find out in this review!
 
-[![](./1476080727821779888.jpg)](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-###### [Rockmandash Reviews: *Type-Moon Marathon*](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-In preparation for the Fate/stay night: Unlimited Blade Works Adaptation by Ufotable, I decided to…
 
-[Read more](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
 ![](./1313370283695264404.jpg)
 
@@ -102,21 +98,13 @@ Kara no Kyoukai is the quintessence of Modern Anime. It does so much right, even
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*, and the rest of my *[*Type-Moon Marathon here*](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)*. For An explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-[![](./1476080727821779888.jpg)](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-###### [Rockmandash Reviews: *Type-Moon Marathon*](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-In preparation for the Fate/stay night: Unlimited Blade Works Adaptation by Ufotable, I decided to…
 
-[Read more](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)
 
-[![](./1520891687004619076.png)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-###### [Rockmandash Rambles: *An Explanation on my Review System* (Updated 11/15/2015)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-If you’ve read any of my reviews and wanted to know why I did them the way I do, here’s an…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
 About distribution with Kara no Kyoukai… Good Luck! Kara no Kyoukai got published by Aniplex, and will cost you a metric shit-ton to buy, and it’s not available for streaming anywhere…. It might be hard to get, but you should try to watch it. In my opinion, Distribution is the biggest hurdle with this series, at least in North America.
 

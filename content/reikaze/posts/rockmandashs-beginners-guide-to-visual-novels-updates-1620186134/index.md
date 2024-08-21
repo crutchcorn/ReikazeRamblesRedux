@@ -12,8 +12,3 @@ If you've only read this when it came out, I've been updating it quite a bit and
 
 [[](./dt2sgbswno93qzsckozl.mp4)](https://rockmandash12.kinja.com/the-beginners-guide-to-visual-novels-1541975662)
 
-###### [Rockmandash's Beginner's Guide To Visual Novels](https://rockmandash12.kinja.com/the-beginners-guide-to-visual-novels-1541975662)
-
-What exactly is a Visual Novel? Why should I care, and why are you talking about them? The Visual…
-
-[Read more](https://rockmandash12.kinja.com/the-beginners-guide-to-visual-novels-1541975662)

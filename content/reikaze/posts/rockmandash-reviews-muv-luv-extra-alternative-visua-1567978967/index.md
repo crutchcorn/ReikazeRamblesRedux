@@ -99,13 +99,9 @@ I love *Muv-Luv*. It has it’s ups and downs, but it’s a prime example of why
 
 Also, if you want another opinion, check out Dexomega’s reviews on [*Muv Luv*](https://anitay.kinja.com/muv-luv-the-tay-review-1541968420) and *A*[*lternative*](http://tay.kotaku.com/muv-luv-alternative-the-tay-review-1546183909).
 
-[![](./1444855517881548687.jpg)](https://anitay.kinja.com/muv-luv-the-tay-review-1541968420)
 
-###### [*Muv-Luv*: The Ani-TAY Review](https://anitay.kinja.com/muv-luv-the-tay-review-1541968420)
 
-Today I’m reviewing Muv-Luv, a visual novel developed by âge. On the surface, this game is a…
 
-[Read more](https://anitay.kinja.com/muv-luv-the-tay-review-1541968420)
 
 ## Overall - 9/10, Polarization +1,-3
 
@@ -115,12 +111,8 @@ Today I’m reviewing Muv-Luv, a visual novel developed by âge. On the surface,
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*. For An explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-[![](./1520891687004619076.png)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-###### [Rockmandash Rambles: *An Explanation on my Review System* (Updated 11/15/2015)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-If you’ve read any of my reviews and wanted to know why I did them the way I do, here’s an…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
 Edit - Revised on 8/16/20 to update and polish the review. Major changes to flow, cut some elements that are not relevant to the steam release.

@@ -9,7 +9,7 @@
 
 Every season, we here on Ani-TAY do a list of [Anime that You Should be Watching](https://anitay.kinja.com/the-twelve-anime-of-summer-2014-to-watch-1620574151) around the middle of the season, an article type that we blatantly stole from [Richard Eisenbeis](http://kotaku.com/the-five-anime-of-summer-2014-you-should-be-watching-1619958660). While this article is an awesome collaboration and it's a great help for those people interested in the currently airing anime, it's not perfect. There are a few gripes with the typical seasonal anime coverage that I (Rockmandash12) want to address with this article.
 
-[![](./1280773245618965028.jpg)](https://anitay.kinja.com/the-twelve-anime-of-summer-2014-to-watch-1620574151)
+
 
 ![](./gpoi43yzdlpfqusd2es6.png)
 
@@ -59,7 +59,7 @@ If you do not like Boobs and Trains, don't watch *Rail Wars!*, as that's all it 
 
 **Shows:** *[*Invaders of the Rokujyouma*](https://anitay.kinja.com/invaders-of-the-rokujyouma-rockmandashs-ani-tay-revi-1639945045)*, Locodol, Magimoji Rurumo, Tokyo ESP
 
-[![](./ouwv0gg3ifaeoteqjif6.png)](https://anitay.kinja.com/invaders-of-the-rokujyouma-rockmandashs-ani-tay-revi-1639945045)
+
 
 **Description:** These are shows that while enjoyable, have flaws that keep it from being good. Sometimes they have great moments and really bad moments making the whole thing just average, and other times they're just average overall.
 
@@ -141,7 +141,7 @@ While fans of the manga might complain about the streamlining and excision of ce
 
 **Justification & Thoughts:** [*Fate/illya*](https://anitay.kinja.com/rockmandash-reviews-fate-kaleid-liner-prisma-illya-m-1630868385) is an oddity. It's a magical girl spinoff show in the Fate universe that's much more lighthearted than many shows in the Fate series, but it slowly starts to drift in the direction of Type-Moon writing the further the show goes along.
 
-[![](./1471910960385305492.png)](https://anitay.kinja.com/rockmandash-reviews-fate-kaleid-liner-prisma-illya-m-1630868385)
+
 
 [*Hanamonogatari*](https://kotaku.com/hanamonogatari-is-little-more-than-two-hours-of-philoso-1625437663) is a 5 episode show crammed into one 2 hour marathon, and it's more Monogatari. It's enjoyable as always, but it's a lot of dialogue to slog through that's hard to pay attention to, and it's missing some of the humor Monogatari is known for.
 
@@ -163,7 +163,7 @@ Yamishibai 2 is a series of shorts, each no longer than an average song, based o
 
 **Justification & Thoughts:** [*Ao Haru Ride*](https://anitay.kinja.com/ao-haru-ride-rockmandashs-ani-tay-review-1631496186) is a shoujo. A really good one, but a by the books shoujo, with all the shoujo tropes in place. Production I.G. did a great job with handling the story and the presentation to make the show enjoyable, but the show isn't really original in any way.
 
-[![](./gkvyuasiokv4q8vqwm0t.png)](https://anitay.kinja.com/ao-haru-ride-rockmandashs-ani-tay-review-1631496186)
+
 
 [*HaNaYaMaTa*](https://anitay.kinja.com/hanayamata-the-ani-tay-review-1639781820) is unabashedly sweet with beautifully animated characters and dancing, spates of amusing dialogue, and a message of friendship. Yet beyond that, the series provides a compelling tale of overcoming and accepting one's deficiencies, as well as an array of deeper human emotions, such that a simple story about five young girls' desire to dance yosakoi can be appreciated and enjoyed by all.
 

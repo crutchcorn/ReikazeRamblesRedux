@@ -11,7 +11,7 @@
 
 This certainly was a Sayori panel, but not so much a *Nekopara* panel. Days in advance Deciga announced they’d be crashing this panel, and they did it in a glorious fashion. We got some interesting facts, some cool announcements, and lots of trolling.
 
-**FYI: **During this panel there was no photo or video available, so I’ll just be using stock footage or footage the Sekai Project people took. Thanks for understanding.
+**FYI:** During this panel there was no photo or video available, so I’ll just be using stock footage or footage the Sekai Project people took. Thanks for understanding.
 
 ***
 
@@ -22,7 +22,7 @@ It was weird to see, but they got their Q & A up really quick, with the translat
 **Q:** What’s your favorite cat girl?\
 **A:** Cinnamon. (*AKA YOUR WAIFU WARS ARE POINTLESS :P*)\
 \
-**Q: **Are you going to make a volume 3? Are there going to be scale figures?\
+**Q:** Are you going to make a volume 3? Are there going to be scale figures?\
 **A:** Yes there is a volume 3 in production. (The Crowd goes wild)\
 In terms of scale figures, it determines how mini figures do.... (the mini-figures haven’t been announced)\
 \

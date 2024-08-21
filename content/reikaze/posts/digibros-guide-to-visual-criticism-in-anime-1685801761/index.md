@@ -12,10 +12,6 @@ If you didn't know, I'm a pretty big fan of[ Digibro](https://www.youtube.com/ch
 \
 Also on a side note, YouTube apparently hates anime YouTubers as Digibro's channel was seized in the very same way that [DouchebagChocolat's channel](https://www.youtube.com/watch?v=DEeMTprAZaA) was, and this was only uploaded now because they finally gave his channel back... This shit has to stop...
 
-[![](./nsudnmjwp10paaukq7mi.jpg)](https://www.youtube.com/channel/UCHhnf3RgHabfk5f2gUX6EVQ)
 
-###### [Digi-née](https://www.youtube.com/channel/UCHhnf3RgHabfk5f2gUX6EVQ)
 
-I'm a ravenous consumer of every media form, and I can't enjoy myself unless I'm analyzing…
 
-[Read more](https://www.youtube.com/channel/UCHhnf3RgHabfk5f2gUX6EVQ)

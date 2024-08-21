@@ -96,13 +96,9 @@ If there’s anything you think that’s missing, that’s probably because I ha
 
 **Why this rocks:** This game has an amazing atmosphere, great writing, and it keeps you engaged with an interesting premise. This series has an atmosphere that is unmatched by any other game, and it’s a must play.
 
-[![](./1313401717743036996.png)](https://rockmandash12.kinja.com/why-i-love-999-nine-hours-nine-persons-nine-doors-so-1688146811)
 
-###### [Rockmandash Reviews: *999: Nine Hours, Nine Persons, Nine Doors *- My Favorite Game](https://rockmandash12.kinja.com/why-i-love-999-nine-hours-nine-persons-nine-doors-so-1688146811)
 
-When trapped in a do or die situation, how do you react? How do you change when faced with a…
 
-[Read more](https://rockmandash12.kinja.com/why-i-love-999-nine-hours-nine-persons-nine-doors-so-1688146811)
 
 **If you like this one, play** [*Ever 17*](http://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485?rev=1415068987374#_ga=1.175364071.473183827.1418699279)*, *[*Remember 11*](http://rockmandash12.kinja.com/rockmandash-reviews-remember-11-the-age-of-infinity-1687285802)*, *[*Never 7*](http://rockmandash12.kinja.com/rockmandash-reviews-never-7-the-end-of-infinity-visu-1677618797)*, *[*Zero Escape: Virtue’s Last Reward*](http://rockmandash12.kinja.com/zero-escape-virtues-last-reward-is-nearly-perfect-expe-1713427517#_ga=1.227865688.473183827.1418699279)* (3DS, Vita), *[*Steins;Gate*](http://tay.kotaku.com/rockmandash-reviews-steins-gate-visual-novel-anime-1557342550)*, Steins;Gate 0, Chaos; Head, *[*I/O*](http://tay.kotaku.com/rockmandash-reviews-i-o-visual-novel-1563212529)*, Root Double*
 
@@ -116,13 +112,9 @@ When trapped in a do or die situation, how do you react? How do you change when 
 
 **Why this rocks: **All of the feelz ;-;. It’s pretty much like the anime, but there are a few routes that are in the game that go further or are totally missing from the anime. If you don’t know anything about[*Clannad*](http://rockmandash12.kinja.com/rockmandash-reviews-clannad-visual-novel-anime-1609437459/all), it’s a great story with excellent characters, excellent writing, and is just amazing overall. This game really impacts you with a great message, great characters, and it floods you with feelz.
 
-[![](./zgvvowgxrtcucc5tc4z0.png)](http://rockmandash12.kinja.com/rockmandash-reviews-clannad-visual-novel-anime-1609437459/all)
 
-###### [Rockmandash Reviews: Clannad \[Visual Novel & Anime\]](http://rockmandash12.kinja.com/rockmandash-reviews-clannad-visual-novel-anime-1609437459/all)
 
-It’s only once in a blue moon that you’ll run into a story that fundamentally changes who you are.…
 
-[Read more](http://rockmandash12.kinja.com/rockmandash-reviews-clannad-visual-novel-anime-1609437459/all)
 
 **If you like this one, play** [Anything made by Key](http://tay.kotaku.com/rockmandash-reviews-key-marathon-wip-1606707641#_ga=1.193189992.473183827.1418699279): [*Kanon*](http://anitay.kinja.com/rockmandash-reviews-kanon-visual-novel-anime-1605160517#_ga=1.3987829.473183827.1418699279)*, *[*Rewrite*](http://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1609445042)*, Little Busters, *[*Katawa Shoujo*](http://tay.kotaku.com/katawa-shoujo-review-510682746), and the fantastic* White Album 2* (no complete English translation yet, but it’s going to be great when it comes out. Check out the anime).
 
@@ -180,11 +172,7 @@ Edit: I have to mention [**Muv-Luv**](http://tay.kotaku.com/rockmandash-reviews-
 
 [![](./18j0s6xvwc6ecjpg.jpg) ](https://kotaku.com/this-stylish-supernatural-ios-adventure-is-so-damned-go-5883274)
 
-###### [This Stylish Supernatural iOS Adventure is So Damned Good It's Dangerous](https://kotaku.com/this-stylish-supernatural-ios-adventure-is-so-damned-go-5883274)
 
-A woman is in peril! Unbeknownst to her, a killer is leaning out from the shadows, murder weapon at
-
-[Read more](https://kotaku.com/this-stylish-supernatural-ios-adventure-is-so-damned-go-5883274)
 
 ***
 

@@ -107,13 +107,9 @@ When I started up *ef - a fairy tale of two*, I hoped this would be the opportun
 
 This would not be that opportunity. It’s a different writing style, but it felt very similar. Due to the writing style in the game, I couldn’t shake this feeling off after playing it: I felt like I’ve been trolled by the writer. I came in expecting something amazing due to fans, but I didn’t think it was nearly as good as everyone was saying. I started the game expecting a light romance, and came out having my soul crushed... [I hated what they did at the end of Chapter 6](https://tay.kinja.com/loving-and-hating-the-same-story-the-objective-and-sub-1555683326)[, but I thought it was brilliant...](http://anitay.kinja.com/rockmandash-rambles-sakurasou-is-the-first-romantic-co-1603256720) this feeling was aggravating and annoying, and I wish they didn’t successfully troll me as well as they did.
 
-[![](./659653778290085524.png)](https://tay.kinja.com/loving-and-hating-the-same-story-the-objective-and-sub-1555683326)
 
-###### [Loving and Hating the Same Story: The Objective and Subjective](https://tay.kinja.com/loving-and-hating-the-same-story-the-objective-and-sub-1555683326)
 
-Is it possible to hate a story while loving it at the same time?
 
-[Read more](https://tay.kinja.com/loving-and-hating-the-same-story-the-objective-and-sub-1555683326)
 
 I didn’t really enjoy most of *ef - a fairy tale of the two*. I guess the best way to describe how I feel about* ef *is that it felt like a [*Muv-Luv Unlimited*, when it could have been an *Alternative*](http://tay.kotaku.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967). The writing and character interactions were enjoyable and there is no point in the story that’s written really poorly... but it’s just the feeling of wasted potential, and like *Unlimited*, there is absolutely no sense of tension because the light hearted tone counteracts that.
 
@@ -173,13 +169,9 @@ Keep in mind that this is my opinion, and this is one where I’m a minority. It
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*. For An explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-[![](./1520891687004619076.png)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-###### [Rockmandash Rambles: *An Explanation on my Review System* (Updated 11/15/2015)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-If you’ve read any of my reviews and wanted to know why I did them the way I do, here’s an…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
 *This game is available from Mangagamer, but digital only at the moment, and it’s split into first tale and latter tale. However, *[*they just announced a physical release with both combined into ef - a fairy tale of the two coming later this winter*](http://www.animenewsnetwork.com/press-release/2014-10-15/mangagamer-announces-hard-copies-of-ef-the-fairy-tale-of-the-two/.79994)*. If you want to see the anime, both seasons are available on *[*Crunchy*](http://www.crunchyroll.com/ef-a-tale-of-memories)[*roll*](http://www.crunchyroll.com/ef-a-tale-of-melodies)* for Free & Legal streaming.*
 

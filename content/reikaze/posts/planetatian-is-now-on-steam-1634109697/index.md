@@ -12,10 +12,6 @@ It's the first of the Key & Sekai project partnership; we finally have Planetari
 
 Steam Link - <http://store.steampowered.com/app/316720/>
 
-[![](./i3kmykaiawr0iqgffr6l.png)](https://rockmandash12.kinja.com/rockmandash-reviews-planetarian-visual-novel-1607911392)
 
-###### [Rockmandash Reviews: *Planetarian* \[Visual Novel\]](https://rockmandash12.kinja.com/rockmandash-reviews-planetarian-visual-novel-1607911392)
 
-Why don't you come to the Planetarium? The beautiful twinkling of eternity that will never fade, no
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-planetarian-visual-novel-1607911392)

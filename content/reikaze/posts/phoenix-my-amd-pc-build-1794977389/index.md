@@ -39,8 +39,6 @@ Other: Deepcool RGB 350\
 \
 In this imgur album, I process the build, and show some pics. I think it looks fantastic, and I’m in love. check it out!
 
-[![](./kjjuhbpskvqlsvqlvauo.jpg)](http://imgur.com/a/unKV8)
 
-###### [Imgur](http://imgur.com/a/unKV8)
 
-[Read more](http://imgur.com/a/unKV8)
+

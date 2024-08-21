@@ -13,11 +13,7 @@ It seems as of late everybody's (well not here, but on comments over the interne
 
 [![](./bsthnvyjubztwh4pkqzl.jpg) ](https://kotaku.com/nintendo-reports-a-loss-of-457-million-3ds-and-wii-u-1572841102)
 
-###### [Nintendo Reports a Loss of $457 Million, 3DS and Wii U Both Fall Short](https://kotaku.com/nintendo-reports-a-loss-of-457-million-3ds-and-wii-u-1572841102)
 
-Nintendo has published their numbers for the most recent financial year, and sadly, they're not…
-
-[Read more](https://kotaku.com/nintendo-reports-a-loss-of-457-million-3ds-and-wii-u-1572841102)
 
 **EDIT:** I changed the title from What's with the Nintendo hate? to What's with the Nintendo hate lately? to avoid confusion.
 
@@ -25,23 +21,15 @@ Nintendo is a game company. They make a living off of making hardware and games 
 
 I love my [RPGs](https://tay.kinja.com/ys-memories-of-celceta-the-tay-review-1527411877), [Visual novels](http://tay.kotaku.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739), etc, but when I want to have a good time without thinking about things, I'll always go to Nintendo. If I have friends over, it's almost a guarantee that i'll be playing some Nintendo game, because that's what they do the best. They make a fun experience, and they really do care about the audience having fun. They have blundered. I'm tired of the low resolution screens, slower processors, cheap build quality, bad online experience etc... but I still buy Nintendo consoles because it's almost guaranteed that Nintendo games will be a fun time.
 
-[![](./19gbq1gaiti74png.png)](https://tay.kinja.com/ys-memories-of-celceta-the-tay-review-1527411877)
 
-###### [*Ys: Memories of Celceta:* The *TAY* Review](https://tay.kinja.com/ys-memories-of-celceta-the-tay-review-1527411877)
 
-Ys: Memories of Celceta is an action role-playing game for PlayStation Vita developed by Nihon…
 
-[Read more](https://tay.kinja.com/ys-memories-of-celceta-the-tay-review-1527411877)
 
 A prime example of Nintendo doing what they do best is [Mario Kart 8](https://kotaku.com/mario-kart-8-the-kotaku-review-1576700883). It's on the Wii U, an overpriced, under-powered gamebox that nobody has. I don't even have one yet. I've been reading opinions, reviews and looking at footage for this game though, and it does everything I want in a game that isn't focused on story: Fun gameplay, engaging experiences, great aesthetics, tons of tracks, refined like all hell, a great time with friends, and the list goes on and on. This one quote from an [opinion piece from polygon](http://www.polygon.com/2014/5/15/5720684/mario-kart-8-mobile-iphone-wii-u-nintendo) really hit the spot:
 
 [[](./tg8915uhfkqgdesvi3xt.mp4) ](https://kotaku.com/mario-kart-8-the-kotaku-review-1576700883)
 
-###### [*Mario Kart 8*: The *Kotaku* Review](https://kotaku.com/mario-kart-8-the-kotaku-review-1576700883)
 
-“Everyone has fond memories of the Mario Kart series” reads a blurb in the review materials for the
-
-[Read more](https://kotaku.com/mario-kart-8-the-kotaku-review-1576700883)
 
 ![](./diizd3yjvx8rrbuypqhu.jpg)
 

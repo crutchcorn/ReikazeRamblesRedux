@@ -11,11 +11,7 @@ To those who came and found this from google or something, Please check out my [
 
 [[](./1306104797334163626.mp4)](https://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485)
 
-###### [Rockmandash Reviews+: *Ever 17: The Out of Infinity* \[Visual Novel\]](https://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485)
 
-Have you ever experienced a work that left such a strong impression on you that it started to…
-
-[Read more](https://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485)
 
 ![](./oqulwrkb9ykkdwnurbca.jpg)
 
@@ -79,13 +75,9 @@ EVERYTHING
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*. For An explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-[![](./1520891687004619076.png)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-###### [Rockmandash Rambles: *An Explanation on my Review System* (Updated 11/15/2015)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-If you’ve read any of my reviews and wanted to know why I did them the way I do, here’s an…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
 *This game is available on *[*Fuwanovel *](http://fuwanovel.org/novels/ever17-the-out-of-infinity)*for download.*\
 **

@@ -9,25 +9,17 @@
 
 [If my words were not enough to convince you to fund Under The Dog](https://anitay.kinja.com/rockmandash-rambles-why-you-should-fund-under-the-dog-1626833454), There have been a few updates that may convince you to do so, and one of them involves Hideo Kojima.
 
-[![](873254600827556273.png)](https://anitay.kinja.com/rockmandash-rambles-why-you-should-fund-under-the-dog-1626833454)
 
-###### [Why You Should Fund *Under The Dog*, and What this Kickstarter Represents](https://anitay.kinja.com/rockmandash-rambles-why-you-should-fund-under-the-dog-1626833454)
 
-When I first saw Under the Dog, I wasn't exactly sure what to think about it. I thought that it…
 
-[Read more](https://anitay.kinja.com/rockmandash-rambles-why-you-should-fund-under-the-dog-1626833454)
 
 ![](fkxr1zzzup62pzzfmdly.png)
 
 There was a recent update in which Kojima promoted UTD, and you don't need my word to know that Kojima has a good taste. Just watch the excelent Knights of Sidonia, which Kojima also have some praise. [Check the update tab of the kickstarter for the quote](https://www.kickstarter.com/projects/1300298569/under-the-dog), but if you are too lazy to do so, I'll post the quote here.
 
-[![](uvtjtb8kijn2jsxlaz6d.jpg)](https://www.kickstarter.com/projects/1300298569/under-the-dog)
 
-###### [Under the Dog](https://www.kickstarter.com/projects/1300298569/under-the-dog)
 
-An anime science fiction action thriller that will explore what it means to live and die well,…
 
-[Read more](https://www.kickstarter.com/projects/1300298569/under-the-dog)
 
 > "Coming with the permeation of the internet \[in our daily lives], "creating" and a production's "financing" structure have changed significantly.
 >

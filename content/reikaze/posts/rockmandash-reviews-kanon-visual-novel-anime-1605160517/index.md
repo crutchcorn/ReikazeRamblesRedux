@@ -83,20 +83,12 @@ At this point, Kanon is a like a lost memory in the seas of Key, buried under st
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*, and the rest of my *[*Key Marathon*](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)[* Here*](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)*. For An explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-[![](./1520891687004619076.png)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-###### [Rockmandash Rambles: *An Explanation on my Review System* (Updated 11/15/2015)](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-If you’ve read any of my reviews and wanted to know why I did them the way I do, here’s an…
 
-[Read more](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)
 
-[![](./1449901844658159786.jpg)](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)
 
-###### [Rockmandash Reviews: *Key Marathon*](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)
 
-Like I said a few months ago, I’m starting up a Key Review Marathon: Reviewing all the main Key…
 
-[Read more](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)
 
 *This game is availible on *[*Fuwanovel *](http://fuwanovel.org/novels/kanon)*for download.*
