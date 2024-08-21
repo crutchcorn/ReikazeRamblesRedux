@@ -23,7 +23,7 @@ This answer is three-pronged:
 
 1. I’m a really big fan of tech hardware in general, and because of this, I’ve always wanted to do Tech Reviews. I want to keep my RockmanDash Reviews blog focused on spreading the word of VNs, so I’m making KMTech for the tech half of my blogging.
 2. Technology, expecially in the low end has gotten very interesting lately, and there’s not a lot of people in the west covering this material.... so like my VN stuff. This blog is going to be aimed at covering this overlooked aspect of technology, something really lacking in the west.
-3. I was recently asked by [GearBest.com](http://www.gearbest.com/), an import retailer if I could do reviews of their products after they read my* Teclast X98 Air II *review, and I couldn’t really say no. Because of this agreement though, I’ll be doing a lot of articles about this, so I didn’t want to flood the blogs i’m affiliated with. (I will be doing my early news posts around the place to get people’s attention and sharing stuff when relevant, but after that I’ll try to keep it on KMTech.)
+3. I was recently asked by [GearBest.com](http://www.gearbest.com/), an import retailer if I could do reviews of their products after they read my *Teclast X98 Air II* review, and I couldn’t really say no. Because of this agreement though, I’ll be doing a lot of articles about this, so I didn’t want to flood the blogs i’m affiliated with. (I will be doing my early news posts around the place to get people’s attention and sharing stuff when relevant, but after that I’ll try to keep it on KMTech.)
 
 ### []()Regarding Reviews
 
