@@ -9,9 +9,9 @@
 
 ![](ypq7xsvofu3nyq8p1hmp.jpg)
 
-I thought that I'd never be sucked back in like I have been before... but I was wrong. Very wrong. Following the steps of it's predecessor *Game Dev Story *and *Shirobako*, Kairosoft is back ~~for world domination~~ with another new title, *Anime Studio Story*, and... I've put more time into this game then I'd like to admit.
+I thought that I'd never be sucked back in like I have been before... but I was wrong. Very wrong. Following the steps of it's predecessor *Game Dev Story* and *Shirobako*, Kairosoft is back ~~for world domination~~ with another new title, *Anime Studio Story*, and... I've put more time into this game then I'd like to admit.
 
-***Disclaimer: This is a less structured, more ramble-y review than I usually do, akin to my ***[***Shin Sekai Yori ***](http://anitay.kinja.com/shin-sekai-yori-is-a-great-believable-coming-of-age-d-1670092196)***review. If you came looking for something that follows a review structure, you won't find it here.***
+_**Disclaimer: This is a less structured, more ramble-y review than I usually do, akin to my [**Shin Sekai Yori**](http://anitay.kinja.com/shin-sekai-yori-is-a-great-believable-coming-of-age-d-1670092196) review. If you came looking for something that follows a review structure, you won't find it here.**_
 
 ![](ezfao9c5vgvxu3v8pnet.jpg)
 
@@ -33,8 +33,8 @@ I think that the reason why I like this and *Game Dev Story* a lot more than wit
 
 ![](./uthxvwgug6wzxktkkndq.png)
 
-To sum this game up, it's *Game Dev Story *with anime. That's about it, and **I LOVE IT FOR THAT**. It's just as entertaining, it's just as addicting, it's just as charming, it's everything I loved about *Game Dev Story *but with anime, which is enough to really change the whole ball game again and keep it interesting. It knows that if it if it ain't broke, don't fix it, and it's one of my favorite games on mobile because of it. If you ever felt like playing a simulator game of an Anime Studio, get this right now, and while you're at it, get *Game Dev Story *if you've never played it before.
+To sum this game up, it's *Game Dev Story* with anime. That's about it, and **I LOVE IT FOR THAT**. It's just as entertaining, it's just as addicting, it's just as charming, it's everything I loved about *Game Dev Story* but with anime, which is enough to really change the whole ball game again and keep it interesting. It knows that if it if it ain't broke, don't fix it, and it's one of my favorite games on mobile because of it. If you ever felt like playing a simulator game of an Anime Studio, get this right now, and while you're at it, get *Game Dev Story* if you've never played it before.
 
 ***
 
-[*Rockmandash *](http://rockmandash12.kinja.com/)*is a reader on *[*TAY*](http://tay.kotaku.com/)* that finds himself writing a lot about Visual Novels or Anime at *[*Ani-TAY*](http://anitay.kinja.com/)*, but every now and then does a regular Video Game post like this for some strange reason. You can find this game on the *[*Google Play Store*](https://play.google.com/store/apps/details?id=net.kairosoft.android.animestudio_en)*, and I have no idea when it's coming to iOS, if it's not on there.*
+[*Rockmandash*](http://rockmandash12.kinja.com/) is a reader on *[*TAY*](http://tay.kotaku.com/)* that finds himself writing a lot about Visual Novels or Anime at *[*Ani-TAY*](http://anitay.kinja.com/)*, but every now and then does a regular Video Game post like this for some strange reason. You can find this game on the *[*Google Play Store*](https://play.google.com/store/apps/details?id=net.kairosoft.android.animestudio_en)*, and I have no idea when it's coming to iOS, if it's not on there.
