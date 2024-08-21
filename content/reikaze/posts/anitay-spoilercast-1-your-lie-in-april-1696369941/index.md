@@ -25,10 +25,4 @@ iTunes: [Click here](https://itunes.apple.com/gb/podcast/ani-tay-podcast/id85222
 
 [![](./x03rw2ett8gcnpo7xuol.png)](https://itunes.apple.com/gb/podcast/ani-tay-podcast/id852229181?mt=2)
 
-###### [‎The Official AniTAY Podcast on Apple Podcasts](https://itunes.apple.com/gb/podcast/ani-tay-podcast/id852229181?mt=2)
-
-‎TV & Film · 2020
-
-[Read more](https://itunes.apple.com/gb/podcast/ani-tay-podcast/id852229181?mt=2)
-
 YT and iTunes version will be up soon!
