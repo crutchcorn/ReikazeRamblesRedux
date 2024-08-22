@@ -7,7 +7,7 @@
 }
 ---
 
-[](./ptv9vwzqupvgrbcynjxz.mp4)
+<video src="./ptv9vwzqupvgrbcynjxz.mp4"></video>
 
 How do you react when you see an old friend for the first time in years? *Durarara!!x2 *is a show that’s kinda exactly like that: Of course, it’s not at the point where the relation is at it’s best and the interactions are still a little bit more awkward than what you remembered, but it’s still really nice to see them and it’s still just as fun and enjoyable as it always was.
 

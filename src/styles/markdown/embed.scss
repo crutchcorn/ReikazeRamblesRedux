@@ -18,7 +18,7 @@
 	);
 	--embed_favicon_icon-size: var(--icon-size_regular);
 	--embed_favicon_icon_color: var(--primary_on-variant);
-	--embed_iframe_background-color: var(--surface_primary_emphasis-low);
+	--embed_iframe_background-color: var(--background_primary);
 	--embed_iframe_border_color: var(--foreground_disabled);
 
 	@include from($desktopSmall) {
@@ -30,6 +30,9 @@
 	display: flex;
 	flex-direction: column;
 	border-radius: var(--embed_corner-radius);
+	border-color: var(--surface_primary_emphasis-medium);
+	border-width: var(--spc-2x);
+	border-style: solid;
 	background-color: var(--embed_background-color);
 	margin: var(--site-spacing) 0;
 
