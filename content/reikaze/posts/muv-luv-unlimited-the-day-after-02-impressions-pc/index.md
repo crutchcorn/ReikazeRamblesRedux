@@ -6,9 +6,9 @@
 }
 ---
 
-_The Day After_ train continues with* Muv-Luv Unlimited: The Day After 02*, the most personal and intimate of the series yet. It shouldn’t really be a surprise that _The Day After 02_ is basically a continuation of the previous _The Day After_ episodes. Still, this episode comes in a personal flair and actual, genuine heroism.
+_The Day After_ train continues with *Muv-Luv Unlimited: The Day After 02*, the most personal and intimate of the series yet. It shouldn’t really be a surprise that _The Day After 02_ is basically a continuation of the previous _The Day After_ episodes. Still, this episode comes in a personal flair and actual, genuine heroism.
 
-My *Muv-Luv Unlimited: The Day After *impressions will assume that you have played through at least the original _Muv-Luv_ (the _Extra_ and _Unlimited_ arcs) since there are inherent spoilers that cannot be avoided. So please play those first or read our review on them before you continue with this one. If you want thoughts on the release structure and the new engine, please read or watch _The Day After 00_ impressions.
+My *Muv-Luv Unlimited: The Day After* impressions will assume that you have played through at least the original _Muv-Luv_ (the _Extra_ and _Unlimited_ arcs) since there are inherent spoilers that cannot be avoided. So please play those first or read our review on them before you continue with this one. If you want thoughts on the release structure and the new engine, please read or watch _The Day After 00_ impressions.
 
 ![Muv-Luv Unlimited: The Day After 02 Impressions - More of the Same Can Be a Good Thing 1](./Muv-Luv-Unlimited-The-Day-After-1-1024x722.jpeg)
 
