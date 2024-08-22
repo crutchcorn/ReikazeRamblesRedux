@@ -16,8 +16,7 @@ interface UnicornPageProps {
 
 const { unicorn, posts } = Astro.props as UnicornPageProps;
 
-const postsToDisplay = posts.slice(0, 4);
-const numberOfAchievementsToShowAtStart = posts.length ? 3 : 6;
+const postsToDisplay = posts.slice(0, 6);
 const showPostsToggle = posts.length > postsToDisplay.length;
 
 const postAuthors = new Map(
@@ -42,13 +41,10 @@ const postAuthors = new Map(
 							{showPostsToggle && (
 								<Button
 									tag="a"
-									href={`/search?${buildSearchQuery({
-										searchQuery: "*",
-										filterAuthors: [unicorn.id],
-									})}`}
+									href={`/page/1`}
 									aria-labelledby="recent-articles-header"
 								>
-									{"action.view_all"}
+									{"View all"}
 								</Button>
 							)}
 						</SubHeader>,

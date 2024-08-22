@@ -52,7 +52,7 @@
 	text-decoration: none;
 
 	img {
-		width: var(--header_logo_size);
+		width: auto;
 		height: var(--header_logo_size);
 		filter: var(--shadow_sticker_drop_shadow);
 	}
@@ -88,6 +88,7 @@
 }
 
 .icons {
+	margin-left: auto;
 	gap: var(--header_button-gap);
 
 	justify-content: flex-end;

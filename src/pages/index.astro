@@ -1,18 +1,16 @@
 ---
 import Document from "../layouts/document.astro";
-import { getCollections, getPosts } from "utils/api";
+import { getPosts } from "utils/api";
 import SEO from "components/seo/seo.astro";
 import Homepage from "src/views/explore/homepage.astro";
 
 const posts = getPosts();
-const postsToDisplay = posts.slice(0, 4);
-
-const collectionsToDisplay = getCollections().slice(0, 4);
+const postsToDisplay = posts.slice(0, 6);
 ---
 
 <Document>
 	<SEO slot="head" title="Homepage" />
 	<main class="container">
-		<Homepage posts={postsToDisplay} collections={collectionsToDisplay} />
+		<Homepage posts={postsToDisplay} />
 	</main>
 </Document>

@@ -1,29 +1,15 @@
 ---
-import BannerStickersGroup from "../banner-stickers/banner-stickers-group.astro";
-import { LargeButton } from "../button/button";
-import { Icon } from "astro-icon/components";
+import reikazeLogo from "assets/reikaze-full-logo.png";
 import style from "./hero.module.scss";
-import * as data from "src/utils/data";
 ---
 
 <section class={`${style.header}`}>
-	<BannerStickersGroup class={style.bannerLogo} />
-	<div class="text-center">
-		<h1 class={`text-style-headline-2 ${style.title}`}>
-			{"desc.homepage"}
-		</h1>
-		<p class={`text-style-body-large-bold ${style.desc}`}>
-			{"desc.homepage_extra"}
-		</p>
-		<div class={style.buttons}>
-			<LargeButton variant="primary" href="/about">
-				{"action.learn_more"}
-				<Icon
-					slot="rightIcon"
-					style="width: 100%; height: 100%;"
-					name="arrow_right"
-				/>
-			</LargeButton>
-		</div>
-	</div>
+	<h1 class="sr-only">Reikaze Rambles</h1>
+	<img src={reikazeLogo.src} style="height: auto; width: 100%" alt="" />
+	<p
+		class="text-style-headline-4"
+		style="font-family: var(--uu-font-family); font-weight: normal; text-align: center"
+	>
+		The new home for RockmanDash Reviews
+	</p>
 </section>

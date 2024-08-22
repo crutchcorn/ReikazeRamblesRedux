@@ -2,21 +2,16 @@
 import { PostCardGrid } from "src/components/post-card/post-card-grid";
 import { Button } from "components/button/button";
 import { PostInfo, CollectionInfo } from "types/index";
-import { CollectionCard } from "components/collection-card/collection-card";
 import { SubHeader } from "../../components/subheader/subheader";
 import Hero from "../../components/hero/hero.astro";
-import SearchSection from "../../components/search-section/search-section.astro";
-import styles from "./homepage.module.scss";
-import { buildSearchQuery } from "src/views/search/search";
 import * as api from "utils/api";
 import { isDefined } from "utils/is-defined";
 
 export interface HomepageProps {
 	posts: PostInfo[];
-	collections: CollectionInfo[];
 }
 
-const { posts, collections } = Astro.props as HomepageProps;
+const { posts } = Astro.props as HomepageProps;
 
 const postAuthors = new Map(
 	[...new Set(posts.flatMap((p) => p.authors))]
@@ -27,10 +22,10 @@ const postAuthors = new Map(
 ---
 
 <Hero />
-<section>
+<section style="margin-bottom: 2rem;">
 	<SubHeader tag="h2" text="Recent articles" id="posts-header">
 		<Button href="/page/1" aria-labelledby="posts-header">
-			{"action.view_all"}
+			{"View all"}
 		</Button>
 	</SubHeader>
 
@@ -41,39 +36,3 @@ const postAuthors = new Map(
 		postHeadingTag="h3"
 	/>
 </section>
-
-<section>
-	<SubHeader tag="h2" text="Collections" id="collections-header">
-		<Button
-			href={`/search?${buildSearchQuery({
-				searchQuery: "*",
-				display: "collections",
-			})}`}
-			aria-labelledby="collections-header"
-		>
-			{"action.view_all"}
-		</Button>
-	</SubHeader>
-
-	<ul
-		role="list"
-		aria-labelledby="collections-header"
-		class={styles.collectionsGrid}
-	>
-		{
-			collections.map((collection) => (
-				<li>
-					<CollectionCard
-						collection={collection}
-						authors={collection.authors
-							.map((id) => api.getPersonById(id))
-							.filter(isDefined)}
-						headingTag="h3"
-					/>
-				</li>
-			))
-		}
-	</ul>
-</section>
-
-<SearchSection />

@@ -1,7 +1,6 @@
 ---
 import PostTitleHeader from "./post-title-header/post-title-header.astro";
 import TableOfContents from "./table-of-contents/table-of-contents.astro";
-import MailingList from "../../components/mailing-list/mailing-list.astro";
 import BlogPostLayout from "./blog-post-layout/blog-post-layout.astro";
 import HeadingLinkScript from "../base/scripts/heading-link-script.astro";
 import { Icon } from "astro-icon/components";
@@ -19,7 +18,6 @@ import { siteMetadata } from "constants/site-config";
 import "../../styles/shiki.scss";
 import "../../styles/markdown/tabs.scss";
 import "../../styles/markdown/in-content-ads.scss";
-import "../../styles/convertkit.scss";
 import SeriesToC from "./series/series-toc.astro";
 import { ArticleNav } from "./article-nav/article-nav";
 import RelatedPosts from "components/related-posts/related-posts.astro";
@@ -113,45 +111,5 @@ const GHLink = `https://github.com/${siteMetadata.repoPath}/tree/main/content/${
 		<aside slot="right" aria-labelledby="related-posts-heading">
 			<RelatedPosts post={post} headingId="related-posts-heading" />
 		</aside>
-		<footer role="contentinfo" class={styles.footer}>
-			{
-				license ? (
-					<a
-						aria-label={`Post licensed with ${license.displayName}`}
-						href={license.explainLink}
-						class={styles.licenseImageContainer}
-					>
-						<img
-							class={styles.licenseImage}
-							src={license.footerImg}
-							alt={license.licenceType}
-						/>
-					</a>
-				) : null
-			}
-			<MailingList />
-			<div class={styles.buttonsContainer}>
-				<LargeButton tag="a" href={GHLink} variant="primary">
-					<Icon
-						slot="leftIcon"
-						style="width: 100%; height: 100%;"
-						name="github"
-					/>
-					View this post on GitHub
-				</LargeButton>
-				<LargeButton
-					tag="a"
-					href="https://discord.gg/FMcvc6T"
-					variant="primary-emphasized"
-				>
-					<Icon
-						slot="leftIcon"
-						style="width: 100%; height: 100%;"
-						name="discord"
-					/>
-					Join our Discord server
-				</LargeButton>
-			</div>
-		</footer>
 	</BlogPostLayout>
 </main>

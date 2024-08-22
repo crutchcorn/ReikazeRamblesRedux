@@ -47,7 +47,7 @@ const originalLinkStr = post.originalLink && new URL(post.originalLink).host;
 					{
 						authors.map((author, i) => (
 							<li class="text-style-button-regular">
-								<a href={`/unicorns/${author.id}`}>
+								<a href={`/people/${author.id}`}>
 									{[author.name, i + 1 < authors.length ? "," : ""]}
 								</a>
 							</li>
@@ -59,9 +59,7 @@ const originalLinkStr = post.originalLink && new URL(post.originalLink).host;
 			<div class={style.wordCount}>
 				<Icon width={24} height={24} name="words" aria-hidden="true" />
 				<p class="text-style-button-regular">
-					{
-							post.wordCount.toLocaleString("en")
-					}
+					{post.wordCount.toLocaleString("en")} words
 				</p>
 			</div>
 
@@ -70,7 +68,7 @@ const originalLinkStr = post.originalLink && new URL(post.originalLink).host;
 					<div class={style.originalLink}>
 						<Icon width={24} height={24} name="website" aria-hidden="true" />
 						<p class="text-style-button-regular">
-							{"desc.original_link"}
+							{"Originally posted at "}
 							<a
 								href={post.originalLink}
 								target="_blank"
@@ -88,14 +86,7 @@ const originalLinkStr = post.originalLink && new URL(post.originalLink).host;
 			{
 				tags?.map((tag) => (
 					<li>
-						<Chip
-							href={`/search?${buildSearchQuery({
-								searchQuery: "*",
-								filterTags: [tag],
-							})}`}
-						>
-							{tag}
-						</Chip>
+						<Chip>{tag}</Chip>
 					</li>
 				))
 			}

@@ -211,17 +211,6 @@ async function readPost(
 		// get an excerpt of the post markdown no longer than 150 chars
 		const excerpt = getExcerpt(fileMatter.content, 150);
 
-		const frontmatterTags = (frontmatter.tags || []).filter((tag) => {
-			if (tags.has(tag)) {
-				return true;
-			} else {
-				console.warn(
-					`${postPath}: Tag '${tag}' is not specified in content/data/tags.json! Filtering...`,
-				);
-				return false;
-			}
-		});
-
 		postObjects.push({
 			...fallbackInfo,
 			...frontmatter,
@@ -229,7 +218,7 @@ async function readPost(
 			slug,
 			file: filePath,
 			path: path.relative(contentDirectory, postPath),
-			tags: frontmatterTags,
+			tags: frontmatter.tags ?? [],
 			wordCount: wordCount,
 			description: frontmatter.description || excerpt,
 			excerpt,
