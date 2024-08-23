@@ -72,4 +72,3 @@ This show can be a lot of fun, and it can be very epic. You may come out of this
 
 
 *This show is available on *[*Crunchyroll*](http://www.crunchyroll.com/nananas-buried-treasure)* for Free & Legal streaming.*\
-**

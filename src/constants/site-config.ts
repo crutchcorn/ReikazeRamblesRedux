@@ -28,14 +28,14 @@ if (parent.startsWith("localhost")) {
 }
 
 const siteMetadata = {
-	title: `Unicorn Utterances`,
-	description: `Learning programming from magically majestic words. A place to learn about all sorts of programming topics from entry-level concepts to advanced abstractions`,
+	title: `Reikaze Rambles`,
+	description: `The new home for RockmanDash Reviews`,
 	siteUrl,
-	repoPath: "unicorn-utterances/unicorn-utterances",
+	repoPath: "reikaze/ReikazeRambles",
 	relativeToPosts: "/content/blog",
 	keywords:
-		"programming,development,mobile,web,game,utterances,software engineering,javascript,angular,react,computer science",
-	twitterHandle: "@unicornuttrncs",
+		"anime,manga,reviews,game reviews,gaming",
+	twitterHandle: "@reikazerambles",
 };
 
 export { parent, siteUrl, buildMode, siteMetadata };

@@ -1,6 +1,6 @@
 ---
 {
-	title: "Pokémon Omega Ruby & Alpha Sapphire : The TAY Review",
+	title: "Pokémon Omega Ruby & Alpha Sapphire: The TAY Review",
 	published: "2014-11-26T22:45:00-05:00",
 	tags: ["TAY-Review", "Tayclassic", "Pokemon", "Omega Ruby", "Alpha Sapphire", "Rockmandash Reviews"],
 	kinjaArticle: true

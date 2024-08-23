@@ -4,15 +4,15 @@ import { getPosts, getPersonById } from "utils/api";
 
 export const GET = () => {
 	const feed = new Feed({
-		title: "Unicorn Utterances's RSS Feed",
+		title: "Reikaze Rambles' RSS Feed",
 		description:
-			"Learning programming from magically majestic words. A place to learn about all sorts of programming topics from entry-level concepts to advanced abstractions",
+			"The new home for RockmanDash Reviews",
 		id: siteUrl,
 		link: siteUrl,
 		language: "en",
 		image: `${siteUrl}/image.png`,
 		favicon: `${siteUrl}/favicon.ico`,
-		copyright: `Contributor's rights reserved ${new Date().getFullYear()}, Unicorn Utterances`,
+		copyright: `Contributor's rights reserved ${new Date().getFullYear()}, Reikaze Rambles`,
 		feedLinks: {
 			rss: `${siteUrl}/rss.xml`,
 			atom: `${siteUrl}/atom.xml`,

@@ -1,6 +1,6 @@
 ---
 {
-	title: "Phoenix : My AMD PC Build",
+	title: "Phoenix: My AMD PC Build",
 	published: "2017-05-05T21:40:00-04:00",
 	tags: ["Rockmandash Rambles", "PC"],
 	kinjaArticle: true
@@ -39,6 +39,4 @@ Other: Deepcool RGB 350\
 \
 In this imgur album, I process the build, and show some pics. I think it looks fantastic, and I’m in love. check it out!
 
-
-
-
+[https://imgur.com/a/unKV8](https://imgur.com/a/unKV8)
