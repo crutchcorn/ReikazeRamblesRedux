@@ -75,4 +75,4 @@ Also, if you want another perspective on *Rewrite*, check out [Hitokiri\_Ace’s
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*, and the rest of my *[*Key Marathon Here*](http://tay.kotaku.com/rockmandash-reviews-key-marathon-wip-1606707641)*. For An explanation of my review system, *[*check this out*](http://tay.kotaku.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-This game is availible on [*Fuwanovel*](http://fuwanovel.org/novels/rewrite) for download.
+This game is available on [*Fuwanovel*](http://fuwanovel.org/novels/rewrite) for download.
