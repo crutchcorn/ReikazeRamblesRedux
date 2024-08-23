@@ -39,7 +39,7 @@ Unlimited Blade Works was my favorite route, and this is a relatively entertaini
 
 To put it simply, This movie is an inferior way of experiencing the Unlimited Blade Works route, more of a check mark on Type moon’s check list for anime adaptations then an actual attempt for adapting the work. It’s a nice condensed way of experiencing the story if you already know it, **but unless you have seen the original version, stay far, far away.**
 
-## **Overall - 7.5/10, Polarization +.5,-2.5**
+# **Overall - 7.5/10, Polarization +.5,-2.5**
 
 ![](1291273890700219568.png) ![](1291273890749226928.png)
 

@@ -95,7 +95,7 @@ Also, I didn’t think this warranted it’s own segment, but I found it interes
 
 If you’ve enjoyed *999* or *Zero Escape: Virtue’s Last Reward*, this is a must. You’ll love it just as much as I do. If you haven’t, you may find *999* and *VLR* more accessible, but I’d view this as a must play for you. If there was only one recommendation you would take from me from all my reviews thus far, it’s this one. Seriously. Go play this.
 
-## **Overall - 9.5/10, Polarization +.25, -2**
+# **Overall - 9.5/10, Polarization +.25, -2**
 
 ![](./1306104799141230250.png) ![](./1306104799209301418.png)
 

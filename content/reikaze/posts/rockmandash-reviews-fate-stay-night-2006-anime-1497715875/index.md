@@ -39,7 +39,7 @@ I’ve watched this show twice. I didn’t care for it both times. It’s just n
 
 This show is hard to talk about. It’s the polar opposite of the visual novel yet it’s the same thing. The biggest problem this show faces is that Studio Deen messed with the plot, thus it becomes worse than it really should be, even if it’s better in some aspects. If I were you, I’d just watch ufotable’s Fate/Stay Night anime when it comes out.
 
-## Overall - 7/10, Polarization +.5,-1.5
+# Overall - 7/10, Polarization +.5,-1.5
 
 ![](./1291634713136954728.png) ![](./1291634713284585576.png)
 
