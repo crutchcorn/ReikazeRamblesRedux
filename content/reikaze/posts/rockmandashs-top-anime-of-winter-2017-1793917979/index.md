@@ -31,7 +31,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### *Honorable Mention: Rewrite Season 2* 
+# *Honorable Mention: Rewrite Season 2* 
 
 **Anime Made By:** 8bit
 
@@ -45,7 +45,7 @@ Season 2 however, is a passable show, and is one that actual humans can enjoy! T
 
 ***
 
-## *6. Slice of Life: Maid Dragon, Interviews with Monster Girls, Gabriel Dropout*
+# *6. Slice of Life: Maid Dragon, Interviews with Monster Girls, Gabriel Dropout*
 
 **Anime Made By: **Kyoto Animation (*Maid Dragon*), A-1 Pictures (*Interviews with Monster Girls*), Doga Kobo (*Gabriel Dropout*)
 
@@ -63,7 +63,7 @@ Season 2 however, is a passable show, and is one that actual humans can enjoy! T
 
 ***
 
-## 5. ***ACCA: 13-Territory Inspection Dept.***
+# 5. ***ACCA: 13-Territory Inspection Dept.***
 
 **Anime Made By: **Madhouse
 
@@ -77,7 +77,7 @@ Season 2 however, is a passable show, and is one that actual humans can enjoy! T
 
 ***
 
-## 4. *Scum’s Wish*
+# 4. *Scum’s Wish*
 
 **Anime Made By: **Lerche
 
@@ -89,7 +89,7 @@ Season 2 however, is a passable show, and is one that actual humans can enjoy! T
 
 ***
 
-## 3. *Saga of Tanya the Evil*
+# 3. *Saga of Tanya the Evil*
 
 **Anime Made By: **NUT
 
@@ -101,7 +101,7 @@ Season 2 however, is a passable show, and is one that actual humans can enjoy! T
 
 ***
 
-## 2. ***Shouwa Genroku Rakugo Shinjuu Season 2***
+# 2. ***Shouwa Genroku Rakugo Shinjuu Season 2***
 
 **Anime Made By: **Studio Deen
 
@@ -115,7 +115,7 @@ Season 2 is more of everything great about Rakugo Season 1... but while the qual
 
 ***
 
-## 1. ***KonoSuba: God’s Blessing on This Wonderful World! Season 2***
+# 1. ***KonoSuba: God’s Blessing on This Wonderful World! Season 2***
 
 **Anime Made By: **Studio Deen
 

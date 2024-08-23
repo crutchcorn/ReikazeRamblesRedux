@@ -27,7 +27,7 @@ Anyways, enough about the Awards, you’re here to see what we think: Here are t
 
 Here’s the category you’re all here for: Anime of the Year. There’s been a lot of great shows this year, but here’s the best. From Comedy to Fantasy to Drama, these are the shows we were immersed in, made us laugh or cry, and made us fall in love: The Best Anime of 2016.
 
-### Nominees:
+**Nominees:**
 
 * *Rakugo*
 * *Konosuba*
@@ -48,7 +48,7 @@ Here’s the category you’re all here for: Anime of the Year. There’s been a
 
 Shows that unfortunately flew under the radar and didn’t get the attention they deserved. While the seasonal favorites were making waves, these obscure shows were glimmering treasures waiting to be discovered. The number of viewers (going by MAL) was way below 60,000—and sometimes not even half of that. These are the hidden gems of 2016.
 
-### **Nominees:**
+**Nominees:**
 
 * *Bubuki Buranki*
 * *Space Patrol Luluco*
@@ -65,7 +65,7 @@ Shows that unfortunately flew under the radar and didn’t get the attention the
 
 *‘Cause I feeeeeeel!* The Best Drama Award is for the shows that give us a major case of the feels. They can move you to tears and give you characters to empathize with—some you may find a lot in common with. Say hello to the Best Dramas of 2016.
 
-### **Nominees:**
+**Nominees:**
 
 * *Rakugo*
 * *The Great Passage*
@@ -91,7 +91,7 @@ Shows that unfortunately flew under the radar and didn’t get the attention the
 
 What do you watch anime for? Maybe great story, great music, or something else, but many watch shows for visuals, shows that look stunning at every moment. These are the shows that had the most fluid animation, looked amazing or more: The best Animated shows of 2016.
 
-### **Nominees:**
+**Nominees:**
 
 * *Thunderbolt Fantasy*
 * *Flip Flappers*
@@ -114,7 +114,7 @@ What do you watch anime for? Maybe great story, great music, or something else, 
 
 *Action*! These are the shows that get your blood pumping, and your adrenalin skyrocketing. Animation that excel in the fast, the frenetic, the flashy and the weighty. Shows that make you feel every punch, soar every flight, and leaves you breatheless with every exertion. To those shows whose kineticism is made tangible, we honor with our “Best Action” Award.
 
-### **Nominees:**
+**Nominees:**
 
 * *Thunderbolt Fantasy*
 * *Mob Psycho 100*
@@ -136,7 +136,7 @@ What do you watch anime for? Maybe great story, great music, or something else, 
 
 Some shows try to make you fall in love with a story, others try to wow you with spectacle. Others, like the shows here, try to put a smile on your face, to get you laughing out loud: These are the best comedies of 2016!
 
-### **Nominees:**
+**Nominees:**
 
 * *Kiss Him Not Me*
 * *Tanaka-kun*
@@ -165,7 +165,7 @@ Some shows try to make you fall in love with a story, others try to wow you with
 
 Romance shows: The shows that get our hearts stirring, those that get us thinking in love dodecahedrons and more. These are the shows we loved to love, the Best Romance shows of 2016.
 
-### **Nominees:**
+**Nominees:**
 
 * *Rakugo*
 * *Yuri on Ice*
@@ -186,7 +186,7 @@ Romance shows: The shows that get our hearts stirring, those that get us thinkin
 
 Sometimes it’s the simple things in life that are the sweetest, most touching, most profound, or simply the most enjoyable. This award celebrates those shows that don’t need big overarching plots or extraordinary events to keep us interested, but instead invests us in wanting to experience the small slices of ordinary daily life that their characters go through. These are your Best Slice-of-Life Anime for 2016:
 
-### **Nominees:**
+**Nominees:**
 
 * *New Game!!*
 * *Amanchu!*
@@ -222,7 +222,7 @@ While many people don’t watch sports anime due to fears of them being like ani
 
 This year was absolutely flooded with top quality OPs, but these were the ones to best combine stunning visuals with amazing songs. These were the OPs you just could not skip no matter what.
 
-### **Nominees:**
+**Nominees:**
 
 * *Yuri on Ice*
 * *Drifters*
@@ -254,7 +254,7 @@ This year was absolutely flooded with top quality OPs, but these were the ones t
 
 Many people like to skip the ED, but this year made that a harder task to do than usual, as we were gifted with an unusually large crop of addicting EDs. Some of these EDs were so good they even made us wish the episode would end just so we could see them again, even if we loved the show they were attached to.
 
-### **Nominees:**
+**Nominees:**
 
 * *Yuri on Ice*
 * *March Comes in Like a Lion*
@@ -284,7 +284,7 @@ Many people like to skip the ED, but this year made that a harder task to do tha
 
 This year gave us quite a large range of characters taking the spotlight, and this couldn’t be better seen than in the *Best Male Character *nominees. Everything from figure skaters and manga artists to plaster busts, this year had it all.
 
-### **Nominees:**
+**Nominees:**
 
 * Ohta (*Tanaka-Kun*)
 * Tanaka (*Tanaka-Kun*)
@@ -312,7 +312,7 @@ This year gave us quite a large range of characters taking the spotlight, and th
 
 The bold, the brash, the rejected, and the moe- 2016 brought plenty of endearing choices to make the race for *Best Female Character *a widely debated discussion in anime circles.
 
-### **Nominees:**
+**Nominees:**
 
 * Myaano (*Tanaka-kun*)
 * Shiraishi (*Tanaka-kun*)
@@ -339,7 +339,7 @@ The bold, the brash, the rejected, and the moe- 2016 brought plenty of endearing
 
 Last but not Least, AniTAY Favorites! This is one we included to spice things up, to make this list truly our own. These are shows that AniTAY was fixated on, either loved or discussed about for days on end. Take a look at what makes AniTAY, AniTAY!
 
-### **Nominees:**
+**Nominees:**
 
 * *Schwarzesmarken*
 * *Jojo’s Bizzare Adventure*

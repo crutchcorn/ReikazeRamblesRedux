@@ -33,7 +33,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### *7. Boku dake ga Inai Machi - Erased*
+# *7. Boku dake ga Inai Machi - Erased*
 
 ![](./ulh0fw1og6kue1vplv6y.jpg)
 
@@ -49,7 +49,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### ***6. Grimgar of Fantasy and Ash***
+# ***6. Grimgar of Fantasy and Ash***
 
 ![](./anpow6qyup31nhiglel5.jpg)
 
@@ -67,7 +67,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### ***5. Akagami no Shirayukihime Season 2***
+# ***5. Akagami no Shirayukihime Season 2***
 
 ![](./tlh7l4uxcepyctejma6w.jpg)
 
@@ -85,7 +85,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### *4. KonoSuba: God’s Blessing on This Wonderful World!*
+# *4. KonoSuba: God’s Blessing on This Wonderful World!*
 
 ![](./xivf7p92qjn1fymyxzne.jpg)
 
@@ -103,7 +103,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### ***2. Sports Anime:***** *****Ace of Diamonds *****S2***** / Haikyuu!!***** S2**
+# ***2. Sports Anime:***** *****Ace of Diamonds *****S2***** / Haikyuu!!***** S2**
 
 ![](./zlrogbg0cpylco6tun2v.png)
 
@@ -127,7 +127,7 @@ For *Haikyuu *- After losing against Aoba Jousai, the whole Karasuno team feels 
 
 ***
 
-### *1. **Shouwa Genroku Rakugo Shinjuu***
+# *1. **Shouwa Genroku Rakugo Shinjuu***
 
 ![](./y1iu5oyimgskxg3howpr.png)
 
