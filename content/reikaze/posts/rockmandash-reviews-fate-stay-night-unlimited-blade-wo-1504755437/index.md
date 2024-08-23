@@ -25,7 +25,7 @@ As I was watching through the *Unlimited Blade Works* movie, I was pretty afraid
 
 ![](./1291273890384873904.png)
 
-The soundtrack in the *Unlimited Blade Works *movie was pretty solid overall with no real flaws worth mentioning. It’s enjoyable, is executed well to enhance the experiences and it fits well with the scenes. A nice touch too was that while it was mostly original tracks, they were solid tracks that worked well with the route and they still used VN tracks in specific situations to make scenes more memorable. That being said, While I did enjoy the soundtrack wile watching the film, I didn’t think the soundtrack stood out in any way and probably wouldn’t be a good listen outside of the movie. Also, not much to say about the lll voice acting: solid as ever, no complaints here. All of the Japanese versions of of fate stuff have the same voice actors, and this is no exception.
+The soundtrack in the *Unlimited Blade Works* movie was pretty solid overall with no real flaws worth mentioning. It’s enjoyable, is executed well to enhance the experiences and it fits well with the scenes. A nice touch too was that while it was mostly original tracks, they were solid tracks that worked well with the route and they still used VN tracks in specific situations to make scenes more memorable. That being said, While I did enjoy the soundtrack wile watching the film, I didn’t think the soundtrack stood out in any way and probably wouldn’t be a good listen outside of the movie. Also, not much to say about the lll voice acting: solid as ever, no complaints here. All of the Japanese versions of of fate stuff have the same voice actors, and this is no exception.
 
 #### Sound - 8/10
 

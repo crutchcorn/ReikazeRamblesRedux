@@ -7,7 +7,7 @@
 }
 ---
 
-Welcome to Rockmandash Reviews! I’m Kevin and this part 2 of my *Fate/stay night* anime review, My third review on TAY and just one of the many reviews in my Type Moon Marathon. For those of you reading on TAY, I’m still going through my backlog of stuff I’ve already written, but after UBW’s movie review, The reviews should be original to TAY. This is review of the* Fate/Stay night *anime, made by studio Deen in 2006.
+Welcome to Rockmandash Reviews! I’m Kevin and this part 2 of my *Fate/stay night* anime review, My third review on TAY and just one of the many reviews in my Type Moon Marathon. For those of you reading on TAY, I’m still going through my backlog of stuff I’ve already written, but after UBW’s movie review, The reviews should be original to TAY. This is review of the *Fate/Stay night* anime, made by studio Deen in 2006.
 
 ![](./1291634712308372328.jpg)![](./1291634712445758312.png) ![](./1291634712519745128.jpg)
 
