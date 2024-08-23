@@ -7,7 +7,7 @@
 }
 ---
 
-As I was starting this review marathon, I saw that first [Rewrite](http://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1516111258) review could use some improvements; I figured that this marathon was a perfect opportunity to fix that. Welcome to Rockmandash Reviews+, and this is my **REWRITTEN **review of *Rewrite* for the [Key Marathon](http://tay.kotaku.com/rockmandash-reviews-key-marathon-wip-1606707641), so be prepared to rewrite your expectations, as this game is quite different than what you would expect from Key.
+As I was starting this review marathon, I saw that first [Rewrite](http://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1516111258) review could use some improvements; I figured that this marathon was a perfect opportunity to fix that. Welcome to Rockmandash Reviews+, and this is my **REWRITTEN** review of *Rewrite* for the [Key Marathon](http://tay.kotaku.com/rockmandash-reviews-key-marathon-wip-1606707641), so be prepared to rewrite your expectations, as this game is quite different than what you would expect from Key.
 
 ![](./1395906708261334600.png)![](./1395906708391215432.png)
 
@@ -19,7 +19,7 @@ The story follows our protagonist Kotarou, who lives an average life in Kazamats
 
 *Rewrite* is Key’s longest visual novel to date: It has a total of 7 routes, with each having a very different writing style due to them having different authors. While I could go over why each individual route is good or bad like I did in the first review, I don’t think that really sums up my thoughts on Rewrite’s plot and that makes for a long and confusing review. That being said, i’ll still give a short summary of the routes so you aren’t clueless about them.
 
-* **Kotori **- Kotori’s route is the introductory and it makes for a good reference point. Play this one first. It’s your traditional Key romance, and it’s enjoyable.
+* **Kotori** - Kotori’s route is the introductory and it makes for a good reference point. Play this one first. It’s your traditional Key romance, and it’s enjoyable.
 * **Lucia** - Lucia’s route is interesting because it was written by the writer of Higurashi. It starts out as a mystery horror, but turns into a thrilling romance. Personally my favorite character route.
 * **Shizuru** - It’s the most simplistic route, and it’s pretty lighthearted. The ending sucks though.
 * **Chihiya** - Chihiya’s route is what happens when Key tries to make a Fate/stay night. It’s a good shounen, but it could be better.
@@ -41,7 +41,7 @@ What we got was good, but it was not what I would expect from key. The writing f
 
 ![](./1395906708672304200.png)
 
-I welcome you Visual Novels, to the modern world. Finally! We have Glorious **WIDESCREEN HD**, with an absolutely beautiful UI and a beautiful world. The quality is here, with a magnificent style that makes everything look great. With some amazing scenery and great effects, the style enhances the mood and builds an amazing atmosphere. The character art looks fantastic as well, with a modern style that’s pleasing to the eye, something rarely seen in older Key works. There’s just one **BIG **problem with the visuals in *Rewrite*: The quantity of said art. This game needs much more CG. Sprites and backgrounds are reused in an obnoxious amount, and many important characters do not even have sprites. The game is pretty, but too many things are left to your imagination. This hinders the world it’s built, as the important characters it’s left out can be on a specific route for long periods of time, and your just staring at the background. This is the best looking key game to date, but Visuals are not just about quality; There is a ton of stuff left to your imagination, and the lack of such art is a glaring omission for a VN.
+I welcome you Visual Novels, to the modern world. Finally! We have Glorious **WIDESCREEN HD**, with an absolutely beautiful UI and a beautiful world. The quality is here, with a magnificent style that makes everything look great. With some amazing scenery and great effects, the style enhances the mood and builds an amazing atmosphere. The character art looks fantastic as well, with a modern style that’s pleasing to the eye, something rarely seen in older Key works. There’s just one **BIG** problem with the visuals in *Rewrite*: The quantity of said art. This game needs much more CG. Sprites and backgrounds are reused in an obnoxious amount, and many important characters do not even have sprites. The game is pretty, but too many things are left to your imagination. This hinders the world it’s built, as the important characters it’s left out can be on a specific route for long periods of time, and your just staring at the background. This is the best looking key game to date, but Visuals are not just about quality; There is a ton of stuff left to your imagination, and the lack of such art is a glaring omission for a VN.
 
 ![](./1395906708827448648.jpg)
 
@@ -55,7 +55,7 @@ Key cannot screw up music. If they ever released a game with bad music, it would
 
 ![](./1395906708912968520.png)
 
-*Rewrite* is an enjoyable game. It has a great sense of humor ( [the oppai route is hilarious](https://www.youtube.com/watch?v=rcFn3FVJLmk)), with the common route is really solid when it comes to keeping a smile on your face, and even though the serious parts of the plot might slack off with the humor, they are entertaining in their own way. *Rewrite *is a enjoyable and entertaining ride, one I hope others give a shot. The fluctuating quality of the character routes might hinder your experience though, but it’s really worth it to get to that amazing Terra route.
+*Rewrite* is an enjoyable game. It has a great sense of humor ( [the oppai route is hilarious](https://www.youtube.com/watch?v=rcFn3FVJLmk)), with the common route is really solid when it comes to keeping a smile on your face, and even though the serious parts of the plot might slack off with the humor, they are entertaining in their own way. *Rewrite* is a enjoyable and entertaining ride, one I hope others give a shot. The fluctuating quality of the character routes might hinder your experience though, but it’s really worth it to get to that amazing Terra route.
 
 #### Enjoyment - 8.5/10
 
@@ -73,6 +73,6 @@ Also, if you want another perspective on *Rewrite*, check out [Hitokiri\_Ace’s
 
 **Copyright Disclaimer:** Under Title 17, Section 107 of United States Copyright law, reviews are protected under fair use. This is a review, and as such, all media used in this review is used for the sole purpose of review and commentary under the terms of fair use. All footage, music and images belong to the respective companies.
 
-*You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*, and the rest of my *[*Key Marathon*](http://tay.kotaku.com/rockmandash-reviews-key-marathon-wip-1606707641)[* Here*](http://tay.kotaku.com/rockmandash-reviews-key-marathon-wip-1606707641)*. For An explanation of my review system, *[*check this out*](http://tay.kotaku.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
+*You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*, and the rest of my *[*Key Marathon Here*](http://tay.kotaku.com/rockmandash-reviews-key-marathon-wip-1606707641)*. For An explanation of my review system, *[*check this out*](http://tay.kotaku.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-*This game is availible on *[*Fuwanovel *](http://fuwanovel.org/novels/rewrite)*for download.*
+This game is availible on [*Fuwanovel*](http://fuwanovel.org/novels/rewrite) for download.
