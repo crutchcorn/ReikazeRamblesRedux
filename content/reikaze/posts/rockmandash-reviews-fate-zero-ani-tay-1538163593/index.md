@@ -31,7 +31,7 @@ Due to the ensemble cast and focus on ideals, there are only a few characters I 
 
 ![](./1313360469820556323.png) ![](./1313360470038798115.png)
 
-Ufotable does it once again. *Fate/Zero *has some of the best visuals in anime, with absolutely beautiful visuals: Visuals that are so good, that people still debate that they haven’t been surpassed yet. In my eyes, what *Fate/Zero* does really well in the visuals is the is the fight scenes, with fluid animation and excellent consistency. *Fate/Zero* has some of the best fight scenes in anime, in my opinion, and as a Fate fan, it’s great to see characters I love animated so beautifully. It’s one of the best looking anime I’ve seen, and it’ll hold up for years.
+Ufotable does it once again. *Fate/Zero* has some of the best visuals in anime, with absolutely beautiful visuals: Visuals that are so good, that people still debate that they haven’t been surpassed yet. In my eyes, what *Fate/Zero* does really well in the visuals is the is the fight scenes, with fluid animation and excellent consistency. *Fate/Zero* has some of the best fight scenes in anime, in my opinion, and as a Fate fan, it’s great to see characters I love animated so beautifully. It’s one of the best looking anime I’ve seen, and it’ll hold up for years.
 
 #### Visuals - 9.5/10
 
@@ -63,7 +63,7 @@ Fate/Zero is a fantastic show, as it’s polished as all hell and is a good watc
 
 **Copyright Disclaimer:** Under Title 17, Section 107 of United States Copyright law, reviews are protected under fair use. This is a review, and as such, all media used in this review is used for the sole purpose of review and commentary under the terms of fair use. All footage, music and images belong to the respective companies.
 
-**Note: **This review was edited on 9/22 to reflect my current thoughts, to pretty it up, and in preparation for Fate/stay night.
+**Note:** This review was edited on 9/22 to reflect my current thoughts, to pretty it up, and in preparation for Fate/stay night.
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*, and the rest of my *[*Type-Moon Marathon here*](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534)*. For An explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
