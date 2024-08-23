@@ -11,7 +11,7 @@ When I write up a review, there are aspects of the work that I try to cover, and
 
 ![](./arnmcztd0ptzrtb3sqel.png)
 
-### Writing
+# Writing
 
 * Premise - interesting or not?
 * How is it told - Story Execution, etc
@@ -27,7 +27,7 @@ When I write up a review, there are aspects of the work that I try to cover, and
 * Atmosphere it creates - do I feel like I am in this world?
 * If it's an adaptation - is faithful? if it's not, is it better or worse? why?
 
-### Gameplay
+# Gameplay
 
 * Is it fun? What do you like about it?
 * Is it well made? polished? Buggy?
@@ -38,7 +38,7 @@ When I write up a review, there are aspects of the work that I try to cover, and
 * Execution: how is it?
 * What does it do special; what makes it stand out from the crowd?
 
-### Visuals
+# Visuals
 
 * Is it "pleasing to the eye" - does it look good to you?
 * Take into account age of the work and circumstances
@@ -49,7 +49,7 @@ When I write up a review, there are aspects of the work that I try to cover, and
 * Consistency and themes - mood and tone
 * changes in successive releases
 
-### Sound
+# Sound
 
 * How does it affect you?
 * Does it sound nice, "pleasing to the ear"? Why
@@ -62,7 +62,7 @@ When I write up a review, there are aspects of the work that I try to cover, and
 * Technical?
 * Changes in successive releases?
 
-### Enjoyment
+# Enjoyment
 
 * How did it strike a cord with me?
 * what did I personally like or dislike?

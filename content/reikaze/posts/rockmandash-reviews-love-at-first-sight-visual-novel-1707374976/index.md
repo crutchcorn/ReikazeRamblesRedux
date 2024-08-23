@@ -36,7 +36,7 @@ Really, the novelty factor that she’s cyclops is the main reason you’d pick 
 
 Really though, all of this lead to the question that I had in my mind the whole time I played through this game: What the hell, Sekai Project? Why would you support yet another novelty VN that nobody really asked for, and why would you price it at 10 dollars? Steam’s full of novelty VNs that are much cheaper, and there’s nothing that makes this worth that much, nothing that I would personally pay this much for. If this was something that the dev wanted to do for fun and release for the sake of it, I could give that a pass if it was free or relatively cheap, but 10 dollars? This is a 2 hour game that doesn’t justify that price tag at all, and it just baffles my mind that they would price it that high. Yes, it’s an entertaining read, and it’s not a particularly bad visual novel, but for the price they are commanding for, don’t bother. If you’re interested, pick it up on a steam sale or something.
 
-### Overall - 6.5/10, Polarization +2,-1
+# Overall - 6.5/10, Polarization +2,-1
 
 ![](./1285895473107273388.png) ![](./1285895473202097068.png)
 

@@ -17,7 +17,7 @@ Visual Novels. It’s a medium that many don’t really have much experience wit
 
 ***
 
-### Honorable Mention #1: *Mahoutsukai no Yoru*
+# Honorable Mention #1: *Mahoutsukai no Yoru*
 
 ![](./1355248791449204654.jpg)
 
@@ -27,7 +27,7 @@ Visual Novels. It’s a medium that many don’t really have much experience wit
 
 ***
 
-### Honorable Mention #2:* White Album 2*
+# Honorable Mention #2:* White Album 2*
 
 ![](./1355248791578639534.jpg)
 
@@ -37,7 +37,7 @@ Visual Novels. It’s a medium that many don’t really have much experience wit
 
 ***
 
-### 10. *Kara no Shoujo & Kara no Shoujo 2 *- Beauty at all Costs
+# 10. *Kara no Shoujo & Kara no Shoujo 2 *- Beauty at all Costs
 
 ![](./1355248791657809326.jpg)
 
@@ -49,7 +49,7 @@ Visual Novels. It’s a medium that many don’t really have much experience wit
 
 ***
 
-### 9. *Fate/stay night* – The Nasuverse Epic
+# 9. *Fate/stay night* – The Nasuverse Epic
 
 ![](./1355248791769362606.jpg)
 
@@ -59,7 +59,7 @@ Visual Novels. It’s a medium that many don’t really have much experience wit
 
 ***
 
-### 8. *G-Senjou no Maou* – The *Death Note *of Visual Novels
+# 8. *G-Senjou no Maou* – The *Death Note *of Visual Novels
 
 ![](./1355248792020818094.jpg)
 
@@ -69,7 +69,7 @@ Visual Novels. It’s a medium that many don’t really have much experience wit
 
 ***
 
-### 7. *Zero Escape: Virtue’s Last Reward* – What A Dilemma
+# 7. *Zero Escape: Virtue’s Last Reward* – What A Dilemma
 
 ![](./1355248792058363566.jpg)
 
@@ -83,7 +83,7 @@ They are forced to take part in a game known as the Nonary Game: Ambidex Edition
 
 ***
 
-### **6. *Clannad* – The Feels Trip**
+# **6. *Clannad* – The Feels Trip**
 
 ![](./1355248792149861806.png)
 
@@ -95,7 +95,7 @@ I speak a lot about how I put experience above all else when it comes to a story
 
 ***
 
-### **5. *Muv-Luv Alternative* – Unlike anything you will Experience**
+# **5. *Muv-Luv Alternative* – Unlike anything you will Experience**
 
 ![](./1355248791870030254.png)
 
@@ -105,7 +105,7 @@ I speak a lot about how I put experience above all else when it comes to a story
 
 ***
 
-### 4. *Ever 17: The Out of Infinity* – The start of it all
+# 4. *Ever 17: The Out of Infinity* – The start of it all
 
 ![](./1355248792229921454.jpg)
 
@@ -119,7 +119,7 @@ I speak a lot about how I put experience above all else when it comes to a story
 
 ***
 
-### 3. *Fate/hollow ataraxia* – The Most Entertaining VN I’ve Played
+# 3. *Fate/hollow ataraxia* – The Most Entertaining VN I’ve Played
 
 ![](./1355248792361496238.jpg)
 
@@ -133,7 +133,7 @@ Both Bazett and Shirou find themselves in time loop that lasts four days, beginn
 
 ***
 
-### 2. *Steins:Gate* – The Story about Time Travel
+# 2. *Steins:Gate* – The Story about Time Travel
 
 ![](./1355248792451889838.jpg)
 
@@ -143,7 +143,7 @@ Both Bazett and Shirou find themselves in time loop that lasts four days, beginn
 
 ***
 
-### 1. *999: 9 Hours, 9 Persons, 9 Doors* - A True Masterpiece
+# 1. *999: 9 Hours, 9 Persons, 9 Doors* - A True Masterpiece
 
 **Plot Description: **999 opens with our hero Junpei, an average college-aged kid, waking up in a haze of cloudy memory in a place he’s never seen before. As he gets his bearings, he quickly discovers the grim situation he’s in — he’s been kidnapped. Kidnapped, and taken to a ship adrift somewhere in the ocean. He soon meets up with eight other victims and they all discover, together, that they’ve been gathered together by a madman to play through a sick and twisted human experiment called “the Nonary Game.” *- Plot Description from IGN’s Review*
 

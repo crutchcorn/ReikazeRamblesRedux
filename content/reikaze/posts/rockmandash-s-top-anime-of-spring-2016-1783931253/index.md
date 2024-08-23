@@ -13,7 +13,7 @@ It’s that time of year again, where we finish up another season and the review
 
 ***
 
-### Thoughts on the Season Overall
+# Thoughts on the Season Overall
 
 ![](./bz4s8n8pvgbyketoiap0.jpg)
 
@@ -21,7 +21,7 @@ If you watch seasonally, you’ll find that there are a few trends with seasons.
 
 ***
 
-## Rules
+# Rules
 
 ![](./ig64enkwgcewpdo9nb3q.png)
 
@@ -31,7 +31,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-#### **Dishonorable Mention:* Re:Zero***
+## **Dishonorable Mention:* Re:Zero***
 
 **Made by: **White Fox
 
@@ -43,7 +43,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-#### Honorable Mention: *JoJo’s Bizarre Adventure: The Diamond is Unbreakable*
+## Honorable Mention: *JoJo’s Bizarre Adventure: The Diamond is Unbreakable*
 
 **Made by: **David Productions
 
@@ -55,7 +55,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### 6. *Kabaneri of the Iron Fortress*
+## 6. *Kabaneri of the Iron Fortress*
 
 **Made by: **Studio Wit
 
@@ -67,7 +67,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### 5. *Joker Game*
+## 5. *Joker Game*
 
 **Made by: **Production I.G.
 
@@ -79,7 +79,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### 4. *Macross Delta*
+## 4. *Macross Delta*
 
 **Made by: **Satelight
 
@@ -91,7 +91,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### 3. *Space Patrol Luluco*
+## 3. *Space Patrol Luluco*
 
 **Made By:** Studio Trigger
 
@@ -103,7 +103,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### 2. *Flying Witch*
+## 2. *Flying Witch*
 
 **Made By:** J.C Staff
 
@@ -115,7 +115,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### 1. *Tanaka-kun is Always Listless*
+## 1. *Tanaka-kun is Always Listless*
 
 **Made By:** Silver Link
 

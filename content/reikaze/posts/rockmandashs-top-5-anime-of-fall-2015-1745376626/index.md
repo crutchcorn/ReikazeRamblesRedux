@@ -17,7 +17,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### ***5. Osomatsu-san***
+# ***5. Osomatsu-san***
 
 ![](./dnsmdfhv1a6yzwg42kdo.png)
 
@@ -27,7 +27,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### ***4. Owarimonogatari***
+# ***4. Owarimonogatari***
 
 ![](./adlkqk4g0ohpqgakjhtv.jpg)
 
@@ -37,7 +37,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### ***3. Noragami Aragoto***
+# ***3. Noragami Aragoto***
 
 **Plot Description: **In the second season of *Noragami,* the main focus is on Bishamon, god of war. She has many shinki due to her being unable to abandon spirits attacked by Ayakashi. She has a large group of shinki with her as leader, causing her trouble as she sometimes cannot tend to all of them properly, especially when one of them gets sick or is in pain. She has a strong hate for Yato, as a dark past binds the two of them. How will the horrifying events dated hundreds of years ago in combination with current evil happenings affect Yato and Yukine? *- Plot Description from MAL*
 
@@ -45,7 +45,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### ***2. Sports Anime:***** *****Ace of Diamonds *****S2***** / Haikyuu!!*** S2
+# ***2. Sports Anime:***** *****Ace of Diamonds *****S2***** / Haikyuu!!*** S2
 
 ![](./jstbebn1utvs5ydhyrzi.jpg)
 
@@ -59,7 +59,7 @@ For *Haikyuu *- After losing against Aoba Jousai, the whole Karasuno team feels 
 
 ***
 
-### ***1. One Punch Man***
+# ***1. One Punch Man***
 
 ![](./lgipugrdb24ndmsotmcl.png)
 

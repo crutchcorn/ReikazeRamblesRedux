@@ -13,7 +13,7 @@
 
 ***
 
-## Thoughts on Anime in 2016
+# Thoughts on Anime in 2016
 
 ![](./ddwfnnrr94fbybxi9alf.jpg)
 
@@ -21,7 +21,7 @@ While there was a lot of great anime this year but I have to say, this year was 
 
 ***
 
-## Rules
+# Rules
 
 ![](./hcszrfus9zdi8zjqzgcv.png)
 
@@ -31,7 +31,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-## 10. *Flip Flappers*
+# 10. *Flip Flappers*
 
 **Anime Made By: **Studio 3Hz
 
@@ -45,7 +45,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-## 9. ***KonoSuba: God’s Blessing on This Wonderful World!***
+# 9. ***KonoSuba: God’s Blessing on This Wonderful World!***
 
 **Made by:** Studio Deen
 
@@ -57,7 +57,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-## 8. *Flying Witch*
+# 8. *Flying Witch*
 
 **Made By:** J.C Staff
 
@@ -69,7 +69,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-## 7. *Girlish Number*
+# 7. *Girlish Number*
 
 **Anime Made By: **Diomedea
 
@@ -81,7 +81,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-## 6. *Ace of Diamonds Season 2*
+# 6. *Ace of Diamonds Season 2*
 
 **Made by:** *Production I.G. , Madhouse*
 
@@ -93,7 +93,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-## 5. *Haikyuu!! Season 2 & 3*
+# 5. *Haikyuu!! Season 2 & 3*
 
 **Anime Made By: **Production I.G
 
@@ -103,13 +103,13 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 **Justification & Thoughts:**
 
-## ***HYPEKYUU!!!!!!!!!!!!!!!!!!!!***
+# ***HYPEKYUU!!!!!!!!!!!!!!!!!!!!***
 
 If you couldn’t tell from my *Ace *description above I really love sports anime, and Haikyuu has been an integral part of my sports anime experience. With 2 appearences this year (the reason it edges out Ace) and every episode being as hype as it could be with some of the best animation sequences you can think of, Haikyuu was a show to beat, one that would provide an amazing viewing experience as I watched it. I loved it to bits (even though I already knew what was gonna happen because I read the manga! yay).
 
 ***
 
-## 4.***Tanaka-kun is Always Listless***
+# 4.***Tanaka-kun is Always Listless***
 
 **Made By:** Silver Link
 
@@ -121,7 +121,7 @@ If you couldn’t tell from my *Ace *description above I really love sports anim
 
 ***
 
-## 3. ReLife
+# 3. ReLife
 
 **Anime Made By: **TMS Entertainment
 
@@ -133,7 +133,7 @@ If you couldn’t tell from my *Ace *description above I really love sports anim
 
 ***
 
-## 2. ***Kimi no Na wa. (Your Name.)***
+# 2. ***Kimi no Na wa. (Your Name.)***
 
 **Anime Made By: **CoMix Wave
 
@@ -147,7 +147,7 @@ If you’re interested in reading more thoughts about *Kimi no Na wa*, [check ou
 
 ***
 
-## ***1. Shouwa Genroku Rakugo Shinjuu***
+# ***1. Shouwa Genroku Rakugo Shinjuu***
 
 **Made by:** Studio Deen
 

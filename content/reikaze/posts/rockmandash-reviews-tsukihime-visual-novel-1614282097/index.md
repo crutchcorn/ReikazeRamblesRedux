@@ -25,7 +25,7 @@ The thing that separates Tsukihime from other Type-Moon works (other than Kara n
 
 The plot is just executed well. Everything from the pacing to the characters, to the back story to the world building, it was enjoyable, and when you consider that this is a doujin game, you can’t help but be impressed. Tsukihime is a well written story.
 
-#### Writing - 9.5/10
+# Writing - 9.5/10
 
 ![](./1353797215996651811.png) ![](./1353797216083499043.jpg)
 
@@ -33,19 +33,19 @@ The Visuals in Tsukihime are very dated. Every time I look at it, I wish that th
 
 The presentation just doesn’t hold up. This is due for a remake, which is coming… we just don’t really know when, and there’s no real sign of progress. For now, the presentation is probably the largest barrier in this game, as it’s really dated.
 
-#### Visuals 5/10
+# Visuals 5/10
 
 ![](./1353797216188645155.png)
 
 There’s something very charming about the soundtrack of Tsukihime. It’s very simple, but it’s concise. It does what it needs to do, and because of that, it doesn’t try to be more than it is; we get music that pulls at your emotions, and sound effects that convey the raw essense of the action. The music is all pleasing to the ear, and it’s a pretty good soundtrack overall. There’s just a few big issues with the soundtrack though that keep it from greatness, and the biggest is the amount of tracks. Tsukihime has 10 tracks, for a 30+ hour game..... sigh. These are memorable songs, but even if you don’t care for them, you will remember them... because they’ve been played to death. As for usage, It was ok. Due to the shallow volume of different tracks, the music cues can be repititious; however, each of them is well suited to the scene; however, each of them is well suited to the scene. However, I wish that they used the music more; there’s a lot of unnecessary audio silence.
 
-#### Sound - 7/10
+# Sound - 7/10
 
 ![](./1353797216284420387.png) ![](./1353797216378977059.jpg)
 
 Tsukihime, with it’s character driven writing, has the potential to be better than Fate/stay night, but as an experience, F/SN wins due to a more memorable story and the world building IMO. I like Tsukihime’s story just as much as I like F/SN’s, but F/SN is a more enjoyable experience, with the more epic plot, better music, and better visuals. Tsukihime is a much more character focused story (which has it’s pros and cons) with better pacing, it deals with different themes that are equally as entertaining but are more unique ([Insanity is fun](http://www.lurkmore.com/w/images/9/9e/Thischair.jpg)) and deals with tone better, but one thing that can be said is that both were enjoyable and the writing was excellent. Honestly, if the visuals were at the same quality, I’d probably like them equally as much, but I don’t.
 
-#### Enjoyment - 7.75/10
+# Enjoyment - 7.75/10
 
 ![](./1353797216464100643.png) ![](./1353797216565622563.jpg)
 
@@ -53,7 +53,7 @@ Tsukihime, with it’s character driven writing, has the potential to be better 
 
 Let’s say that hypothetically, there’s a Tsukihime Anime that’s called Shingetsutan (Lunar Legend) Tsukihime, and is 12 episodes, adapted by J.C. staff. This hypothetical anime would be, by far the worst anime I have ever seen, and would probably be the worst adaptation on this planet. Lunar Legend Tsukihime would try to be Near Side of the Moon, but at the same time try to implement parts of the Far Side of the Moon routes into the plot. Unfortunately it would fail at both, so it would start making things up, and nothing would make any sense. It would try to explain things, but because it leaves so many things unexplained, you’d never actually know what’s going on. The pacing would be so slow that it would be inexcusable and show-ruining, considering how much info they have to put in, and how slow the game is already is. The pacing would singlehandedly make this the most boring show I’ve ever seen. They’d also throw in random flashbacks for scenes that don’t need to be shown in flashbacks, and just other really stupid execution stuff like that.... it would have so many execution issues that it would make people cry. It would be so bad that I would never be able to soldier through it. I’ve been able to soldier through F/SN 2006 anime because at least the basic premise and execution wasn’t unbearable, but this would be unbearable. If you ever see this hypothetical show, avoid it at all costs; [there’s a reason why it doesn’t exist](http://reapers0shadow.files.wordpress.com/2013/01/tsukihime-anime-doesnt-exist.jpg?w=300). If you don’t want to read the VN, go read the manga. At least the manga exists.
 
-#### Anime - 0/10
+# Anime - 0/10
 
 ![](./1353797216707821603.png)
 

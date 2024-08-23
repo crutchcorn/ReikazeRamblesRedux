@@ -21,25 +21,25 @@ If you’ve been reading this and this seems familiar, that’s because the scre
 
 ![](./1323445383195582053.png)
 
-#### Writing - 9/10
+# Writing - 9/10
 
 ![](./1323445383257711717.png) ![](./1323445383387749477.jpg)
 
 Man, this show looks great. PA Works really knows what they are doing with the visuals, and this continues the tradition. In my opinion, this is up there with [Shinkai films](http://wallpoper.com/images/00/41/00/38/makoto-shinkai_00410038.png) in levels of [Scenery Porn](http://tvtropes.org/pmwiki/pmwiki.php/Main/SceneryPorn), which is extremely impressive... and even more so when you consider that this is an 26 episode anime. I cannot count the amount of times that I stopped the show just to stare at the visuals, it’s that amazing. Its very rare that you see a show that’s so excellent and amazing overall with the animation art, setting the mood, and characters being all absolutely outstanding. There’s no way I could give this any less than a 10 in visuals.
 
-#### Visuals - 10/10
+# Visuals - 10/10
 
 ![](./1323445383619140197.png)
 
 With such impressive visuals, and fantastic writing plot, what could possibly top that? By some miraculous reason, in my opinion the music manages to be the strong point of the series, trumping both the plot and the visuals in quality. The soundtrack for the show is absolutely phenomenal, and it wasn’t long before I was wishing that I had the soundtrack sitting in my phone, ready to be listened over and over again. It’s one of the best soundtracks I’ve heard in recent times, and that’s a pretty ballsy claim considering the amazing soundtrack that Attack on Titan and Kill la Kill had. The high point for the soundtrack in my opinion, has to be absolutely fantastic ending theme Aqua Terrarium. I love it to death. Another fantastic thing about the soundtrack is that they use the tracks at the right time, for the right length, etc. They use the music for enhancing the mood, something every show with a standout soundtrack has to do. On another note, I thought that the voices are pretty great as well. I felt like all the voices were kind to the ear, as they all did a fantastic job at the voice acting and the casting was superb. Never once did I think these voices could be done by anybody else, and I’d be really sad if they were. (well, probably not....)
 
-#### Sound - 10/10
+# Sound - 10/10
 
 ![](./1323445383681382245.png) ![](./1323445383813413221.jpg)
 
 I had a great time with *Nagi no Asukara*. It was an essential portion of feels Thursday, and I loved every bit of it. It was an amazing show, especially if you are a big fan of Romances... It did everything I really wanted it to, and I loved the hell out of it. If you are into this type of show, a better question would be... **WHY ARE YOU NOT WATCHING THIS**? One thing that needs to be mentioned is the middle of the show. I marathoned most of it so I didn’t feel the drag in the middle too much, but it’s definitely there. I’m sure if you asked someone who was watching weekly, they’d get really annoyed.
 
-#### Enjoyment - 9/10
+# Enjoyment - 9/10
 
 ![](./1323445384558424165.png)
 

@@ -13,17 +13,17 @@ Welcome to Rockmandash Reviews! I had the awesome experience of going to the mov
 
 ![](./19hbdm8i84upypng.png)
 
-#### Very Charming Story
+# Very Charming Story
 
 The wind rises is set in [Showa-era](http://en.wikipedia.org/wiki/Showa_period) Japan and the story follows the life of Jiro Horikoshi, a aeronautical engineer and his quest to build a great airplane. The plot is very ghibli-esque. It feels like a melting pot of everything Hayao Miyazaki, and you get what you expect out of this: a charming yet tragic love story with an excellent plot to back it up. The plot is definitely focused on the characters, and all the characters were well rounded and interesting. Of course, our main dreamer protagonist Jiro took the spotlight, but he was such a likable character that is really inspirational that I didn't mind it at all. The one thing I felt that TWR does better than any Ghibli film in the past, is that it balanced the feels and the humor to an amazing extent, and I loved it. Stuff like Grave and Mononoke were all serious, while Kiki's Delivery Service and Totoro were very light-hearted. This, along with Spirited away, has a perfect mesh of all of them.
 
-#### Awesome Setting
+# Awesome Setting
 
 ![](./19hbdmah0msuajpg.jpg)
 
 What made the Wind rises stand out from other Ghibli works is even though it's about air, it's very grounded to reality. The wind rises shows a setting not used quite often of pre-war Showa era Japan, and considering that this is like my favorite setting and it's never used, this made me really happy. (The only other series I can recall that uses this era to the fullest like this is the No Longer Human Arc from [Aoi Bungaku](http://en.wikipedia.org/wiki/Aoi_Bungaku)) The clash of a maturing Japan, with the clash of old and how advanced Germany was in comparison was very interesting to me and it really made the mood for me. I loved how diverse the movie was, it made me glad I watched this dubbed. It gives a very pre-war vibe, and if your a 20th century history nut, you'll love it.
 
-#### This is Art
+# This is Art
 
 ![](./19hbe0tceld8njpg.jpg)
 
@@ -31,11 +31,11 @@ ALL THE [AIRPLANE PORN](http://tvtropes.org/pmwiki/pmwiki.php/Main/SceneryPorn).
 
 ![](./19hbdmah26e7qpng.png)
 
-#### The Sound
+# The Sound
 
 WHAT? A Ghibli film with Meh sound? It was very meh at the beginning, but it got better. I have to mention the stupid sound effects. You know how in spirited away, they made some of the sound effects by people's voices? That's like half of the movie here, and it's very noticeable. When you here Airplanes making brrrrmmmmthhhhhh sounds that sound like people were saying it, you cannot help but laugh. Me and my friends were making stupid sounds the whole time.... When I started watching it, I was wishing I watched TWR in sub, but then the dub got way better as Jiro matured, and more western culture seeped in, with the Italian engineer, and the German traveler. This is one movie you want to watch dub. I cannot forget to mention the amazing soundtrack by Joe Hisaishi, this is one of his best works, but the weird sound effects aren't really helping here.
 
-#### The Beginning
+# The Beginning
 
 ![](./svllgyahih9demwggjty.jpg)
 
@@ -45,11 +45,11 @@ The beginning in general was not up to snuff. Along with the Weird acid trip dre
 
 Neither of these actually have to do with the movie itself, they are just things relating to the movie that I thought were terrible.
 
-#### THE END
+# THE END
 
 The Wind Rises has an inevitable fact that will linger on and might influence your experience even before you enter the theater or boot up the Disk: This is Miyazaki's last film. It was an amazing swan song, and I loved every bit of it, but this is the end for Hayao Miyazaki, movie wise. That is a sad fact, but it doesn't over-shadow this masterpiece of a film. It was the best farewell Hayao Miyazaki could have ever made, but it's still a farewell.
 
-#### Controversy
+# Controversy
 
 ![](./19hbdm4k3wdsqjpg.jpg)
 

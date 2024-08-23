@@ -17,7 +17,7 @@ Before I start, I need to mention that this is an extension to my [*Visual Novel
 
 ***
 
-## Cheap or expensive?
+# Cheap or expensive?
 
 ![](./e86h4hz9u27d9wfuncrh.jpg)
 
@@ -25,7 +25,7 @@ If you’re interested in getting a tablet for VNs, the first thing you need to 
 
 ***
 
-## The Quality of the Screen - High Resolution or Not?
+# The Quality of the Screen - High Resolution or Not?
 
 ![](./dsoku6dzvbbgrop02qsv.jpg)
 
@@ -33,7 +33,7 @@ When buying a tablet, the most important aspect is the screen, as it dictates yo
 
 ***
 
-## Subjective Aspects of Screens - Aspect Ratio & Size
+# Subjective Aspects of Screens - Aspect Ratio & Size
 
 ![](./ypvqjmh7uzwjylh8lasu.jpg)
 
@@ -51,7 +51,7 @@ As for aspect ratios, that is the way the screen is shaped, the orientation of p
 
 ***
 
-## Performance
+# Performance
 
 ![](./cx7juc31xfjmucdaenhu.jpg)
 
@@ -61,7 +61,7 @@ Also, like the processor, ram plays a small part in your experience with VNs, bu
 
 ***
 
-## Storage
+# Storage
 
 ![](./yzsnnqozhcjtcizkrng9.jpg)
 
@@ -69,7 +69,7 @@ On the other hand, with storage, get as much as you can afford as visual novels 
 
 ***
 
-## Etcetera
+# Etcetera
 
 ![](./wiglthwqpgtrnbtvqsqf.jpg)
 
@@ -81,13 +81,13 @@ Last but not least, I’m going to remind those here, you should install touchmo
 
 ***
 
-## My Recommendations (As of January 2016)
+# My Recommendations (As of January 2016)
 
 ![](./iokbaaiwod2dxyipwu7r.jpg)
 
 Now that you know what type of tablet you want, here are some specific choices that fit the categories out there. I’ve tried to cover as much ground as possible but I’m not perfect so if you know a good tablet, just shoot me a message and I’ll look into if I should add it in. Also, these are subject to change as new devices come out.
 
-### 8 inch Tablets - Small but Portable, Perfect for a VN
+## 8 inch Tablets - Small but Portable, Perfect for a VN
 
 ![](./fafudauooilwnaetpzzk.jpg)
 
@@ -103,7 +103,7 @@ Now that you know what type of tablet you want, here are some specific choices t
 
 ***
 
-### 10 Inch Tablets - The Full Size Tablet Experience:
+## 10 Inch Tablets - The Full Size Tablet Experience:
 
 ![](./xosde1cdliocaa57uh3n.jpg)
 
@@ -125,7 +125,7 @@ Now that you know what type of tablet you want, here are some specific choices t
 
 ***
 
-### 12 Inch Tablets - 2 in 1's, Essentially a Laptop with removable Keyboards (Get the Keyboards):
+## 12 Inch Tablets - 2 in 1's, Essentially a Laptop with removable Keyboards (Get the Keyboards):
 
 ![](./b713qksmx329ulxmbxhr.jpg)
 
