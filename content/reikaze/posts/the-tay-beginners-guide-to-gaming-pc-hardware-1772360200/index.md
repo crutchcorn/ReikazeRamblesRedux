@@ -43,23 +43,23 @@ When learning about anything, there’s always a new set of terminology to learn
 
 **CPU (Central Processing Unit) -** The “brains” of your computer, what runs the programs you are using. In games, a CPU runs all the logic and physics behind it. This affects the speed of your everyday tasks, as well as in games.
 
-**GPU (Graphics Processing Unit) - **like a cpu, it’s what runs the things you do, but it is optimized for graphics: it takes the information regarding to visuals and puts it it on the screen. This is the most important for a gaming build as it’s essentially what enables your game to run at the settings you you want.
+**GPU (Graphics Processing Unit) -** like a cpu, it’s what runs the things you do, but it is optimized for graphics: it takes the information regarding to visuals and puts it it on the screen. This is the most important for a gaming build as it’s essentially what enables your game to run at the settings you you want.
 
-**Cooler - **CPUs and GPUs get hot, so you need a cooler that takes the heat from the chip and puts it into the room. The better cooler you get, the cooler your parts will run.
+**Cooler -** CPUs and GPUs get hot, so you need a cooler that takes the heat from the chip and puts it into the room. The better cooler you get, the cooler your parts will run.
 
-**Overclocking - **Overclocking, or OC’ing is taking the chips past the manufacturer’s recommended spec to get better performance. You may need specific parts depending on if you do this.
+**Overclocking -** Overclocking, or OC’ing is taking the chips past the manufacturer’s recommended spec to get better performance. You may need specific parts depending on if you do this.
 
 **Motherboard -** The motherboard is what connects everything together and allows it to run.
 
-**RAM (Random Access Memory) - **This is really fast temporary storage, and will make a big deal when gaming if you don’t have enough or are multitasking.
+**RAM (Random Access Memory) -** This is really fast temporary storage, and will make a big deal when gaming if you don’t have enough or are multitasking.
 
-**HDD (Hard Disk Drive) - **This is what you put all your files on, and it uses moving disks to store it.
+**HDD (Hard Disk Drive) -** This is what you put all your files on, and it uses moving disks to store it.
 
-**SSD (Solid State Drive) - **This is like an HDD but instead of a moving disks, it uses chips. This is much faster, but more expensive.
+**SSD (Solid State Drive) -** This is like an HDD but instead of a moving disks, it uses chips. This is much faster, but more expensive.
 
-**PSU (Power Supply Unit) - **This is what takes the electricity from your wall and allows your computer to use it.
+**PSU (Power Supply Unit) -** This is what takes the electricity from your wall and allows your computer to use it.
 
-**FPS (Frames per Second) - **this is a measurement of how fast your game is running.
+**FPS (Frames per Second) -** this is a measurement of how fast your game is running.
 
 ***
 
@@ -79,11 +79,11 @@ While computers can be frustrating at times, the actual act is rather easy: it�
 **GAMING PC MYTH #3** - The CPU is the most important part of a gaming pc, so I’m going to get an i7.\
 In many prebuilds, they privilege the CPU, which is exactly why they are a horrible buy for the most part as GPU’s are more important in Gaming PCs and are what makes them run games well. You don’t need anything more than an i5 in gaming, anything more will not give you tangible boosts in gaming, while spending more on a GPU will. Spending money on a CPU is more helpful if you have other means like video editing or you multitask a lot.
 
-**GAMING PC MYTH #4: **Is a liquid cooled PC better/superior?
+**GAMING PC MYTH #4:** Is a liquid cooled PC better/superior?
 
 While a custom liquid cooler may be rather impressive, this is not necessarily the case, as you can get a tower air cooler (Cooler Master Hyper 212, Noctua NH14) that can beat closed loop water cooling kits while being cheaper, or you could put that money into better components.
 
-**GAMING PC MYTH #5: **-Insert Brand Here- sucks so I’ll buy -Insert other brand here-.
+**GAMING PC MYTH #5:** -Insert Brand Here- sucks so I’ll buy -Insert other brand here-.
 
 PC makers are generally in parity, so this usually doesn’t apply, try not to buy via brands. While ATM I wouldn’t recommend AMD CPUs for an example, that does not mean the company as a whole sucks or that they have never made anything good. On the GPU side, they’re pretty much neck to neck in performance, trading blows at nearly every price range, so don’t let brand dictate what you buy, get what suits your situation the best.
 
@@ -175,7 +175,7 @@ So,that leads the question: 1060 or 470/480? 3,4,6,8Gb ram? with so many variabl
 
 You need to ask yourself if you care about performance now vs later, how long you plan on keeping your GPU and what company you prefer to make the decision between 1060 vs 480. About VRAM, and the cut down cards: I recommend the cheaper, smaller memory versions as these cards are for the most part underpowered for higher resolutions thanks to more demanding games (though, upscaling tricks like on the PS4 Pro may change that). In my mind, if you needed the extra memory you might as well go for a more expensive card, and The lesser memory cards are better bang for your buck. While the internet screams doom and gloom about the 3gb 1060 being nerfed, it’s ultimately an amazing 1080p card, and the 470/480 still has 4gb at the lower price so you’ll be set for a while. (If you can get a 4gb 480, get it, they’re like unicorns)
 
-**Recommended Upgrades - **I left out an SSD: this won’t influence your gaming performance but you’ll see a hit in daily use. Get one, it’s a really nice device to have. If you would rather “futureproof” yourself a bit more and/or have ~$300 to spend on your GPU, go with the 8gb 480 or 6gb 1060, or an older GPU like the R9 Fury (which I personally have). The Fury’s a nifty card which has a lot of compute power for the ~$275-$300 that it’s going for, even coming in spitting range of the 1070 in higher resolutions, but takes more power and has 4gb of ram (though, HBM which complicates things).
+**Recommended Upgrades -** I left out an SSD: this won’t influence your gaming performance but you’ll see a hit in daily use. Get one, it’s a really nice device to have. If you would rather “futureproof” yourself a bit more and/or have ~$300 to spend on your GPU, go with the 8gb 480 or 6gb 1060, or an older GPU like the R9 Fury (which I personally have). The Fury’s a nifty card which has a lot of compute power for the ~$275-$300 that it’s going for, even coming in spitting range of the 1070 in higher resolutions, but takes more power and has 4gb of ram (though, HBM which complicates things).
 
 ***
 
@@ -209,13 +209,13 @@ If you want to make your own installer, here’s a link to the [Ninite](https://
 
 ***
 
-## Accessories
+# Accessories
 
 ![](./rnm5juj84ipkajgwi31z.png)
 
 In the Hardware section, I only put the bare rig, but if you need accessories like keyboards, mouses, wireless cards, etc, I’ll put my recommendations here.
 
-**Keyboard**
+## **Keyboard**
 
 ![](./vlkrzjmm9tk3acwsm7cf.jpg)
 
@@ -227,7 +227,7 @@ G/O Media may get a commission
 
 [](https://www.amazon.com/dp/B005EOWBHC?ascsubtag=26033b89efb185da59533a5f9d20a6658b72d5cc\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
-## [AmazonBasics Wired Keyboard, Keyboard only (1-Pack)](https://www.amazon.com/dp/B005EOWBHC?ascsubtag=26033b89efb185da59533a5f9d20a6658b72d5cc\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
+### [AmazonBasics Wired Keyboard, Keyboard only (1-Pack)](https://www.amazon.com/dp/B005EOWBHC?ascsubtag=26033b89efb185da59533a5f9d20a6658b72d5cc\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
 From amazon
 
@@ -237,13 +237,9 @@ Red Dragon Backlit Mechanical Keyboard ~ $40
 
 G/O Media may get a commission
 
-[$](https://www.amazon.com/dp/B016MAK38U?ascsubtag=b8020539c6f39f5010d3894794dcd1792edeaceb\&linkCode=ogi\&psc=1\&smid=AXZ7TDMJNMJSZ\&tag=kinja-20\&th=1)
+[$35](https://www.amazon.com/dp/B016MAK38U?ascsubtag=b8020539c6f39f5010d3894794dcd1792edeaceb\&linkCode=ogi\&psc=1\&smid=AXZ7TDMJNMJSZ\&tag=kinja-20\&th=1)
 
-
-
-[35](https://www.amazon.com/dp/B016MAK38U?ascsubtag=b8020539c6f39f5010d3894794dcd1792edeaceb\&linkCode=ogi\&psc=1\&smid=AXZ7TDMJNMJSZ\&tag=kinja-20\&th=1)
-
-## [Redragon K552 Mechanical Gaming Keyboard RGB LED Rainbow Backlit...](https://www.amazon.com/dp/B016MAK38U?ascsubtag=b8020539c6f39f5010d3894794dcd1792edeaceb\&linkCode=ogi\&psc=1\&smid=AXZ7TDMJNMJSZ\&tag=kinja-20\&th=1)
+### [Redragon K552 Mechanical Gaming Keyboard RGB LED Rainbow Backlit...](https://www.amazon.com/dp/B016MAK38U?ascsubtag=b8020539c6f39f5010d3894794dcd1792edeaceb\&linkCode=ogi\&psc=1\&smid=AXZ7TDMJNMJSZ\&tag=kinja-20\&th=1)
 
 From amazon
 
@@ -251,19 +247,15 @@ Thermaltake Poseidon Blue Kailith Switch Mechanical Keyboard $60-
 
 G/O Media may get a commission
 
-[$](https://www.amazon.com/dp/B00HZE2PJS?ascsubtag=dba37391fcee0ff739634d7deee63662061df99f\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
+[$80](https://www.amazon.com/dp/B00HZE2PJS?ascsubtag=dba37391fcee0ff739634d7deee63662061df99f\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
-
-
-[80](https://www.amazon.com/dp/B00HZE2PJS?ascsubtag=dba37391fcee0ff739634d7deee63662061df99f\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
-
-## [Thermaltake Tt e Sports Poseidon Z Blue Switches with 4-Level Brightness...](https://www.amazon.com/dp/B00HZE2PJS?ascsubtag=dba37391fcee0ff739634d7deee63662061df99f\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
+### [Thermaltake Tt e Sports Poseidon Z Blue Switches with 4-Level Brightness...](https://www.amazon.com/dp/B00HZE2PJS?ascsubtag=dba37391fcee0ff739634d7deee63662061df99f\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
 From amazon
 
 ***
 
-**Mouse**
+## **Mouse**
 
 ![](./zu5b9n41sgwcumohthug.png)
 
@@ -281,19 +273,15 @@ Steelseries Rival 100:[https://smile.amazon.com/SteelSeries-Ri…](<https://smil
 
 G/O Media may get a commission
 
-[$](https://www.amazon.com/dp/B015WKY3FU?ascsubtag=664dfd90898683218847874329c0d961067574d7\&linkCode=ogi\&psc=1\&smid=A1QVAV8LAWE2HY\&tag=kinja-20\&th=1)
+[$140](https://www.amazon.com/dp/B015WKY3FU?ascsubtag=664dfd90898683218847874329c0d961067574d7\&linkCode=ogi\&psc=1\&smid=A1QVAV8LAWE2HY\&tag=kinja-20\&th=1)
 
-
-
-[140](https://www.amazon.com/dp/B015WKY3FU?ascsubtag=664dfd90898683218847874329c0d961067574d7\&linkCode=ogi\&psc=1\&smid=A1QVAV8LAWE2HY\&tag=kinja-20\&th=1)
-
-## [SteelSeries Rival 100, Optical Gaming Mouse - Black](https://www.amazon.com/dp/B015WKY3FU?ascsubtag=664dfd90898683218847874329c0d961067574d7\&linkCode=ogi\&psc=1\&smid=A1QVAV8LAWE2HY\&tag=kinja-20\&th=1)
+### [SteelSeries Rival 100, Optical Gaming Mouse - Black](https://www.amazon.com/dp/B015WKY3FU?ascsubtag=664dfd90898683218847874329c0d961067574d7\&linkCode=ogi\&psc=1\&smid=A1QVAV8LAWE2HY\&tag=kinja-20\&th=1)
 
 From amazon
 
 ***
 
-**Monitor**
+## **Monitor**
 
 ![](./mjcvqgvpxwccnwexrict.jpg)
 
@@ -305,13 +293,9 @@ Asus 23 inch 1080p Monitor -[ $125](<https://smile.amazon.com/VS239H-P-1920x1080
 
 G/O Media may get a commission
 
-[$](https://www.amazon.com/dp/B008DWITHI?ascsubtag=3daceb9d8af99e40a0e57c15565d6cb723f5e2f2\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
+[$120](https://www.amazon.com/dp/B008DWITHI?ascsubtag=3daceb9d8af99e40a0e57c15565d6cb723f5e2f2\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
-
-
-[120](https://www.amazon.com/dp/B008DWITHI?ascsubtag=3daceb9d8af99e40a0e57c15565d6cb723f5e2f2\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
-
-## [ASUS VS239H-P 23" Full HD 1920x1080 IPS HDMI DVI VGA Back-lit LED...](https://www.amazon.com/dp/B008DWITHI?ascsubtag=3daceb9d8af99e40a0e57c15565d6cb723f5e2f2\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
+### [ASUS VS239H-P 23" Full HD 1920x1080 IPS HDMI DVI VGA Back-lit LED...](https://www.amazon.com/dp/B008DWITHI?ascsubtag=3daceb9d8af99e40a0e57c15565d6cb723f5e2f2\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
 From amazon
 
@@ -325,7 +309,7 @@ G/O Media may get a commission
 
 
 
-## [Pixio PX277 27-inch 2560x1440 144Hz AMD FreeSync IPS Technology WQHD...](https://smile.amazon.com/PX277-27-inch-2560x1440-FreeSync-Technology/dp/B01HPDAF68/ref=sr_1_14?ascsubtag=344f94cde4882aaca973f3fc1b39ec57548e4ca0\&ie=UTF8\&keywords=freesync\&qid=1473842109\&sr=8-14\&tag=kinja-20)
+### [Pixio PX277 27-inch 2560x1440 144Hz AMD FreeSync IPS Technology WQHD...](https://smile.amazon.com/PX277-27-inch-2560x1440-FreeSync-Technology/dp/B01HPDAF68/ref=sr_1_14?ascsubtag=344f94cde4882aaca973f3fc1b39ec57548e4ca0\&ie=UTF8\&keywords=freesync\&qid=1473842109\&sr=8-14\&tag=kinja-20)
 
 From amazon
 
@@ -335,13 +319,13 @@ G/O Media may get a commission
 
 [](http://smile.amazon.com/Monoprice-27-Inch-Select-Monitor-113808/dp/B016LOU0FI/ref=sr_1_1?ascsubtag=c64a8608fb3fac7af6ca8e524501ab6355f7c813\&ie=UTF8\&keywords=monoprice%20monitor\&qid=1461270796\&sr=8-1\&tag=kinja-20)
 
-## [Monoprice 27-Inch IPS WQHD LED Select Series Monitor with HDMI and...](http://smile.amazon.com/Monoprice-27-Inch-Select-Monitor-113808/dp/B016LOU0FI/ref=sr_1_1?ascsubtag=c64a8608fb3fac7af6ca8e524501ab6355f7c813\&ie=UTF8\&keywords=monoprice%20monitor\&qid=1461270796\&sr=8-1\&tag=kinja-20)
+### [Monoprice 27-Inch IPS WQHD LED Select Series Monitor with HDMI and...](http://smile.amazon.com/Monoprice-27-Inch-Select-Monitor-113808/dp/B016LOU0FI/ref=sr_1_1?ascsubtag=c64a8608fb3fac7af6ca8e524501ab6355f7c813\&ie=UTF8\&keywords=monoprice%20monitor\&qid=1461270796\&sr=8-1\&tag=kinja-20)
 
 From amazon
 
 ***
 
-**Internet**
+## **Internet**
 
 ![](./ewsiccmpvrxuiydrn6sj.jpg)
 
@@ -353,7 +337,7 @@ G/O Media may get a commission
 
 [](https://www.amazon.com/dp/B005SAKW9G?ascsubtag=6a93b7b4eecdc1ae2f146d7f2ba326917a7dd439\&linkCode=ogi\&psc=1\&smid=A18GW7QD5SN4TI\&tag=kinja-20\&th=1)
 
-## [Asus Dual Band (2.4GHz 300Mbps/5GHz 300Mbps) Wireless-N USB Adapter...](https://www.amazon.com/dp/B005SAKW9G?ascsubtag=6a93b7b4eecdc1ae2f146d7f2ba326917a7dd439\&linkCode=ogi\&psc=1\&smid=A18GW7QD5SN4TI\&tag=kinja-20\&th=1)
+### [Asus Dual Band (2.4GHz 300Mbps/5GHz 300Mbps) Wireless-N USB Adapter...](https://www.amazon.com/dp/B005SAKW9G?ascsubtag=6a93b7b4eecdc1ae2f146d7f2ba326917a7dd439\&linkCode=ogi\&psc=1\&smid=A18GW7QD5SN4TI\&tag=kinja-20\&th=1)
 
 From amazon
 
@@ -361,13 +345,9 @@ Wireless PCIE - [$15](<https://smile.amazon.com/TP-Link-Wireless-Express-Low-pro
 
 G/O Media may get a commission
 
-[$](https://www.amazon.com/dp/B007GMPZ0A?ascsubtag=d872a85dc73947d11c516ecb0935e865064d9fdc\&linkCode=ogi\&psc=1\&smid=A24DYA9LEFSGDH\&tag=kinja-20\&th=1)
+[$140](https://www.amazon.com/dp/B007GMPZ0A?ascsubtag=d872a85dc73947d11c516ecb0935e865064d9fdc\&linkCode=ogi\&psc=1\&smid=A24DYA9LEFSGDH\&tag=kinja-20\&th=1)
 
-
-
-[140](https://www.amazon.com/dp/B007GMPZ0A?ascsubtag=d872a85dc73947d11c516ecb0935e865064d9fdc\&linkCode=ogi\&psc=1\&smid=A24DYA9LEFSGDH\&tag=kinja-20\&th=1)
-
-## [TP-Link TL-WDN4800 N900 Dual Band Wireless PCI Express Adapter...](https://www.amazon.com/dp/B007GMPZ0A?ascsubtag=d872a85dc73947d11c516ecb0935e865064d9fdc\&linkCode=ogi\&psc=1\&smid=A24DYA9LEFSGDH\&tag=kinja-20\&th=1)
+### [TP-Link TL-WDN4800 N900 Dual Band Wireless PCI Express Adapter...](https://www.amazon.com/dp/B007GMPZ0A?ascsubtag=d872a85dc73947d11c516ecb0935e865064d9fdc\&linkCode=ogi\&psc=1\&smid=A24DYA9LEFSGDH\&tag=kinja-20\&th=1)
 
 From amazon
 
@@ -375,13 +355,9 @@ Powerline Adapter [-$40](https://smile.amazon.com/TP-LINK-Powerline-Adapter-Star
 
 G/O Media may get a commission
 
-[$](https://www.amazon.com/dp/B00AWRUICG?ascsubtag=b8c09f291c10e55ab7e17c99536e00229c1a542f\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
+[$38](https://www.amazon.com/dp/B00AWRUICG?ascsubtag=b8c09f291c10e55ab7e17c99536e00229c1a542f\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
-
-
-[38](https://www.amazon.com/dp/B00AWRUICG?ascsubtag=b8c09f291c10e55ab7e17c99536e00229c1a542f\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
-
-## [TP-Link AV600 Powerline Ethernet Adapter(TL-PA4010 KIT)- Plug\&Play,...](https://www.amazon.com/dp/B00AWRUICG?ascsubtag=b8c09f291c10e55ab7e17c99536e00229c1a542f\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
+### [TP-Link AV600 Powerline Ethernet Adapter(TL-PA4010 KIT)- Plug\&Play,...](https://www.amazon.com/dp/B00AWRUICG?ascsubtag=b8c09f291c10e55ab7e17c99536e00229c1a542f\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
 From amazon
 
@@ -389,19 +365,15 @@ Wired Ethernet Cable - [$10](<https://smile.amazon.com/Cable-Matters-Snagless-Et
 
 G/O Media may get a commission
 
-[$](https://www.amazon.com/dp/B0002JFN4M?ascsubtag=227e3cf5e4a15cd97e3e0cdbdb2c39618a6c6cda\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
+[$5](https://www.amazon.com/dp/B0002JFN4M?ascsubtag=227e3cf5e4a15cd97e3e0cdbdb2c39618a6c6cda\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
-
-
-[5](https://www.amazon.com/dp/B0002JFN4M?ascsubtag=227e3cf5e4a15cd97e3e0cdbdb2c39618a6c6cda\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
-
-## [C2G/ Cables To Go 27153 Cat6 Cable - Snagless Unshielded Ethernet...](https://www.amazon.com/dp/B0002JFN4M?ascsubtag=227e3cf5e4a15cd97e3e0cdbdb2c39618a6c6cda\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
+### [C2G/ Cables To Go 27153 Cat6 Cable - Snagless Unshielded Ethernet...](https://www.amazon.com/dp/B0002JFN4M?ascsubtag=227e3cf5e4a15cd97e3e0cdbdb2c39618a6c6cda\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
 From amazon
 
 ***
 
-**Sound Card**
+## **Sound Card**
 
 ![](./ke1aya2eriuuakyqspeq.jpg)
 
@@ -417,7 +389,7 @@ From amazon
 
 ***
 
-**Disk Drive**
+## **Disk Drive**
 
 ![](./jpoabaijtjszcp5onpjw.jpg)
 
@@ -428,13 +400,9 @@ Internal -[ $20](<https://smile.amazon.com/Asus-Serial-ATA-Internal-Optical-DRW-
 
 G/O Media may get a commission
 
-[$](https://www.amazon.com/dp/B0033Z2BAQ?ascsubtag=2059a1a27f6fe4acb3c118129e6aa69799505555\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
+[$20](https://www.amazon.com/dp/B0033Z2BAQ?ascsubtag=2059a1a27f6fe4acb3c118129e6aa69799505555\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
-
-
-[20](https://www.amazon.com/dp/B0033Z2BAQ?ascsubtag=2059a1a27f6fe4acb3c118129e6aa69799505555\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
-
-## [Asus 24x DVD-RW Serial-ATA Internal OEM Optical Drive DRW-24B1ST...](https://www.amazon.com/dp/B0033Z2BAQ?ascsubtag=2059a1a27f6fe4acb3c118129e6aa69799505555\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
+### [Asus 24x DVD-RW Serial-ATA Internal OEM Optical Drive DRW-24B1ST...](https://www.amazon.com/dp/B0033Z2BAQ?ascsubtag=2059a1a27f6fe4acb3c118129e6aa69799505555\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
 From amazon
 
@@ -442,13 +410,9 @@ External - [$25](<https://smile.amazon.com/LG-Electronics-Portable-External-GP65
 
 G/O Media may get a commission
 
-[$](https://www.amazon.com/dp/B00C2AMK2M?ascsubtag=151c1c9ea4bc9839f5b5e4c5adba3a45085fc4ae\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
+[$30](https://www.amazon.com/dp/B00C2AMK2M?ascsubtag=151c1c9ea4bc9839f5b5e4c5adba3a45085fc4ae\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
-
-
-[30](https://www.amazon.com/dp/B00C2AMK2M?ascsubtag=151c1c9ea4bc9839f5b5e4c5adba3a45085fc4ae\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
-
-## [LG Electronics 8X USB 2.0 Super Multi Ultra Slim Portable DVD Rewriter...](https://www.amazon.com/dp/B00C2AMK2M?ascsubtag=151c1c9ea4bc9839f5b5e4c5adba3a45085fc4ae\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
+### [LG Electronics 8X USB 2.0 Super Multi Ultra Slim Portable DVD Rewriter...](https://www.amazon.com/dp/B00C2AMK2M?ascsubtag=151c1c9ea4bc9839f5b5e4c5adba3a45085fc4ae\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
 From amazon
 
@@ -461,7 +425,7 @@ External -[ $50](<https://smile.amazon.com/Blu-Ray-Player-External-Laptop-Burner
 
 ***
 
-**Controller**
+## **Controller**
 
 ![](./effkuwg74b6xu9trxcco.jpg)
 
@@ -475,19 +439,15 @@ Gamesir G3s - [$30](<https://smile.amazon.com/Bluetooth-Wireless-Controller-Smar
 
 G/O Media may get a commission
 
-[$](https://www.amazon.com/dp/B0032A0RBC?ascsubtag=e4502273e813ade7363d173655473327f6796f09\&linkCode=ogi\&psc=1\&smid=A26BKZHHS8SI0Z\&tag=kinja-20\&th=1)
+[$20](https://www.amazon.com/dp/B0032A0RBC?ascsubtag=e4502273e813ade7363d173655473327f6796f09\&linkCode=ogi\&psc=1\&smid=A26BKZHHS8SI0Z\&tag=kinja-20\&th=1)
 
-
-
-[20](https://www.amazon.com/dp/B0032A0RBC?ascsubtag=e4502273e813ade7363d173655473327f6796f09\&linkCode=ogi\&psc=1\&smid=A26BKZHHS8SI0Z\&tag=kinja-20\&th=1)
-
-## [Third Party Made Xbox 360 Wireless Gaming Receiver Black](https://www.amazon.com/dp/B0032A0RBC?ascsubtag=e4502273e813ade7363d173655473327f6796f09\&linkCode=ogi\&psc=1\&smid=A26BKZHHS8SI0Z\&tag=kinja-20\&th=1)
+### [Third Party Made Xbox 360 Wireless Gaming Receiver Black](https://www.amazon.com/dp/B0032A0RBC?ascsubtag=e4502273e813ade7363d173655473327f6796f09\&linkCode=ogi\&psc=1\&smid=A26BKZHHS8SI0Z\&tag=kinja-20\&th=1)
 
 From amazon
 
 ***
 
-## ***Conclusion***
+# ***Conclusion***
 
 In conclusion, while PCs can be rather intimidating, they make for a great gaming platform and the hardware needed to do so can be seen here. PC Hardware can be a big barrier to get on the platform, but if you follow this guide, you should be able to get a PC that fits your needs for gaming.
 
