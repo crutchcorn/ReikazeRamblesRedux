@@ -65,7 +65,7 @@ I don’t really have much to add about the voice actors. The returning characte
 
 ![](./1471910961513546388.png)
 
-**DISCLAIMER: **This segment of the review is full of spoilers, so be aware.
+**DISCLAIMER:** This segment of the review is full of spoilers, so be aware.
 
 ![](./1471910961675813012.jpg)
 

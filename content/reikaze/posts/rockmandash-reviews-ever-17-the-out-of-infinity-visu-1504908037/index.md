@@ -79,5 +79,4 @@ EVERYTHING
 
 
 
-*This game is available on *[*Fuwanovel *](http://fuwanovel.org/novels/ever17-the-out-of-infinity)*for download.*\
-**
+This game is available on [*Fuwanovel*](http://fuwanovel.org/novels/ever17-the-out-of-infinity) for download.
