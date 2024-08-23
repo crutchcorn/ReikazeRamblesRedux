@@ -145,6 +145,9 @@
 		"react-aria": "^3.31.1",
 		"react-stately": "^3.29.1",
 		"rehype-remark": "^10.0.0",
+		"remark-cli": "^12.0.1",
+		"remark-lint": "^10.0.0",
+		"remark-lint-heading-increment": "^4.0.0",
 		"remark-stringify": "^11.0.0",
 		"uuid": "^10.0.0"
 	},
