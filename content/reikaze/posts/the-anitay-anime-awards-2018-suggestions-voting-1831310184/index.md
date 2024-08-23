@@ -27,7 +27,7 @@ There has been some slight changes to the formula this year however: we gave ani
 
 Here’s the category you’re all here for: Anime of the Year. There’s been a lot of great shows this year, but here’s the best. From Comedy to Fantasy to Drama, these are the shows we were immersed in, made us laugh or cry, and made us fall in love: The Best Anime of 2018.
 
-### **Nominees:**
+**Nominees:**
 
 * *A Place Further Than The Universe*
 * *Devilman Crybaby*
@@ -49,7 +49,7 @@ Here’s the category you’re all here for: Anime of the Year. There’s been a
 
 Anime is more than just silly TV cartoons... it’s also on the big screen! While there aren’t a lot of anime movies, here were the anime movies that came out this year, and they were great. [If you aren’t watching anime movies, you’re missing out.](https://anitay.kinja.com/quick-psa-if-you-aren-t-watching-anime-movies-you-re-1828543985)
 
-### **Nominees:**
+**Nominees:**
 
 * *Flavors of Youth*
 * *Liz and the Blue Bird*
@@ -66,7 +66,7 @@ Anime is more than just silly TV cartoons... it’s also on the big screen! Whil
 
 Shows that unfortunately flew under the radar and didn’t get the attention they deserved. While the seasonal favorites were making waves, these obscure shows were glimmering treasures waiting to be discovered. The number of members (going by MAL) was way below 85,000—and sometimes not even half of that. These are the hidden gems of 2018.
 
-### **Nominees:**
+**Nominees:**
 
 * *Amanchu! Advance*
 * *Baki*
@@ -92,7 +92,7 @@ Shows that unfortunately flew under the radar and didn’t get the attention the
 
 What do you watch anime for? Maybe great story, great music, or something else, but many watch shows for visuals, shows that look stunning at every moment. These are the shows that had the most fluid animation, looked amazing or more: The best Animated shows of 2018.
 
-### **Nominees:**
+**Nominees:**
 
 * *Baki*
 * *Devilman Crybaby*
@@ -112,7 +112,7 @@ What do you watch anime for? Maybe great story, great music, or something else, 
 
 *Action*! These are the shows that get your blood pumping, and your adrenalin skyrocketing. Animation that excel in the fast, the frenetic, the flashy and the weighty. Shows that make you feel every punch, soar every flight, and leaves you breatheless with every exertion. To those shows whose kineticism is made tangible, we honor with our “Best Action” Award.
 
-### **Nominees:**
+**Nominees:**
 
 * *Baki*
 * *Banana Fish*
@@ -151,7 +151,7 @@ What do you watch anime for? Maybe great story, great music, or something else, 
 
 Romance shows: The shows that get our hearts stirring, those that get us thinking in love dodecahedrons and more. These are the shows we loved to love, the Best Romance shows of 2018.
 
-### **Nominees:**
+**Nominees:**
 
 * *After the Rain*
 * *Boarding School Juliet*
@@ -169,7 +169,7 @@ Romance shows: The shows that get our hearts stirring, those that get us thinkin
 
 Some shows try to make you fall in love with a story, others try to wow you with spectacle. Others, like the shows here, try to put a smile on your face, to get you laughing out loud: These are the best comedies of 2018!
 
-### **Nominees:**
+**Nominees:**
 
 * *Asobi Asobase*
 * *Cells at Work*
@@ -192,7 +192,7 @@ Some shows try to make you fall in love with a story, others try to wow you with
 
 Sometimes, there’s nothing more enjoyable than watching people chill out and do their stuff. These are the best Slice of Life shows, the shows that make amazing out of the mundane.
 
-### **Nominees:**
+**Nominees:**
 
 * *Amanchu! Advance*
 * *Cells at Work*
@@ -212,7 +212,7 @@ Sometimes, there’s nothing more enjoyable than watching people chill out and d
 
 This year was absolutely flooded with top quality OPs, but these were the ones to best combine stunning visuals with amazing songs. These were the OPs you just could not skip no matter what.
 
-### **Nominees:**
+**Nominees:**
 
 * *Asobi Asobase*
 * *Baki*
@@ -237,7 +237,7 @@ This year was absolutely flooded with top quality OPs, but these were the ones t
 
 Many people like to skip the ED, but this year made that a harder task to do than usual, as we were gifted with an unusually large crop of addicting EDs. Some of these EDs were so good they even made us wish the episode would end just so we could see them again, even if we loved the show they were attached to.
 
-### **Nominees:**
+**Nominees:**
 
 * *Asobi Asobase*
 * *Baki*
@@ -257,7 +257,7 @@ Many people like to skip the ED, but this year made that a harder task to do tha
 
 This year gave us quite a large range of characters taking the spotlight, and this couldn’t be better seen than in the *Best Male Character *nominees. Everything from figure skaters and manga artists to plaster busts, this year had it all.
 
-### **Nominees:**
+**Nominees:**
 
 * Akira Fudo -* Devilman Crybaby*
 * Aslan Jade Callenreese (Ash) - *Banana Fish*
@@ -278,7 +278,7 @@ This year gave us quite a large range of characters taking the spotlight, and th
 
 The bold, the brash, the rejected, and the moe- 2018 brought plenty of endearing choices to make the race for Best Female Character a widely debated discussion in anime circles.
 
-### **Nominees:**
+**Nominees:**
 
 * Akane Shinjou - *SSSS Gridman*
 * Ayano Hanesaki -* Hanebado*
@@ -305,7 +305,7 @@ The bold, the brash, the rejected, and the moe- 2018 brought plenty of endearing
 
 For some reason, AniTAY really likes garbage shows, to the point where we have a whole subcategory of AniTAY’ers called animasochists. This is to you, the ones who suffer through the trashiest of trash... for some reason.
 
-### **Nominees:**
+**Nominees:**
 
 * *Alice or Alice: Siscon Niisan to Futago no Imouto*
 * *Angels of Death*
@@ -327,7 +327,7 @@ For some reason, AniTAY really likes garbage shows, to the point where we have a
 
 Last but not Least, AniTAY Favorites! This is one we included to spice things up, to make this list truly our own. These are shows that AniTAY was fixated on, either loved or discussed about for days on end. Take a look at what makes AniTAY, AniTAY! (Note: This doesn’t indicate quality or anything, just shows that AniTAY liked a lot.)
 
-### **Nominees:**
+**Nominees:**
 
 * *A Place Further Than The Universe*
 * *Baki*

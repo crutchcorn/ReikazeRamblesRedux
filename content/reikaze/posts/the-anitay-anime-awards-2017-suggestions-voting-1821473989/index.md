@@ -27,7 +27,7 @@ Anyways, enough about the Awards, you’re here to see what we think: Here are t
 
 Here’s the category you’re all here for: Anime of the Year. There’s been a lot of great shows this year, but here’s the best. From Comedy to Fantasy to Drama, these are the shows we were immersed in, made us laugh or cry, and made us fall in love: The Best Anime of 2017.
 
-### **Nominees:**
+**Nominees:**
 
 * *Your Name*
 * *Silent Voice*
@@ -55,7 +55,7 @@ Here’s the category you’re all here for: Anime of the Year. There’s been a
 
 Shows that unfortunately flew under the radar and didn’t get the attention they deserved. While the seasonal favorites were making waves, these obscure shows were glimmering treasures waiting to be discovered. The number of members (going by MAL) was way below 70,000—and sometimes not even half of that. These are the hidden gems of 2017.
 
-### **Nominees:**
+**Nominees:**
 
 * *Land of the Lustrous*
 * *March comes in like a lion S2*
@@ -77,7 +77,7 @@ Shows that unfortunately flew under the radar and didn’t get the attention the
 
 What do you watch anime for? Maybe great story, great music, or something else, but many watch shows for visuals, shows that look stunning at every moment. These are the shows that had the most fluid animation, looked amazing or more: The best Animated shows of 2017.
 
-### **Nominees:**
+**Nominees:**
 
 * *Miss Kobayashi’s Maid Dragon*
 * *Saga of Tanya the Evil*
@@ -98,7 +98,7 @@ What do you watch anime for? Maybe great story, great music, or something else, 
 
 *Action*! These are the shows that get your blood pumping, and your adrenalin skyrocketing. Animation that excel in the fast, the frenetic, the flashy and the weighty. Shows that make you feel every punch, soar every flight, and leaves you breatheless with every exertion. To those shows whose kineticism is made tangible, we honor with our “Best Action” Award.
 
-### **Nominees:**
+**Nominees:**
 
 * *Saga of Tanya the Evil*
 * *Attack on Titan S2*
@@ -143,7 +143,7 @@ What do you watch anime for? Maybe great story, great music, or something else, 
 
 Romance shows: The shows that get our hearts stirring, those that get us thinking in love dodecahedrons and more. These are the shows we loved to love, the Best Romance shows of 2017.
 
-### **Nominees:**
+**Nominees:**
 
 * *Your name*
 * *Silent Voice*
@@ -164,7 +164,7 @@ Romance shows: The shows that get our hearts stirring, those that get us thinkin
 
 Some shows try to make you fall in love with a story, others try to wow you with spectacle. Others, like the shows here, try to put a smile on your face, to get you laughing out loud: These are the best comedies of 2017!
 
-### **Nominees:**
+**Nominees:**
 
 * *Konosuba S2*
 * *Maid Dragon*
@@ -185,7 +185,7 @@ Some shows try to make you fall in love with a story, others try to wow you with
 
 This year was absolutely flooded with top quality OPs, but these were the ones to best combine stunning visuals with amazing songs. These were the OPs you just could not skip no matter what.
 
-### **Nominees:**
+**Nominees:**
 
 * *18if*
 * *ACCA: 13-ku Kansatsu-ka*
@@ -212,7 +212,7 @@ This year was absolutely flooded with top quality OPs, but these were the ones t
 
 Many people like to skip the ED, but this year made that a harder task to do than usual, as we were gifted with an unusually large crop of addicting EDs. Some of these EDs were so good they even made us wish the episode would end just so we could see them again, even if we loved the show they were attached to.
 
-### **Nominees:**
+**Nominees:**
 
 * *Kakegurui*
 * *Miss Kobayashi’s Dragon Maid*
@@ -231,7 +231,7 @@ Many people like to skip the ED, but this year made that a harder task to do tha
 
 This year gave us quite a large range of characters taking the spotlight, and this couldn’t be better seen than in the *Best Male Character *nominees. Everything from figure skaters and manga artists to plaster busts, this year had it all.
 
-### **Nominees:**
+**Nominees:**
 
 * *Kiriyama Rei *- March comes in like a lion S2
 * *Harunobu Nikaidou* - March Comes in like a Lion S2
@@ -251,7 +251,7 @@ This year gave us quite a large range of characters taking the spotlight, and th
 
 The bold, the brash, the rejected, and the moe- 2017 brought plenty of endearing choices to make the race for *Best Female Character *a widely debated discussion in anime circles.
 
-### **Nominees:**
+**Nominees:**
 
 * Kawamoto Momo - March Comes in like a lion S2
 * Kamui Kanna - Miss Kobayashi’s Dragon Maid
@@ -278,7 +278,7 @@ The bold, the brash, the rejected, and the moe- 2017 brought plenty of endearing
 
 Last but not Least, AniTAY Favorites! This is one we included to spice things up, to make this list truly our own. These are shows that AniTAY was fixated on, either loved or discussed about for days on end. Take a look at what makes AniTAY, AniTAY! (Note: This section is very much subject to change)
 
-### **Nominees:** 
+**Nominees:** 
 
 * *Black CLOOOOOVEEEER*
 * *Tsukigakirei*
