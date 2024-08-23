@@ -9,7 +9,7 @@
 
 ![](./1271696743160473775.png)
 
-Welcome back to the **SUPER DELUXE ANIME BACKLOG REVIEW GAUNTLET EXTRAVAGANZA, **the fantastic and super amazing [article series](http://anitay.kinja.com/rockmandash-reviews-anime-backlog-review-gauntlet-1-1680197346) where I do mini-reviews of shows I’ve been watching recently that was in my backlog.** **This time we have interesting OVAs, and amazing shows that everyone should watch!
+Welcome back to the **SUPER DELUXE ANIME BACKLOG REVIEW GAUNTLET EXTRAVAGANZA**, the fantastic and super amazing [article series](http://anitay.kinja.com/rockmandash-reviews-anime-backlog-review-gauntlet-1-1680197346) where I do mini-reviews of shows I’ve been watching recently that was in my backlog.** **This time we have interesting OVAs, and amazing shows that everyone should watch!
 
 ***
 
