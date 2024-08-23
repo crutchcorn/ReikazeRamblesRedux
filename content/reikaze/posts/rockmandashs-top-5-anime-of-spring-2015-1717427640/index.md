@@ -17,7 +17,7 @@ So, What are the rules of this list, you may ask? If it aired/released this seas
 
 ***
 
-#### **HM#1.* Punch Line***
+# **HM#1.* Punch Line***
 
 ![](./1341053165083161744.jpg)
 
@@ -27,7 +27,7 @@ So, What are the rules of this list, you may ask? If it aired/released this seas
 
 ***
 
-#### HM#2. *Knights of Sidonia Season 2*
+# HM#2. *Knights of Sidonia Season 2*
 
 ![](./1341053165248083856.jpg)
 
@@ -39,7 +39,7 @@ That being said, It’s not a bad show by any means, still being entertaining an
 
 ***
 
-#### HM#3:* Fate/stay night: Unlimited Blade Works*
+# HM#3:* Fate/stay night: Unlimited Blade Works*
 
 ![](./1341053165566082704.jpg)
 

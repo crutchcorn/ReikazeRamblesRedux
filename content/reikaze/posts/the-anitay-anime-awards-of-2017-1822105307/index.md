@@ -17,7 +17,7 @@ The AniTAY Anime Awards is a collaborative effort by members in the AniTAY commu
 
 Here’s a bonus before we start -
 
-#### **Author’s & Reader’s Pick for Best Non-Gendered Character: Phos (*Land of the Lustrious*)**
+# **Author’s & Reader’s Pick for Best Non-Gendered Character: Phos (*Land of the Lustrious*)**
 
 ![](./wkdlkbk62zo4sjxjyubn.jpg)
 
@@ -25,151 +25,151 @@ Phos really deserves a mention but kinda got snubbed due to the voting structure
 
 ***
 
-## **Author Awards**
+# **Author Awards**
 
 Here’s what the authors of AniTAY have to say! We here at AniTAY are an opinionated bunch, a group of people who vary drastically yet all magically have a consensus on certain things. We watch a lot of anime, so expect some different results than from most.
 
 ***
 
-#### **Author’s Pick for AniTAY Favorites:** *BLACK CLOVEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEER*
+### **Author’s Pick for AniTAY Favorites:** *BLACK CLOVEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEER*
 
 ![](./fov6sax81yxdtjnrzrgr.jpg)
 
 ***
 
-#### **Author’s Pick for Best Female Character: **Kamui Kanna **(***Miss Kobayashi’s Dragon Maid***)**
+### **Author’s Pick for Best Female Character:** Kamui Kanna **(***Miss Kobayashi’s Dragon Maid***)**
 
 <video src="./s0hqcy5gjeqwxp92cgz0.mp4"></video>
 
 ***
 
-#### **Author’s Pick for Best Male Charcter: **Arararararararararagi-kun **(***Owarimonogatari S2***)**
+### **Author’s Pick for Best Male Charcter:** Arararararararararagi-kun **(***Owarimonogatari S2***)**
 
 ![](./xzstk3iaxalansk9hrhm.jpg)
 
 ***
 
-#### **Author’s Pick for Best ED: ***Girls’ Last Tour*
+### **Author’s Pick for Best ED:** *Girls’ Last Tour*
 
 ***
 
-#### **Author’s Best OP: ***ACCA: 13th Territory Inspection Department*
+### **Author’s Best OP:** *ACCA: 13th Territory Inspection Department*
 
 ***
 
-#### **Author’s Pick for Best Comedy: ***KonoSuba: God’s Blessing on This Wonderful World! 2*
+### **Author’s Pick for Best Comedy:** *KonoSuba: God’s Blessing on This Wonderful World! 2*
 
 ![](./dii7sietvsoebjt8d0mi.png)
 
 ***
 
-#### **Author’s Pick for Best Romance: *Tsuki ga Kirei***
+### **Author’s Pick for Best Romance: *Tsuki ga Kirei***
 
 ![](./vs6ib7zipyvfahbz75nq.png)
 
 ***
 
-#### **Author’s Pick for Best Drama: *Silent Voice***
+### **Author’s Pick for Best Drama: *Silent Voice***
 
 ![](./tgal2rxo0j9kavr0eest.jpg)
 
 ***
 
-#### **Author’s Pick for Best Action: *Saga of Tanya the Evil***
+### **Author’s Pick for Best Action: *Saga of Tanya the Evil***
 
 ![](./a94rsjllmmuzzdrbaeku.png)
 
 ***
 
-#### **Author’s Pick for Best Animated: ***Miss Kobayashi’s Dragon Maid & Made in Abyss*
+### **Author’s Pick for Best Animated:** *Miss Kobayashi’s Dragon Maid & Made in Abyss*
 
 ![](./awqyjbnx7iut1dcyubfu.jpg) ![](./fx7q7fv6qr99axhoph3n.png)
 
 ***
 
-#### **Author’s Pick for Hidden Gem: ***Land of the Lustrous*
+### **Author’s Pick for Hidden Gem:** *Land of the Lustrous*
 
 ![](./bzgffxcakhs7ujy6m0aa.png)
 
 ***
 
-#### **Author’s Pick for Anime Of The Year: ***Made in Abyss & Your Name*
+### **Author’s Pick for Anime Of The Year:** *Made in Abyss & Your Name*
 
 ![](./rkjn9p2yzvnmstykldtm.jpg) ![](./edylelbaxegm1flkfa7z.jpg)
 
 ***
 
-## **Reader Results**
+# **Reader Results**
 
 Now for the Community’s results! The community that reads AniTAY is pretty varied, but that doesn’t stop them from watching great anime! Definitely some interesting picks, and a surprising amount of ties.
 
 ***
 
-#### **Reader’s Pick for AniTAY Favorites: ***Girls’ Last Tour*
+### **Reader’s Pick for AniTAY Favorites:** *Girls’ Last Tour*
 
 ![](./xtayfjvmbtuppytd8ilq.png)
 
 ***
 
-#### **Reader’s Pick for Best Female Character: Riko (*Made in Abyss*)**
+### **Reader’s Pick for Best Female Character: Riko (*Made in Abyss*)**
 
 ![](./wyxwlc9erzccooyh0y6q.png)
 
 ***
 
-#### **Reader’s Pick for Best Male Character: **Ainsworth Elias (*Ancient Magus Bride*) & Reg (*Made in Abyss*)
+### **Reader’s Pick for Best Male Character:** Ainsworth Elias (*Ancient Magus Bride*) & Reg (*Made in Abyss*)
 
 ![](./ii2v7esodz6skvc1onfr.png) ![](./akskgjxt7e9ovsflshfm.jpg)
 
 ***
 
-#### **Reader’s Pick for Best ED: ***Girl’s Last Tour, Miss Kobayashi’s Dragon Maid & Saga of Tanya of Evil*
+### **Reader’s Pick for Best ED:** *Girl’s Last Tour, Miss Kobayashi’s Dragon Maid & Saga of Tanya of Evil*
 
-#### 
-
-***
-
-#### **Reader’s Pick for Best OP: ***Attack on Titan S2 & Miss Kobayashi’s Dragon Maid*
+### 
 
 ***
 
-#### **Reader’s Pick for Best Comedy: *KonoSuba: God’s Blessing on This Wonderful World! 2***
+### **Reader’s Pick for Best OP:** *Attack on Titan S2 & Miss Kobayashi’s Dragon Maid*
+
+***
+
+### **Reader’s Pick for Best Comedy: *KonoSuba: God’s Blessing on This Wonderful World! 2***
 
 ![](./coougl9uvjc6wefvckwq.jpg)
 
 ***
 
-#### **Reader’s Pick for Best Romance: ***Your Name.*
+### **Reader’s Pick for Best Romance:** *Your Name.*
 
 ![](./tat0x5dgnqo4zvtqy4hu.jpg)
 
 ***
 
-#### **Reader’s Pick for Best Drama: *Your Name.***
+### **Reader’s Pick for Best Drama: *Your Name.***
 
 ![](./siavv11mhs15vl02cok0.jpg)
 
 ***
 
-#### **Reader’s Pick for Best Action: ***My Hero Academia S2*
+### **Reader’s Pick for Best Action:** *My Hero Academia S2*
 
 ![](./bp19fuzt12zjwuicteyj.png)
 
 ***
 
-#### **Reader’s Pick for Best Animated: ***Made in Abyss, Land of the Lustrous & My Hero Academia S2*
+### **Reader’s Pick for Best Animated:** *Made in Abyss, Land of the Lustrous & My Hero Academia S2*
 
 ![](./ewaaa8l1jbkyno0rwlp8.png) ![](./yzgfsdn9sn5tr1krzgai.jpg) ![](./fnbh7u5fwubuqnm5oqpt.png)
 
 ***
 
-#### **Reader’s Pick for Hidden Gem: ***Land of the Lustrous*
+### **Reader’s Pick for Hidden Gem:** *Land of the Lustrous*
 
 ![](./px9qwwamtu1j6s3ktsdw.jpg)
 
 ***
 
-#### **Reader’s Pick for Anime Of The Year: ***Made in Abyss*
+### **Reader’s Pick for Anime Of The Year:** *Made in Abyss*
 
 ![](./hjyj1d5jhxydoeqarecd.jpg)
 

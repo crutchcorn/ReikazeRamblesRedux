@@ -15,11 +15,11 @@ When we play a RPG, we have always been viewing it as one linear story, without 
 
 <video src="./672595760712988961.mp4"></video>
 
-## What is the [Many Worlds Interpretation](http://en.wikipedia.org/wiki/Many-worlds_interpretation)?
+# What is the [Many Worlds Interpretation](http://en.wikipedia.org/wiki/Many-worlds_interpretation)?
 
 The many worlds interpretation is one of the basic concepts of quantum physics. Pretty much what it says is this: whenever a decision is made, the universe branches into two, and all of the worlds are real. the points that change the world is called a singularity.
 
-## What does this mean for RPGs?
+# What does this mean for RPGs?
 
 I believe there are 2 singularity points in an RPG, where the path you take can influence the world of the RPG: Story changes, and save points. The first one is the most similar to the adventure games, where you have to make a decision in the plot in the story. Every decision makes a different world. An example would be WRPGs like Mass effect.
 

@@ -13,7 +13,7 @@
 
 ***
 
-### Rules
+# Rules
 
 ![](./mabiy0adexmdwhiga9dm.png)
 
@@ -23,7 +23,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### Thoughts on Anime in 2017:
+# Thoughts on Anime in 2017:
 
 ![](./yce0ajyzqober08ceirw.jpg)
 
@@ -33,7 +33,7 @@ That being said, there were some damn great movies that came out in 2017, and I 
 
 ***
 
-### Honorable Mention: *Ancient Magus Bride*
+# Honorable Mention: *Ancient Magus Bride*
 
 **Anime Made By: **Wit Studio
 
@@ -45,7 +45,7 @@ That being said, there were some damn great movies that came out in 2017, and I 
 
 ***
 
-### 8. *Recovery of an MMO Junkie*
+# 8. *Recovery of an MMO Junkie*
 
 ![](./wbfy47d5trz2djyhvba0.jpg)
 
@@ -59,7 +59,7 @@ That being said, there were some damn great movies that came out in 2017, and I 
 
 ***
 
-### 7.* Saekano: How to Raise a Boring Girlfriend ♭*
+# 7.* Saekano: How to Raise a Boring Girlfriend ♭*
 
 **Anime Made By: **A-1 Pictures
 
@@ -77,7 +77,7 @@ While at the beginning Season 2 seemed like more of* Best Girl: The Animation* w
 
 ***
 
-### 6.* Fate/stay night Heaven’s Feel Presage Flower*
+# 6.* Fate/stay night Heaven’s Feel Presage Flower*
 
 **Anime Made By: **Ufotable
 
@@ -91,7 +91,7 @@ In my opinion, while none of the other* Fate/stay night* anime managed to do eit
 
 ***
 
-### 5. *Saga of Tanya the Evil*
+# 5. *Saga of Tanya the Evil*
 
 **Anime Made By: **NUT
 
@@ -103,7 +103,7 @@ In my opinion, while none of the other* Fate/stay night* anime managed to do eit
 
 ***
 
-### 4. *Silent Voice*
+# 4. *Silent Voice*
 
 **Anime Made By: **Kyoto Animation
 
@@ -121,7 +121,7 @@ For me, the pinnacle of a movie experience is being immersed in a human story, a
 
 ***
 
-### 3. *Descending Stories: Showa Genroku Rakugo Shinju S2*
+# 3. *Descending Stories: Showa Genroku Rakugo Shinju S2*
 
 **Anime Made By:** Studio Deen\
 \
@@ -135,7 +135,7 @@ Season 2 was more of* Rakugo *Season 1 which is great, but Season 2 made a funda
 
 ***
 
-### 2. *KonoSuba: God’s Blessing on This Wonderful World! 2*
+# 2. *KonoSuba: God’s Blessing on This Wonderful World! 2*
 
 **Anime Made By: **Studio Deen
 
@@ -147,7 +147,7 @@ Season 2 was more of* Rakugo *Season 1 which is great, but Season 2 made a funda
 
 ***
 
-### 1. *Girls’ Last Tour*
+# 1. *Girls’ Last Tour*
 
 **Anime Made By: **White Fox
 

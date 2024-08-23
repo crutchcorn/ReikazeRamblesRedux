@@ -15,99 +15,99 @@ The AniTAY Anime Awards is a collaborative effort by members in the AniTAY commu
 
 ***
 
-## Author Awards
+# Author Awards
 
 Here’s what the authors of AniTAY have to say! We here at AniTAY are an opinionated bunch, a group of people who vary drastically yet all magically have a consensus on certain things. We watch a lot of anime, so expect some different results than from most.
 
 ***
 
-#### Author’s Pick for AniTAY Favorites:* Jojo’s Bizarre Adventure: Diamond is Unbreakable*
+### Author’s Pick for AniTAY Favorites:* Jojo’s Bizarre Adventure: Diamond is Unbreakable*
 
 ![](./qcbwoheoo6xihqiapf02.png)
 
 ***
 
-#### Author’s Pick for Best Female Character: Chitose (*Girlish Number*)
+### Author’s Pick for Best Female Character: Chitose (*Girlish Number*)
 
 ![](./gk2qocs0ckv0duwexgce.png)
 
 ***
 
-#### Author’s Pick for Best Male Charcter: Tanaka & Kikuhiko (*Tanaka-Kun *& *Rakugo*)
+### Author’s Pick for Best Male Charcter: Tanaka & Kikuhiko (*Tanaka-Kun *& *Rakugo*)
 
 ![](./bikkdx8fapiiyphb7jfg.png) ![](./qbp8gisre5rn5kgxb9m8.jpg)
 
 ***
 
-#### Author’s Pick for Best ED: *Flip Flappers*
+### Author’s Pick for Best ED: *Flip Flappers*
 
 ***
 
-#### Author’s Best OP: *Shōwa Genroku Rakugo Shinjū*
+### Author’s Best OP: *Shōwa Genroku Rakugo Shinjū*
 
 ***
 
-#### Author’s Best Sports: *Haikyuu!!*
+### Author’s Best Sports: *Haikyuu!!*
 
 ![](./pchej42xzgpmiwrnqcl5.png)
 
 ***
 
-#### Author’s Pick for Best Slice of Life: *Tanaka-Kun*
+### Author’s Pick for Best Slice of Life: *Tanaka-Kun*
 
 <video src="./oqjwl4vgjwsxgl56f5mz.mp4"></video>
 
 ***
 
-#### Author’s Pick for Best Romance: *ReLIFE*
+### Author’s Pick for Best Romance: *ReLIFE*
 
 ![](./tevqcikiwjaizy2gybon.png)
 
 ***
 
-#### Author’s Pick for Best Comedy: *Tanaka-Kun*
+### Author’s Pick for Best Comedy: *Tanaka-Kun*
 
 ![](./kzfcqgvaamxcpm7lvqyl.png)
 
 ***
 
-#### Author’s Pick for Best Animated: *Mob Psycho 100*
+### Author’s Pick for Best Animated: *Mob Psycho 100*
 
 <video src="./onrgq8z8cnd3niwkv9u3.mp4"></video>
 
 ***
 
-#### Author’s Pick for Best Action: *Jojo’s Bizarre Adventure*
+### Author’s Pick for Best Action: *Jojo’s Bizarre Adventure*
 
 ![](./udbbub1skuhzobannnku.png)
 
 ***
 
-#### Author’s Pick for Best Drama: *Shōwa Genroku Rakugo Shinjū*
+### Author’s Pick for Best Drama: *Shōwa Genroku Rakugo Shinjū*
 
 ![](./u0wdb5pg7mqrgclkhzje.png)
 
 ***
 
-#### Author’s Pick for Hidden Gem: *Girlish Number*
+### Author’s Pick for Hidden Gem: *Girlish Number*
 
 ![](./ffc3tep5ujagiuozoaa7.png)
 
 ***
 
-#### Author’s Pick for Anime Of The Year: *Shōwa Genroku Rakugo Shinjū*
+### Author’s Pick for Anime Of The Year: *Shōwa Genroku Rakugo Shinjū*
 
 ![](./htiexml9af8nieay14b9.png)
 
 ***
 
-## Reader Results
+# Reader Results
 
 Now for the Community’s results! The community that reads AniTAY is pretty varied, but that doesn’t stop them from watching great anime! The picks were pretty similar to the author vote, but they diverge in key points. Read on to see!
 
 ***
 
-#### Reader’s Pick for AniTAY Favorites: *Jojo’s Bizarre Adventure & Flip Flappers*
+### Reader’s Pick for AniTAY Favorites: *Jojo’s Bizarre Adventure & Flip Flappers*
 
 ![](./s38mhcumjbngozkzmysy.jpg)
 
@@ -115,71 +115,71 @@ Now for the Community’s results! The community that reads AniTAY is pretty var
 
 ***
 
-#### Reader’s Pick for Best Female Character: Rem & Megumin (*Re:Zero* & *Konosuba*)
+### Reader’s Pick for Best Female Character: Rem & Megumin (*Re:Zero* & *Konosuba*)
 
 ![](./ihbxpafkmgphjr5n5tat.jpg) ![](./un9gmj1jvpmclawtumfj.jpg)
 
 ***
 
-#### Reader’s Pick for Best Male Character: Reigen (*Mob Psycho 100*)
+### Reader’s Pick for Best Male Character: Reigen (*Mob Psycho 100*)
 
 ![](./ktugknmpwbbyextagodv.png)
 
 ***
 
-#### Reader’s Pick for Best OP & ED: Re:Re & Sore wa Chiisana Hikari no Youna (*Erased*)
+### Reader’s Pick for Best OP & ED: Re:Re & Sore wa Chiisana Hikari no Youna (*Erased*)
 
 ***
 
-#### Reader’s Pick for Best Sports: *Haikyuu!!*
+### Reader’s Pick for Best Sports: *Haikyuu!!*
 
 ![](./zg2tepoznbghfdorxuzb.png)
 
 ***
 
-#### Best Slice of Life: *Tanaka-Kun*
+### Best Slice of Life: *Tanaka-Kun*
 
 ![](./tzto3maeaicxuaki84st.png)
 
 ***
 
-#### Best Comedy: *Konosuba*
+### Best Comedy: *Konosuba*
 
 ![](./oszdfwsbibe2pm0vigdi.png)
 
 ***
 
-#### Best Romance: *Yuri on Ice*
+### Best Romance: *Yuri on Ice*
 
 ![](./wx8nmsfkdxzkdu03ukco.png)
 
 ***
 
-#### Best Action: *Mob Psycho 100*
+### Best Action: *Mob Psycho 100*
 
 ![](./lrktd6l3bnrz2yc5iaer.jpg)
 
 ***
 
-#### Best Animated: *Mob Psycho 100*
+### Best Animated: *Mob Psycho 100*
 
-#### 
+### 
 
 ***
 
-#### Best Drama: *Shōwa Genroku Rakugo Shinjū*
+### Best Drama: *Shōwa Genroku Rakugo Shinjū*
 
 ![](./uifi8vetqqlqhyrtyeuu.png)
 
 ***
 
-#### Hidden Gem: *Flip Flappers*
+### Hidden Gem: *Flip Flappers*
 
 ![](./dd0fyfzqexdmo3ypqadb.png)
 
 ***
 
-#### Anime Of The Year: *Re:Zero*
+### Anime Of The Year: *Re:Zero*
 
 ![](./x0jpbpe8bwgjed4hx3lw.png)
 

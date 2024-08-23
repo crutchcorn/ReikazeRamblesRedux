@@ -15,189 +15,189 @@ The AniTAY Anime Awards is a collaborative effort by members in the AniTAY commu
 
 ***
 
-## Reader Results
+# Reader Results
 
 Let’s start with the Community’s results! This is the consensus reached by a wide variety of readers on this site, and as always the results are interesting!
 
 ***
 
-### Reader’s Pick for AniTAY Favorites: *Kaguya-sama: Love Is War*
+## Reader’s Pick for AniTAY Favorites: *Kaguya-sama: Love Is War*
 
 ![](./rpekp9gamds6tlcz6vtp.jpg)
 
 ***
 
-### Reader’s Pick for Most Trash Show:* Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?*
+## Reader’s Pick for Most Trash Show:* Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?*
 
 ![](./zywnfhmcg01f3rfojouy.jpg)
 
 ***
 
-### Reader’s Pick for Best Male Character: Tanjirou Kamado - *Demon Slayer*
+## Reader’s Pick for Best Male Character: Tanjirou Kamado - *Demon Slayer*
 
 ![](./zkhsvw4chjej9whnk57z.png)
 
 ***
 
-### Reader’s Pick for Best Female Character: Emma - *Promised Neverland*
+## Reader’s Pick for Best Female Character: Emma - *Promised Neverland*
 
 ![](./ddedfxgzn3rfxlksoqag.jpg)
 
 ***
 
-### Reader’s Pick for Best ED:* Kaguya-sama: Love Is War* - “Chikatto Chika Chika” by Chika Fujiwara
+## Reader’s Pick for Best ED:* Kaguya-sama: Love Is War* - “Chikatto Chika Chika” by Chika Fujiwara
 
 ***
 
-### Reader’s Pick for Best OP: *Kaguya-sama: Love Is War* - “Love Dramatic feat. Rikka Ihara by Masayuki Suzuki
+## Reader’s Pick for Best OP: *Kaguya-sama: Love Is War* - “Love Dramatic feat. Rikka Ihara by Masayuki Suzuki
 
 ***
 
-### Reader’s Pick for Best Slice of Life: *Ascendance of a Bookworm*
+## Reader’s Pick for Best Slice of Life: *Ascendance of a Bookworm*
 
 ![](./wsaylkxoebvpr2prjsgw.jpg)
 
 ***
 
-### Reader’s Pick for Best Comedy: *Kaguya-sama: Love Is War*
+## Reader’s Pick for Best Comedy: *Kaguya-sama: Love Is War*
 
 ![](./cqbkhenrgypjnardmwxa.jpg)
 
-### Reader’s Pick for Best Romance: *Kaguya-sama: Love Is War*
+## Reader’s Pick for Best Romance: *Kaguya-sama: Love Is War*
 
 ![](./wm0qwbdk40w1gyktituf.jpg)
 
 ***
 
-### Reader’s Pick for Best Drama: *O Maidens in Your Savage Season, Carole and Tuesday, Vinland Saga*
+## Reader’s Pick for Best Drama: *O Maidens in Your Savage Season, Carole and Tuesday, Vinland Saga*
 
 ![](./akpvqive46wjt3zclnq2.png) ![](./tntjrebzvrqwgb8ozeqh.png) ![](./va5l7boza0rpk9knixns.jpg)
 
 ***
 
-### Reader’s Pick for Best Action: *Demon Slayer*
+## Reader’s Pick for Best Action: *Demon Slayer*
 
 ![](./qkascruw8seoilfo4pa0.jpg)
 
 ***
 
-### Reader’s Pick for Best Animated: *Demon Slayer*
+## Reader’s Pick for Best Animated: *Demon Slayer*
 
 ![](./cvntuir2zfunz6ffwgez.jpg)
 
 ***
 
-### Reader’s Pick for Hidden Gem: *Ascendance of a Bookworm*
+## Reader’s Pick for Hidden Gem: *Ascendance of a Bookworm*
 
 ![](./aopj0hpjupvrpuqbzrnv.png)
 
 ***
 
-### Reader’s Pick for Sequel of the Year: *Mob Psycho 100 II*
+## Reader’s Pick for Sequel of the Year: *Mob Psycho 100 II*
 
 ![](./z6qluww9tykhuh2okzcu.jpg)
 
-### Reader’s Pick for Anime Movie of the Year: *Promare*
+## Reader’s Pick for Anime Movie of the Year: *Promare*
 
 ![](./lfkdiu0dmffdtas01ei6.jpg)
 
 ***
 
-### Reader’s Pick for Anime of the Year: *Demon Slayer*
+## Reader’s Pick for Anime of the Year: *Demon Slayer*
 
 ![](./myjfjdo6xxwb63xrufwi.jpg)
 
 ***
 
-## Author Awards
+# Author Awards
 
 Here’s what the Authors of AniTAY decided! We here at AniTAY are an opinionated bunch, a group of people who vary drastically yet all magically have a consensus on certain things. We watch a lot of anime, so expect some different results than from most. This year there was quite a lot of ties!
 
 ***
 
-### Author’s Pick for AniTAY Favorites: *Kaguya-sama: Love Is War & Astra Lost in Space*
+## Author’s Pick for AniTAY Favorites: *Kaguya-sama: Love Is War & Astra Lost in Space*
 
 ![](./qxp8b0rifbwmfhgqt2ff.jpg) ![](./qhncf79oyemxtbyrg9fa.jpg)
 
 ***
 
-### Author’s Pick for Most Trash Show: *Domestic Girlfriend & ORESUKI Are you the only one who loves me?*
+## Author’s Pick for Most Trash Show: *Domestic Girlfriend & ORESUKI Are you the only one who loves me?*
 
 ![](./c9tcjccjsfbu1jvedno1.jpg) ![](./bclthjoaosrg2prx5znw.jpg)
 
-### Author’s Pick for Best Male Character: Askeladd - *Vinland Saga*
+## Author’s Pick for Best Male Character: Askeladd - *Vinland Saga*
 
 ![](./g3dl4rarkfrrgvbto2dc.jpg)
 
 ***
 
-### Author’s Pick for Best Female Character: *Emma - Promised Neverland & Clara - Welcome to Demon School! Iruma-Kun*
+## Author’s Pick for Best Female Character: *Emma - Promised Neverland & Clara - Welcome to Demon School! Iruma-Kun*
 
 ![](./rcnqu7xfaupnlmgafkcg.jpg) ![](./vzyhki3xgh3r7nkmmqr0.png)
 
 ***
 
-### Author’s Pick for Best ED: *Kaguya-sama: Love Is War* - “Chikatto Chika Chika” by Chika Fujiwara
+## Author’s Pick for Best ED: *Kaguya-sama: Love Is War* - “Chikatto Chika Chika” by Chika Fujiwara
 
 ***
 
-### Author’s Pick for Best OP: *Dororo - *“Kaen” by Ziyoou-vachi
+## Author’s Pick for Best OP: *Dororo - *“Kaen” by Ziyoou-vachi
 
 ***
 
-### Author’s Pick for Best Slice of Life:* Ascendance of a Bookworm*
+## Author’s Pick for Best Slice of Life:* Ascendance of a Bookworm*
 
 ![](./zbjxy1urikacz2zlcw5k.png)
 
 ***
 
-### Author’s Pick for Best Comedy: *Kaguya-sama: Love Is War*
+## Author’s Pick for Best Comedy: *Kaguya-sama: Love Is War*
 
 ![](./vgzzzsdkgpgofwkjt3bh.png)
 
 ***
 
-### Author’s Pick for Best Romance: *Kagya-sama: Love Is War*
+## Author’s Pick for Best Romance: *Kagya-sama: Love Is War*
 
 ![](./lfpvawjsfubuo7zqmu0a.jpg)
 
 ***
 
-### Author’s Pick for Best Drama: *Vinland Saga & O Maidens in Your Savage Season*
+## Author’s Pick for Best Drama: *Vinland Saga & O Maidens in Your Savage Season*
 
 ![](./cbxlered2g0l7ocruk9n.jpg) ![](./bcfqike2ngzfpoku8jnc.png)
 
 ***
 
-### Author’s Pick for Best Action: *Demon Slayer & Dororo*
+## Author’s Pick for Best Action: *Demon Slayer & Dororo*
 
 ![](./avpe84zjfkrjegtg8moq.jpg)
 
-### Author’s Pick for Best Animated:* Mob Psycho 100 II*
+## Author’s Pick for Best Animated:* Mob Psycho 100 II*
 
 ![](./cyd5ge6nz5tzgv7kvedn.jpg)
 
 ***
 
-### Author’s Pick for Hidden Gem:* Endro~!*
+## Author’s Pick for Hidden Gem:* Endro~!*
 
 ![](./fi45d2f4eicly7fwijq6.jpg)
 
 ***
 
-### Author’s Pick for Sequel of the Year: *Mob Psycho 100 II*
+## Author’s Pick for Sequel of the Year: *Mob Psycho 100 II*
 
 ![](./repnpzvnjrtskfohygon.jpg)
 
 ***
 
-### Author’s Pick for Anime Movie of the Year: *Promare*
+## Author’s Pick for Anime Movie of the Year: *Promare*
 
 ![](./q8pezpitgauozdtnexgm.png)
 
 ***
 
-### Author’s Pick for Anime of the Year: *Vinland Saga*
+## Author’s Pick for Anime of the Year: *Vinland Saga*
 
 ![](./va1dzvjynxcjbdmm3o3q.jpg)
 

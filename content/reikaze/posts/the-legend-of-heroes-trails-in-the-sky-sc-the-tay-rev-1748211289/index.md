@@ -15,7 +15,7 @@
 
 ![](use2pg10efgqktwe55ip.png)
 
-### A Continuation of The Great Story
+# A Continuation of The Great Story
 
 ![](rnht1e9hucyedije69wy.jpg)
 
@@ -35,13 +35,13 @@ Of course though, above the thematic aspects and world building is the dialogue 
 
 *The Legend of Heroes: Trails in the Sky SC *has a* *story that’s written well enough and is long enough to be a Visual Novel (for reference, its script is 716,401 words, longer than books like *War and Peace *and RPGs like *FF7, *but shorter than VNs like *Fate/stay night *and *Clannad), *which is kind of amazing considering it’s an RPG. SC makes an living and breathing world out of this fact to add to an amazing story, one that sucks you in and keeps you engaged and one that had me playing it pretty much nonstop for like a week because I was so hooked. If you liked RPG stories in the past like *Chrono Trigger *and *Grandia *but wanted more, something that is more in depth and feels like you’re in a real world, then here you go... this is the most complete RPG style story I’ve ever experienced and it’s just amazing, an execution on a tried and true story that is absolutely gold.
 
-### This Game Has a Heart
+# This Game Has a Heart
 
 ![](tgs45ehfye6xhrt5pwpv.jpg)
 
 Talk to anyone who’s played this game and you’ll hear lots of love. When one sees all these comments then tries to look at a game objectively or without experiencing it, they may say that this game doesn’t really stand out, even to the point that they believe it’s another generic JPRG, but that totally misses the point. The reasons people fall in love with games like this, the games that are known as cult classics are the intangibles, the character and charm that they have to offer, the elements that create an emotional bond with the characters and keep the game memorable. One can tell there was a lot of love and care put into the work, and [when reading what they’ve gone through to make this possible here in the west](http://kotaku.com/the-curse-of-kiseki-how-one-of-japans-biggest-rpgs-bar-1740055631?trending_test_five_c\&utm_expid=66866090-76.Xf7HV5ZSS3i8CtAkjmzQiA.3\&utm_referrer=http%3A%2F%2Fkotaku.com%2Ftag%2Ftrails-in-the-sky%3Ftrending_test_five_c), this feeling only goes up more. *Trails in the Sky SC *feels distinct and unique because of this, and it’s climbed up my favorites list [along with Jason Schreier’s of Kotaku ](http://thebests.kotaku.com/the-best-jrpg-of-the-decade-so-far-1743320035#_ga=1.22380216.241020698.1444271310)because of it.
 
-### Falcom’s the Jam
+# Falcom’s the Jam
 
 If you’ve ever played a Falcom game, you know what they sound like: they make some of the best music in the industry. While *Legend of Heroes: Trails in the Sky SC *mostly keeps the soundtrack from *FC *with some remixes and new tracks, that’s not really a negative as SC is pretty much just a continuation of the story and the soundtrack still does a great job. It’s a soundtrack that does what every great soundtrack does, one that makes events exciting and makes playing the game engaging, encapsulating the feeling of the story and the world to provide a better experience. It sounds great, it’s used really well to maximize your emotions, and there’s a lot of memorable tracks in this score, namely *Silver Will *and *The Whearabouts of Light *being some of my favorites. It’s a soundtrack that I loved and adored my whole way through, and I bet you’ll love it just as much as I did too.
 
@@ -49,7 +49,7 @@ Also worth noting is the incredible Zanmai score that just brings the awesome of
 
 ![](./yvvqigvfbd9yepbv8qv0.png)
 
-### A Blast to the Past, for Better or For Worse
+# A Blast to the Past, for Better or For Worse
 
 ![](./fxnnfe62zn6vjb4lftpy.jpg)
 
@@ -61,17 +61,17 @@ This is most obvious part about this is the gameplay which is still an old schoo
 
 That being said, this game isn’t an old RPG and it does modernize many aspects: if you die, you can just restart the battle itself, many situations where characters need to backtrack are done for you (not that backtracking is completely eliminated though...), random encounters are totally gone, instead faced with a situation similar to* Chrono Trigger*, there are no arbitrary save points, etc. If you’re a fan of classic JRPGs, you’re gonna love this one as it provides everything you want out of an RPG but gets rid of a lot of the BS that they have, but if you prefer newer RPGs or action games, this isn’t gonna be your cup of tea.
 
-### A Charming, but Dated Aesthetic
+# A Charming, but Dated Aesthetic
 
 ![](lwu7squijpkgkcpk1pyk.jpg)
 
 Let’s be real here: *The Legend of Heroes: Trails in the Sky SC *is* *a 9 year old PSP game, so throw any assumptions away that this is going to be a technical feat in visual fluidity. This game reuses pretty much all its assets from *FC* and it looks perfectly at home for the PSP, a low polygon count affair with sprites for a majority of the characters. It doesn’t look bad as the game makes up for a lot of this with aesthetic consistency, detail and charm in design [(see fishing)](http://www.trailsinthesky.com/sc/_images/trouble9.jpg), and solid quality overall, but it’s not the best either, pretty middle of the road with visuals. This is something I had absolutely no problem with, and if you’re playing this you’re probably OK with how it looks as this game’s intended audience pretty much grew up on this style.
 
-### Boss Heavy Ending
+# Boss Heavy Ending
 
 ![](rbidfjskhwojpzu4wj7a.jpg)
 
-### ***Note: This picture is not from the end game.*********
+# ***Note: This picture is not from the end game.*********
 
 It’s the big finale, the long stretch! If you thought you could sit around and stroll by at the end, you can’t, as you’re faced with what’s essentially a boss rush at the end of the game, the finals, as you will. Like the ending of the first game, the situation of the bosses near the end of the game exponentially gets more asinine and absurd, leading to frustration, at least for me. (The final boss itself however wasn’t actually that bad. Just a slow and tedious boss fight.)
 

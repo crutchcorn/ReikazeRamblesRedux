@@ -13,7 +13,7 @@ Design affects how we perceive everything we see, and if you look around the Ani
 
 ***
 
-### *>Start>*
+# *>Start>*
 
 ![](./1416024136381249063.png)
 
@@ -25,7 +25,7 @@ When Taykōbon came out, I had very little involvement with the process of the d
 
 ***
 
-#### *Hon no Waamu*
+## *Hon no Waamu*
 
 ![](./1416024136542712359.png)
 
@@ -43,7 +43,7 @@ With Bookworm, I followed the few design elements I know: Keep it simple, have s
 
 ***
 
-### *>Flaws & Problems>*
+# *>Flaws & Problems>*
 
 ![](./1416024136896755239.png)
 
@@ -65,7 +65,7 @@ Also, the font had to go. I’m a font snob, that’s who I am. I swapped out th
 
 ***
 
-### *>Pitch>*
+# *>Pitch>*
 
 ![](./1416024137145079591.png)
 
@@ -91,7 +91,7 @@ I dabbled with the idea of a blue circle like in the earlier red on white mockup
 
 ***
 
-### ***>Finishing Touches>***
+# ***>Finishing Touches>***
 
 ![](./1416024137792447271.png)
 

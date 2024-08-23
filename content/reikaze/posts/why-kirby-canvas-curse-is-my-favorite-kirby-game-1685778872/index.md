@@ -13,7 +13,7 @@ I am a firm believer that *Kirby Canvas Curse* is the best Kirby game that HAL L
 
 ***
 
-#### **An Innovative Spin That Plays like a Dream**
+# **An Innovative Spin That Plays like a Dream**
 
 ![](./cr0hpehyopawtaxd6tkj.png)
 
@@ -33,7 +33,7 @@ Kirby *Canvas Curse* is still very much a Kirby game. While being nothing like a
 
 ***
 
-#### **Fun Levels that encourage exploration**
+# **Fun Levels that encourage exploration**
 
 ![](./uhrkjhff5blitvlj9i2h.jpg)
 
@@ -41,7 +41,7 @@ Kirby *Canvas Curse* is still very much a Kirby game. While being nothing like a
 
 ***
 
-#### So Much Fun Content!
+# So Much Fun Content!
 
 ![](./hhikttpd9vip98ljbuio.jpg)
 
@@ -49,7 +49,7 @@ Really, I can go gushing on and on about this game, because there's so much to i
 
 ***
 
-#### **Creative Canvas Visuals**
+# **Creative Canvas Visuals**
 
 ![](./jnuabl5lytfdkzvsgzve.jpg)
 
@@ -57,13 +57,13 @@ It seems like *Canvas Curse *was the start of a trend for Kirby spinoffs, with v
 
 ***
 
-#### A Seriously Stimulating Soundtrack
+# A Seriously Stimulating Soundtrack
 
 Take any song from any Kirby game you know and smash it into bits. Take that broken soundtrack, make it techno, and add a trippy soundfont. Congratulations! You've just made the soundtrack in *Canvas Curse, *a wonderful soundtrack of unique, almost unrecognizable remixes that I adore. They feel like they fit the new levels really well, but they are obviously homages to Kirby games of the past. I'm a big fan of the soundtrack, and it helps to create...
 
 ***
 
-#### ...An Amazing Atmosphere.
+# ...An Amazing Atmosphere.
 
 ![](./glbz25r1bvzhtrg1xlky.jpg)
 

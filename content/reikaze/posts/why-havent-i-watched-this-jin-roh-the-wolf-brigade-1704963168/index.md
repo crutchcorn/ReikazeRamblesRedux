@@ -11,13 +11,13 @@
 
 We all have those moments where we see a show and wonder... Where was it in my life, why didn’t I see this earlier? After hearing and watching the movie *Jin-Roh: The Wolf Brigade*, I couldn’t help but think this.
 
-## What is it?
+# What is it?
 
 ![](./1255397376160974665.jpg)
 
 *Jin-Roh* follows the story of Fuze, a cop in an alternate history post-war japan (taken over by nazis!). How this world differs from our world is that riots and rebellion groups were considerably worse than our timeline and so much worse that the government has a special police force that’s essentially a military to get around the constitution. In this movie we don’t follow the rebels but we follow a person in this special force, dealing with the moral issues that come with this.
 
-## What’s Awesome
+# What’s Awesome
 
 ![](./1255397376220382281.jpg)
 
@@ -33,7 +33,7 @@ That doesn’t mean that the main story is a slouch either as it’s pretty grea
 
 Also, the ending is great. It’s executed well and the way they hinted it was awesome.
 
-## What’s not Awesome
+# What’s not Awesome
 
 ![](./1255397376342258505.png)
 

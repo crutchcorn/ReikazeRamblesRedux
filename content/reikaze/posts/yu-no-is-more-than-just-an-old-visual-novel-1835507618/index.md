@@ -11,7 +11,7 @@
 
 With *YU-NO: A Girl Who Chants Love at the Bound of this World*, a classic Visual Novel getting a remake and anime adaptation, many people are now being exposed to the work for the first time. On first impression, however, *YU-NO* can be seen as nothing more than an old Visual Novel, with a decent majority of players also outright dismissing it because they think it’s either generic or dated, which really is a shame. Today on RockmanDash Rambles, I’d like to spend some time to talk about *YU-NO* in the hopes of letting people know about this gem of a work. *YU-NO* is not just yet another tried-and-true Visual Novel; from its engaging story to its unique presentation and defining place in the Visual Novel industry to its special place in my heart, *YU-NO* does a lot, and there’s a lot to talk about it.
 
-## Chapter 1: What’s *YU-NO* About? The Story and its Immersive Gameplay
+# Chapter 1: What’s *YU-NO* About? The Story and its Immersive Gameplay
 
 ![](./p4jdvfsln6udsyklnscv.jpg)
 
@@ -41,7 +41,7 @@ As for the sexual elements of the game, both suggestive and sex scenes pop up fa
 
 Overall though? *YU-NO *is an epic of a story that does a lot and succeeds at more. With a compelling premise, a skilled handle on mystery, a focus on mechanics that makes it a compelling read, fun banter, and a gameplay system that is incredibly immersive, *YU-NO* has a fantastic story that has aged wonderfully, even if some components of it have not.
 
-### Chapter 2: *YU-NO*’s Presentation and The Beautiful PC-98 Aesthetic
+# Chapter 2: *YU-NO*’s Presentation and The Beautiful PC-98 Aesthetic
 
 *YU-NO*’s aesthetic is really something else, genuinely serving as both its primary draw and my favorite aspect of the game. That isn’t to say that without the aesthetics the game is worthless, but the presentation is just so different than what we’re used to that it’s very easy to fall in love with. There’s nothing quite like this in a modern context; the art is almost an idealistic view on the past and the music is inherently defined by the technology that created it. Thanks to the one-two punch that is the beautiful high resolution anime pixel art and out of this world FM Synthesis composed by Ryu Umemoto, *YU-NO* has a presentation that has both aged gracefully and is something that can be appreciated more and more as time goes by.
 
@@ -63,7 +63,7 @@ PC-98’s hardware would also come to define the soundtrack as well. The PC-98 c
 
 Like every great work with a stellar soundtrack, Ryu Umemoto, the composer of* YU-NO* worked very closely with the writer Hiroyuki Kanno to integrate it with the story in a superb manner. This is a really fantastic score; the songs express and influence the tone of the story, creating an amazing atmosphere and intensifying the feelings you have during the scene. The music is atmospheric in a way that entraps you, with a zen-like nature that makes you feel in tune with what the game has to offer. Some of the tracks are just out of the world, with a twang and twinkle that really create an atmosphere in which you get wrapped in the feeling you’re in an alien world, and it’s fantastic. The whole score is such a pleasant listen that it passes my “iPod test”.* YU-NO* has a score that’s great to listen to in game and out, which means the quality of the songs are good enough where they can stand alone by themselves. It’s a test that’s surprisingly easy to fail and a hallmark of a good score to me.
 
-### Side Note: The Anime Adaptation of *YU-NO*
+# Side Note: The Anime Adaptation of *YU-NO*
 
 **Disclaimer **- Now that the anime is over, this part of the article I don’t agree with, and wouldn’t recommend watching the anime. If you’re interested in my thoughts at the time feel free to read but I’m planning on writing a comparison article in the future.
 
@@ -81,7 +81,7 @@ Though, one change that really isn’t small is what they did to Takuya. Apparen
 
 Also just worth mentioning: this isn’t exclusive to the anime but because it’s based off of the remake the aesthetics are just not my cup of tea and I think the show’s less appealing as a result. You can try to take out the 90s out of* YU-NO*, but any attempt to do so takes some of the charm out of the work itself. The soundtrack isn’t the same, which some people have been complaining about but honestly, I don’t think it’s a big deal at all. It might not be the same iconic and memorable score but in no way should it be considered a deal breaker - it’s still absolutely fantastic and holds its own in regards to making an emotional and engaging impact. The track in episode 9 with Mio comes to mind and is legitimately one of my favorite moments of the anime so far.
 
-### Chapter 3: *YU-NO*’s Influence on The Industry, and Those That Came After It
+# Chapter 3: *YU-NO*’s Influence on The Industry, and Those That Came After It
 
 ![](./fblwxjhsofgyp713xne0.png)
 
@@ -97,7 +97,7 @@ Thanks to Kanno and Umemoto‘s hard work, *YU-NO* was the real starting point f
 
 In a way, the impact that* YU-NO* had on the medium is similar to the impact that* *[*Final Fantasy VII* had on JRPGs in the west](https://arstechnica.com/gaming/2010/05/masterpiece-final-fantasy-vii/): it made people interested in this type of work, and influenced the rest of the industry to follow in its footsteps. While FFVII made people in the west take JRPGs seriously, got the genre as a whole mainstream, lead/inspired a wave of great JRPGs like *Chrono Chross *and *Grandia*.* YU-NO* got people in Japan to start taking Visual Novels seriously, got story driven VNs into the mainstream and lead/inspired a wave of Visual Novel Classics like* Kanon* and *Fate/stay night*. Even if you dismiss* YU-NO* as a work itself, there’s no dismissing the impact it had on Visual Novels. It’s not an understatement to say that Visual Novels as we know it would be nothing without it. I for one am grateful for all of its impacts because many of my favorite Visual Novels wouldn’t exist without it, and the reason I care about the medium as a whole would be non-existent without it.
 
-### Chapter 4/Conclusion: My experience with *YU-NO*, and How It All Comes Together
+# Chapter 4/Conclusion: My experience with *YU-NO*, and How It All Comes Together
 
 ![](./kiam20tfszcxsmnto32w.jpg)
 

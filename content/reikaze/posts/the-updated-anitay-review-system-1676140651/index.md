@@ -17,7 +17,7 @@ The past few months, AniTAY’s been getting an identity. A growing sense of com
 
 ***
 
-## The Updated AniTAY Review System:
+# The Updated AniTAY Review System:
 
 Nothing’s really changed when it comes to the actual system itself, so structurally it’s like all the other AniTAY reviews you’ve seen before and very similar to [TAY’s](http://tay.kotaku.com/an-all-new-tay-review-system-that-you-can-use-if-you-w-1523594576). You put the AniTAY sticker on your header image (resizing it so that it doesn’t seem too overpowering if need be) and you’re already using the system. The new assets are to give AniTAY a more cohesive look and a more unique identity, but you don’t need to follow them exactly. (hell, the [first review](http://anitay.kinja.com/rockmandash-reviews-durarara-anime-1665959528) based on the new assets doesn’t even follow the system)
 
@@ -55,7 +55,7 @@ We have a [spreadsheet for AniTAY Reviews](https://docs.google.com/spreadsheet/c
 
 ***
 
-## Getting the Files:
+# Getting the Files:
 
 Assuming my Dropbox account doesn’t magically disintegrate or something like that, the assets will be available here.
 
@@ -67,13 +67,13 @@ When using these Assets, try to use the font Century Gothic, the font that we’
 
 ***
 
-### Claiming the Reviews:
+## Claiming the Reviews:
 
 [Protonstorm wrote a guide about claiming reviews here because people really needed clarifying it...](http://anitay.kinja.com/a-guide-to-claiming-a-review-in-the-official-anitay-for-1724453646#_ga=1.126591626.642166561.1439440670)
 
 ***
 
-## Last Words:
+# Last Words:
 
 You are free to use any elements you want from this package and tweak it as much as you can. I’m probably the worst with this, customizing the assets so much you can barely recognize it XD. That being said, if you are going to use the AniTAY moniker, try to use the rules in this review. If we had “The AniTAY Review” articles that completely jettisoned this system, it would be a bit confusing.
 

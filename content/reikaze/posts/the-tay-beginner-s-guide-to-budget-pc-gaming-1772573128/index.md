@@ -23,7 +23,7 @@ Before you check this out, if you’re new to the PC gaming hardware world, chec
 
 ***
 
-## For the build
+# For the build
 
 **1. Do It Yourself**
 
@@ -87,7 +87,7 @@ A keyboard, mouse and speakers are pretty much necessary for using a PC, but goi
 
 ***
 
-## **For long run**
+# **For long run**
 
 **1. Sales are your friend (and your enemy)**
 
@@ -119,7 +119,7 @@ While games are all digital and cheap, the side effect of this is the death of t
 
 ***
 
-## Build Guides
+# Build Guides
 
 ![](./rxwuolgm8j6afz1l9czb.png)
 
@@ -184,7 +184,7 @@ The platform’s pretty steady gaming wise though, not much you could do that wo
 
 ***
 
-## ***Conclusion***
+# ***Conclusion***
 
 In conclusion, while PCs seem to be expensive upfront, there’s lots of ways to save money, with you being able to build a PC that can beat consoles for the price of them or build a futureproof PC that perform exceedingly well for the price. If you don’t have the money, consider following these tips as this will make gaming on PC much cheaper.
 

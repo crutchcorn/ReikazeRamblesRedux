@@ -13,7 +13,7 @@ Set in alternate 1980’s East Germany where BETA (Beings of Extraterrestrial Or
 
 ![](./apvyhwl9d5ucaq05pl1y.png)
 
-### A Focus on the Human Story in a World of Antagonizing Aliens
+# A Focus on the Human Story in a World of Antagonizing Aliens
 
 ![](./xxt3n1sy679xkappi0lq.png)
 
@@ -23,7 +23,7 @@ As mentioned earlier, *Schwarzesmarken* is set in alternate 1980’s Germany (mo
 
 ***
 
-### The things about *Muv-Luv* that fans came to love
+# The things about *Muv-Luv* that fans came to love
 
 ![](./kebvdctfmyafdxqwaayt.png)
 
@@ -31,7 +31,7 @@ Even though *Schwarzesmarken *decided to ditch the *Muv-Luv* name, it’s very m
 
 ![](./vqcnqyjblbwabs2esgzm.png)
 
-### A Not So Graceful Start
+# A Not So Graceful Start
 
 ![](./jdb2wszbpkbn6tskrkgz.png)
 
@@ -39,7 +39,7 @@ Even though *Schwarzesmarken *decided to ditch the *Muv-Luv* name, it’s very m
 
 ***
 
-### The things about *Muv-Luv* that consistently bothered people
+# The things about *Muv-Luv* that consistently bothered people
 
 ![](./olwuymrqumgmk1nyarq0.jpg)
 
@@ -47,7 +47,7 @@ Even though *Schwarzesmarken *decided to ditch the *Muv-Luv* name, it’s very m
 
 ***
 
-### Suspension of Disbelief
+# Suspension of Disbelief
 
 ![](./fvxqsel6il0goxpbsqgv.jpg)
 
@@ -63,7 +63,7 @@ While this definitely won’t be an issue for everyone, I’m sure there was som
 
 ***
 
-### Not really for Newcomers
+# Not really for Newcomers
 
 ![](./s6erds8u0vdfemv4rudo.png)
 
@@ -71,7 +71,7 @@ While this definitely won’t be an issue for everyone, I’m sure there was som
 
 ***
 
-### No Visual Spice
+# No Visual Spice
 
 ![](./iqnd1ygfrslzogwjb1wb.jpg)
 
@@ -79,7 +79,7 @@ It’s been nearly 4 years since [Total Eclipse](http://tay.kinja.com/rockmandas
 
 ***
 
-### The Colorful Cast of Characters
+# The Colorful Cast of Characters
 
 ![](./xuxmwi5xebyfz0cuhdbe.png)
 
@@ -91,7 +91,7 @@ Considering that these three get the most amount of screen time, the characters 
 
 ![](./ctvoyyzbuf3nrrsxdpd5.png)
 
-### Post Credit Scene Syndrome
+# Post Credit Scene Syndrome
 
 ![](./svjvuzjliuwef5zeloba.png)
 

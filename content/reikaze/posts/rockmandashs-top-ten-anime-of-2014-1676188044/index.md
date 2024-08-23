@@ -13,7 +13,7 @@ In my opinion, 2014 has been a great year in anime, and just an interesting year
 
 ***
 
-#### Honorable Mention: **Fate/stay night: Unlimited Blade Works**
+# Honorable Mention: **Fate/stay night: Unlimited Blade Works**
 
 ![](./awvgljdrra8xkepwq99v.jpg)
 
@@ -31,7 +31,7 @@ In my opinion, 2014 has been a great year in anime, and just an interesting year
 
 ***
 
-#### 10. Date A Live 2
+# 10. Date A Live 2
 
 ![](./maurzkz3betbslnaa386.jpg)
 
@@ -45,7 +45,7 @@ In my opinion, 2014 has been a great year in anime, and just an interesting year
 
 ***
 
-#### 9. Inari, Konkon, Koi Iroha
+# 9. Inari, Konkon, Koi Iroha
 
 ![](./v1x3dxpt4epbeyhvfp04.jpg)
 
@@ -59,7 +59,7 @@ In my opinion, 2014 has been a great year in anime, and just an interesting year
 
 ***
 
-#### 8. Your Lie in April
+# 8. Your Lie in April
 
 ![](./gmphav2eaousq2apk5vl.png)
 
@@ -73,7 +73,7 @@ In my opinion, 2014 has been a great year in anime, and just an interesting year
 
 ***
 
-#### 7. Parasyte
+# 7. Parasyte
 
 ![](./l7xtws9heprxiks31caq.png)
 
@@ -85,7 +85,7 @@ Because Shinichi was able to prevent Migi from traveling further up into his bra
 
 ***
 
-#### 6. Golden Time
+# 6. Golden Time
 
 ![](./moj8odyhzxgvkxdrt1tm.jpg)
 
@@ -99,7 +99,7 @@ Because Shinichi was able to prevent Migi from traveling further up into his bra
 
 ***
 
-#### 5. Tonari no Seki-Kun
+# 5. Tonari no Seki-Kun
 
 ![](./cbrbecabaiqkqziszilv.jpg)
 
@@ -116,7 +116,7 @@ Because Shinichi was able to prevent Migi from traveling further up into his bra
 
 ***
 
-#### 4. Nisekoi
+# 4. Nisekoi
 
 ![](./z7uvz6y1akpp6geo2wod.jpg)
 
@@ -134,7 +134,7 @@ I'm a sucker for Rom-Coms, if you haven't learned from this list. **Best Girl - 
 
 ***
 
-#### 3. Knights of Sidonia
+# 3. Knights of Sidonia
 
 ![](./rx5hzxoo9eiq5xrksr0a.jpg)
 
@@ -152,7 +152,7 @@ If you want more thoughts, check out Richard's review of [Knights of Sidonia](ht
 
 ***
 
-#### 2. Gekkan Shoujo Nozaki-Kun
+# 2. Gekkan Shoujo Nozaki-Kun
 
 ![](./e53c08etypeb1eadgyj1.jpg)
 
@@ -165,7 +165,7 @@ If you want more thoughts, check out Richard's review of [Knights of Sidonia](ht
 
 ***
 
-#### 1. Nagi no Asukara
+# 1. Nagi no Asukara
 
 ![](./fxbfivndurawss3ihr6r.jpg)
 

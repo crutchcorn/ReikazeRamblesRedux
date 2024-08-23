@@ -13,7 +13,7 @@ It’s that time of year again, where we finish up another season and the review
 
 ***
 
-#### Thoughts on the Season Overall
+# Thoughts on the Season Overall
 
 ![](./m97ftmpsnlnbzedr7npi.jpg)
 
@@ -23,7 +23,7 @@ Why? The biggest reason has to be the acts of two studios stepping up their game
 
 ***
 
-#### Rules
+# Rules
 
 ![](./tdpzgnljfxu50jkfwpin.jpg)
 

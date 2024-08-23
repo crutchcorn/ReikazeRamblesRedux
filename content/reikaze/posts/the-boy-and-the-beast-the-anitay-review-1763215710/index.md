@@ -13,7 +13,7 @@ For those who like anime movies, a new film by Mamoru Hosoda brings a round of e
 
 ![](./pnyre6y3ccli5kdfjewn.png)
 
-### *The Boy and the Beast *is Another Great Coming Of Age Story
+# *The Boy and the Beast* is Another Great Coming Of Age Story
 
 ![](./nxyuigc6twhuuscvwwrd.jpg)
 
@@ -35,7 +35,7 @@ Overall though, *The Boy and the Beast *is another well polished Mamoru Hosoda c
 
 ***
 
-### *The Boy and the Beast *is Hosoda’s Best Looking Film Yet
+# *The Boy and the Beast *is Hosoda’s Best Looking Film Yet
 
 ![](./dzgy1do8ybstdho4fevy.jpg)
 
@@ -49,13 +49,13 @@ Speaking of things that I wish all works could have but is impossible, I have to
 
 ***
 
-### The Dub is Pretty Great
+# The Dub is Pretty Great
 
 Normally, anime fans here on AniTAY typically watch our anime in subtitles, having to read the words so we can understand it because there are usually no dubs out for the anime we are watching. Movies, which when brought over to the West are almost always an exception to this, and with The Boy and the Beast, I had the chance to go and see the movie in the theatres, in a dub. I gotta say, I rather liked it; all the actors really fit their characters well and they all gave a great performance. I am not an expert, but the experience listening to them throughout was solid and never once did I really think that it was unnatural or that someone else should have played a role. Everyone did their job well and it was one of the better dubs that I’ve seen (though, movie dubs are usually better than their TV counterparts for anime).
 
 ![](./v6dp574ixaazrf5rwgng.png)
 
-### The Story Isn’t Exactly Perfect...
+# The Story Isn’t Exactly Perfect...
 
 ![](./depsvbfk8eyzxnw6hhjj.jpg)
 
@@ -69,7 +69,7 @@ Also, the antagonist that was essentially pulled out of nowhere at the end, whil
 
 ***
 
-### **The Background Music is entirely in the Background**
+# **The Background Music is entirely in the Background**
 
 *The Boy and the Beast* has rather great music, each fitting with the world and the scene it is trying to create, but like so many other movies, it’s completely sitting in the background, only serving to augment the other aspects of the story without portraying any sense of importance or identity itself. The whole movie has solid tracks composed of the traditional, grandiose tracks you would associate with someone like Ghibli, but as I was writing this review I couldn’t recall any track or scene where there was music that particularly stood out, and that’s not the best sign to me. It signifies to me at least that attention wasn’t put to this aspect as much as others. This definitely won’t hurt your experience too much as so many films treat the soundtrack as completely in the background, but given everything else, it seems like a bit of a letdown to me, even if it’s good.
 

@@ -13,7 +13,7 @@ After a couple of fantastic seasons, it was about time for some readjustment, ri
 
 ***
 
-### Thoughts on the Season Overall
+# Thoughts on the Season Overall
 
 ![](./p3iwtin0y2uuklf91ewd.jpg)
 
@@ -21,7 +21,7 @@ After coming off of the fantastic winter and spring seasons of anime, one may ge
 
 ***
 
-### Rules
+# Rules
 
 ![](./hoqr0ntzmr6yp0uajbcg.jpg)
 
@@ -32,7 +32,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 ***
 
-### Honorable Mention: ***Fate/kaleid liner Prisma☆Illya 3rei!!*** 
+# Honorable Mention: ***Fate/kaleid liner Prisma☆Illya 3rei!!*** 
 
 **Anime Made By: **Silver Link
 
@@ -46,7 +46,7 @@ This is the world where Miyu was born and raised. - *Plot Summary from MAL*
 
 ***
 
-### 7. *Planetarian*
+# 7. *Planetarian*
 
 **Anime Made By:** David Productions
 
@@ -58,7 +58,7 @@ This is the world where Miyu was born and raised. - *Plot Summary from MAL*
 
 ***
 
-### 6. *Alderamin in the Sky*
+# 6. *Alderamin in the Sky*
 
 **Anime Made By: **Madhouse
 
@@ -70,7 +70,7 @@ This is the world where Miyu was born and raised. - *Plot Summary from MAL*
 
 ***
 
-### 5. *New Game!*
+# 5. *New Game!*
 
 **Anime Made By: **Doga Kobo
 
@@ -82,7 +82,7 @@ This is the world where Miyu was born and raised. - *Plot Summary from MAL*
 
 ***
 
-### 5. *Food Wars! The Second Plate*
+# 5. *Food Wars! The Second Plate*
 
 **Anime Made By: **J.C. Staff
 
@@ -94,7 +94,7 @@ This is the world where Miyu was born and raised. - *Plot Summary from MAL*
 
 ***
 
-### 4. *Mob Psycho 100*
+# 4. *Mob Psycho 100*
 
 **Anime Made By: **BONES
 
@@ -106,7 +106,7 @@ This is the world where Miyu was born and raised. - *Plot Summary from MAL*
 
 ***
 
-### 3. *91 Days*
+# 3. *91 Days*
 
 **Anime Made By: **Shuka
 
@@ -120,7 +120,7 @@ In anime, we always talk about how great it is for something to be different, bu
 
 ***
 
-### 2. *ReLife*
+# 2. *ReLife*
 
 **Anime Made By: **TMS Entertainment
 
@@ -132,7 +132,7 @@ In anime, we always talk about how great it is for something to be different, bu
 
 ***
 
-### 1. *Kimi no Na wa. (Your Name.)*
+# 1. *Kimi no Na wa. (Your Name.)*
 
 **Anime Made By: **CoMix Wave
 
