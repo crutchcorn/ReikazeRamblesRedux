@@ -16,7 +16,7 @@ If you’re wondering what the PS5 version is like, the improvements are appreci
 
 However, video game visuals are more than just resolution and model quality. Lighting, atmosphere, effects, UI: these elements all play into one’s enjoyment of the presentation, and Ride 4 puts minimal effort into these. There’s a bland aesthetic reminiscent of _Gran Turismo 5_ on PS3 regarding all of these and it makes the game feel woefully behind current generation games in that regard.
 
-The visuals don’t improve the user experience, with the day and the night races not looking inspired at all. Weather is implemented lazily, with lazy rain effects showing up as water droplets on the screen in 3rd person mode, obscuring your vision. The night lights of the Macau stage for example appear static, just added to the soulless stage presentation. Legitimately, this game has so little character that I’d rather play something like the 92 arcade racing game* Virtua Racing* simply because it has more charm and character than the aesthetics of _Ride 4_.
+The visuals don’t improve the user experience, with the day and the night races not looking inspired at all. Weather is implemented lazily, with lazy rain effects showing up as water droplets on the screen in 3rd person mode, obscuring your vision. The night lights of the Macau stage for example appear static, just added to the soulless stage presentation. Legitimately, this game has so little character that I’d rather play something like the 92 arcade racing game *Virtua Racing* simply because it has more charm and character than the aesthetics of _Ride 4_.
 
 ![Ride 4 PS5/Xbox Series X Review - Wiped Out 2](./RIDE-4_20210119213442-1024x576.jpg)
 

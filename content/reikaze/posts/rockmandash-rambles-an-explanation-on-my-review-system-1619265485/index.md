@@ -20,9 +20,9 @@ Every now and then, I’ll use the TAY/AniTAY review’s Fantastic, Not Great, a
 Also, I now have a[ checklist](http://rockmandash12.kinja.com/rockmandashs-checklist-for-reviews-1-0-1654377006?rev=1415086408141) of everything I look for in a work in a checklist to help make sure I mention everything I want to say.
 
 * **Writing** - This category focuses on the story, execution of plot, themes, tone, quality of writing in general, pacing, characters, etc. Pretty much anything that involves the writing of it. I typically have the sub-categories of Plot, Pacing, and Characters, and sometimes they get their own dedicated categories right after writing depending on how varied the quality of the sub-categories are, or the level of importance.
-* **Gameplay **- For games, this is about the interactions you have. It’s usually about the quality of control, unique gameplay aspects, and experiences of actually playing through it. Sometimes, pacing can fall in here due to the fact that gameplay can effect the pacing of the story. This segment does not appear in games that do nothing special (or worth mentioning) or anime.
-* **Visuals **- Rates how nice (or not so nice) something looks. Pretty self explanatory.
-* **Sound **- Rates the quality of the Soundtrack, how well it used it and Voice Acting if said work had some. The Soundtrack itself is only half of the equation; the usage of the soundtrack to make the mood of the show is equally as important, and Voice Acting can really influence your thoughts on characters.
+* **Gameplay** - For games, this is about the interactions you have. It’s usually about the quality of control, unique gameplay aspects, and experiences of actually playing through it. Sometimes, pacing can fall in here due to the fact that gameplay can effect the pacing of the story. This segment does not appear in games that do nothing special (or worth mentioning) or anime.
+* **Visuals** - Rates how nice (or not so nice) something looks. Pretty self explanatory.
+* **Sound** - Rates the quality of the Soundtrack, how well it used it and Voice Acting if said work had some. The Soundtrack itself is only half of the equation; the usage of the soundtrack to make the mood of the show is equally as important, and Voice Acting can really influence your thoughts on characters.
 * **Source Material Comparison** - This category is almost never called this, it’s usually called the media of the source material. In this, I don’t rate it, i just compare the 2 and say which one I prefer. This only pops up when I have seen the source material, and if the topic of the review actually has a source material, so it’s not that common.
 * **Experience** - This is, in my opinion, the most important section. This is my personal thoughts on it, what I experienced during this, my enjoyment of it, etc. What’s the point of a review if you can’t get your thoughts out, saying that something is good if you don’t care for it? Every review has an aspect of subjectivity, this is where a majority of the subjectivity in my reviews lie.
 
@@ -30,7 +30,7 @@ Also, I now have a[ checklist](http://rockmandash12.kinja.com/rockmandashs-check
 
 ### Banners
 
-This one is a pretty recent change, but I’m a fan of how it looks so i’ll keep on doing it. I’ve started to change the colors on the banners for the categories (or have entirely different banners) depending on the said work. It’s just an aesthetic change and doesn’t influence the review’s actual contents. Here’s an example from my [*Rewrite* review](http://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1609445042#_ga=1.247352333.888615642.1438970662), [*FSN UBW *review](http://rockmandash12.kinja.com/fate-stay-night-unlimited-blade-works-tv-is-beautifu-1642722982) and [*Sound of Drop *review](http://rockmandash12.kinja.com/rockmandash-reviews-sound-of-drop-fall-into-poison-1741263649) to represent the different types of banners I use.
+This one is a pretty recent change, but I’m a fan of how it looks so i’ll keep on doing it. I’ve started to change the colors on the banners for the categories (or have entirely different banners) depending on the said work. It’s just an aesthetic change and doesn’t influence the review’s actual contents. Here’s an example from my [*Rewrite* review](http://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1609445042#_ga=1.247352333.888615642.1438970662), [*FSN UBW* review](http://rockmandash12.kinja.com/fate-stay-night-unlimited-blade-works-tv-is-beautifu-1642722982) and [*Sound of Drop* review](http://rockmandash12.kinja.com/rockmandash-reviews-sound-of-drop-fall-into-poison-1741263649) to represent the different types of banners I use.
 
 ![](1520891687155685700.png) ![](1520891687239254596.png) ![](1520891687485716548.png)
 
@@ -69,7 +69,7 @@ The tiers are:
 * **Rockmandash Regrets** - If you see this tier, I don’t like it and I wouldn’t recommend it. Stay far away.
 * **Rockmandash Regular** - I thought they were average. I enjoyed them, but I didn’t really care too much about them.
 * **Rockmandash Recommends** - This tier is kinda self explanatory, these are shows and games i’d recommend, because I enjoyed them and they were pretty good overall. They have flaws, but they don’t prevent it from being enjoyable.
-* **Rockmandash Remarkable **- which are Shows and Games that i’d recommend to everybody because they are really amazing works, and I really loved them. This is stuff that would be on a Top 10 list, in my eyes.
+* **Rockmandash Remarkable** - which are Shows and Games that i’d recommend to everybody because they are really amazing works, and I really loved them. This is stuff that would be on a Top 10 list, in my eyes.
 
 ***
 
@@ -107,4 +107,4 @@ I will review any VN that I feel like is worth my time and has a good enough sto
 
 *That’s it for the explanation for how I categorize and rate my reviews, if you were confused about it. This explanation will be at the bottom of every review, for your convenience.*
 
-***Note:**** This has been edited on 11/15/2015. To see what the old version looked up, click *[*this link here*](https://docs.google.com/document/d/1MmOudTwdHlFeIp344frdGIIcUjGPFhBJocT7NxcLFuo/edit?usp=sharing)*, it’ll send you to a google docs archive of the old article.*
+***Note:*** This has been edited on 11/15/2015. To see what the old version looked up, click *[*this link here*](https://docs.google.com/document/d/1MmOudTwdHlFeIp344frdGIIcUjGPFhBJocT7NxcLFuo/edit?usp=sharing)*, it’ll send you to a google docs archive of the old article.
