@@ -19,45 +19,45 @@ Welcome to Rockmandash Reviews and this is actually one of my very first reviews
 
 Link to [Video Review](https://www.youtube.com/watch?v=xINxrJM2YRk)
 
-### Plot and Charecters:
+# Plot and Charecters:
 
 Yea, I know what you're thinking, a Visual Novel? Why would I ever want to play one of those? Aren't those all about love and stuff? Not this time. The game is much more a sci-fi mystery game than anything. There's a bit of the traditional Visual novel stuff like dating, but it's only to get the endings. This game is based all around the plot and I'll try not to spoil anything to the best of my abilities. The game is about 7 charecters, 2 of which are playable characters, trapped in an underwater theme park LeMU, because all of the exits get flooded. Due to water pressure, they have to escape in 5 days. They have no contact with the outside world, and they cannot swim out. There are a lot of mysteries and stuff that make your mind EXPLODE. 4th dimensional beings, chicken sandwiches, 3rd eye, fluctuating bio readings, IBF, etc. The plot is amazing.
 
 The 7 characters are: Takeshi Kuranari, One of the protagonists, who's a college student. Kid, a person with amnesia…. REALLY? He's sort of boring, but he's ok. You, no not you, but You Tanaka, an employee looking for her father, who is sort of annoying at some times, but is great at others. Tsugumi Komachi, a mystery girl who seems really annoying at first, but becomes one of your favorite characters at the end, Sora Akanegasaki, an AI that works for LeMU, who is pretty cool. Sara Matsunaga, a hacker, whose plot point just confused the flip out of me, and thinks is a ninja, and is only in Kid's story. Lastly, Coco Yagami, a student who acts like she's 7, seems annoying but is a great character, and is strangely only in Takeshi's story. The characters are great, the setting is great, and the plot is excellent. The writing is great, and the character development is superb, there are lots you learn about the characters that you are trapped with. You never know what's going to happen with the characters or the plot on your first few runs, but at the end everything is pieced together. In the game, everything is important, it's ridiculous. I have nothing but praise about the story, it's amazing. The story is the closest to perfect I've seen in a long time, and is overall great, especially the last route. The ending is sort of like a Charles Dickens book, all the mysteries and secrets are wrapped up at the end, and if you want more, there is an audio novel that is like an epilogue. The Plot is everything about this game, and it does it very, very well.
 
-#### Plot and Charecters - 10/10
+## Plot and Charecters - 10/10
 
-### Gameplay:
+# Gameplay:
 
 The gameplay is standard visual novel fare, you select options to do things, and that's it. The game has multiple routes, like every game in the genre has. Until you get to the true ending, you are stuck in an infinity loop; the same 5 days will replay over and over again. This is one of the only games that I feel that playing as 2 characters makes sense, and it really works well. Playing the game is like playing a chose your own adventure book, which I love. You select options to get a good ending for a girl, and you need to get 4 endings, 2 per timeline, to get the last route. You need to replay the game several times, but the game has a great shortcut system so it's not that hard to do so. It's a lot of reading, and your choices influence the path you are taking, so it's not for everyone, but for those who like it, it's good enough.
 
-#### Gameplay: 8/10
+## Gameplay: 8/10
 
-### Music:
+# Music:
 
 The music. IT'S ABSOLUTELY OUTSTANDING. The music make the mood, and take the game up a few levels. It's some of the best you will listen to in a game and you'll want to listen to it over and over. The best part of these songs, is the tone of them. They really do fit the location. The most happy and upbeat tracks have a bit of creepiness, and it all works well. Karma, one of the saddest songs in the game, is a piano track and it's one of the most memorable pieces in the game. The songs that add tension, like IBF Notfall, work well and you never get sick of hearing them. These songs are so good that they never get old listening to them via MP3 or via the game. It's a phenomenal soundtrack.
 
-#### Music - 10/10
+## Music - 10/10
 
-### Art & Graphics:
+# Art & Graphics:
 
 Considering that this game is 10+ years old, it's pretty darn good looking. The environments are great, some of the scenes look perfect. The game looks great, considering the age. I like the art style, nothing looks out of place, and it fits with the theme. I really love how some of the things look nice, but I never really notice anything bad. I love how the characters are drawn, looks much better than if they did models, like in the Japanese only 360 remake. The theme itself is amazing. It's an underwater abandoned theme park, and that's amazing. Everything has a water like feel, this is a beautiful game, expecially when you consider it's age.
 
-#### Art & Graphics - 8/10
+## Art & Graphics - 8/10
 
-### Replay Value:
+# Replay Value:
 
 (this is an old section I don't have anymore lol) Like I said before, you need to play multiple endings to get to the final ending. That adds a lot of replay value, to see all the endings and to try to get all the endings. You will play it over and over again until you will get the last ending, because the plot is so mysterious. Playing this game over again is like re-watching a very good movie. You know what's going to happen, and your anticipating it. There are many things that make it easy to replay, so it's great. The game has a lot of unlockables, which make it worth your time to go through every nook and cranny, but I doubt you're going to use these wallpapers. There is a ton of replay value, and the game is a lot of fun to replay.
 
-#### Replay Value - 9/10
+## Replay Value - 9/10
 
-### Conclusion:
+# Conclusion:
 
 This is an amazing game that everybody should play. It has a great plot, looks decent, great sound track, great game overall, and is one of my favorites.
 
-### Overall - 9.75/10 Rockmandash Remarkable
+# Overall - 9.75/10 Rockmandash Remarkable
 
-### Pros:
+# Pros:
 
 Great Music
 
@@ -65,7 +65,7 @@ Great Writing
 
 EVERYTHING
 
-### Cons:
+# Cons:
 
 ..... none?
 

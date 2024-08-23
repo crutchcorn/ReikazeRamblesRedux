@@ -15,17 +15,17 @@ It's that time of year again! [CON](https://tay.kinja.com/tay-goes-to-pax-the-se
 
 ![](./nj3yjpierbyck2auegfb.jpg)
 
-### PREPARE! PREPARE! PREPARE!
+# PREPARE! PREPARE! PREPARE!
 
 This is my 3rd time going to SacAime, I prepared this time, and I felt like I had a better time because of it. I planned what I wanted to to to maximize time, I had a dedicated camera to take pictures instead of just a cellphone (which saved me a lot of time and hassle), I bought a packed lunch early so I could avoid the lunch rush, I had a battery pack for my phone so I could charge it while at panels and such. This preparation really made my experience a lot better.
 
-### Have friends to hang out with
+# Have friends to hang out with
 
 ![](./881520463807087428.jpg)
 
 "It's not about where you go, but who you go with." That couldn't be any more true in cons like this. hanging out with friends is half of the fun, it's just in a cool place. Here are some of my friends, and it was fun hanging out with them. :)
 
-### Cosplays are Cool
+# Cosplays are Cool
 
 ![](./881520463942170436.jpg)
 
@@ -35,19 +35,19 @@ As par for the course for an anime convention... there were so many great cospla
 
 
 
-### Pretty much everyone in the industry who goes to panels are awesome
+# Pretty much everyone in the industry who goes to panels are awesome
 
 ![](./881520464024448068.jpg)
 
 I went to two main panels at SacAnime this time around: J Micheal Tatum's panel, and Johnny Young Bosh's panel. Along with Vic Mignogna and Charles Martinet's panel (best panel you can ever go to, imagine his instagram posts for an hour but with actual conversation :D), that's 4 panels i've been to, and they've been all awesome! I really enjoyed Tatum's panel, as even though it was full of black butler fangirls, there was a lot of discussion about the industry and Steins;Gate. JYB's panel was weird though... he answered everything in song....
 
-### You are always learning
+# You are always learning
 
 ![](./881520464090774852.jpg)
 
 At the J Micheal Tatum Panel, I ran into some pretty interesting news. Apparently, he was writing the script for the english dub for Steins;Gate while doing the Voiceover for Okabe Rintarou. That's some fascinating info, and stuff like that is why I enjoy going to panels. There will always be something you don't know.
 
-### Don't be afraid to go to fan panels
+# Don't be afraid to go to fan panels
 
 Probably the most fun I had all week was during the fan Anime Debate panel. ([who would have thunk it?](https://anitay.kinja.com/lets-ani-debate-ani-debate-annoucement-topic-1621418976)) It was a lot of fun because there was actually back and forth discussion and such, unlike every other place where there was very little talking. The cool thing is that you'll probably run into people from that panel in other places, and it helps create friends. GO TO FAN PANELS! Btw, the guy who ran the panel was Paladincecil on youtube, and he should be uploading them soon. btw if you do check it out, I'm the annoying guy in the pokemon shirt :P.
 
@@ -55,7 +55,7 @@ Probably the most fun I had all week was during the fan Anime Debate panel. ([wh
 
 
 
-### Merch: Hit and Miss
+# Merch: Hit and Miss
 
 ![](./zcnio70tdpbhhjblerpq.jpg)
 
@@ -67,29 +67,29 @@ Also... OTAKU STUFF IS EXPENSIVE >\_>
 
 
 
-### Artist alleys don't always rock
+# Artist alleys don't always rock
 
 So far, every one I've been to has had an awesome artist alley, which is where fans can sell their own stuff. Not so much this year. There was only 2-3 stands I cared about this year, with the only thing I bought being some cool stickers.
 
-### Don't be afraid to talk to strangers
+# Don't be afraid to talk to strangers
 
 ![](./881520464278855492.jpg)
 
 Everyone at a con has a common interest, so strike up some conversations! Talking to people is some of the most fun you will have at a con! That's a big part about what made the Debate panel so much fun. A great example of this was when I was waiting for a ride when some guy came up to me and started to ask about my camera, the NEX-3N. I then had a pretty fun discussion about cameras and such. Another cool one was when a guy came up at the end of the panel to discuss the best anime ever and brang up Umineko. I interjected saying that the anime sucks while the VN's pretty good, then after the panel ended, we had a great discussion on Vn's and umineko (which I'm currently playing through and may be my next new review)
 
-### Con-Goers know very few shows
+# Con-Goers know very few shows
 
 ![](./881520464456955204.jpg)
 
 So, I thought that cowboy bebop, FLCL, and Oreimo were pretty popular shows. During the anime debate panel, the guy running it brang up questions like weirdest anime character (Which I said haruko from FLCL because that shit's crazy), and Which Anime Character would be the best to bring to a con like this (which I said Kirino from OreImo because otaku are the best type of people to come to stuff like this and just remembering her reactions to Comiket and Akihabara were great) and each time I brang up characters I thought were from shows that had a repetitively large fanbase, nobody recognized. When somebody brang up Lain from Serial Experaments lain, only 2 other people (including me) recognized her, and when someone brang up ein from Bebop... same thing. Con-goers only know the really popular stuff like attack on titan. :(
 
-### We are a minority
+# We are a minority
 
 ![](./za24nvarow0xbfjp2znr.png)
 
 Us seasonal anime watchers and people who care about character development and quality of said show... yeah nobody gives a shit. I felt like I was the only one there that watched shows that weren't black butler or Attack on titan... and it kinda sucked... :( Every time I pointed flaws in well known shows like attack on titan, people would give me a fanboi reaction back, or when I talked about how great something is, nobody cared. I couldn't strike up conversations on how Kara no Kyoukai Paradox Spiral was the greatest thing ever because nobody's heard of it, or even about stuff from a few seasons ago like golden time. To those who don't know what shows we are talking about here on Ani-TAY, don't feel bad. Most people don't, even at cons.
 
-### The western anime market is doomed
+# The western anime market is doomed
 
 ![](./nvlby0xotcq4swoxc4yp.png)
 

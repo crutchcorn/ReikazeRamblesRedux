@@ -13,7 +13,7 @@ I'm sure that a lot of people also say this, but Pokémon was an essential part 
 
 ![](./1007417778835227719.png)
 
-#### Homage to the Originals
+# Homage to the Originals
 
 ![](./zhstoxzxb4i2lercusft.jpg)
 
@@ -21,7 +21,7 @@ There is one aspect of ORAS that is so prevalent, and so overbearing that every 
 
 It reminds me of a GBA Firered ROM Hack for remaking Johto in how they were trying so hard to be accurate, while trying to add features and extra personality to the game. To me, it feels like a fan made this, and they were trying very hard to be accurate to the source, while adding something new. If you liked the originals, you'll probably like this. If you didn't, some of the modernized aspects may make you enjoy the game, but I don't think it will sway your opinion that much.
 
-#### Simple yet Satisfying Scenario
+# Simple yet Satisfying Scenario
 
 ![](./1007668207613508933.jpg)
 
@@ -31,7 +31,7 @@ Time to get the story out of the way: The structure and scenario is extremely si
 
 That being said, the story isn't identical to the originals. Game Freak added the Delta Episode to the story, and it's pretty great. [Patricia's article](http://kotaku.com/one-big-reason-to-finish-the-new-pokemon-games-1661733984) covers it pretty well, but I have my 2 cents to add in here: it's a fun and new story element of Pokémon ORAS with great production values, interesting themes, and great lore. It's a story worth caring about in Pokémon, and I hope that Game Freak can continue this trend. I always thought it was missed potential that they never had any story element in the games with Deoxys, and the execution was way better than I expected. Also, just a slight warning for those who haven't played through the delta episode yet: at the end of the episode, there are 3 major battles in a row that you can't save in between, so if you screw up on one of them then you'll have to restart on the whole gauntlet. Come prepared!
 
-#### The Pokémon Experience
+# The Pokémon Experience
 
 **Battling**
 
@@ -67,13 +67,13 @@ One thing that struck me as awesome usage of the bottom screen is in this game: 
 
 Also, the side gameplay aspects that Nintendo keeps on changing is the way it was in generation 3: contests are back, secret bases are back, etc., but they are refreshed and executed in a better way than the originals. For an example, during the contests you can enable AR, and I found that to be really neat.
 
-#### Pleasing to the Eyes
+# Pleasing to the Eyes
 
 ![](./1007668207709858629.jpg)
 
 ORAS looks great: it's Hoenn wrapped up in the X & Y visual aesthetic with upgrades and touchups, and frankly, it looks fantastic. All the great things about X & Y's engine applies here, and it looks just as nice in the Hoenn region as it did in Kalos. When I first saw the early announcements, I didn't like it at all. I thought the art style was odd in the way they executed it. I thought it didn't look nearly as nice as before, but that was nostalgia speaking. Seeing everything working together, and actually experiencing it made me appreciate the execution of the world. With great expressions, amazing dungeon design, etc., the changes the game makes cause the game to feel truly alive. It's a reimagining that adds a lot of emotion and it's one that I can get behind, and it looks great. Some places are seriously impressive visually to me: the Team hideouts, the gyms and the contest halls got major upgrades, and they just look fantastic. I have nothing but praises for the way this game looks, it really uses the hardware well.
 
-#### Enjoyment
+# Enjoyment
 
 <video src="./jpjumhajumtjsgbkqpcg.mp4"></video>
 
@@ -81,7 +81,7 @@ I had a lot of fun playing through ORAS. While X and Y were also a lot of fun, I
 
 ![](./1007417788683446087.png)
 
-#### Sounds solid, most of the time
+# Sounds solid, most of the time
 
 I've always been a fan of soundtracks in Pokémon games, as they were always pleasing to the ear, fitting to the location they were aiming for and invigorating when necessary. That being said, Ruby and Sapphire's soundtrack was never something I've been the biggest fan of, and it didn't stand up in comparison to some other soundtracks in my opinion. ORAS tries to change that, and it has mild degrees of success, but I wouldn't say it's one of the best Pokémon soundtracks out there.
 

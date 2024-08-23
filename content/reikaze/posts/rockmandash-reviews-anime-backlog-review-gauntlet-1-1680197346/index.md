@@ -19,7 +19,7 @@ The Anime Backlog Gauntlet serves multiple purposes. First off, I've heard a lot
 
 ***
 
-### *Tokyo Magnitude 8.0*
+# *Tokyo Magnitude 8.0*
 
 ![](./t2r8ly17vfhzhm1fqopi.jpg)
 
@@ -41,7 +41,7 @@ The story centers on Mirai, a middle school freshman girl who goes to Tokyo's ar
 
 ***
 
-### *Time of Eve*
+# *Time of Eve*
 
 ![](./a2urca6ypg3fgh5rbyzv.jpg)
 
@@ -69,7 +69,7 @@ Overall, I liked *Time of Eve.* I ended up a bit disappointed with it due to som
 
 ***
 
-### *Black Lagoon*
+# *Black Lagoon*
 
 ![](./vjyt3c7ugqb8qqitkmto.jpg)
 
@@ -95,7 +95,7 @@ Overall, Black Lagoon is pretty great. It's the best type of action show that yo
 
 ***
 
-### *Death Billiards*
+# *Death Billiards*
 
 ![](./1083258962662776872.jpg)
 
@@ -115,7 +115,7 @@ Overall, Black Lagoon is pretty great. It's the best type of action show that yo
 
 ***
 
-### *Perfect Blue*
+# *Perfect Blue*
 
 ![](./1083258962639990568.jpg)
 

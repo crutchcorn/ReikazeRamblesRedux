@@ -43,7 +43,7 @@ It’s also rather noticeable because of the slice of life execution, something 
 
 The sentiment that it’s disappointing to see can extend to the whole game in general, as the game nails a lot right, and even though I have decent amount of criticism of the story, in no way am I saying it’s bad... it’s just disappointing because it could have been better. *Cursed Sight,* while triumphing over the curse of subpar Aesthetics for OELVNs, tumbles over writing issues that keep the game from greatness. If you’re in the mood for a sadder story that has good visuals and decent characters, or if you just feel like supporting the community, it’s a good time, but if not, look elsewhere.
 
-### Overall - 7/10, Polarization + 1, -1
+# Overall - 7/10, Polarization + 1, -1
 
 ![](./1510496598508920979.png) ![](./1510496599053905811.png)
 

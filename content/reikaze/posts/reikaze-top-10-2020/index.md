@@ -11,7 +11,7 @@
 
 This year has been anything but tradition, with coronavirus in play, but there's some things that really would be better off staying the same, like the annual tradition of looking back on the best last year had to offer at the turn of the calendar. Here’s my two cents on what I think are the best that 2020 Anime has to offer, my Top 10 Anime of 2020.
 
-## Rules
+# Rules
 
 ![](https://i.imgur.com/DaQSLVF.jpg)
 
@@ -19,7 +19,7 @@ My rules of this list are simple: if it aired/released this year, it can go on t
 
 Just an FYI, the placement of the show in the list is mostly based on my experience and enjoyment of the work, so if you’re wondering why something isn’t where you think it should be or you can’t really tell via the justification, that’s probably why. Keep in mind, just because a show is lower on the list doesn’t mean it’s bad - all of these are great, and a lower placement isn’t a mark against the show, at this point it’s nearly all personal preference. With that out of the way, let’s get started!
 
-## Thoughts on Anime in 2020:
+# Thoughts on Anime in 2020:
 
 ![img](https://i.imgur.com/OhD6gQR.jpg)
 
@@ -29,7 +29,7 @@ To add to all of that, 2020 was quite possibly the slimmest year for anime as a 
 
 ---
 
-## 10. _Dorohedoro_
+# 10. _Dorohedoro_
 
 ![img](https://i.imgur.com/lwdDPVM.jpg)
 
@@ -43,7 +43,7 @@ To add to all of that, 2020 was quite possibly the slimmest year for anime as a 
 
 _Dorohedoro_ is full of charm, is well produced with an absolutely unique presentation and a fantastic cast. I loved the setting of the world and I had a blast watching through the show.
 
-## 9. _Sleepy Princess in the Demon Castle_
+# 9. _Sleepy Princess in the Demon Castle_
 
 ![img](https://i.imgur.com/uR4deY6.jpg)
 
@@ -57,7 +57,7 @@ _Dorohedoro_ is full of charm, is well produced with an absolutely unique presen
 
 Honestly in my opinion, _Sleepy Princess_ isn't really an exception to this, but in the year 2020, when all of us can take a bit of soothing, the slice of life comedy of sleepy princess was greatly appreciated. It was good slice of life fun that had me smiling throughout, and I really grew to adore the princess and the supporting cast of of demons. I also really apricated the themes and subversion of expectations you rarely see in the extraordinarily bland genre that is fantasy in anime, with the demons being incredibly nice and the princess being an utter monster. The message of "just because someone is in the out group doesn't make them evil" is a lesson that seemingly is more important to share now than ever.
 
-## 8. _My Next Life as a Villainess: All Routes Lead to Doom_
+# 8. _My Next Life as a Villainess: All Routes Lead to Doom_
 
 ![img](https://i.imgur.com/nXVURy7.png)
 
@@ -71,7 +71,7 @@ Honestly in my opinion, _Sleepy Princess_ isn't really an exception to this, but
 
 Also, there's just really something about the sunshine girl brimming with positivity trope that gets me every time. I am weak to it and adore it every time I see it.
 
-## 7. _TONIKAWA: Over The Moon For You_
+# 7. _TONIKAWA: Over The Moon For You_
 
 ![img](https://i.imgur.com/8VNlwa9.jpg)
 
@@ -87,7 +87,7 @@ After Tsukasa helps the injured Nasa, he confesses his feelings to her, and she 
 
 While all of the above is true, honestly for me Tonikaku Kawaii's primary appeal is just the characters themselves. I really love watching Nasa and Tsukasa and could read/watch hours of them just doing anything to be honest. I love how dorky Nasa is, I love how Tsukasa geeks out about her passions and interests, and obviously the chemistry between the two is a delight to see. The way they learn from each other, the way they interact with their quirks and cover the weakness of the others well, all of it is just a pleasure to watch.
 
-## 6. _Ascendance of a Bookworm Season 2_
+# 6. _Ascendance of a Bookworm Season 2_
 
 ![img](https://i.imgur.com/2bWA1CK.jpg)
 
@@ -101,7 +101,7 @@ As Myne transitions into the next phase of her life in this new world, she soon 
 
 **My Thoughts:** Out of all the shows on this list, _Ascendance of the Bookworm_ is most likely to be the show you haven't seen, which is honestly a shame. _Ascendance of a Bookworm_ pairs a fun and quirky protagonist, engaging character drama and fantasy politics in a package that keeps a consistently high bar of quality. I'm amazed by the consistency of _Ascendance of a Bookworm_'s quality, throughout 2 seasons there's rarely been a down moment, and as a result _Bookworm_ has been one of the more compelling shows that has aired in the recent months. If this is the first time you've heard of it, definitely give it a shot.
 
-## 5. _Chihayafuru Season 3_
+# 5. _Chihayafuru Season 3_
 
 ![https://i.imgur.com/o8rRzFF.png](https://i.imgur.com/o8rRzFF.png)
 
@@ -115,7 +115,7 @@ As Myne transitions into the next phase of her life in this new world, she soon 
 
 It's been a long time since we last saw _Chihayafuru_ - Season 2 aired back in 2012. As you'd expect from Madhouse though, _Chihiyafuru_ Season 3 didn't miss a beat, and it was just as gripping and compelling as the first time I watched it.
 
-## 4. _Haikyuu!!: To the Top_
+# 4. _Haikyuu!!: To the Top_
 
 ![img](https://i.imgur.com/SyP68iQ.png)
 
@@ -127,7 +127,7 @@ It's been a long time since we last saw _Chihayafuru_ - Season 2 aired back in 2
 
 **My Thoughts:** A lot of people in the anime community tend to assume that the most popular anime aren't the best anime. They're popular because they do plenty of things right, but there's an assumption that because they aim to appeal to lots of people, they can't be as interesting or compelling as the best of the them. This absolutely does not apply to _Haikyuu_, which amazes with it's quality of execution year after year. Just absolutely superb directing, fantastic pacing for a show running this long, some of the coolest shots of animation in the industry, extremely great usage of one of my favorite soundtracks in anime, never faltering every time it airs. With _To the Top!!_, we got 2 great seasons this year, with awesome matches, but more importantly we finally got to see Hinata grow in ways he hasn't before. Honestly, the only thing I can think of that's even kind of a criticism is that it's more of the same, but when the same is this great, is that even a problem?
 
-## 3. _Kaguya-sama: Love is War Season 2_
+# 3. _Kaguya-sama: Love is War Season 2_
 
 ![img](https://i.imgur.com/LLCQddU.png)
 
@@ -143,7 +143,7 @@ A long and difficult election that will decide the fate of the new student counc
 
 So, with all of that said - what about the anime, and why is _Kaguya_ 3rd on this list? Mostly, it's that it hasn't gotten to my favorite parts of the manga. Season 2 was the first step into _Kaguya_'s character drama and I loved what I saw, but it's not quite there yet. I've also just never really clicked with the anime in the same way I have the manga - the anime is a great adaptation of the manga but it hasn't resonated me, quite possibly because I already know what's going to happen, or because the pace is too slow for my tastes. I'm hoping season 3 changes that, but until then I appreciate _Kaguya_'s anime but don't really quite love it.
 
-## 2. _My Teen Romantic Comedy SNAFU Climax!_
+# 2. _My Teen Romantic Comedy SNAFU Climax!_
 
 ![img](https://i.imgur.com/Hx7YMkh.png)
 
@@ -161,7 +161,7 @@ _Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan_ revolves around the gr
 
 The show definitely has it's haters and detractors, especially with it's incredibly roundabout way of conversation, but the way it captures the atmosphere of being in a relationship and the subtext that hides behind the words is truly something that keeps me captivated on the series, even if it's a bit of a double edged sword. Honestly in my eyes, _Kaguya_ and _Oregairu_ are just as great in what they try to do, but as the name of this season might suggest, this was the last and most impactful season of _Oregairu_ and as such gets the nod for second on this list. The ending of _Oregairu_ was perfect, and _god_... as a result _I want the genuine thing_ too.
 
-## 1. _Keep Your Hands Off Eizouken!_
+# 1. _Keep Your Hands Off Eizouken!_
 
 ![img](https://i.imgur.com/bwcqxt4.png)
 

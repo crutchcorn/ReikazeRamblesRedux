@@ -29,7 +29,7 @@ Last time I said that the major complaints didn’t really bother me, but I felt
 
 I’d argued in season one, because they used most of their cast really well in season one by balancing the time spent with each character, the show made it’s cast feel small. Season 2 does not do this. The characters that you know and love from season one are still a blast to watch, but mixed in with the relatively underdeveloped cast in this show, it’s hard to say the characters are a strong point for this season. The new cast is huge to the point that I think it’s too big to really get to know the new characters well to the point someone would care for them, and too big to see how our old favorites are doing, which results in a less than ideal experience. For an example, we don’t really see much of Simon from Russia Sushi throughout the season, and the only really memorable scene with him was late into the third cour, which is not a lot of time. Less characters and a better use of said characters would have gone a long way in making the show more enjoyable, as much as season one, but the ones we do spend time with are still great, and it’s still enjoyable.
 
-#### Writing - 7/10
+# Writing - 7/10
 
 ***
 
@@ -45,7 +45,7 @@ There is one big annoyance with the experience, and while it may not matter to t
 
 Overall, *Durarara!!X2*’s written fairly well, but it’s season 1 on steroids and that’s not necessarily a great thing. While it’s still the DRRR you know and love which is rather enjoyable, It’s exposed the weaknesses of the series which can hurt your experience. The writing in this season can be a mixed bag depending on who you are.
 
-#### Experience - 9/10
+# Experience - 9/10
 
 ***
 
@@ -53,7 +53,7 @@ Overall, *Durarara!!X2*’s written fairly well, but it’s season 1 on steroids
 
 With season 2, Brains Base is out, and in is an entirely new studio, Studio Shuka. Studio Shuka is a team composed by members who worked on DRRR Season 1, but this is a new studio and honestly, it looks the part. While it’s still pretty decent, this season has a significantly rougher look than before: it’s not as polished, not as detailed, and in my opinion, not as good. It has a “sharper” look to it, with the eyes being very angled which personally bothered me, and the consistancy isn’t as solid. The art, while serviceable, could use improvement.
 
-#### Visuals - 6/10
+# Visuals - 6/10
 
 ***
 
@@ -65,7 +65,7 @@ For better or worse, the sound is one of the few aspects that haven’t changed 
 
 This doubles for the voice acting as well: we are back with the same great voice actors from S1, and they do a great job, both sub and dub. The new characters do a great job as well, as they capture the personality of the characters they are playing It’s also one of the few shows with simul-dubbing so we already have part of the dub available, and the quality is on par with the sub.
 
-#### Sound - 9/10
+# Sound - 9/10
 
 ***
 

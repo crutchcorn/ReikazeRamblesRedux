@@ -61,7 +61,7 @@ Chapter 7 serves to wrap the story up, but it felt very anticlimactic in general
 
 *Ef - a fairy tale of the two* is interesting to talk about when it comes to the writing. It’s solid overall, and absolutely fantastic at points, but it always shot itself in the foot. From the generic-ness of the story, to something like flow that gets in the way... it has these tragic flaws that keep it from being so much more.
 
-#### Writing - 7.5/10
+# Writing - 7.5/10
 
 ***
 
@@ -79,7 +79,7 @@ In comparison to the static nature of most Visual Novels, *ef* is very dynamic w
 
 Really, I cannot state this enough: *ef - a fairy tale of the two* has great art, with all the [Scenery Porn](http://tvtropes.org/pmwiki/pmwiki.php/Main/SceneryPorn) that you’d expect from a work associated with Makoto Shinkai. The character art is just as great too; while they give off the typical anime look, they look great, and they fit in extremely well with the world around them. It’s a VN that’s full of really great art, and everything is pleasing to the eye. The best word that can describe the visuals of this game (and the whole work as a whole) is beautiful... it’s seriously beautiful. There is one notable thing that isn’t really a positive: it’s an eroge, so **CUE THE OBLIGITORY EROGE WARNING HERE**, but you can turn it on and off so it’s not a deterrent from playing. When it skips an H-scene, the game give a description of what happens, so you aren’t missing anything, and I wish more games had that.
 
-#### *Visuals - 10/10*
+# *Visuals - 10/10*
 
 ***
 
@@ -93,7 +93,7 @@ The implementation of this soundtrack is superb as well, with the tracks supplem
 
 As for the voice acting, I’m not an expert, but it’s once again... fantastic. The voice actors did a great job portraying the characters, no matter how difficult the situation was... I was especially impressed by Yuuko’s voice actor, as she did a stellar job with that role no matter the situation, and it was a joy to listen to.
 
-#### *Sound - 10/10*
+# *Sound - 10/10*
 
 ***
 
@@ -117,7 +117,7 @@ I didn’t really enjoy most of *ef - a fairy tale of the two*. I guess the best
 
 Throughout *ef*, my anticipation rose for something that would eventually crash, and this is an experience that I don’t really appreciate. The Prologue built it up, then Ch1-2 made it fall. Chapter 3 built it up, then Chapter 4 made it fall. Chapter 5 did that to itself, consistently shooting itself in the foot, etc.This is one of my personal gripes in a story: a good part of a story doesn’t completely justify a poor execution in other parts, because you still had to experience the poor execution... and by doing this constantly, it just made me feel very lukewarm about the game in general.
 
-#### *Enjoyment - 6/10*
+# *Enjoyment - 6/10*
 
 ***
 
@@ -147,7 +147,7 @@ One thing that didn’t change was the music. Tenmon still does the music, and l
 
 The anime is a totally different beast than the visual novel. There are a lot of changes for the sake of change, and what makes these great are very different than the others. You are pretty much trading flaws.
 
-#### *Anime - 8/10*
+# *Anime - 8/10*
 
 ***
 

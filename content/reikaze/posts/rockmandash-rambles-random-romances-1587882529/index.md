@@ -13,7 +13,7 @@ With my schedule clearing up and I finally got started with my [Key Marathon](ht
 
 
 
-### My Teen Romantic Comedy SNAFU
+# My Teen Romantic Comedy SNAFU
 
 ![](./segtqqpvdrtqqjsdegws.jpg)
 
@@ -23,7 +23,7 @@ My Teen Romantic Comedy SNAFU is one of the most "safe" Rom Coms i've seen, but 
 
 
 
-### White Album 2
+# White Album 2
 
 ![](./cejfv1wypiw5vlxjkd2m.jpg)
 
@@ -35,7 +35,7 @@ White Album 2 is something you will fall in love with. White Album 2 is a great 
 
 
 
-### Ef - A Fairy Tale of the Two + Animes
+# Ef - A Fairy Tale of the Two + Animes
 
 ![](./s9glyqyic22pu0owyofr.jpg)
 
