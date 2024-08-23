@@ -7,7 +7,7 @@
 }
 ---
 
-[](./dxmkdaqlsi5alzbke9cf.mp4)
+<video src="./dxmkdaqlsi5alzbke9cf.mp4"></video>
 
 2017 was a year of turmoil for both IRL and in Anime, but there was lots of great stuff to see, especially in regards to Anime. Welcome to The *AniTAY Anime Awards *of 2017, where AniTAY Authors and AniTAY members pick the best of the best Anime of the year!
 
@@ -39,7 +39,7 @@ Here’s what the authors of AniTAY have to say! We here at AniTAY are an opinio
 
 #### **Author’s Pick for Best Female Character: **Kamui Kanna **(***Miss Kobayashi’s Dragon Maid***)**
 
-[](./s0hqcy5gjeqwxp92cgz0.mp4)
+<video src="./s0hqcy5gjeqwxp92cgz0.mp4"></video>
 
 ***
 

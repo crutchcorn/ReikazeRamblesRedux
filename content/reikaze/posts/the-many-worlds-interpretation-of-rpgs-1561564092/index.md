@@ -13,7 +13,7 @@ Soo... Playing too much Steins;Gate can really do something to you. I just wrapp
 
 When we play a RPG, we have always been viewing it as one linear story, without any changes. What if I told you that all RPGs have branching paths like visual novels and we have just been ignoring them?
 
-[](./672595760712988961.mp4)
+<video src="./672595760712988961.mp4"></video>
 
 ## What is the [Many Worlds Interpretation](http://en.wikipedia.org/wiki/Many-worlds_interpretation)?
 

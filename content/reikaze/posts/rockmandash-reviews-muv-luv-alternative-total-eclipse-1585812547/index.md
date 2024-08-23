@@ -9,7 +9,7 @@
 
 More Muv-Luv! I'm sure all of you here on TAY is absolutely sick and tired of me and Dex mentioning Muv-Luv pretty much every week and are probably prepared to make silly ANTI-MUV-LUV pictures to respond every time Muv-Luv is mentioned, but we just can't help but talk about this series. Today on Rockmandash Reviews, is my review of Muv-Luv Alternative Total Eclipse; the sole anime adaptation of Muv-Luv.
 
-[](./yyvmgdsosl5zvu7mzrfe.mp4)
+<video src="./yyvmgdsosl5zvu7mzrfe.mp4"></video>
 
 You may ask... Why are you doing a review of this when [Dex has a perfectly good review out already?](https://tay.kinja.com/dexs-review-total-eclipse-1478426224) The reason is pretty simple. Dex wrote his review before playing Alternative, I'm writing this after I played Muv-Luv Alternative, thus our viewpoints for the reviews are different (but i'm sure he agrees with this review now). Because of this difference in viewpoint, I'd recommend you check out his review as he has a more positive spin on things.
 

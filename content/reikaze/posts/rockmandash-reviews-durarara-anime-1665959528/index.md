@@ -7,7 +7,7 @@
 }
 ---
 
-[](./1248077600568880997.mp4)
+<video src="./1248077600568880997.mp4"></video>
 
 When I watch a show or play a game, I typically value the characters and the world heavily: All of my favorites excel in either one of these aspects. When I find a show that excels at both of these aspects, it’s pretty much a dead ringer for one of my favorite shows. Today in anticipation for the Season 2, we have a show that pulls this off and is one of my Top 10 anime: *Durarara!!*
 

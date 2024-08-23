@@ -7,7 +7,7 @@
 }
 ---
 
-[](./wyy1t54dainwezlvpygu.mp4)
+<video src="./wyy1t54dainwezlvpygu.mp4"></video>
 
 The emergence of *Demon Slayer*, the laugh out loud romantic comedy that was *Kaguya*, the awfulness that was shows like *ORESUKI*! There was so much in regards to anime in 2019, and here at AniTAY we’re gonna tell you what we think is great! Welcome to The AniTAY Anime Awards of 2019, where AniTAY Authors and AniTAY readers pick the best of the best Anime of the year!
 

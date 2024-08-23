@@ -9,7 +9,7 @@
 
 What exactly is a Visual Novel? Why should I care, and why are you talking about them? The Visual Novel Genre is a confusing genre, especially if you have no idea what it’s about. I’m here to try to help: Today on Rockmandash Reviews is my Beginner’s Guide to one of my favorite genres in gaming, Visual Novels.
 
-[](./dt2sgbswno93qzsckozl.mp4)
+<video src="./dt2sgbswno93qzsckozl.mp4"></video>
 
 Before we actually get started, there is one thing I need to clarify; I’m talking about Visual Novels as a genre, not about dating sims. **NOT ALL VISUAL NOVELS ARE DATING SIMS. **Dating sims are a Sub-Genre of Visual Novels, if that. A lot of them aren’t even VN’s. Get it? Ok, good. Let’s move on.
 

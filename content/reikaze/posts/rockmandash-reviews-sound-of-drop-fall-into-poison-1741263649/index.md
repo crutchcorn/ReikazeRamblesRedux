@@ -7,7 +7,7 @@
 }
 ---
 
-[](./1513818381270733093.mp4)
+<video src="./1513818381270733093.mp4"></video>
 
 How do you deal with lingering feelings, dripping into your soul like poison? Do you face them, or in your attempt to swim, do you sink? *Sound of Drop - fall into poison *is a mystery horror VN that deals with such themes, and* *does it’s best to make a great experience... but is it enough?
 

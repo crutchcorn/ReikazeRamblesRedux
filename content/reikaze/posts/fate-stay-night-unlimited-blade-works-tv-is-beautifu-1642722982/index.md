@@ -7,7 +7,7 @@
 }
 ---
 
-[](./1316014531186339906.mp4)
+<video src="./1316014531186339906.mp4"></video>
 
 As I was watching through this show, I was confused. Confused by the fact it feels so alien to me, yet so familiar. Confused by the fact that it show can be unbelievably amazing, yet so mediocre at the same time. Confused by the fact that it can be so similar, yet so different. Animated by Ufotable, *Fate/stay night: Unlimited Blade Works (TV)* is a completely different beast than the [Visual Novel](http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1613176306) route with the same name, and is both beautiful and flawed at the same time.
 
@@ -17,7 +17,7 @@ As I was watching through this show, I was confused. Confused by the fact it fee
 
 Let’s start out with what you are all expecting me to say: *Fate/stay night:Unlimited Blade Works* is one of the most visually stunning anime out there, and quite possibly the most visually impressive TV anime with production values that you would expect from feature films. The art is so refined that one can’t help but admire the amount of detail and work that they put into it, and the show definitely earns the moniker *Unlimited Budget Works* that everyone has been calling it. To me, it has one of the best aesthetic designs in anime, the amount of visual effects like bokeh that this show has is simply outstanding, the way they use things like lighting and different angles to enhance the mood is great, the characters expressions are more vivid and full of life than almost all anime, and the way they rendered everything… just beautiful. Ufotable really nailed it with the Visuals in this anime, and I can’t help but love it. Honestly though, this shouldn’t be surprising as Ufotable is the same company that did the *[*Kara no Kyoukai*](http://tay.kinja.com/rockmandash-reviews-kara-no-kyoukai-the-garden-of-si-1524615358)* adaptation, which I claimed was *“The pinnacle of Japanese animation, the best that Japanese animation has to offer.”*
 
-[](./1316014531627805250.mp4)
+<video src="./1316014531627805250.mp4"></video>
 
 Really, everything about the Visuals of Ufotable’s *Unlimited Blade Works* is just amazing: The scenery in this show is done extremely well, the the way that they executed the magic in this show is drool worthy while being extremely accurate and more impressive than the source at the same time, and the fights scenes… oh, the fight scenes. In my [original *Fate/stay night* ](http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1493594993)[Visual Novel review](http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1613176306), I stated
 
@@ -25,7 +25,7 @@ Really, everything about the Visuals of Ufotable’s *Unlimited Blade Works* is 
 
 and this dream is finally coming true. To put it frankly, it’s everything I ever dreamed of from *Fate/stay night* when it comes to the fight scenes, and they are everything I could have ever imagined or even better. When Studio Deen did their adaptations, the fight scenes were frankly, absolutely nothing special, and in the Visual Novel, the fights weren’t that visually impressive: they were still images with effects. Fast and furious, the fights are visually impressive, extremely engaging, do a great job at representing the movement and feel of the fight. Also, it’s an anime that really cares about cinematography, and the cinematography is just one of the best that anime has to offer, along with shows like *GARO*, *Bahamut*, etc. It’s a sight to behold, and it’s very impressive. My only real issue with them is that I wish they were longer or slower for the sake of the story, but you can’t really count that as an issue when it’s just wishing for more good stuff, right?
 
-[](./1316014531671470914.mp4)
+<video src="./1316014531671470914.mp4"></video>
 
 ***
 
@@ -41,7 +41,7 @@ The removal of monologuing completely changes this: while Anime fans may mock VN
 
 Without this element that only the crazy VN fanbois complain about, *Unlimited Blade Works* loses the essence of what makes it what it is, becoming a dull, lifeless show without it’s own flare. The Visual Novel let you get to know the scenes, get you to feel the ideas and thoughts of the characters, the anime just shows you the events that occur. This show makes you feel like an observer, and because of that, the amount of engagement the viewer has in comparison to the reader of the VN is completely different. With this one change, the story moves the focus away from Shirou and his ideals to solely the events, preventing you from engaging with the story and falling in love with it as much as you could in the past. This one change is the difference between a work that makes people fall in love with a series, and one that makes people feel lukewarm about the work, the change that changes your entire experience. The story relies on your caring of Shirou and the characters to do what it does, making the scenes important and meaningful but without that, the scenes are just scenes, lacking in substance and lacking in emotion. It takes engagement to evoke empathy after all, and this change prevents them from evoking that empathy when they need it. This story really uses it’s thematic, emotional elements, like with betrayal and the Shirou/Archer fight, but if you don’t care about them, then what can you do?
 
-[](./1316014531851397698.mp4)
+<video src="./1316014531851397698.mp4"></video>
 
 There’s also the issue of the structure: The story is ment to be played in a specific order, all at once and the piecemeal style adaptation screws with this. There’s a lot of character development is done in the Fate route, and the Fate route gets your mind in the perspective that you need to be in when playing UBW *(Order: Fate -> UBW -> HF)*. The Fate route is about Shirou’s ideal, a relatively simple shounen story that gets you to care about Shirou and Saber It develops two of the main characters to the point that you actually care about them, helps the story along. That being said, it eerily resembles what archer went through, getting you to care about archer once he gives his major exposition. There are issues that many (ie, [*Fate/Zero*](http://rockmandash12.kinja.com/rockmandash-reviews-fate-zero-ani-tay-1538163593) fans) may have with the story that are covered in HF, and the story is just a better experience as a whole.
 

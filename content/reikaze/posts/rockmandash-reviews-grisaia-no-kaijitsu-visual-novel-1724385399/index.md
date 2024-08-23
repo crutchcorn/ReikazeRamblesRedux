@@ -9,7 +9,7 @@
 
 There’s always that one work in which many people claim it’s one of the best in the medium. In the VN community, *Grisaia no Kaijitsu *by Frontwing was such a work, seen as amazing and loved by many. Now that I’m reviewing it, it begs the question: Is* Grisaia no Kaijitsu *truly the fantastic game as many fans say it is?
 
-[](./1396075541142799788.mp4)
+<video src="./1396075541142799788.mp4"></video>
 
 In my opinion, No.... Not really.
 

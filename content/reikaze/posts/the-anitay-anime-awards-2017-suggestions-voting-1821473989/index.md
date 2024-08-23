@@ -23,7 +23,7 @@ Anyways, enough about the Awards, you’re here to see what we think: Here are t
 
 ## **Anime of the Year**
 
-[](./smc2tznc3jnh4rp74nvj.mp4)
+<video src="./smc2tznc3jnh4rp74nvj.mp4"></video>
 
 Here’s the category you’re all here for: Anime of the Year. There’s been a lot of great shows this year, but here’s the best. From Comedy to Fantasy to Drama, these are the shows we were immersed in, made us laugh or cry, and made us fall in love: The Best Anime of 2017.
 
@@ -51,7 +51,7 @@ Here’s the category you’re all here for: Anime of the Year. There’s been a
 
 ## **Hidden Gems (Under 70k)** 
 
-[](./lgstraeqvzz3qslpdeho.mp4)
+<video src="./lgstraeqvzz3qslpdeho.mp4"></video>
 
 Shows that unfortunately flew under the radar and didn’t get the attention they deserved. While the seasonal favorites were making waves, these obscure shows were glimmering treasures waiting to be discovered. The number of members (going by MAL) was way below 70,000—and sometimes not even half of that. These are the hidden gems of 2017.
 
@@ -73,7 +73,7 @@ Shows that unfortunately flew under the radar and didn’t get the attention the
 
 ## **Best Animated**
 
-[](./slxwa1ii9wuwkprurjch.mp4)
+<video src="./slxwa1ii9wuwkprurjch.mp4"></video>
 
 What do you watch anime for? Maybe great story, great music, or something else, but many watch shows for visuals, shows that look stunning at every moment. These are the shows that had the most fluid animation, looked amazing or more: The best Animated shows of 2017.
 
@@ -94,7 +94,7 @@ What do you watch anime for? Maybe great story, great music, or something else, 
 
 ## **Best Action**
 
-[](./rgdpquhllioiviwbmdtj.mp4)
+<video src="./rgdpquhllioiviwbmdtj.mp4"></video>
 
 *Action*! These are the shows that get your blood pumping, and your adrenalin skyrocketing. Animation that excel in the fast, the frenetic, the flashy and the weighty. Shows that make you feel every punch, soar every flight, and leaves you breatheless with every exertion. To those shows whose kineticism is made tangible, we honor with our “Best Action” Award.
 
@@ -115,7 +115,7 @@ What do you watch anime for? Maybe great story, great music, or something else, 
 
 ## Best Drama
 
-[](./fhlsxlkg8myrowcvimzr.mp4)
+<video src="./fhlsxlkg8myrowcvimzr.mp4"></video>
 
 ‘Cause I feeeeeeel! The Best Drama Award is for the shows that give us a major case of the feels. They can move you to tears and give you characters to empathize with—some you may find a lot in common with. Say hello to the Best Dramas of 2017.
 
@@ -139,7 +139,7 @@ What do you watch anime for? Maybe great story, great music, or something else, 
 
 ## **Best Romance**
 
-[](./yrkmgvmxarizdu6t2mri.mp4)
+<video src="./yrkmgvmxarizdu6t2mri.mp4"></video>
 
 Romance shows: The shows that get our hearts stirring, those that get us thinking in love dodecahedrons and more. These are the shows we loved to love, the Best Romance shows of 2017.
 
@@ -160,7 +160,7 @@ Romance shows: The shows that get our hearts stirring, those that get us thinkin
 
 ## **Best Comedy**
 
-[](./zpeib7ifqevun7v3kcif.mp4)
+<video src="./zpeib7ifqevun7v3kcif.mp4"></video>
 
 Some shows try to make you fall in love with a story, others try to wow you with spectacle. Others, like the shows here, try to put a smile on your face, to get you laughing out loud: These are the best comedies of 2017!
 
@@ -227,7 +227,7 @@ Many people like to skip the ED, but this year made that a harder task to do tha
 
 ## **Best Male Character**
 
-[](./vrxaulsim9lkqkt4bs4e.mp4)
+<video src="./vrxaulsim9lkqkt4bs4e.mp4"></video>
 
 This year gave us quite a large range of characters taking the spotlight, and this couldn’t be better seen than in the *Best Male Character *nominees. Everything from figure skaters and manga artists to plaster busts, this year had it all.
 
@@ -247,7 +247,7 @@ This year gave us quite a large range of characters taking the spotlight, and th
 
 ## **Best Female Character**
 
-[](./qjdtamzp0hbun7cobeou.mp4)
+<video src="./qjdtamzp0hbun7cobeou.mp4"></video>
 
 The bold, the brash, the rejected, and the moe- 2017 brought plenty of endearing choices to make the race for *Best Female Character *a widely debated discussion in anime circles.
 
@@ -274,7 +274,7 @@ The bold, the brash, the rejected, and the moe- 2017 brought plenty of endearing
 
 ## AniTAY Favorites(?)
 
-[](./w5emiibmrll494wgwxzi.mp4)
+<video src="./w5emiibmrll494wgwxzi.mp4"></video>
 
 Last but not Least, AniTAY Favorites! This is one we included to spice things up, to make this list truly our own. These are shows that AniTAY was fixated on, either loved or discussed about for days on end. Take a look at what makes AniTAY, AniTAY! (Note: This section is very much subject to change)
 

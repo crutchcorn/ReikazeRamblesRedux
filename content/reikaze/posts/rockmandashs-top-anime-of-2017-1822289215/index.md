@@ -7,7 +7,7 @@
 }
 ---
 
-[](./egqucgky3so5ym0yqp95.mp4)
+<video src="./egqucgky3so5ym0yqp95.mp4"></video>
 
 2017 was a year full of ups and downs, but at the end of the year, it’s hard to help but look back at the positives, the best of the best. This includes anime, and I thought I’d chip in my 2 cents on what I thought were the best this year, My Top anime of 2017.
 

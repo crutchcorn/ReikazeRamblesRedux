@@ -7,7 +7,7 @@
 }
 ---
 
-[](./cxgddjmil0xsaqn56cro.mp4)
+<video src="./cxgddjmil0xsaqn56cro.mp4"></video>
 
 I'm sure that a lot of people also say this, but Pokémon was an essential part of my childhood. When I was in the 3rd grade, I was obsessed with the Pokémon TCG (3rd Gen), and when I finally was able to play the games, I started with DPPT, and soon played RSE after. The third generation was interesting to me; I liked it quite a bit when I played it, but little nitpicks have always kept me from making the third generation. Now that Game Freak has outfitted Ruby and Sapphire with the X & Y experience and remade the whole game, does it finally become something more? Let's find out in this review for Pokémon Omega Ruby & Alpha Sapphire.
 
@@ -39,7 +39,7 @@ That being said, the story isn't identical to the originals. Game Freak added th
 
 Let's start with the actual act of battling: it is essentially the same from X & Y due to the fact that they haven't changed the metagame at all, it's the same generation, and it's running on the same engine. This means it's fast, frenetic, and more balanced than ever (especially after that weather nerf). However, while the engine is the same from X and Y, along with all the move sets, stats etc., the game feels much more like Ruby and Sapphire because of the Pokémon available. All the Pokémon are the exact same from the original RSE throughout most of the main quest, and the trainers are exactly the same from gen 3 (which means you will not run into triple battles and things of the sort) so even though it's running a new engine, with a totally different met game, it felt exactly like battling in the 3rd generation. Most of the tactics I used during that generation worked exceedingly well because it just played like RSE. What I mean by this is that the gameplay is much more simple in comparison to X and Y, because you don't need to worry about all the other things that goes into battling in Pokémon.
 
-[](./mq4jotqz9tc57t8k4ldi.mp4)
+<video src="./mq4jotqz9tc57t8k4ldi.mp4"></video>
 
 This may not bother many of you out there, but out of the box, ORAS is insanely easy. If you want some challenge, you have to make it yourself. It's easy in comparison to the originals, and easy for a game in general. Never once did I find the game hard, and the streamlining doesn't help the feeling of challenge either. The Exp. Share still shares to your whole team so you are pretty over leveled at all times if you enable it, and Nintendo just gives you a lot of free things in the game, which makes it that much easier. I was appalled when they gave you a legendary in the middle of the game. Before, legendries were things I felt proud of owning, and they offered a challenge. Now they just give it out, which really bothered me.
 
@@ -75,7 +75,7 @@ ORAS looks great: it's Hoenn wrapped up in the X & Y visual aesthetic with upgra
 
 #### Enjoyment
 
-[](./jpjumhajumtjsgbkqpcg.mp4)
+<video src="./jpjumhajumtjsgbkqpcg.mp4"></video>
 
 I had a lot of fun playing through ORAS. While X and Y were also a lot of fun, I don't think it was nearly as memorable to me. The added charm, and improved pace of the game, and all the little improvements turn this game from what could once be called a black sheep of the series into something that was a blast, something that I'll look back even more fondly than I did the originals. It set out to do its job of making the player have fun, and I personally think it succeeded in that aspect.
 

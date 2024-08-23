@@ -7,7 +7,7 @@
 }
 ---
 
-[](./1529558210760817480.mp4)
+<video src="./1529558210760817480.mp4"></video>
 
 While Visual Novels usually slow affairs with either meticulous writing or Slice of life, There’s always an exception to the rule, and now this exception to the rule has made it’s way to the west. With great pacing, a beautiful story and a tense tone that really makes it feel like a thriller, *G-Senjou no Maou* by Akabeisoft2 is one of the best VNs in the west, and [one of my personal favorites](http://rockmandash12.kinja.com/rockmandashs-top-10-favorite-visual-novels-1677663938).
 

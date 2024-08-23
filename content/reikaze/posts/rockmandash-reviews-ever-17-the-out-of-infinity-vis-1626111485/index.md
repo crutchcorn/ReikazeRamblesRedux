@@ -9,7 +9,7 @@
 
 Have you ever experienced a work that left such a strong impression on you that it started to influence how you perceive everything else related to it? Has that experience rose to the top of your favorites because you liked it so much, but is obscure to the point that almost nobody you know has even heard of it? Whether you’ve have had this experience or not, today we’re going to review a game that influenced me in the very same way as that hypothetical. Welcome to Rockmandash Reviews and this is my a review+ of *Ever 17: The Out of Infinity*, a visual novel made by the now defunct KID and written by [Koutarou Uchikoshi](http://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798), the writer of the well acclaimed [*999: Nine Hours, Nine Persons, Nine Doors*](http://rockmandash12.kinja.com/why-i-love-999-nine-hours-nine-persons-nine-doors-so-1688146811), and [*Zero Escape: Virtue’s Last Reward*](http://rockmandash12.kinja.com/zero-escape-virtues-last-reward-is-nearly-perfect-expe-1713427517)*.*
 
-[](./1306104797334163626.mp4)
+<video src="./1306104797334163626.mp4"></video>
 
 If you are curious enough, here’s a link to my outdated [Video Review](https://www.youtube.com/watch?v=xINxrJM2YRk), the first review I’ve ever made (it took two weeks or more because I didn’t know anything about video editing :/). Looking back on it, it’s not very good, so I’ll redo this video review eventually. Also, if you want to dig up more of my poor writing, here’s the [original Written Review](http://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-visu-1504908037), and it’s equally as rusty.
 

@@ -9,7 +9,11 @@
 
 Have you ever played a game that you loved, so much so that it was on its way to become one of your favorites, only to have it crashing down? Have you ever seen an ending so disappointing, so frustrating that you wanted to disown it, making you despair and rage? No, I’m not talking about *Mass Effect 3*, but something much closer to me, with a similar horrible ending. Welcome to Rockmandash [Reviews+](http://tay.kotaku.com/rockmandash-reviews-remember-11-the-age-of-infinity-1528062359#_ga=1.183184102.1523386611.1417386122), and today on my[ Infinity & Zero Escape Marathon](http://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798) we have *Remember 11: The Age of Infinity*, the game that was so close to perfection in my books, but threw it all away.
 
-[](./1341173074178868772.mp4)![](./1341173074440631076.png) ![](./1341173074520070436.jpg)
+<video src="./1341173074178868772.mp4"></video>
+
+![](./1341173074440631076.png)
+
+![](./1341173074520070436.jpg)
 
 If you know anything about the Infinity series or the Zero Escape Series, you would know that the games in the Infinity series are essentially prototypes to the Zero Escape series, where Uchikoshi polished the execution and utilized the concepts to it’s fullest potential. One of the biggest elements of that series was the tension, how it trapped you into the narrative, engaging you deeply with what it wanted to do. While [*Ever 17*](http://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485) had elements of said tension, it wasn’t really the focus of the game, which aimed more at the atmosphere... leaving* Remember 11 *to be the game that captures the tension in a phenomenal way that Zero Escape eventually used. The amount of tension in comparison to* Ever 17* is so astronomically different that it’s hard to believe they’re made by the same people, but man is it impressive. It’s like comparing apples and oranges: *Remember 11* has a gripping narrative filled with a surreal feeling of tension that stole me by storm, entrapping me in the world, while* Ever 17* had some of it, but wound up carrying the story based on the premise.
 

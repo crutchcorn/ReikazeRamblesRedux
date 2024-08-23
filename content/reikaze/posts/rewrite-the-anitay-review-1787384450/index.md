@@ -7,7 +7,7 @@
 }
 ---
 
-[](./dpn31qc2duezktkq16xj.mp4)
+<video src="./dpn31qc2duezktkq16xj.mp4"></video>
 
 I love Key works as much as the next person, but unfortunately for me, that love can easily lead to fear. Hearing about the fan favorite Visual Novel *Rewrite* getting an adaptation is just one example of why: instead of cheering, [*I was praying*](https://puu.sh/rx9uV/17e17ef72f.png). Adapting any work into a new medium can be hard, but *Rewrite* is no ordinary work... it’s a Key Visual Novel. Thanks to a convoluted story structure and 8-Bit’s terrible adaptation skills, my fears were realized as the *Rewrite* anime became a checklist of everything that can go wrong, a work that fails to appeal to fans and newcomers alike.
 

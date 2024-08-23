@@ -7,7 +7,7 @@
 }
 ---
 
-[](./1248079700163017064.mp4)
+<video src="./1248079700163017064.mp4"></video>
 
 Every now and then, I’ll run into works made by groups that are well known, but the works themselves aren’t. From [*Canaan*](http://rockmandash12.kinja.com/rockmandash-reviews-canaan-anime-1626371217)*,* which was written by Type-Moon, to [*Rewrite*](http://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1609445042)*,* which was made by Key, its fun to see these works that are nobody’s heard of and be pleasantly surprised by them. Today on Rockmandash Reviews, we have such a game: *Higanbana no Saku Yoru Ni* (both *Dai-ichi Yoru* and *Dai-Ni Yoru*) by 07th Expansion, the doujin group that wrote the ever popular* Higurashi* and *Umineko*.
 

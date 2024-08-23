@@ -7,7 +7,7 @@
 }
 ---
 
-[](./zda7dyiwlgfg5zls8j7r.mp4)
+<video src="./zda7dyiwlgfg5zls8j7r.mp4"></video>
 
 Fall. It’s the season of blockbusters, the big hitters that blow our minds... usually. This year, because 2016 has a habit of making everything bizarre, with this fall’s great shows being much more low key than the usual big hitters, It does have greats though, and here’s my list of them: Welcome to Rockmandash’s Top Anime of Fall 2016!
 

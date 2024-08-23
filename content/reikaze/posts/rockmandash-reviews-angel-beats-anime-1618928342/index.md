@@ -29,7 +29,7 @@ From the description I gave, The main cast may seem interesting, but they are pr
 
 The side characters were quite interesting, but the issue was they never got enough development and **THERE WERE WAY TOO MANY**. Many of them didn’t get any character development at all, and they were so shallow that you can describe them with personalities. You’ll probably do that, because some characters get very few screen time and it’s hard to juggle a cast so large. In general they were interesting (TK!), but I never really cared about what happened to them due to the lack of character development.(also because you can’t die in the purgatory world). They try to use the back-stories of characters as a replacement for actual interaction and development because they don’t have time to do so, which kinda work due to the fact that the flashbacks had a tighter narrative and were done better, but not completely because you don’t have development before hand. This is one of my gripes in a lot of shows; if the show just throw horrible situations at characters without getting to know them, it just leads to wasted potential, a general lack of interest in the viewer and a bitter taste in the viewers mouth.
 
-[](./1248126401809686598.mp4)
+<video src="./1248126401809686598.mp4"></video>
 
 Also, this show tries to be a comedy and that aspect was done pretty well, with mostly entertaining jokes. I enjoyed many of the gags they pulled like the amazing [rocket chairs](https://www.youtube.com/watch?v=fORH60LtOt4), but sometimes they try to rely on jokes based on the personality of the characters, which can be hit or miss because of said characters, but it should keep you entertained.
 

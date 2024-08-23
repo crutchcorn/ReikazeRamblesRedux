@@ -15,7 +15,7 @@ AniTAY has always been community first, and we always try to put our own communi
 
 This article will cover the nominations selected by AniTAY members mucking around on a Google Docs sheet. While what we got here is pretty good, we can’t do this without everyone’s help! If you see anything missing or have any suggestions [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSeuwe2CG8uPU8udvWFAwkKSRExVx2iAZpM9fXv0T2VK_nSw7w/viewform?usp=sf_link) or post comments on the sheet and I’ll try to take suggestions and add it to the list. Suggestions will be closed on 12/31/2018.
 
-Like last year, we’ll be running 2 awards, the Author’s Awards and the Reader’s Awards. This way we can keep our voice while including everyone in the process. Make your vote count by [filling this form here](https://docs.google.com/forms/d/e/1FAIpQLScQSXekRigWYrKX-JltN1uKZTaRV2I-1Ddbc75faVl_7eAzJw/viewform?usp=sf_link). Voting will be closed 1/13<!-- --> /2019, when we release the results in a separate article.
+Like last year, we’ll be running 2 awards, the Author’s Awards and the Reader’s Awards. This way we can keep our voice while including everyone in the process. Make your vote count by [filling this form here](https://docs.google.com/forms/d/e/1FAIpQLScQSXekRigWYrKX-JltN1uKZTaRV2I-1Ddbc75faVl_7eAzJw/viewform?usp=sf_link). Voting will be closed 1/13 /2019, when we release the results in a separate article.
 
 There has been some slight changes to the formula this year however: we gave anime movies their own section, added a Slice of Life section, and a *Most Trash Show *Section. Hope you enjoy the tweaks and look forward to seeing your votes! Enough of my rambling, onto the nominees!
 

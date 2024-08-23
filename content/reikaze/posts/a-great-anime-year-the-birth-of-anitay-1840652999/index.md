@@ -7,7 +7,7 @@
 }
 ---
 
-[](./qx8dzcdcvhbnumcnopw7.mp4)
+<video src="./qx8dzcdcvhbnumcnopw7.mp4"></video>
 
 While as a year 2014 might have not been all that remarkable overall, in regards to anime 2014 was one of the best that I’ve ever seen. From a hoard of romance and sports anime to classic action anime sprouting out of nowhere, Anime and AniTAY in 2014 was a fun time, and let’s take a trip down memory lane to look back on what I would consider to be one of the fondest moments in regards to anime and AniTAY.
 
@@ -125,7 +125,7 @@ This season had no shortage of shows - the sheer quantity of this season makes i
 
 [*Grisaia*](https://anitay.kinja.com/grisaia-no-kajitsu-the-anime-you-should-not-be-watchin-1651115065) was an awful adaptation of an [overrated Visual Novel](https://rockmandash12.kinja.com/rockmandash-reviews-grisaia-no-kaijitsu-visual-novel-1724385399), [*Inou Battle*](https://anitay.kinja.com/when-supernatural-battles-became-commonplace-the-ani-t-1675955982) was TRIGGER in name but not in anything else so it wasn’t really a great watch ([but did have this amazing scene](https://www.youtube.com/watch?v=nHd3xfDzTg8)), *Terra Formers* was a dumb show that a suprising amount of the AniTAY community watched. *Danna ga Nani wo Itteiru ka Wakaranai Ken* was a really cute adult romance show. *Gugure! Kokkuri-san* was notable because everyone’s favorite Gugsy had an avatar from that show for ages but is one of those anime that does the same show over and over again. And last but not least for this article, *Yuuki Yuna* was a unique take on the magical girl show that I’ve heard nothing but praise about but nobody really watched it.
 
-Overall, it was a great time to be an anime fan. While there wasn’t many true standouts that would come t dominate the medium fo<!-- --> r years, t<!-- --> here<!-- --> was a huge variety oo<!-- --> f anime available, and many of them were of excellent quality, to the point that some of them can be seen as modern classics. Each season felt strong and every time there was dozens of sh<!-- --> ows worth watching. If I were to look back and think of an ideal anime year, 2014 would definitely be one of them and I would highly recommend you go back and watch some of these great shows.
+Overall, it was a great time to be an anime fan. While there wasn’t many true standouts that would come t dominate the medium fo r years, t here was a huge variety oo f anime available, and many of them were of excellent quality, to the point that some of them can be seen as modern classics. Each season felt strong and every time there was dozens of sh ows worth watching. If I were to look back and think of an ideal anime year, 2014 would definitely be one of them and I would highly recommend you go back and watch some of these great shows.
 
 ***
 

@@ -7,12 +7,12 @@
 }
 ---
 
-[](./wjbprzxmtbfyifzkyvur.mp4)
+<video src="./wjbprzxmtbfyifzkyvur.mp4"></video>
 
 2018 was a year of turmoil for both IRL and in Anime, but there was lots of great stuff to see, especially in regards to Anime. Welcome to The *AniTAY Anime Awards *of 2018, where AniTAY Authors and AniTAY members pick the best of the best Anime of the year!
 
 The AniTAY Anime Awards is a collaborative effort by members in the AniTAY community to decide the best of the best of each year. We always try to put our own spin on these kinds of projects because when we see groups that don’t leverage different opinions, the results can radically differ from what the actual viewer think, and offer little choice. That’s why this Award process was open to the community and the decisions made were fascinating. We ran a poll both internally asking the authors of AniTAY as well as asking all the readers, so we have two sets of results. Here we go!\
-\*PS: The AOTY in this is different than [AniTAY’s Top Anime of 2018](https://anitay.kinja.com/anitays-top-anime-of-2018-part-three-the-top-10-1831788475) posted by Gugsy today<!-- --> , as this is an award for what most people think is AOTY, and Gugsy’s is the show <!-- -->cumulatively liked. It’s been brought to our attention that this can seem rather confusing so next year we’ll match them up.<!-- --> 
+\*PS: The AOTY in this is different than [AniTAY’s Top Anime of 2018](https://anitay.kinja.com/anitays-top-anime-of-2018-part-three-the-top-10-1831788475) posted by Gugsy today , as this is an award for what most people think is AOTY, and Gugsy’s is the show cumulatively liked. It’s been brought to our attention that this can seem rather confusing so next year we’ll match them up. 
 
 ***
 
@@ -30,7 +30,7 @@ Here’s what the authors of AniTAY have to say! We here at AniTAY are an opinio
 
 #### **Author’s Pick for Most Trash Show:* Conception***
 
-[](./fd7n1sbplqhoozvym2pi.mp4)
+<video src="./fd7n1sbplqhoozvym2pi.mp4"></video>
 
 ***
 
@@ -42,7 +42,7 @@ Here’s what the authors of AniTAY have to say! We here at AniTAY are an opinio
 
 #### **Author’s Pick for Best Male Charcter: **Immortal Sugimoto - *Golden Kamuy*
 
-[](./ww0egqy2mxgfcryzn9bd.mp4)
+<video src="./ww0egqy2mxgfcryzn9bd.mp4"></video>
 
 ***
 
@@ -62,7 +62,7 @@ Here’s what the authors of AniTAY have to say! We here at AniTAY are an opinio
 
 #### **Author’s Pick for Best Comedy: *Hinamatsuri***
 
-[](./rzf8fsgat2v0sfa5sxze.mp4)
+<video src="./rzf8fsgat2v0sfa5sxze.mp4"></video>
 
 ***
 
@@ -80,7 +80,7 @@ Here’s what the authors of AniTAY have to say! We here at AniTAY are an opinio
 
 #### **Author’s Pick for Best Action: *Megalo Box***
 
-[](./r9lzwxwtcokdbrvw6csf.mp4)
+<video src="./r9lzwxwtcokdbrvw6csf.mp4"></video>
 
 ***
 
@@ -114,7 +114,9 @@ Now for the Community’s results! The community that reads AniTAY is pretty var
 
 #### **Reader’s Pick for AniTAY Favorites: *Yuru Camp & A Place Further than the Universe***
 
-[](./kvzqvgcmsuaxqpbvjqvd.mp4) ![](./cu8k8b8yqoubzvjhkwom.jpg)
+<video src="./kvzqvgcmsuaxqpbvjqvd.mp4"></video>
+
+![](./cu8k8b8yqoubzvjhkwom.jpg)
 
 ***
 
@@ -126,7 +128,7 @@ Now for the Community’s results! The community that reads AniTAY is pretty var
 
 #### **Reader’s Pick for Best Female Character: Mai Sakurajima - *Rascal Does Not Dream of Bunny Girl Senpai***
 
-[](./ysuzeccwmtojhrhaulpm.mp4)
+<video src="./ysuzeccwmtojhrhaulpm.mp4"></video>
 
 ***
 
@@ -146,13 +148,13 @@ Now for the Community’s results! The community that reads AniTAY is pretty var
 
 #### **Reader’s Pick for Best Slice of Life: *Yuru Camp***
 
-[](./xidqzynvjnfxitbbqops.mp4)
+<video src="./xidqzynvjnfxitbbqops.mp4"></video>
 
 ***
 
 #### **Reader’s Pick for Best Comedy: *Hinamatsuri***
 
-[](./gbbtymy0dixznifes6ln.mp4)
+<video src="./gbbtymy0dixznifes6ln.mp4"></video>
 
 ***
 
@@ -176,7 +178,7 @@ Now for the Community’s results! The community that reads AniTAY is pretty var
 
 #### **Reader’s Pick for Best Animated: *Violet Evergarden***
 
-[](./lx6x4kbddico1tlpipjr.mp4)
+<video src="./lx6x4kbddico1tlpipjr.mp4"></video>
 
 ***
 

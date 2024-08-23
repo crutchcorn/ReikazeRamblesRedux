@@ -21,7 +21,7 @@ Let's get this off the bat: Ufotable's done a brilliant job with the visuals. It
 
 
 
-[](./xdiaydrxwcjh5dos0peg.mp4)
+<video src="./xdiaydrxwcjh5dos0peg.mp4"></video>
 
 The fight scenes are so lightning fast that it blows my mind. They have a high standard of quality when it comes to visuals, and the result is stunning shows that that many studios \_cough\_[DEEN](https://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-unlimited-blade-wo-1504755437)\_cough\_ could only dream of, and I can only admire. It's kinda surreal to see ufotable art with Fate/stay night, but I love it.
 

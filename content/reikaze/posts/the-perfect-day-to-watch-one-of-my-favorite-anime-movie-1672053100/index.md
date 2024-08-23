@@ -13,7 +13,7 @@ It’s Mid-December. There’s nothing special about this time... but there’s 
 
 ***Disclaimer: There are some spoilers in this so if you don’t want to be spoiled, stop reading here. That being said, what makes this great isn’t the actual situation itself, but the way it’s executed so it shouldn’t be a big deal, but i’m putting this warning just in case.***
 
-First of all, The reason why I think it’s great watching now is because the story of this movie starts on the 16th of December, because of this, the time and weather that usually pops up around this time (right before Christmas and cold) gets you perfectly set up for what this movie has to offer, and it’ll make it t<!-- --> hat much more enjoyable. Speaking of what this has to offer....
+First of all, The reason why I think it’s great watching now is because the story of this movie starts on the 16th of December, because of this, the time and weather that usually pops up around this time (right before Christmas and cold) gets you perfectly set up for what this movie has to offer, and it’ll make it t hat much more enjoyable. Speaking of what this has to offer....
 
 ![](./1437033116437582115.png)
 

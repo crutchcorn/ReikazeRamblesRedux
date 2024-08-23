@@ -7,7 +7,7 @@
 }
 ---
 
-[](./1248085435824665261.mp4)
+<video src="./1248085435824665261.mp4"></video>
 
 Even though I write a lot of reviews on anime, there are so many shows I haven’t seen. When Dex put *Hanasaku Iroha *in the Also Recommended section of the end card for our [*Glasslip* review](http://anitay.kinja.com/glasslip-ani-tay-review-and-discussion-1641880502) and I saw how much people liked it in the comments, I thought now would be a good time to check it out. Welcome to Rockmandash Reviews, and today we have a *Hanasaku Iroha*: a great PA Works show written by Mari Okada.
 
@@ -63,7 +63,9 @@ Normally, with Okada stories, I have strong opinions on the stories she writes. 
 
 ### Overall - 9/10, Polarization +.25, -1
 
-![](./k9vncdimctgafjn2g1fu.png) [](./1248085436537259181.mp4)
+![](./k9vncdimctgafjn2g1fu.png)
+
+<video src="./1248085436537259181.mp4"></video>
 
 ***
 

@@ -7,7 +7,7 @@
 }
 ---
 
-[](./v6l86liwvuq1ffofi0eo.mp4)
+<video src="./v6l86liwvuq1ffofi0eo.mp4"></video>
 
 Experiences are ephemeral, as the relentless march of time consistently deteriorates our memories, regardless of the hopes and dreams they may cause. From the memories with loved ones to those of the games and movies we adore, these experiences do not age well, always ending up lesser than when we were in a fonder time. While this can be seen as a tragedy, this inherent element of experiences makes the often rare ability of reliving our memories to fit the modern age all that much sweeter, given how fleeting it is.\
 \

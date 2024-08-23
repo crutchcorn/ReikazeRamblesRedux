@@ -7,7 +7,7 @@
 }
 ---
 
-[](./dnxfqqwnyix1kfc43whh.mp4)
+<video src="./dnxfqqwnyix1kfc43whh.mp4"></video>
 
 It’s that time of year again, where we finish up another season and the reviews keep on pouring out. This spring season was pretty great, so I’m gonna tell you what I think are the best! Welcome to RockmanDash’s Top 5 Anime of Spring 2016.
 

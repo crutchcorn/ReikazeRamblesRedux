@@ -7,7 +7,7 @@
 }
 ---
 
-[](./1313950703162309989.mp4)
+<video src="./1313950703162309989.mp4"></video>
 
 With a tagline of *“If he sees underwear, humanity will be destroyed!?”*, what would you expect? Well, Whatever you are thinking, throw it out of the window: With *Punch Line*, [Kotarou Uchikoshi](http://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798#_ga=1.47325799.1523386611.1417386122) and MAPPA have made something that is totally different than what anyone would expect.
 

@@ -7,7 +7,7 @@
 }
 ---
 
-[](./rqtr7jtxpcc0fneww0yk.mp4)
+<video src="./rqtr7jtxpcc0fneww0yk.mp4"></video>
 
 Another year, another round of anime. 2016 has been a rather eventful year, both IRL and in Anime, but before we get swept in confusion, AniTAY is here to help sort things out (For anime at least). Welcome to The *AniTAY Anime Awards* of 2016, where AniTAY Authors and AniTAY members pick the best of the best Anime of the year!
 
@@ -55,7 +55,7 @@ Here’s what the authors of AniTAY have to say! We here at AniTAY are an opinio
 
 #### Author’s Pick for Best Slice of Life: *Tanaka-Kun*
 
-[](./oqjwl4vgjwsxgl56f5mz.mp4)
+<video src="./oqjwl4vgjwsxgl56f5mz.mp4"></video>
 
 ***
 
@@ -73,7 +73,7 @@ Here’s what the authors of AniTAY have to say! We here at AniTAY are an opinio
 
 #### Author’s Pick for Best Animated: *Mob Psycho 100*
 
-[](./onrgq8z8cnd3niwkv9u3.mp4)
+<video src="./onrgq8z8cnd3niwkv9u3.mp4"></video>
 
 ***
 
@@ -109,7 +109,9 @@ Now for the Community’s results! The community that reads AniTAY is pretty var
 
 #### Reader’s Pick for AniTAY Favorites: *Jojo’s Bizarre Adventure & Flip Flappers*
 
-![](./s38mhcumjbngozkzmysy.jpg) [](./bf2lg3fom4d55ijghfy2.mp4)
+![](./s38mhcumjbngozkzmysy.jpg)
+
+<video src="./bf2lg3fom4d55ijghfy2.mp4"></video>
 
 ***
 

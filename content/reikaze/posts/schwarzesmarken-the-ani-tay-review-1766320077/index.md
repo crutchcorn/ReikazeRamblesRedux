@@ -7,7 +7,7 @@
 }
 ---
 
-[](./cgghbrzjlrzppewibhlw.mp4)
+<video src="./cgghbrzjlrzppewibhlw.mp4"></video>
 
 Set in alternate 1980’s East Germany where BETA (Beings of Extraterrestrial Origin) devastate the Earth, the [*Muv-Luv* ](http://tay.kinja.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967#_ga=1.213102999.247934920.1454126956)spinoff called *Schwarzesmarken* follows the 666th TSF Squadron, also known as the “Black Marks”. This TSF squad that the show takes its name after is no ordinary squad however, as they are the best that East German military has to offer, using tactics that most wouldn’t dare to use. This isn’t a completely good thing however as this puts them in risk of plenty of obstacles, from dealing with foreign powers, authoritarian communist leaders, secret police and of course the BETA themselves. Does *Schwarzesmarken *manage to be the *Muv-Luv *gateway all of the VN fans hoped it was going to be, or does it just end up being purged from the Stazi of our memories? Let’s find out.
 

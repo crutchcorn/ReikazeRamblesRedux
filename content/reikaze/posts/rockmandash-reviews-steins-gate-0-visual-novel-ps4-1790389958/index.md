@@ -7,7 +7,7 @@
 }
 ---
 
-[](./to58nnixwg0kxn3u3dzg.mp4)
+<video src="./to58nnixwg0kxn3u3dzg.mp4"></video>
 
 Succeeding a great work is a tricky business, as works that attempt to do so are bounded by expectations: expectations of greatness, expectations of maintaining the status quo, expectations for doing something different. When you consider that expectations are not static, it becomes easy to see how complicated sequels are, with the rules bounding the works changing drastically given the circumstances of the work.
 

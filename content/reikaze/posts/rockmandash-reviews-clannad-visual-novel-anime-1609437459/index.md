@@ -27,7 +27,7 @@ The writing is amazing. Every step of the way is extremely well done, and is ext
 
 The story follows Okazaki Tomoya, our snarky delinquent protagonist who you can’t help but love. He’s had a distant relationship with his father since they got into a fight and his father injured his shoulder. One day, on his way to school, he runs into a klutzy and weird girl named Nagisa Furukawa, and as the two of them begin hanging out, Tomoya’s life begins to shift in a new direction. If you didn’t know, *Clannad *is a very character driven show with a stellar cast. While many of them are quite trope-y, it’s almost a non-issue due to Key’s charm. Every character has their own respective role which they excel at and because of this, they are very enjoyable. From Sunohara, the greatest butt monkey in existence, to Kyou, one of the best tsunderes you will ever see, we have a cast that’s absolutely brilliant. The characters are awesome, and I hope you will love them as much as I did.
 
-[](./1533533613577624749.mp4)
+<video src="./1533533613577624749.mp4"></video>
 
 Where *Clannad* really shines is when it goes over the personalities, back-stories, and interactions of the characters. *Clannad* is (in?)famous for making you cry, and that reputation is well earned due to it being the best example of the Key formula: Getting to know the characters and developing them in a happy, slice of life manner, then throwing a curve-ball on that situation, leading to tension and emotion, then having a happy resolution. I find that a quote from Tomoya describes this very well:
 
@@ -39,7 +39,7 @@ As you watch the show or play the visual novel, you’ll get attached to the cha
 
 Also, I need to touch up on how great After Story is here. After Story is the second half of Nagisa’s route in the VN and the second season of anime, and it’s just amazing. It reinforces the theme of family like it’s an iron gate, it has so much emotions that it’s ridiculous, it goes through the back stories of Tomoya extremely well, and the best part is... IT’S OUTSIDE OF HIGH SCHOOL! One of the biggest complaints with most romance anime is that they spend the whole show building up to a relationship, and being stuck in high school. *Clannad* has the full relationship; marriage, having a child, etc. and it’s so nice to see all of these points of development with the main characters I love, and to see other characters’s changes due to time. I would love it if every series went this far in a relationship, but of course, that cannot be the case. It’s refreshing, epic, and it helps making the series memorable.
 
-[](./1533533613663284909.mp4)
+<video src="./1533533613663284909.mp4"></video>
 
 Overall, *Clannad* is a great slice of life romance drama thing with excellent character development and an amazing story. It’s a story that is memorable, and is so good that I keep coming back to it.
 
@@ -79,7 +79,9 @@ If you haven’t gotten it yet, I’m a *Clannad* fanboy, and I think it’s ama
 
 ### Overall - 9.5/10, Polarization - 2
 
-![](./1533533614565414061.png) [](./1533533614601750701.mp4)
+![](./1533533614565414061.png)
+
+<video src="./1533533614601750701.mp4"></video>
 
 ***
 

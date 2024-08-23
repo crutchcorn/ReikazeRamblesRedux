@@ -7,7 +7,7 @@
 }
 ---
 
-[](./mxuefl1a5owt73vjkqog.mp4)
+<video src="./mxuefl1a5owt73vjkqog.mp4"></video>
 
 Sometimes life is simply unfair, don’t you think?
 
@@ -21,7 +21,7 @@ Before we start talking about the game however…..
 
 ***
 
-[](./qjotefpnpxoewh5i07gq.mp4)
+<video src="./qjotefpnpxoewh5i07gq.mp4"></video>
 
 This review is written by a fan of the series, for the fans of the series. In this review I want to get into the nitty gritty of what makes this game tick, so this review will contain major spoilers of both *Virtue’s Last Reward *as well as *Zero Time Dilemma. *It will have warnings about these spoilers in case you still want to read/watch this but haven’t played the game yet, but it’s still worth keeping in mind. There are things I want to talk about that require delving into spoilers, so I would like to say sorry for those disappointed by this fact, as well as thanks in advance for those who are sticking around for understanding this.
 

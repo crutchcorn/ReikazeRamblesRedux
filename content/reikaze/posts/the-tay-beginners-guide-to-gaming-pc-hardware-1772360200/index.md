@@ -239,7 +239,7 @@ G/O Media may get a commission
 
 [$](https://www.amazon.com/dp/B016MAK38U?ascsubtag=b8020539c6f39f5010d3894794dcd1792edeaceb\&linkCode=ogi\&psc=1\&smid=AXZ7TDMJNMJSZ\&tag=kinja-20\&th=1)
 
-<!-- -->
+
 
 [35](https://www.amazon.com/dp/B016MAK38U?ascsubtag=b8020539c6f39f5010d3894794dcd1792edeaceb\&linkCode=ogi\&psc=1\&smid=AXZ7TDMJNMJSZ\&tag=kinja-20\&th=1)
 
@@ -253,7 +253,7 @@ G/O Media may get a commission
 
 [$](https://www.amazon.com/dp/B00HZE2PJS?ascsubtag=dba37391fcee0ff739634d7deee63662061df99f\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
-<!-- -->
+
 
 [80](https://www.amazon.com/dp/B00HZE2PJS?ascsubtag=dba37391fcee0ff739634d7deee63662061df99f\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
@@ -283,7 +283,7 @@ G/O Media may get a commission
 
 [$](https://www.amazon.com/dp/B015WKY3FU?ascsubtag=664dfd90898683218847874329c0d961067574d7\&linkCode=ogi\&psc=1\&smid=A1QVAV8LAWE2HY\&tag=kinja-20\&th=1)
 
-<!-- -->
+
 
 [140](https://www.amazon.com/dp/B015WKY3FU?ascsubtag=664dfd90898683218847874329c0d961067574d7\&linkCode=ogi\&psc=1\&smid=A1QVAV8LAWE2HY\&tag=kinja-20\&th=1)
 
@@ -307,7 +307,7 @@ G/O Media may get a commission
 
 [$](https://www.amazon.com/dp/B008DWITHI?ascsubtag=3daceb9d8af99e40a0e57c15565d6cb723f5e2f2\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
-<!-- -->
+
 
 [120](https://www.amazon.com/dp/B008DWITHI?ascsubtag=3daceb9d8af99e40a0e57c15565d6cb723f5e2f2\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
@@ -363,7 +363,7 @@ G/O Media may get a commission
 
 [$](https://www.amazon.com/dp/B007GMPZ0A?ascsubtag=d872a85dc73947d11c516ecb0935e865064d9fdc\&linkCode=ogi\&psc=1\&smid=A24DYA9LEFSGDH\&tag=kinja-20\&th=1)
 
-<!-- -->
+
 
 [140](https://www.amazon.com/dp/B007GMPZ0A?ascsubtag=d872a85dc73947d11c516ecb0935e865064d9fdc\&linkCode=ogi\&psc=1\&smid=A24DYA9LEFSGDH\&tag=kinja-20\&th=1)
 
@@ -377,7 +377,7 @@ G/O Media may get a commission
 
 [$](https://www.amazon.com/dp/B00AWRUICG?ascsubtag=b8c09f291c10e55ab7e17c99536e00229c1a542f\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
-<!-- -->
+
 
 [38](https://www.amazon.com/dp/B00AWRUICG?ascsubtag=b8c09f291c10e55ab7e17c99536e00229c1a542f\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
@@ -391,7 +391,7 @@ G/O Media may get a commission
 
 [$](https://www.amazon.com/dp/B0002JFN4M?ascsubtag=227e3cf5e4a15cd97e3e0cdbdb2c39618a6c6cda\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
-<!-- -->
+
 
 [5](https://www.amazon.com/dp/B0002JFN4M?ascsubtag=227e3cf5e4a15cd97e3e0cdbdb2c39618a6c6cda\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
@@ -430,7 +430,7 @@ G/O Media may get a commission
 
 [$](https://www.amazon.com/dp/B0033Z2BAQ?ascsubtag=2059a1a27f6fe4acb3c118129e6aa69799505555\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
-<!-- -->
+
 
 [20](https://www.amazon.com/dp/B0033Z2BAQ?ascsubtag=2059a1a27f6fe4acb3c118129e6aa69799505555\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
@@ -444,7 +444,7 @@ G/O Media may get a commission
 
 [$](https://www.amazon.com/dp/B00C2AMK2M?ascsubtag=151c1c9ea4bc9839f5b5e4c5adba3a45085fc4ae\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
-<!-- -->
+
 
 [30](https://www.amazon.com/dp/B00C2AMK2M?ascsubtag=151c1c9ea4bc9839f5b5e4c5adba3a45085fc4ae\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
@@ -477,7 +477,7 @@ G/O Media may get a commission
 
 [$](https://www.amazon.com/dp/B0032A0RBC?ascsubtag=e4502273e813ade7363d173655473327f6796f09\&linkCode=ogi\&psc=1\&smid=A26BKZHHS8SI0Z\&tag=kinja-20\&th=1)
 
-<!-- -->
+
 
 [20](https://www.amazon.com/dp/B0032A0RBC?ascsubtag=e4502273e813ade7363d173655473327f6796f09\&linkCode=ogi\&psc=1\&smid=A26BKZHHS8SI0Z\&tag=kinja-20\&th=1)
 

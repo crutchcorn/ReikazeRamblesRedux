@@ -27,7 +27,6 @@ I love my [RPGs](https://tay.kinja.com/ys-memories-of-celceta-the-tay-review-152
 
 A prime example of Nintendo doing what they do best is [Mario Kart 8](https://kotaku.com/mario-kart-8-the-kotaku-review-1576700883). It's on the Wii U, an overpriced, under-powered gamebox that nobody has. I don't even have one yet. I've been reading opinions, reviews and looking at footage for this game though, and it does everything I want in a game that isn't focused on story: Fun gameplay, engaging experiences, great aesthetics, tons of tracks, refined like all hell, a great time with friends, and the list goes on and on. This one quote from an [opinion piece from polygon](http://www.polygon.com/2014/5/15/5720684/mario-kart-8-mobile-iphone-wii-u-nintendo) really hit the spot:
 
-[[](./tg8915uhfkqgdesvi3xt.mp4) ](https://kotaku.com/mario-kart-8-the-kotaku-review-1576700883)
 
 
 

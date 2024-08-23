@@ -37,7 +37,7 @@ The biggest issue for Android/ iOS users is that Visual Novels are programmed li
 
 ### ***Streaming: Splashtop FTW!***
 
-[](./1272816347287232940.mp4)
+<video src="./1272816347287232940.mp4"></video>
 
 **Pros:**
 

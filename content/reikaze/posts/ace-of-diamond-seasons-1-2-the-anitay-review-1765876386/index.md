@@ -7,7 +7,7 @@
 }
 ---
 
-[](./potjf4cj8hq211tic733.mp4)
+<video src="./potjf4cj8hq211tic733.mp4"></video>
 
 Eijun Sawamura is a baseball fan who’s a lefty pitcher, but he’s a bit of an oddball even when talking about lefties: he has a very bizarre moving pitch that’s impossible to catch. Scouted by the powerhouse of a school Seido to play baseball, *Ace of Diamond *follows Eijun and the members of the Seido baseball team as they attempt to go to the nationals, or Koshien. Does *Ace of Diamond* hit it out of the park in it’s attempts to make a fantastic sports anime, or does it strike out?
 

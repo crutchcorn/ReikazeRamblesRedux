@@ -7,7 +7,7 @@
 }
 ---
 
-[](./tuozuhxhrs2y3bo9a9hs.mp4)
+<video src="./tuozuhxhrs2y3bo9a9hs.mp4"></video>
 
 Winter is always one of my favorite seasons of anime. There’s never a lot of shows out during this season, but in every winter we get excellent shows that manage to be the best of the year, shows that make anime worth watching. This season is absolutely no exception, and here’s my list of them: Welcome to Rockmandash’s Top Anime of Winter 2017!
 

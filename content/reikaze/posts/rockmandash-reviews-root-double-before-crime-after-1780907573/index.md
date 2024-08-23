@@ -7,7 +7,7 @@
 }
 ---
 
-[](./y3ltkdd1lm7kjpy4eevu.mp4)
+<video src="./y3ltkdd1lm7kjpy4eevu.mp4"></video>
 
 Trapped inside a facility with impending doom with no clear explanation why, having to escape in a set amount of time... It’s a tried and true premise, but every time a Visual Novel like this gets announced, me and many people get just as excited as the last time we saw it. Maybe it’s the writing, maybe it’s the staff, but it happens every time, and this phenomenon definitely applies to *Root Double - Before Crime After Days*, a Sci-Fi Escape Visual Novel written by Takumi Nakazawa of *Ever 17* fame. Can *Root Double *match the expectations that one of these fans may have, or is it a repeat of Nakazawa’s incomprehensible [*I/O*](http://tay.kinja.com/rockmandash-reviews-i-o-visual-novel-1563212529)? Let’s find out in this review.
 

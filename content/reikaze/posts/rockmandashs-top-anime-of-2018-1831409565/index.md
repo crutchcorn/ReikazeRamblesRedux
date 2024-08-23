@@ -7,7 +7,7 @@
 }
 ---
 
-[](./umxuwi2jxu0veyok2qqj.mp4)
+<video src="./umxuwi2jxu0veyok2qqj.mp4"></video>
 
 There’s so many things that define 2018 for me, but at the end of the year, it’s hard to help but look back at the positives, the best of the best in regard to anime. Here’s my two cents on my favorite anime of the year, my top anime of 2018.
 
@@ -15,7 +15,7 @@ There’s so many things that define 2018 for me, but at the end of the year, it
 
 ## Rules
 
-[](./agiz2alqtfoa2rrjhjw0.mp4)
+<video src="./agiz2alqtfoa2rrjhjw0.mp4"></video>
 
 My rules of this list are simple: if it aired/released this year, it can go on this list. I don’t see the point in only giving a show one chance during it’s airing season, and this is my list so I’ll list my favorite shows regardless of what season it started on. If this means that one show hogs the top spot for 2 seasons, than good for that show! If it’s an OVA or movie that came out during the duration of the season I fell in love with, then it may be there. I think that the seasonal split is arbitrary and unnecessary, so it’s completely gone here. Sorry about that, but that’s how I’m doing it.
 
@@ -65,7 +65,7 @@ This anime is still *Steins;Gate* so the strengths like the enjoyable cast, the 
 
 **Justification and Thoughts: ***A Place Further than the Universe* is an absolutely phenomenal show. The journey we watch as our colorful and cute cast grows throughout their adventure is gripping, entertaining, emotional. *APFttU* is a touching story about friendship, defying odds and finding closure in your life, a truly moving story that’s executed exceedingly well. It’s a story that I enjoyed... but it didn’t really resonate with me, like so many others in this list.
 
-*A Place Further than the Universe* isn’t what I was expecting it to be, more a slice of life drama/cute girls doing cute things show than a true adventure show, an enjoyable watch throughout thanks to it’s quirky cast and entertaining character interactions. With so much charm<!-- --> , i<!-- --> t’s easy to understand why it’s chart topping so many other people’s lists, and it <!-- -->stands a<!-- --> s one of my favorites of the year.
+*A Place Further than the Universe* isn’t what I was expecting it to be, more a slice of life drama/cute girls doing cute things show than a true adventure show, an enjoyable watch throughout thanks to it’s quirky cast and entertaining character interactions. With so much charm , i t’s easy to understand why it’s chart topping so many other people’s lists, and it stands a s one of my favorites of the year.
 
 ***
 
@@ -152,7 +152,7 @@ With his new power, Akira must fight to protect humanity and his loved ones agai
 
 **Plot Summary: **In a not-so-distant future, an exoskeleton-enhanced form of boxing named Megaloboxing has become the most popular sport. Joe, a young fighter, dreams of becoming champion yet is stuck with a deadbeat trainer throwing underground matches for petty cash. Everything changes when he meets Yuri, the Megalonia Champion, and is motivated to find out what it takes to become number one. *- Plot Summary from *[*The 11 Anime of Spring 2018 You Should Be Watching*](https://anitay.kinja.com/the-11-anime-of-spring-2018-you-should-be-watching-1826001138)* article*
 
-**Justification and Thoughts: ***Megalo Box* is a really special anime. I’m a sucker for the 90's action anime that were serious when it comes to style and presentation and this is a show that harkens back to that era. With it’s throwback presentation, thrilling start and easily the best soundtrack this year with it’s adrenaline pumping beats and amazing insert rap songs that I listened through throughout the season<!-- --> , *Megalo Box *will stand easily as one of my favorites. The first few episodes absolutely gripped me, and the show never really let go<!-- --> . It’s a fantastic and thoroughly enjoyable ride as a show with engaging characters, and amazing fights, standing as one of the best of the year.
+**Justification and Thoughts: ***Megalo Box* is a really special anime. I’m a sucker for the 90's action anime that were serious when it comes to style and presentation and this is a show that harkens back to that era. With it’s throwback presentation, thrilling start and easily the best soundtrack this year with it’s adrenaline pumping beats and amazing insert rap songs that I listened through throughout the season , *Megalo Box *will stand easily as one of my favorites. The first few episodes absolutely gripped me, and the show never really let go . It’s a fantastic and thoroughly enjoyable ride as a show with engaging characters, and amazing fights, standing as one of the best of the year.
 
 ***
 

@@ -7,7 +7,7 @@
 }
 ---
 
-[](./mzhfcaao2cheptsdshig.mp4)
+<video src="./mzhfcaao2cheptsdshig.mp4"></video>
 
 With *YU-NO: A Girl Who Chants Love at the Bound of this World*, a classic Visual Novel getting a remake and anime adaptation, many people are now being exposed to the work for the first time. On first impression, however, *YU-NO* can be seen as nothing more than an old Visual Novel, with a decent majority of players also outright dismissing it because they think it’s either generic or dated, which really is a shame. Today on RockmanDash Rambles, I’d like to spend some time to talk about *YU-NO* in the hopes of letting people know about this gem of a work. *YU-NO* is not just yet another tried-and-true Visual Novel; from its engaging story to its unique presentation and defining place in the Visual Novel industry to its special place in my heart, *YU-NO* does a lot, and there’s a lot to talk about it.
 
@@ -35,7 +35,7 @@ You might expect *YU-NO* to be a really slow read given it’s 90’s Sci-Fi VN 
 
 Of course there are elements that haven’t aged well, as you can feel the 90s eroge influence through in two real elements: 1) the characters feel extremely dated by modern standards and 2) the amount of sexually suggestive scenes or just downright sex scenes in the original Visual Novel. For the first point, while the cast might have been interesting or influential back then, by modern standards the cast has such by-the-book, tried-and-true personalities that they aren’t all that interesting. You can basically categorize characters like tsundere, lackey, teacher, bad guy, etc. and with those categorizations themselves you basically know everything you need to know about most characters. This makes a lot of the game less interesting, but the engaging banter and dialogue makes this far less of an issue than you’d expect. Also given many of the cast are actual adults instead of teens, the more by-the-book and less unique nature of the cast is less of an issue, simply because it’s rare in the first place to have engaging adults in an anime story. There’s also a lot of intriguing character moments, meaningfully integrated with exciting elements in the story. So, while the cast isn’t all that interesting or unique, it is a very likable cast that is engaging and does its job.
 
-[](./tagvrovzn9djm9ikpdum.mp4)
+<video src="./tagvrovzn9djm9ikpdum.mp4"></video>
 
 As for the sexual elements of the game, both suggestive and sex scenes pop up far too frequently, which is incredibly distracting given *YU-NO*’s plot-focused nature. Every now and then it can get a smile out of you (like this gif) but for the most part it doesn’t make the game better, and I definitely wish there was less of it. A lot of it can just feel like sexual harassment and it’s pretty awkward to go through. In regards to the explicit sex scenes that can be immersion-breaking, at least this will not be an issue with the remake or anime given they are completely absent in those versions, but they remain a potential deal-breaker for for the original, not because of the content itself but how it’s handled. I am genuinely not a fan and it’s my least favorite part of the original release, but I get it if you like it.
 
@@ -65,7 +65,7 @@ Like every great work with a stellar soundtrack, Ryu Umemoto, the composer of* Y
 
 ### Side Note: The Anime Adaptation of *YU-NO*
 
-**Disclaimer **- Now that the anime is over, this part of the article<!-- --> I don’t agree with, and wouldn’t recommend<!-- --> watching the anime. If you’re interested in my thoughts at the time feel free to read but I’m planning on writing a comparison article in the future.
+**Disclaimer **- Now that the anime is over, this part of the article I don’t agree with, and wouldn’t recommend watching the anime. If you’re interested in my thoughts at the time feel free to read but I’m planning on writing a comparison article in the future.
 
 I’m going to start this section off by saying that I think the anime’s pretty good, but even so I’d recommend the Visual Novel for reasons I’ll explore in this section. As of episode 11, the anime’s finished 2 routes and both of them have handled the story excellently. The anime’s done* Higurashi* style, repeating in a loop with every few episodes going with one route, and at the rate we’re going, 24 seems to be plenty. The visuals, music, presentation, and story are all executed really well and I’m sure if you’re an anime-only viewer you’ll get a good experience with the show. It’s a really pleasing watch week by week, the pacing is on point, the story elements are represented in a way that is engaging and interesting, etc. Sure, there’s cut content, things needed to be streamlined to fit this epic of a work, but most of the things that have been cut is non-essential - item management, backtracking and things like that are gone and that doesn’t hinder the story experience at all. Given that you don’t have to faff about with figuring out where to go and item management, the anime streamlines the story for a lot of people, and is the much more accessible and engaging version for people. If you were to ask me, what’s really important for an adaptation is to convey the essence of a work, so the viewer can an experience that matches or beats the original source, and *YU-NO* does that.
 

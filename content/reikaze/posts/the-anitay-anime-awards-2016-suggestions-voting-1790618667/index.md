@@ -23,7 +23,7 @@ Anyways, enough about the Awards, you’re here to see what we think: Here are t
 
 ## Anime of the Year
 
-[](./kimbbtm2pcggwob3jorq.mp4)
+<video src="./kimbbtm2pcggwob3jorq.mp4"></video>
 
 Here’s the category you’re all here for: Anime of the Year. There’s been a lot of great shows this year, but here’s the best. From Comedy to Fantasy to Drama, these are the shows we were immersed in, made us laugh or cry, and made us fall in love: The Best Anime of 2016.
 
@@ -44,7 +44,7 @@ Here’s the category you’re all here for: Anime of the Year. There’s been a
 
 ## Hidden Gems (Under 60k)
 
-[](./jqslzqzwxiosf4reknya.mp4)
+<video src="./jqslzqzwxiosf4reknya.mp4"></video>
 
 Shows that unfortunately flew under the radar and didn’t get the attention they deserved. While the seasonal favorites were making waves, these obscure shows were glimmering treasures waiting to be discovered. The number of viewers (going by MAL) was way below 60,000—and sometimes not even half of that. These are the hidden gems of 2016.
 
@@ -87,7 +87,7 @@ Shows that unfortunately flew under the radar and didn’t get the attention the
 
 ## Best Animated
 
-[](./jb4gginmkrben9appmq7.mp4)
+<video src="./jb4gginmkrben9appmq7.mp4"></video>
 
 What do you watch anime for? Maybe great story, great music, or something else, but many watch shows for visuals, shows that look stunning at every moment. These are the shows that had the most fluid animation, looked amazing or more: The best Animated shows of 2016.
 
@@ -110,7 +110,7 @@ What do you watch anime for? Maybe great story, great music, or something else, 
 
 ## Best Action
 
-[](./zbswsqgjujk7sb3om4dd.mp4)
+<video src="./zbswsqgjujk7sb3om4dd.mp4"></video>
 
 *Action*! These are the shows that get your blood pumping, and your adrenalin skyrocketing. Animation that excel in the fast, the frenetic, the flashy and the weighty. Shows that make you feel every punch, soar every flight, and leaves you breatheless with every exertion. To those shows whose kineticism is made tangible, we honor with our “Best Action” Award.
 
@@ -132,7 +132,7 @@ What do you watch anime for? Maybe great story, great music, or something else, 
 
 ## Best Comedy
 
-[](./gzahxl3mthgc7bsgoomk.mp4)
+<video src="./gzahxl3mthgc7bsgoomk.mp4"></video>
 
 Some shows try to make you fall in love with a story, others try to wow you with spectacle. Others, like the shows here, try to put a smile on your face, to get you laughing out loud: These are the best comedies of 2016!
 
@@ -161,7 +161,7 @@ Some shows try to make you fall in love with a story, others try to wow you with
 
 ## Best Romance
 
-[](./gwknvvj9nqq05uhxzfda.mp4)
+<video src="./gwknvvj9nqq05uhxzfda.mp4"></video>
 
 Romance shows: The shows that get our hearts stirring, those that get us thinking in love dodecahedrons and more. These are the shows we loved to love, the Best Romance shows of 2016.
 
@@ -182,7 +182,7 @@ Romance shows: The shows that get our hearts stirring, those that get us thinkin
 
 ## Best Slice-of-Life
 
-[](./fe4vqfdrfhpibtqlwp0p.mp4)
+<video src="./fe4vqfdrfhpibtqlwp0p.mp4"></video>
 
 Sometimes it’s the simple things in life that are the sweetest, most touching, most profound, or simply the most enjoyable. This award celebrates those shows that don’t need big overarching plots or extraordinary events to keep us interested, but instead invests us in wanting to experience the small slices of ordinary daily life that their characters go through. These are your Best Slice-of-Life Anime for 2016:
 
@@ -202,7 +202,7 @@ Sometimes it’s the simple things in life that are the sweetest, most touching,
 
 ## Best Sports Anime
 
-[](./k8lr4hjofcciebz3xqrt.mp4)
+<video src="./k8lr4hjofcciebz3xqrt.mp4"></video>
 
 While many people don’t watch sports anime due to fears of them being like animated lets plays or something like that, those who watch these know what those people are missing out. These are some of the best shows of the year, shows about teamwork, shows with amazing stories about the people who make the cast up, some of the best animation of the year, etc: these are the best sports anime of the year.
 
@@ -335,7 +335,7 @@ The bold, the brash, the rejected, and the moe- 2016 brought plenty of endearing
 
 ## AniTAY Favorites(?)
 
-[](./dliz934mi0i5llsx2qdi.mp4)
+<video src="./dliz934mi0i5llsx2qdi.mp4"></video>
 
 Last but not Least, AniTAY Favorites! This is one we included to spice things up, to make this list truly our own. These are shows that AniTAY was fixated on, either loved or discussed about for days on end. Take a look at what makes AniTAY, AniTAY!
 

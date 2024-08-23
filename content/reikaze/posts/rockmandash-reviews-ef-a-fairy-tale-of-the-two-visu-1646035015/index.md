@@ -7,7 +7,7 @@
 }
 ---
 
-[](./1387775007850698161.mp4)
+<video src="./1387775007850698161.mp4"></video>
 
 When I first saw *ef - a fairy tale of the two*, I was blown away by how beautiful it was, how stunning it is. The game had the visuals of a [Makoto Shinkai](http://tay.kotaku.com/the-garden-of-words-the-ani-tay-review-1524606376) film, and I heard almost nothing but praise regarding the story of it, but impressions rarely tell you what your experience will be. Welcome to Rockmandash Reviews, and today, we have a review of what is one of the most beautiful games I’ve had the chance to experience: *ef - a fairy tale of the two, *developed by Minori, which is a VN spinoff of Makoto Shinkai’s animation studio CoMixWave.
 
@@ -69,7 +69,7 @@ Chapter 7 serves to wrap the story up, but it felt very anticlimactic in general
 
 ***
 
-[](./1387775009015843249.mp4)
+<video src="./1387775009015843249.mp4"></video>
 
 I’m the type of person who prefers a good design over technological prowess. As such, I’ll say this: This is one of the most beautiful Visual Novels (and one of the most beautiful games) I’ve ever seen, even though it is dated in some technological aspects. Due to the stunning art style,* ef - a fairy tale of the two *has aged gracefully, impressing me nearly a decade after it’s release.
 
@@ -125,7 +125,7 @@ Throughout *ef*, my anticipation rose for something that would eventually crash,
 
 ***
 
-[](./1387775009648505521.mp4)
+<video src="./1387775009648505521.mp4"></video>
 
 When I wrapped up the VN and heard that there was a 2 season anime adaptation of *ef - a fairy tale of two* known as *ef - a tale of memories*, and *ef - a tale of melodies* (respectively), I was nervous to watch it. Partly because I didn’t want to go back into that phase of being a nervous wreck, but also because the people doing the adaptation: [Studio Shaft with Akiyuki Shinbo as the director](http://anitay.kinja.com/mekakucity-actors-rockmandashs-ani-tay-review-1594049265). Those fears were unnecessary though; the anime is executed very well.
 
@@ -161,7 +161,9 @@ Keep in mind that this is my opinion, and this is one where I’m a minority. It
 
 ## Overall - 7.5/10, Polarization +2,-1
 
-![](./1387775012157618609.png) [](./1387775012193587889.mp4)
+![](./1387775012157618609.png)
+
+<video src="./1387775012193587889.mp4"></video>
 
 ***
 

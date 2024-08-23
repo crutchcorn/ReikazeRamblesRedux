@@ -1,6 +1,6 @@
 ---
 {
-	title: "Why You Should Fund Under The Dog , and What this Kickstarter Represents",
+	title: "Why You Should Fund Under The Dog, and What this Kickstarter Represents",
 	published: "2014-08-26T16:00:00-04:00",
 	tags: ["Rockmandash Rambles", "Under The Dog", "Kickstarter", "Fund it! NOW! Seinen", "Action", "Oppinion", "Future", "Industry"],
 	kinjaArticle: true

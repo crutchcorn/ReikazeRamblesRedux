@@ -7,7 +7,7 @@
 }
 ---
 
-[](./ajfimkceuftdczlw2rzq.mp4)
+<video src="./ajfimkceuftdczlw2rzq.mp4"></video>
 
 After a couple of fantastic seasons, it was about time for some readjustment, right? The Summer 2016 season just ended, and like always, I’ve compiled a list of what I think are the best. Welcome to Rockmandash’s Top Anime of Summer 2016!
 

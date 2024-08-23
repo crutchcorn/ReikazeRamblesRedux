@@ -7,7 +7,7 @@
 }
 ---
 
-[](./tmky74yt3onpoiadf8eo.mp4)
+<video src="./tmky74yt3onpoiadf8eo.mp4"></video>
 
 2016\. Just hearing this number brings memories of pain and suffering, a result of the terrible year that it represents. Thankfully for us anime fans though, we didn’t see this trend continue with the hobby we love: 2016 was a great year for anime, blowing us away with amazing experiences, wonderful experiments and more. Here’s what I thought were the best this year.
 

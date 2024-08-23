@@ -111,7 +111,6 @@ Because Shinichi was able to prevent Migi from traveling further up into his bra
 
 **Justification & Thoughts: **I'm typically not a big fan of short anime, but this comedy anime convinced me otherwise... It's one of the best comedies out there, and one of the best short anime out there. It's hilarious, well rounded, brilliantly paced, has a great concept, and an amazing vocal performance by Kana Hanazawa really makes this show great. Really, for what it is, it's damn near perfect, and I couldn't ask for more. It's a great comedy, and I urge everyone to watch it... you'll be hooked, just like I was. For more thoughts, check out the above mentioned review by Koda89, or [Richard's review](https://kotaku.com/if-you-were-ever-bored-in-class-watch-tonari-no-seki-k-1583643416).
 
-[[](./acemgfj6ysqddhotwaef.mp4) ](https://kotaku.com/if-you-were-ever-bored-in-class-watch-tonari-no-seki-k-1583643416)
 
 
 
@@ -161,7 +160,6 @@ If you want more thoughts, check out Richard's review of [Knights of Sidonia](ht
 
 **Justification & Thoughts: **One of the best comedies you will ever see, and I loved every bit of it. It's a well executed subversion and lampshading of the Shoujo manga genre, focused on being an entertaining comedy with every time spent making you laugh. I loved it, and it's one of the most entertaining shows I've watched out there. If you want more of my thoughts, check out [my review](http://anitay.kinja.com/gekkan-shoujo-nozaki-kun-rockmandashs-ani-tay-review-1634657276), and [Richard's review](https://kotaku.com/anime-hilariously-explores-what-makes-something-romant-1648772997).
 
-[[](./ion6wdppb9q2swogknjv.mp4) ](https://kotaku.com/anime-hilariously-explores-what-makes-something-romant-1648772997)
 
 
 

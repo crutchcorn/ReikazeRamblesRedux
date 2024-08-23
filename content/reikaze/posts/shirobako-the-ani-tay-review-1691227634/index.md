@@ -25,7 +25,7 @@ While *Shirobako* is primarily an anime about anime, don't start it with the ass
 
 #### Entertaining Characters
 
-[](./fkaazcthqjkbmr6woxep.mp4)
+<video src="./fkaazcthqjkbmr6woxep.mp4"></video>
 
 On that vein, we might as well talk about the characters, which are surprisingly well rounded and really enjoyable (with one person being pretty controversial in that aspect, but i'll talk about that later). This show doesn't really attach you to the characters like [*Nagi no Asukara*](http://tay.kotaku.com/rockmandash-reviews-nagi-no-asukara-anime-1567969970?rev=1427559451166)* *or [*Hanasaku Iroha*](http://rockmandash12.kinja.com/rockmandash-reviews-hanasaku-iroha-anime-1642709329) which spends its whole time developing the characters, but that's almost a given because of the vast differences that these shows have set out to do, and the amazing interactions and representation of people very much make up for it. There's a character for everything in this show, from the jaded optimistic to that one guy who always ruins things, and they aren't just cookie cutter characters as every character is designed in a way that was quite memorable, adding to the charm and entertainment to the show. One character absolutely takes the cake in that aspect here though, and that was the absolutely adorable Kunogi who you couldn't keep your eyes off of whenever she was on screen… really impressive. It was really great to see how the characters interacted and grew: From the artists to the 3D CGI people to the people in the production, everyone involved is growing, changing, and watching this was great, while the interactions made up most of the entertainment value of the show.
 
@@ -55,7 +55,7 @@ A lot of people were turned off by this show originally because it started off r
 
 #### Rated N: Not for Everyone
 
-[](./wqm3qggifjnamhel2fzj.mp4)
+<video src="./wqm3qggifjnamhel2fzj.mp4"></video>
 
 I love *Shirobako*, but as enjoyable it can be for someone like me, this is a show that is definitely not for everyone. From the primarily slice of life working scenario to pretty large amount of jargon this show throws at you, *Shirobako* is a show that is for those that are interested in anime, and those that like slice of life shows, but not really anybody else. It's one of those shows where a single sentence tells you everything about it, and if you dislike that sentence, too bad, so sad. It's an anime about making anime, with all of the pros and cons that come with that. Your mileage may vary depending on how much interest you have in the medium, and how much you care about character development in comparison to a strong narrative.
 
