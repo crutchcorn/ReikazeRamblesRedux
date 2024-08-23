@@ -7,7 +7,7 @@
 }
 ---
 
-**Refreshing (adj.): **pleasingly different and exciting. To me, this is the word that best describes my viewing of Canaan. I came into this show with little expectations: I knew it was a spinoff of a great VN known as 428: In a Blockaded Shibuya done by Type-Moon, and it seemed to be my cup of tea, but it got pretty poor reviews. Welcome to Rockmandash Reviews and Today we have my thoughts on the anime, Canaan.
+**Refreshing (adj.):** pleasingly different and exciting. To me, this is the word that best describes my viewing of Canaan. I came into this show with little expectations: I knew it was a spinoff of a great VN known as 428: In a Blockaded Shibuya done by Type-Moon, and it seemed to be my cup of tea, but it got pretty poor reviews. Welcome to Rockmandash Reviews and Today we have my thoughts on the anime, Canaan.
 
 ![](./1248091305694184366.png)![](./1248091305772292782.png)
 
@@ -21,7 +21,7 @@ Most of the show is your typical action with a slower pace than you would expect
 
 ![](./1248091305858301358.jpg)
 
-At least the time spent on the characters themselves was worth it: pretty much every character in this show is awesome and enjoyable. The most important and well developed character is Canaan, and she’s pretty similar to [Shiki Ryougi](http://tay.kotaku.com/rockmandash-reviews-kara-no-kyoukai-the-garden-of-si-1524615358), but she’s also pretty much what I wished from Kiritsugu; one with a horrible past and obvious trauma, but has a personality and is just interesting. What Canaan pulls of though... is **EVERY **character has some depth and charm because of the small cast. A great example is the taxi driver: he appears whenever the characters need a ride, and his reckless driving and eccentric personality keep you smiling whenever he’s on screen. If I had one complaint, it would be the main character, Maria.
+At least the time spent on the characters themselves was worth it: pretty much every character in this show is awesome and enjoyable. The most important and well developed character is Canaan, and she’s pretty similar to [Shiki Ryougi](http://tay.kotaku.com/rockmandash-reviews-kara-no-kyoukai-the-garden-of-si-1524615358), but she’s also pretty much what I wished from Kiritsugu; one with a horrible past and obvious trauma, but has a personality and is just interesting. What Canaan pulls of though... is **EVERY** character has some depth and charm because of the small cast. A great example is the taxi driver: he appears whenever the characters need a ride, and his reckless driving and eccentric personality keep you smiling whenever he’s on screen. If I had one complaint, it would be the main character, Maria.
 
 ue to this being an action show, with Type-Moon writing, this show can get into darker tones, where characters like Canaan shine. It’s really well done, but whenever Maria appears, there’s a [mood whiplash](http://tvtropes.org/pmwiki/pmwiki.php/Main/MoodWhiplash) due to her always innocent and happy personality, and it can make scenes just less enjoyable. Unlike the Fate/stay night VN which manages to keep mood whiplash from being too big of an issue, in Canaan, it’s a big issue because it changes on a dime at unexpected times, unlike F/SN. One moment it can be a happy go lucky scene, but the next 2o minutes can be extremely dark, and this can hamper your enjoyment of a show.
 
