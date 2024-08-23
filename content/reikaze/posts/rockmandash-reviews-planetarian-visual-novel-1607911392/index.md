@@ -23,13 +23,13 @@ I just love the characters, especially Yumemi, as her cute innocence and focus o
 
 Last but not least, the story ends with a bang. when that ending hits, you will feel it. It will make you think, cry, appreciate, and smile, the full gamut of emotions felt through this game and the way they do it just blows my mind. It shows the strength of the Key formula; making you cry buckets in such a short period of time, and what a great period of time it is.
 
-*Planetarian *is a great example of what a short VN should be like and it's one that will touch your heart. It's enjoyable throughout, and it's a story that uses what it has effectively to move players in ways they wouldn't expect. It's just well written, and I really enjoyed it.
+*Planetarian* is a great example of what a short VN should be like and it's one that will touch your heart. It's enjoyable throughout, and it's a story that uses what it has effectively to move players in ways they wouldn't expect. It's just well written, and I really enjoyed it.
 
 #### **Writing - 9/10**
 
 ![](./823349130080591140.png) ![](./823349130307764004.jpg)
 
-Considering that it's 10 years old, and it's a short game,* Planetarian *is absolutely beautiful. It's really simple visually, with Yumemi being the only character with art, and it doesn't actually show much, but what they do show is great and the whole aesthetic of the game is really nice. I just love the look of Yumeni, as they put a lot of attention to her, making her look amazing and the game just looks great overall. The only real issues I have with the art is that I wish they had a bit more art to show everything, and I wish most of the art was full screen as most of the art was in a small window, but those are small nitpicks for a pretty good looking game.
+Considering that it's 10 years old, and it's a short game, *Planetarian* is absolutely beautiful. It's really simple visually, with Yumemi being the only character with art, and it doesn't actually show much, but what they do show is great and the whole aesthetic of the game is really nice. I just love the look of Yumeni, as they put a lot of attention to her, making her look amazing and the game just looks great overall. The only real issues I have with the art is that I wish they had a bit more art to show everything, and I wish most of the art was full screen as most of the art was in a small window, but those are small nitpicks for a pretty good looking game.
 
 #### Visuals - 8.5/10
 
@@ -51,7 +51,7 @@ Planetarian is a charming Visual Novel that proves how well Key can write. It's 
 
 **Copyright Disclaimer:** Under Title 17, Section 107 of United States Copyright law, reviews are protected under fair use. This is a review, and as such, all media used in this review is used for the sole purpose of review and commentary under the terms of fair use. All footage, music and images belong to the respective companies.
 
-*You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*, and the rest of my *[*Key Marathon*](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)[* Here*](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)*. For An explanation of my review system, *[*check this out*](http://tay.kotaku.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
+*You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*, and the rest of my *[*Key Marathon Here*](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)*. For An explanation of my review system, *[*check this out*](http://tay.kotaku.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
 
 
