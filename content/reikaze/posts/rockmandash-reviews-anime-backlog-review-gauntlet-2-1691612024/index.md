@@ -1,6 +1,6 @@
 ---
 {
-	title: "​Rockmandash Reviews: Anime Backlog Review Gauntlet #2",
+	title: "Rockmandash Reviews: Anime Backlog Review Gauntlet #2",
 	published: "2015-03-23T02:30:00-04:00",
 	tags: ["Rockmandash Reviews", "Anime Backlog Review Gauntlet", "Backlog", "AniTAY"],
 	kinjaArticle: true

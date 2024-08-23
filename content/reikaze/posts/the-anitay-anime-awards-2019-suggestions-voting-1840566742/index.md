@@ -383,7 +383,7 @@ Black Clover - “against all gods” by m-flo
 
 Mob Psycho 100 II - “Ikiru Hitobito” by sajou no hana
 
-Kaguya-Sama - “Chikatto Chika Chika”​ by Chika Fujiwara
+Kaguya-Sama - “Chikatto Chika Chika” by Chika Fujiwara
 
 Carole & Tuesday - “Hold Me Now” by Carole & Tuesday (Nai Br.XX & Celeina Ann)
 

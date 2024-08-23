@@ -1,6 +1,6 @@
 ---
 {
-	title: "​AniTAY PSA: Review Card Etiquette",
+	title: "AniTAY PSA: Review Card Etiquette",
 	published: "2015-03-21T01:18:00-04:00",
 	tags: ["PSA", "AniTAY", "Assets"],
 	kinjaArticle: true

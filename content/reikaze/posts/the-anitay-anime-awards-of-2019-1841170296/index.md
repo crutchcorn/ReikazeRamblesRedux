@@ -45,7 +45,7 @@ Let’s start with the Community’s results! This is the consensus reached by a
 
 ***
 
-### Reader’s Pick for Best ED:* Kaguya-sama: Love Is War* - “Chikatto Chika Chika”​ by Chika Fujiwara
+### Reader’s Pick for Best ED:* Kaguya-sama: Love Is War* - “Chikatto Chika Chika” by Chika Fujiwara
 
 ***
 
@@ -137,7 +137,7 @@ Here’s what the Authors of AniTAY decided! We here at AniTAY are an opinionate
 
 ***
 
-### Author’s Pick for Best ED: *Kaguya-sama: Love Is War* - “Chikatto Chika Chika”​ by Chika Fujiwara
+### Author’s Pick for Best ED: *Kaguya-sama: Love Is War* - “Chikatto Chika Chika” by Chika Fujiwara
 
 ***
 

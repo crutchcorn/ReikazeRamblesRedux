@@ -95,7 +95,7 @@ Here’s what the authors of AniTAY have to say! We here at AniTAY are an opinio
 
 ***
 
-#### Author’s Pick for Anime Of The Year: *Shōwa​ ​Genroku​ ​Rakugo​ ​Shinjū*
+#### Author’s Pick for Anime Of The Year: *Shōwa Genroku Rakugo Shinjū*
 
 ![](./htiexml9af8nieay14b9.png)
 

@@ -9,7 +9,7 @@
 
 [](./1513818381270733093.mp4)
 
-How do you deal with lingering feelings, dripping into your soul like poison? Do you face them, or in your attempt to swim, do you sink? *Sound of Drop - fall into poison *is a mystery horror VN that deals with such themes, and* *does it’s best to make a great experience... but is it enough?
+How do you deal with lingering feelings, dripping into your soul like poison? Do you face them, or in your attempt to swim, do you sink? *Sound of Drop - fall into poison* is a mystery horror VN that deals with such themes, and does it’s best to make a great experience... but is it enough?
 
 Even though it’s being overshadowed by other VN releases, I’d say so, as it’s pretty good.
 
@@ -21,7 +21,7 @@ The premise is rather strong: In the beautiful Manten Aquarium, there lies somet
 
 ![](./1513818381479632677.jpg)
 
-And it does this insanity well, as it is a horror game, after all. While the horror is usually your typical the jump scare affair, isn’t really that bad for the most part and can be genuinely effective at times (but it’s no [*Corpse*](http://anitay.kinja.com/project-hydra-attends-a-corpse-party-for-tortured-souls-1668527219/all#_ga=1.9428919.389453316.1446074032)* *[*Party*](http://www.kotaku.com.au/2012/01/reader-review-corpse-party/)* or *[*Kara no*](http://kotaku.com/kara-no-shojo-the-kotaku-review-1486926848)* *[*Shoujo*](http://kotaku.com/kara-no-shojo-the-second-episode-the-kotaku-review-1740205675)*). *The scenes are effectively written to create a sense of tension and really make the tone and atmosphere of this game work pretty well due to the great handling of tension and the horror of the world making the story moving and engaging.
+And it does this insanity well, as it is a horror game, after all. While the horror is usually your typical the jump scare affair, isn’t really that bad for the most part and can be genuinely effective at times (but it’s no [*Corpse*](http://anitay.kinja.com/project-hydra-attends-a-corpse-party-for-tortured-souls-1668527219/all#_ga=1.9428919.389453316.1446074032) *[*Party*](http://www.kotaku.com.au/2012/01/reader-review-corpse-party/)* or *[*Kara no*](http://kotaku.com/kara-no-shojo-the-kotaku-review-1486926848)* *[*Shoujo*](http://kotaku.com/kara-no-shojo-the-second-episode-the-kotaku-review-1740205675)*). The scenes are effectively written to create a sense of tension and really make the tone and atmosphere of this game work pretty well due to the great handling of tension and the horror of the world making the story moving and engaging.
 
 Also, the reactions from the characters along with the insanity that comes with being in a twisted environment are great. The characters in general are pretty good too: while some (like the MC) can come off as flat at times, most of them get some really great development and are fleshed out to the point you can get rather attached to them and that they’re the high point of the story.
 
@@ -43,7 +43,7 @@ So, even though while this story is an absolute mess in structure, *Sound of Dro
 
 ![](./1513818381613081637.png) ![](./1513818381685120805.jpg)
 
-When I read that the developers of this game aiueoKompany were indie, I was honestly surprised by that given the quality of the game and the visuals. *Sound of Drop *looks absolutely fantastic for an indie VN, and pretty much every aspect of it shines here: it has great backgrounds and absolutely beautiful artwork overall, detailed character art, CG that is varied and really adds to the experience, nice UI elements, a well done font, and the game is always a treat for the eyes. The best part about the visuals have to be how consistent and cohesive they are, helping to create an amazing atmosphere that really gets you sucked into the game. Really though, nothing but praise for the visuals of the game though, as it was done very well.
+When I read that the developers of this game aiueoKompany were indie, I was honestly surprised by that given the quality of the game and the visuals. *Sound of Drop* looks absolutely fantastic for an indie VN, and pretty much every aspect of it shines here: it has great backgrounds and absolutely beautiful artwork overall, detailed character art, CG that is varied and really adds to the experience, nice UI elements, a well done font, and the game is always a treat for the eyes. The best part about the visuals have to be how consistent and cohesive they are, helping to create an amazing atmosphere that really gets you sucked into the game. Really though, nothing but praise for the visuals of the game though, as it was done very well.
 
 One odd thing I want to mention though is that unlike most VNs which is completely first person, this game actually shows the main character in the frame. It’s not a necessarily bad, just a bit weird because a lot of VNs avoid that and only show the main character in special occasions or to use it as a plot point.
 
@@ -63,7 +63,7 @@ It also does a lot of the little things right to keep the player enjoying the wo
 
 ![](./1513818382734064933.jpg)
 
-*How can you say no to this adorable Bad End screen? *I love the bad end screens in this game, as it makes running into bad ends satisfying at times even though the act of doing so can be rather frustrating. There’s a lot of small things like this keep the game enjoyable, and all of this helps to make the experience great.
+*How can you say no to this adorable Bad End screen?* I love the bad end screens in this game, as it makes running into bad ends satisfying at times even though the act of doing so can be rather frustrating. There’s a lot of small things like this keep the game enjoyable, and all of this helps to make the experience great.
 
 Also, the changes with NG+ were absolutely amazing, being touching, tense, engaging and made for a great experience. Just for that I’d recommend the game as it makes the experience worthwhile.
 
@@ -71,7 +71,7 @@ Also, the changes with NG+ were absolutely amazing, being touching, tense, engag
 
 ![](./1513818382897762085.png)
 
-*Sound of Drop - fall into poison *is a flawed game that has traits that are normally game breakers, but manages to do other things like having a great sense of tension in it’s atmosphere to keep it an engaging and enjoyable experience. Even with it’s flaws though, I wholeheartedly recommend it to anyone as it’s a horror game that’s moving and engaging, one that is definitely worthwhile to play and doesn’t deserve being overshadowed by others like it is.
+*Sound of Drop - fall into poison* is a flawed game that has traits that are normally game breakers, but manages to do other things like having a great sense of tension in it’s atmosphere to keep it an engaging and enjoyable experience. Even with it’s flaws though, I wholeheartedly recommend it to anyone as it’s a horror game that’s moving and engaging, one that is definitely worthwhile to play and doesn’t deserve being overshadowed by others like it is.
 
 ### Overall - 8/10, Polarization +.5, -1
 
