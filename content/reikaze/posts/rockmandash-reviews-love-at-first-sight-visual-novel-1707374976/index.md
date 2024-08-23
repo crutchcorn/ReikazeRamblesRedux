@@ -11,7 +11,8 @@
 
 I didn’t really know what to expect when I first saw *Love at First Sight*: a nice, short kinetic novel published by Sekai project. It’s exactly what it says on the tin, but with a twist: it’s a love story about a guy who falls in love with a girl at first sight, it just happens that the girl that our MC falls in love with happens to be a cyclops! What??? While I appreciated the pun in the title, that appreciation doesn’t mean I fell in love with it at first sight, or really the rest of the game in general.
 
-***Note:**** This game was reviewed with a review key from *[*FuwaReviews*](http://reviews.fuwanovel.net/)*, a project from the *[*Fuwanovel*](http://fuwanovel.net/)* VN community to make a centralized VN reviewing hub. This did not change the content of the review in any way.*
+> **Note:**
+> This game was reviewed with a review key from *[*FuwaReviews*](http://reviews.fuwanovel.net/)*, a project from the *[*Fuwanovel*](http://fuwanovel.net/)* VN community to make a centralized VN reviewing hub. This did not change the content of the review in any way.
 
 ***
 
