@@ -21,11 +21,11 @@ As for Visuals, I’m giving this one to KyoAni, which I’ll elaborate on later
 
 ![](./1533533613237248941.png)
 
-The writing is amazing. Every step of the way is extremely well done, and is extremely enjoyable to re-experience. *Clannad *has a story with a great message, the character development is probably the best I’ve ever seen in a story, the pacing is not too fast or too slow for what it’s trying to do, and the emotions that this story extracts out of you are just unbelievable.
+The writing is amazing. Every step of the way is extremely well done, and is extremely enjoyable to re-experience. *Clannad* has a story with a great message, the character development is probably the best I’ve ever seen in a story, the pacing is not too fast or too slow for what it’s trying to do, and the emotions that this story extracts out of you are just unbelievable.
 
 ![](./1533533613288648621.jpg)
 
-The story follows Okazaki Tomoya, our snarky delinquent protagonist who you can’t help but love. He’s had a distant relationship with his father since they got into a fight and his father injured his shoulder. One day, on his way to school, he runs into a klutzy and weird girl named Nagisa Furukawa, and as the two of them begin hanging out, Tomoya’s life begins to shift in a new direction. If you didn’t know, *Clannad *is a very character driven show with a stellar cast. While many of them are quite trope-y, it’s almost a non-issue due to Key’s charm. Every character has their own respective role which they excel at and because of this, they are very enjoyable. From Sunohara, the greatest butt monkey in existence, to Kyou, one of the best tsunderes you will ever see, we have a cast that’s absolutely brilliant. The characters are awesome, and I hope you will love them as much as I did.
+The story follows Okazaki Tomoya, our snarky delinquent protagonist who you can’t help but love. He’s had a distant relationship with his father since they got into a fight and his father injured his shoulder. One day, on his way to school, he runs into a klutzy and weird girl named Nagisa Furukawa, and as the two of them begin hanging out, Tomoya’s life begins to shift in a new direction. If you didn’t know, *Clannad* is a very character driven show with a stellar cast. While many of them are quite trope-y, it’s almost a non-issue due to Key’s charm. Every character has their own respective role which they excel at and because of this, they are very enjoyable. From Sunohara, the greatest butt monkey in existence, to Kyou, one of the best tsunderes you will ever see, we have a cast that’s absolutely brilliant. The characters are awesome, and I hope you will love them as much as I did.
 
 <video src="./1533533613577624749.mp4"></video>
 
@@ -33,7 +33,7 @@ Where *Clannad* really shines is when it goes over the personalities, back-stori
 
 > “given happiness, then having it snatched away.”
 
-As you watch the show or play the visual novel, you’ll get attached to the characters due to the amazing character development. These are characters dealing with real issues, and you’ll be able to relate to them. They run into hilarious scenes with well written comedy, so you are kept entertained. They are characters with interesting interactions with others, and with interesting personalities. *Clannad* builds them up so well..... then throws a curve-ball to the situation to create drama and tension, which is done equally as well. These scenarios are well written with great pacing, interesting back-stories and moving themes; no matter how many times they pull off the formula in the show, the impact doesn’t really lessen. The reactions, personal monologues, and dilemmas of the characters show development. This development is something that I really appreciate, and it makes *Clannad *stand out. The pacing is fantastic, enough for each character without feeling dragged out or rushed. Even though it may be slower paced than what some people want, it’s an enjoyable ride. The themes of family, bonds, friendships, relationships, etc. have a lot of impact, and they just make this show something special, something that is memorable, something that is amazing. They all add up to a very moving and excellent package that you will enjoy, and if you are like most people, you will cry. You will feel ALL THE FEELS!... unless your heart is a stone.
+As you watch the show or play the visual novel, you’ll get attached to the characters due to the amazing character development. These are characters dealing with real issues, and you’ll be able to relate to them. They run into hilarious scenes with well written comedy, so you are kept entertained. They are characters with interesting interactions with others, and with interesting personalities. *Clannad* builds them up so well..... then throws a curve-ball to the situation to create drama and tension, which is done equally as well. These scenarios are well written with great pacing, interesting back-stories and moving themes; no matter how many times they pull off the formula in the show, the impact doesn’t really lessen. The reactions, personal monologues, and dilemmas of the characters show development. This development is something that I really appreciate, and it makes *Clannad* stand out. The pacing is fantastic, enough for each character without feeling dragged out or rushed. Even though it may be slower paced than what some people want, it’s an enjoyable ride. The themes of family, bonds, friendships, relationships, etc. have a lot of impact, and they just make this show something special, something that is memorable, something that is amazing. They all add up to a very moving and excellent package that you will enjoy, and if you are like most people, you will cry. You will feel ALL THE FEELS!... unless your heart is a stone.
 
 ![](./1533533613622372269.jpg)
 
@@ -53,7 +53,7 @@ The VN’s visuals haven’t aged nearly as well due to the more complicated aes
 
 ![](./1533533614051585453.png)
 
-That being said, even the anime hasn’t aged perfectly and there are elements where modern shows just blow it away. The scenery, while great, has been superseded by stuff like [Nagi no Asukara](http://tay.kotaku.com/rockmandash-reviews-nagi-no-asukara-anime-1567969970), and the character design, while leagues better than the VN, isn’t everyone’s favorite. The moe art style may detract for some, but I don’t mind it. Overall, *Clannad *is a good looking show that still looks good today.
+That being said, even the anime hasn’t aged perfectly and there are elements where modern shows just blow it away. The scenery, while great, has been superseded by stuff like [Nagi no Asukara](http://tay.kotaku.com/rockmandash-reviews-nagi-no-asukara-anime-1567969970), and the character design, while leagues better than the VN, isn’t everyone’s favorite. The moe art style may detract for some, but I don’t mind it. Overall, *Clannad* is a good looking show that still looks good today.
 
 #### Visuals - 8/10
 
@@ -87,7 +87,7 @@ If you haven’t gotten it yet, I’m a *Clannad* fanboy, and I think it’s ama
 
 **Copyright Disclaimer:** Under Title 17, Section 107 of United States Copyright law, reviews are protected under fair use. This is a review, and as such, all media used in this review is used for the sole purpose of review and commentary under the terms of fair use. All footage, music and images belong to the respective companies.
 
-*You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*, and the rest of my *[*Key Marathon*](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)[* Here*](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)*. For An explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
+*You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*, and the rest of my *[*Key Marathon Here*](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)*. For An explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
 
 
@@ -99,7 +99,7 @@ If you haven’t gotten it yet, I’m a *Clannad* fanboy, and I think it’s ama
 
 ***
 
-*This game is available on *[*Fuwanovel *](http://fuwanovel.org/novels/clannad)*for download, but it should be coming down in the future because we are getting an OFFICIAL English release!!! So excited!*
+*This game is available on *[*Fuwanovel*](http://fuwanovel.org/novels/clannad)* for download, but it should be coming down in the future because we are getting an OFFICIAL English release!!! So excited!*
 
 *Also, big thanks to Protonstorm for helping out with the grammar and proof-reading of this review. I really appreciate it.*
 
