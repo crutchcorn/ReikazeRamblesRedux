@@ -25,7 +25,7 @@ Powering this device is a 1.7 Gigahertz Snapdragon 600 with 2gb of ram. It runs 
 
 Have you noticed the speaker grills yet on the front of the device? Those massive speaker grills are for what HTC calls Boomsound. Boomsound is a pair of front facing speakers that blast great sound with rich bass, and clear sound. The auditory experience is absolutely great for games, especially rhythm games like Cytus.
 
-#### Hardware - 9/10
+# Hardware - 9/10
 
 ![](./bb9s1m7r2jwrsnx8piaf.png)
 
@@ -39,7 +39,7 @@ Because it's android, you can run a ton of things because of how flexible androi
 
 The games graphically, are essentially ps2 levels of polygon count and AA, but they are running at a much higher resolution. I'd say they are about Vita levels of graphics, but there aren't really much games that are worth your time that use the graphical horsepower. It's disappointing, to say the least.
 
-#### Software - 7/10
+# Software - 7/10
 
 ![](./wvlw0ffxms4gtujmktzl.png)
 
@@ -47,17 +47,17 @@ As a phone, this is a great experience. Beautiful display and I've had absolutel
 
 The gaming experience though, isn't really great. Most of the android games are better on a larger device, so go and get yourself a Nexus 7 or something instead of playing on this. it's a better experience. For one handed games, it's absolutely phenomenal, but for more demanding games, you'll want a larger screen, or a device with buttons. Games look great on this too, but because of this 4.7 screen, it can be too small to be comfortable for most of the games. Playing something like Jet Set Radio on this isn't really that much fun, playing something like sonic will be an OK experience, and simple games like Dots is great, but overall the gameplay experience isn't the best on this device. All of the games you play on this will look great, but the size is limiting. When playing games on the One, battery life is similar to the handheld competitors, and it has an OK battery life when gaming. Just don't expect it to last forever when gaming.
 
-#### Experience - 7/10
+# Experience - 7/10
 
 ![](./yyfaofwxkczehl3a0fyy.png)
 
 The HTC One is a great phone, not so much a great gaming device. If you are looking for a phone, the HTC One is a great device, but as a gaming device, I'd look elsewhere. If you are just looking for an android gaming device, I'd point you twords the nexus 7, and if you want a new phone, get the M8. If I was buying a device for gaming reasons on the go, I'd get a 3DS and a vita, not an android device.
 
-## For gaming - 7/10, Polarization ± 1
+# For gaming - 7/10, Polarization ± 1
 
 ![](./pfybiy877drxzvqcnnds.png)
 
-## Non Gaming - 9/10 Polarization ± .25
+# Non Gaming - 9/10 Polarization ± .25
 
 ![](./gaocsbsmhykapmu8ihdi.png)
 

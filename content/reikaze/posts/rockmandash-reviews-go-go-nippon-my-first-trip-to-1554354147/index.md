@@ -11,29 +11,29 @@ Now here’s a game that lives and dies on the concept alone. It’s a game that
 
 ![](./hgwpplcvmf1qns1xu1am.png)![](./yh2sex9bpe5agoom0bo1.png)
 
-### The Novelty
+# The Novelty
 
 There’s only one reason why you would buy this or play this at all. That one reason, is that this game has a novelty factor that’s just insane. This is a visual novel about GOING TO JAPAN... IT’S A VISUAL NOVEL... ABOUT GOING TO JAPAN. LET THAT SINK IN. Common, that’s just mind boggling and insane. the execution and everything just make the novelty factor great, which is great because this is the only reason why your even playing it in the first place.
 
-#### Novelty - 8/10
+## Novelty - 8/10
 
 ![](./llnwr7bpvprbpdmp9qgc.png)
 
-### Writing
+# Writing
 
 If you were expecting AAA writing from a game that’s about visiting japan... well you need to get your head checked. The game tries to be a virual reality tour guide while throwing in a cheezy and poorly written love story. It fails. at both. The game is about a weeaboo (un-named, but I called him Weeaboo-san, and will refer to such throughout this review) coming to japan for a week to visit all the cool things it has to offer. He decides to stay with two online chatroom friends which he didn’t know were girls. He goes to places with said girls, visiting places all around Tokyo. The characters are the most cookie cutter personalities I’ve seen in a long time, and are pretty much as deep as a piece of cardboard, which doesn’t help the shoehorned romance and makes the interactions feel pointless. The main character Weeaboo-san, isn’t really helping much. He spews out the stupidest phrases, and a good majority of them are cringe worthy.When you think about it, this game is actually a decent workout. Lots of Palm to Face action. I’ve facepalmed more in playing this than I have ever done in such a short time period.
 
 ![](./xkv70zrcccvcb1mxfiyd.jpg)
 
-#### Writing - 4/10
+## Writing - 4/10
 
-### Length
+# Length
 
 The Time/Entertainment ratio is really low. This game has a total length of 2 hours. TWO HOURS. Let that sink into you. You can finish this in one sitting. And that’s playing through the whole game, going to a total of SIX locations. this game is way too short, and Anybody who accepts this is long enough needs to be strangled.
 
-#### Length - 2/10
+## Length - 2/10
 
-### Information dump
+# Information dump
 
 This game is a tour guide. The game dumps a ton of information about the issue... including very basic things that any fan of Japanese culture should know about. What confuses me about this is 2 things:
 
@@ -44,13 +44,13 @@ This game is a tour guide. The game dumps a ton of information about the issue..
 
 Pretty much most of this game is an info dump, and I found this annoying. I’ve learned a bit from it, but doesn’t make up for it all my facepalming.
 
-#### Information Dump - 4/10
+## Information Dump - 4/10
 
-### Low budget assets
+# Low budget assets
 
 This game screams low budget. From the about 3 songs played, to the little variety in character frames..... Ugh this game is meh. In both aspects, Go Go Nippon! is lacking. It doesn’t have enough music, there’s not enough art, and they aren’t that great in either category. The music is pretty meh, and visuals are average at best. It’s so generic....
 
-#### Presentation - 5/10
+## Presentation - 5/10
 
 ![](./zcq4pa1olfdfpyosawrn.png)
 
