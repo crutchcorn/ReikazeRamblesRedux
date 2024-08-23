@@ -90,8 +90,4 @@ Don't get me wrong, this is not a bad show… in fact, I believe it has most the
 
 
 
-
-*This show is available on *[*Crunchyroll *](http://www.crunchyroll.com/total-eclipse)*for Free & Legal streaming.*\
-**
-
-[Read more](http://www.crunchyroll.com/total-eclipse)
+This show is available on [*Crunchyroll*](http://www.crunchyroll.com/total-eclipse) for Free & Legal streaming
