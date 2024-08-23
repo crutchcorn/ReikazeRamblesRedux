@@ -61,7 +61,7 @@ This game will surprise you. I/O is not for the faint of heart, with all the min
 
 I/O reminds me of [Remember 11.](http://tay.kotaku.com/rockmandash-reviews-remember-11-the-age-of-infinity-1528062359) they are both really good games with one flaw. This game was absolutely great… until route C, when they started to mess with me. Some people might like this more than others. I was really turned off by all the mindscrew.
 
-## OVERALL - 7.5/10, Polarization ± 1
+# OVERALL - 7.5/10, Polarization ± 1
 
 ![](./rv0avmnl6jo7v6oetrzv.png) ![](./696950706504418850.png)
 

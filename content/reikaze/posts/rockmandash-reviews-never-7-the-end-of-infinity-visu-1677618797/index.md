@@ -47,7 +47,7 @@ No joke, when I first played this game, I abhorred it, loathed it, hated it. Com
 
 *Never 7: The end of infinity*’s name is silly when you think about it: It’s not *Never 7*, 7 is the only score I’d ever consider giving this game because it’s just so... average, and *End of Infinity* doesn’t make sense either because it’s the beginning of the infinity series and it shows. Average and aged doesn’t sound too great, but that’s the best way can describe about this game, and only those curious in the origins of the infinity series should give it a shot.
 
-## Overall - 7/10, Polarization +1.5, -1
+# Overall - 7/10, Polarization +1.5, -1
 
 ![](./xpq63kfovfiz2xne4ieu.png) ![](./1248096666549591949.png)
 

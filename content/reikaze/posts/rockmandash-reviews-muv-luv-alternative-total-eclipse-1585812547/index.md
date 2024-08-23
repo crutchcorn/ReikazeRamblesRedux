@@ -75,9 +75,7 @@ Don't get me wrong, this is not a bad show… in fact, I believe it has most the
 
 
 
-
-
-## Overall - 8/10, Polarization +0.5,-1
+# Overall - 8/10, Polarization +0.5,-1
 
 ![](./njtvwycszoinveihf2nm.png) ![](./765158406985333903.png)
 

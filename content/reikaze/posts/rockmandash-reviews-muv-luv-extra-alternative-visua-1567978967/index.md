@@ -103,7 +103,7 @@ Also, if you want another opinion, check out Dexomega’s reviews on [*Muv Luv*]
 
 
 
-## Overall - 9/10, Polarization +1,-3
+# Overall - 9/10, Polarization +1,-3
 
 ![](./gobehtkn7tc67v0tqrt0.png) ![](./yuggwq82whstiyquzqxb.png)
 

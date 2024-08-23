@@ -55,7 +55,7 @@ About the hype backlash; I heard so much coming into this that I was expecting s
 
 Fate/Zero is a fantastic show, as it’s polished as all hell and is a good watch. The show is epic and has some really good points, and many fans will love it, but I have a few gripes with it and I just can’t love it as much as you guys do.
 
-## Overall - 8.75/10, Polarization +1,-.5
+# Overall - 8.75/10, Polarization +1,-.5
 
 ![](./1313360470930873123.png) ![](./1313360471021958691.png)
 

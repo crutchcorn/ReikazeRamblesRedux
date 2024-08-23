@@ -74,7 +74,7 @@ The Plot has a high barrier of entry, but once you can get through that, it’s 
 
 Kara no Kyoukai is the quintessence of Modern Anime. It does so much right, even if it takes a bit of a commitment to get into. This is one you need to watch, and Ufotable did an excellent job. Kara no Kyoukai is the start of a blossoming relationship between Type-Moon and Ufotable, and it should not be missed.
 
-## Overall - 9.25/10
+# Overall - 9.25/10
 
 ![](./1313370285039462036.png) ![](./1313370285173399444.png)
 

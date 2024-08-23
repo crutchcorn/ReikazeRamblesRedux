@@ -43,7 +43,7 @@ You know, I could just sum this section by saying it's made by Key and you'd pro
 
 Planetarian is a charming Visual Novel that proves how well Key can write. It's extremely short for a Visual Novel, but it uses that time well, executing its in a way that makes it a shining example for a short VN done right. It packs more emotion in a short time span than many do in much longer time, and it's something I'd recommend you check out, especially because it's available on steam from Sekai project.
 
-## OVERALL - 9/10, Polarization +.5, -1
+# OVERALL - 9/10, Polarization +.5, -1
 
 ![](./ycasqcjz3kd1jmtf6e6h.png) ![](./823349131500382500.png)
 

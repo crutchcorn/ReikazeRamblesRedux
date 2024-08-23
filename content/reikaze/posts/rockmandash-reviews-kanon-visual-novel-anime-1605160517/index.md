@@ -73,7 +73,7 @@ This run through Kanon also taught me a few things: it has way less impact if yo
 
 At this point, Kanon is a like a lost memory in the seas of Key, buried under stuff like Little Busters, and Clannad.... but when you find Kanon, you have a very charming and well executed story that should not be forgotten. It’s a must watch for any Key fan, and a great story overall.
 
-## OVERALL - 9/10, Polarization +.5, -2
+# OVERALL - 9/10, Polarization +.5, -2
 
 ![](./1394850404208501576.png) ![](./1394850404276375880.png)
 

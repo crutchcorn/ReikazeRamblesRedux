@@ -19,7 +19,7 @@ Welcome to Rockmandash Reviews! Today we have Remember 11: The Age of Infinity. 
 
 ![](./19gegtjoxrxdmjpg.jpg)
 
-# **WARNING: This review will reference the **[**Ever 17 review**](http://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-visu-1504908037)** a lot, so you should Watch/Read that first!**
+**WARNING: This review will reference the **[**Ever 17 review**](http://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-visu-1504908037)** a lot, so you should Watch/Read that first!**
 
 ![](./19gegtjovy0pwpng.png)
 

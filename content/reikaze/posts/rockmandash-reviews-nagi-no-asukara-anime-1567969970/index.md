@@ -47,7 +47,7 @@ If your one of those people who like to scroll down to the very bottom for the r
 
 It’s very hard to find faults for this show. If I had to point any out, there’s the beginning of the show, but outside of that, I can’t think of much. It’s damn close to perfect, and I highly recommend you check it out. If you have any interest in romance series, or have seen Anohana, this is a must.
 
-## Overall - 9.25/10, Polarization + .5, - 1.25
+# Overall - 9.25/10, Polarization + .5, - 1.25
 
 ![](./1323445384626470501.png) ![](./1323445384675944293.png)
 

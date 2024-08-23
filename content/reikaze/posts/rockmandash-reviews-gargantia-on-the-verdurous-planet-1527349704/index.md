@@ -55,7 +55,7 @@ I enjoyed Gargantia, and though it was a fun anime. I watched this right after V
 
 Gargantia is a great show ruined by bad pacing, and wasted potential. The show is a very entertaining mecha, and is one of the better mechas I've seen. It's a beautiful show with a good soundtrack, and interesting premise. This anime is currently available for internet on Crunchyroll for free legal streaming, A DVD release from Viz eventually, or Blu-Ray import from Japan.
 
-## **Overall - 8/10**
+# **Overall - 8/10**
 
 ![](./z5xwegzh1zpweqj1riu7.png) ![](./wa2rmqrvmr4tfnk3h6me.png)
 
