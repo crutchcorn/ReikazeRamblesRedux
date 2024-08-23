@@ -11,6 +11,8 @@
 
 It’s only once in a blue moon that you’ll run into a story that fundamentally changes who you are. *Clannad* is a show that changed how I viewed the world, and how I treat others. I love it for what it did, and for what it is, and it’ll always hold a special place in my heart. Welcome to Rockmandash Reviews, and today in this [Key Marathon](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641), we have one of my favorite series: *Clannad*.
 
+# VN vs Anime
+
 ![](./1533533613163840429.jpg)
 
 Before we get started talking about the plot and such, I want to get the differences between the Visual Novel and Anime (*Clannad* + *After Story*) out of the way, as most people will have probably seen the anime, and if not, comparing the two would help make your decision on which one you should check out. Due to the Visual Novel genre’s habit of branching out into different paths, KyoAni had to do some story manipulation to make that all of the routes fit into a single story. The adaptations for the arcs are integrated seamlessly for the most part, but there are some arcs that get axed because they simply do not work (Kyou’s and Tomoyo’s, but they each have an OVA episode), and one gets randomly cut for no reason (Kappei’s, probably because it doesn’t really add much, but it was still entertaining). As for the story, there’s simply no beating the full routes, especially if you are a fan of other characters, but it’s integrated well and Nagisa being there can improve the experience. No matter which version you try, you’ll still get the same core story because *Clannad* is just a solid adaptation. The biggest difference is the structure, and it’s really personal preference; do you prefer the branching paths, or do you prefer a seamless story? Do you prefer reading it, or do you prefer watching it? However, the VN does a much better job at explaining the ending, but if you are a keen viewer, you should be able to piece it out. I prefer the VN for a first time experience as it has more content and explains the story better, but the anime for all subsequent experiences, because it’s a better experience with better pacing and more seamless storytelling.
@@ -18,6 +20,8 @@ Before we get started talking about the plot and such, I want to get the differe
 ![](./1533533613199197613.jpg)
 
 As for Visuals, I’m giving this one to KyoAni, which I’ll elaborate on later. The sound is pretty much the same excellent stuff, so no difference here. Overall, I don’t think that one version is particularly better than the other as they are both done very well, but they are executed a bit differently. If you’ve seen one, you’re not missing out on too much, so don’t worry.
+
+# Writing
 
 ![](./1533533613237248941.png)
 
@@ -43,7 +47,9 @@ Also, I need to touch up on how great After Story is here. After Story is the se
 
 Overall, *Clannad* is a great slice of life romance drama thing with excellent character development and an amazing story. It’s a story that is memorable, and is so good that I keep coming back to it.
 
-# Writing 10/10
+**Writing 10/10**
+
+# Visuals
 
 ![](./1533533613720382637.png) ![](./1533533614002342829.jpg)
 
@@ -55,15 +61,19 @@ The VN’s visuals haven’t aged nearly as well due to the more complicated aes
 
 That being said, even the anime hasn’t aged perfectly and there are elements where modern shows just blow it away. The scenery, while great, has been superseded by stuff like [Nagi no Asukara](http://tay.kotaku.com/rockmandash-reviews-nagi-no-asukara-anime-1567969970), and the character design, while leagues better than the VN, isn’t everyone’s favorite. The moe art style may detract for some, but I don’t mind it. Overall, *Clannad* is a good looking show that still looks good today.
 
-# Visuals - 8/10
+**Visuals - 8/10**
+
+# Sound
 
 ![](./1533533614098355373.png)
 
 It’s Key... do I even have to say it at this point? It’s **OUTSTANDING**. If you had to ask me what my favorite soundtrack is... this one would probably be mentioned, as I loved every bit of it. In my check-mark list of what a great soundtrack is for an anime or a visual novel, a soundtrack has to have music that is pleasing to listen to, creates the mood and atmosphere, and has to have enough variety and quantity so you never get tired of listening to the tracks. *Clannad* aces all of the above, and has something I normally never really consider when thinking about sound in a show: synergy. Jun Maeda just blew me away with this one: the songs match the tone of the writing extremely well, and the synergy pushes the soundtrack from great to perfect. There’s something about this soundtrack that just strikes a cord, no matter the tone. The soundtrack makes the slice of life even more entertaining than it would have, and it makes a huge impact when it comes to the scenes with lots of tension. It’s a really great soundtrack that’s full of well done songs, and a wide variety of them too. Likewise, the voice acting is top notch, as the voices really fit the personalities of the characters, which really helps the experience. The Dub, not so much, as some just don’t fit with what the characters represent. It’s not that pleasing to the ear, but it’s not the worst I’ve heard.
 
-# Sound (Subbed) - 10/10
+**Sound (Subbed) - 10/10**
 
-# Sound (Dubbed) - 7/10
+**Sound (Dubbed) - 7/10**
+
+# Enjoyment
 
 ![](./1533533614110312109.png) ![](./1533533614147922349.jpg)
 
@@ -73,11 +83,13 @@ When I first experienced *Clannad*, I wasn’t just watching a show or playing a
 
 It was an amazing experience: a roller coaster of emotions ranging from happy to sad, from laughing to crying. *Clannad* is quite possibly the most moving story I’ve ever read. It has entertaining comedy combined with some of the best slice of life, one of the best soundtracks you will ever hear, and KyoAni art which helps to create a dynamic you really can’t beat. This show, is something I love and it holds a special place in my heart. Yes, it may not be perfect because it’s set in a high school, has some pandering, has dull moments at times and older art are that people may find an offence to their definition of anime, but it has a charm that is rarely matched and that’s what makes it special. Every time I watch it, I’m reminded of who I was, I’m reminded of my experience I had watching it, and I get to feel the whole gambit of emotions, all over again. *Clannad* is something that I love, and it’s something I hope you will too.
 
+# Conclusion
+
 ![](./1533533614517779885.jpg)
 
 If you haven’t gotten it yet, I’m a *Clannad* fanboy, and I think it’s amazing. I adore it with a passion, and I hope you liked it just as much as I did.
 
-### Overall - 9.5/10, Polarization - 2
+**Overall - 9.5/10, Polarization - 2**
 
 ![](./1533533614565414061.png)
 

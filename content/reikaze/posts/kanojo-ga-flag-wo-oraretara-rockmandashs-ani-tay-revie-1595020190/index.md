@@ -69,7 +69,7 @@ To make it even worse, because they try to throw in a darker plot, they start **
 
 When I started to watch Flag, I came in expecting a show about... well, Flags. Flag gave us flags at the beginning, and it was glorious, but unfortunately, later on in the show, it dropped the reason why I was even interested in this show, fun times with flags, then it went Deus Ex Machina on us. I'm disappointed with flag, and it is a bundle of missed potential.
 
-### Overall - 6/10 Polarization +2, -2
+**Overall - 6/10 Polarization +2, -2**
 
 ![](./vqcsnq4zijfyuoxkapwh.png) ![](784081852301833361.png)
 
