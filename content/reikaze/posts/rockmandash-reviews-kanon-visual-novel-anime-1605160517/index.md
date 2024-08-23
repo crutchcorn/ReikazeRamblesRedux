@@ -29,7 +29,7 @@ Kanon is written very well, and it’s a solid romance, even though it was one o
 
 ![](./1394850402617293384.png) ![](./1394850402668648264.jpg)
 
-**MY EYES. THEY BURRNNNNNNN. JUST LOOK AT THIS... WHY WOULD ANYBODY WANT TO SIT THROUGH THIS? **I tried to watch a few episodes, and I couldn’t get through it. These are worst case scenarios, as it usually doesn’t look this horrible, but it does look bad quite a bit. The consistency of the quality of the animation shockingly bad, as the show would frequently go off model. At times, it made me wonder they understood human anatomy or have seen a person while making this.
+**MY EYES. THEY BURRNNNNNNN. JUST LOOK AT THIS... WHY WOULD ANYBODY WANT TO SIT THROUGH THIS?** I tried to watch a few episodes, and I couldn’t get through it. These are worst case scenarios, as it usually doesn’t look this horrible, but it does look bad quite a bit. The consistency of the quality of the animation shockingly bad, as the show would frequently go off model. At times, it made me wonder they understood human anatomy or have seen a person while making this.
 
 Other than visuals, there are a few other things that are worse about 2002 anime like the voice acting delivery being surprisingly bad considering it’s the same voice actors, the music was botched up pretty badly, the show as a while is nowhere near as enjoyable as the other versions and from what I’ve heard the pacing suffers also due to the fact that it’s a 13 episode adaptation of a long game. If you are interested in Kanon, avoid the 2002 anime. I like to think that this version doesn’t exist... it hasn’t aged well at all, it’s the worst version, and put plainly, it’s a pain to watch.
 
@@ -37,7 +37,7 @@ Other than visuals, there are a few other things that are worse about 2002 anime
 
 ![](./1394850403021508936.png) ![](./1394850403058857032.jpg)
 
-Ah, the source material. Kanon is Key’s very first visual novel, and as such, you need to lower your expectations a little bit when it comes to production values, expecially if you are used to newer stuff. The art in Kanon has a very 90’s Visual Novel style, which might be a turn off, but it didn’t really bother me. The art does it’s job, and it’s much more consistent than the 2002 anime. One thing that might be a turn off when it comes to art though is that the only translated version is the original **EROGE **release, meaning it has H-scenes. They were **EXTREMELY** out of place, and I was very annoyed with them. I mean... seriously? A H-Scene in my touching romance with cute moe charecters? Whyy......
+Ah, the source material. Kanon is Key’s very first visual novel, and as such, you need to lower your expectations a little bit when it comes to production values, expecially if you are used to newer stuff. The art in Kanon has a very 90’s Visual Novel style, which might be a turn off, but it didn’t really bother me. The art does it’s job, and it’s much more consistent than the 2002 anime. One thing that might be a turn off when it comes to art though is that the only translated version is the original **EROGE** release, meaning it has H-scenes. They were **EXTREMELY** out of place, and I was very annoyed with them. I mean... seriously? A H-Scene in my touching romance with cute moe charecters? Whyy......
 
 As for the music.... this is a fantastic soundtrack, as expected from Key. It’s a really great soundtrack that’s full of well done songs, and a wide variety of them too. It’s definitely an iPod worthy soundtrack. If that wasn’t enough, the usage is great as well, using the music to make the mood. The voice acting is top notch too, as the voices really fit the personalities of the charecters and they help the experience.
 
@@ -81,7 +81,7 @@ At this point, Kanon is a like a lost memory in the seas of Key, buried under st
 
 **Copyright Disclaimer:** Under Title 17, Section 107 of United States Copyright law, reviews are protected under fair use. This is a review, and as such, all media used in this review is used for the sole purpose of review and commentary under the terms of fair use. All footage, music and images belong to the respective companies.
 
-*You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*, and the rest of my *[*Key Marathon*](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)[* Here*](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)*. For An explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
+*You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*, and the rest of my *[*Key Marathon Here*](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641)*. For An explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
 
 
@@ -91,4 +91,4 @@ At this point, Kanon is a like a lost memory in the seas of Key, buried under st
 
 
 
-*This game is availible on *[*Fuwanovel *](http://fuwanovel.org/novels/kanon)*for download.*
+This game is available on [*Fuwanovel*](http://fuwanovel.org/novels/kanon) *for download.*

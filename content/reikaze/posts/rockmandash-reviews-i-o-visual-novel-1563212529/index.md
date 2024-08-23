@@ -53,7 +53,7 @@ The soundtrack is brilliant. The music is done by Onoken, and he did a great job
 
 ![](./jdsdyqap9orlqyhr2riv.png)
 
-This game will surprise you. I/O is not for the faint of heart, with all the mindscrew, but looking back on it, I thoroughly enjoyed I/O, as I was extremely attached to the characters, but totally confused at the same time. There’s a lot of talent that made this, like Takazawa Nakazawa, Romeo Tanaka the writer of most of Rewrite, and music done by Onoken. With this talent, I got pretty much what I expected, but **THE MINDSCREW. THE MINDSCREW. **It did everything pretty well, but by confusing the player out of the plot, it took some of that enjoyment out. Also, the game has a tendency to crash if press enter while voice is going… and it’s kinda erratic on when it does it. It was a fun ride though, as even if you are confused, you can still enjoy the fantastic charecters, world and surroundings around you. I expected to love I/O, but it does have it’s problems which kept me from loving it.
+This game will surprise you. I/O is not for the faint of heart, with all the mindscrew, but looking back on it, I thoroughly enjoyed I/O, as I was extremely attached to the characters, but totally confused at the same time. There’s a lot of talent that made this, like Takazawa Nakazawa, Romeo Tanaka the writer of most of Rewrite, and music done by Onoken. With this talent, I got pretty much what I expected, but **THE MINDSCREW. THE MINDSCREW.** It did everything pretty well, but by confusing the player out of the plot, it took some of that enjoyment out. Also, the game has a tendency to crash if press enter while voice is going… and it’s kinda erratic on when it does it. It was a fun ride though, as even if you are confused, you can still enjoy the fantastic charecters, world and surroundings around you. I expected to love I/O, but it does have it’s problems which kept me from loving it.
 
 #### Enjoyment - 7/10
 
@@ -73,8 +73,3 @@ You might have noticed that I implemented a polarization thing in the overall sc
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*. For An explanation of my review system, *[*check this out*](https://rockmandash12.kinja.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
-
-
-
-
-**

@@ -22,7 +22,7 @@ I’m pretty well known around here for being a [Fate/fanboy](https://rockmandas
 Now, in no specific order:
 
 * [*Never 7: The End of Infinity*](http://rockmandash12.kinja.com/rockmandash-reviews-never-7-the-end-of-infinity-visu-1677618797?rev=1426568087045)
-* [*Ever 17: The Out of Infinity*](http://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485)**
+* [*Ever 17: The Out of Infinity*](http://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485)
 * [*Remember 11: The Age of Infinity*](http://rockmandash12.kinja.com/rockmandash-reviews-remember-11-the-age-of-infinity-1687285802)
 * *12 Riven: The Ψcliminal of Integral (whenever translation is done)*
 * [*999: Nine Hours, Nine Persons, Nine Doors*](http://rockmandash12.kinja.com/why-i-love-999-nine-hours-nine-persons-nine-doors-so-1688146811#_ga=1.14274167.1523386611.1417386122)
