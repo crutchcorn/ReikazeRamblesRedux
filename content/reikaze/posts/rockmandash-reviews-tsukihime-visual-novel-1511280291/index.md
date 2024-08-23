@@ -23,7 +23,7 @@ About the pacing of the show, No complaints here. It was pretty solid, as it wen
 
 What did I think? Even if it's Nasu's first big work, it was pretty good. The concepts and the writing is great. The plot is very good and enjoyable. The charecters are supurb It's type moon, whatcha expect?
 
-### Writing - 9.5/10
+**Writing - 9.5/10**
 
 # Presentation
 
@@ -41,41 +41,41 @@ I don't feel like I should be rating this because of my bias to newer works, but
 
 honestly, the presentation doesn't hold up well. This is due for a remake, which is coming… we just don't really know when, and there's no real sign of progress. the presentation is probably the largest barrier in this game, as it's pretty dated.
 
-### Presentation 5/10
+**Presentation 5/10**
 
 # Gameplay
 
 It's a visual novel. you select options and read. If you get a bad end, you get sent to Teach me Ciel Sensei! segments, which are similar to the tiger dojos in fate stay night. Once again, i need to warn you that if you're not into ero scenes, make sure to install the censor patch as you are installing the game. it just cuts the scene out and is great for people who are not into that kind of stuff.
 
-### Gameplay - 7/10
+**Gameplay - 7/10**
 
 # Lunar Legend Tsukihime - Anime
 
 Tsukihime has a 12 episode anime adapted by studio deen…. and it's one of the worst anime I have personally seen. Lunar Legend Tsukihime is essentially near side of the moon, but they tried to mix dark side of the moon into the plot, and they failed at doing so. It's so bad thatt, I've never finished the anime... I've been able to stomach through fsn's anime because it was kinda interesting. Avoid at all costs; there's a reason why it doesn't exist.
 
-### Anime - 0/10
+**Anime - 0/10**
 
 # Personal Enjoyment
 
 Im a fan of Tsukihime. The Characters were awesome, and the writing was excellent. The presentation is distracting, but it doesn't take away from the story that is tsukihime. I like tsukihime's story just as much as I do FSN's, but FSN is a more enjoyable experience.
 
-### Personal Enjoyment - 9/10
+**Personal Enjoyment - 9/10**
 
 # Overall
 
 I really enjoyed tsukihime, but it's aged visuals make it hard for me to rate this….. so much so that i really don't want to. It's has some of the best writing Type-Moon has put out yet horrible at visuals. I love it , but it's dated. I'm anticipating the day that Type-Moon does a remake for this.... which has been in production for years. The rating you see today is a rating for Tsukihime as is, and when they make a remake, i'll do a separate review for the remake. Tsukihime gets an 8 out of 10, and Rockman Regrets… wait for a remake.
 
-## Pros:
+**Pros:**
 
 Fantastic Writing
 
-## Cons:
+**Cons:**
 
 Presentation
 
 That THING that does not exist.
 
-# Overall - 8/10
+**Overall - 8/10**
 
 # Rockman Regrets
 

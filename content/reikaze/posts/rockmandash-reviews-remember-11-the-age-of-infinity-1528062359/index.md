@@ -9,10 +9,6 @@
 
 To those who came and found this from google or something, Please check out my [re-done review](https://rockmandash12.kinja.com/rockmandash-reviews-remember-11-the-age-of-infinity-1687285802) of Remember 11 as it's much better written and executed in general. This review is here for archival purposes, but it does not completely represent my thoughts on the game.
 
-
-
-
-
 ***
 
 Welcome to Rockmandash Reviews! Today we have Remember 11: The Age of Infinity. Remember 11 is the third game in the Infinity series, which are made by KID. This game never got a western release, but it got a pretty good fan translation. It's another PC Sci-fi visual novel game which KID does a pretty good job at. Is this as good as or better than Ever 17? Let's find out!
@@ -20,6 +16,8 @@ Welcome to Rockmandash Reviews! Today we have Remember 11: The Age of Infinity. 
 ![](./19gegtjoxrxdmjpg.jpg)
 
 **WARNING: This review will reference the **[**Ever 17 review**](http://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-visu-1504908037)** a lot, so you should Watch/Read that first!**
+
+# Writing
 
 ![](./19gegtjovy0pwpng.png)
 
@@ -29,7 +27,9 @@ The plot is this game's strength, and its Achilles heel at the same time. The ga
 
 In both locations, the main characters need to fight between the outside world, and and what's going on inside their mind. The rest of the cast is no slouch, they are all very memorable and are all written well. This game lives on the atmosphere of the locations, and the atmosphere and it does it to an outstanding degree. There is a huge mystery element to the story, as you and the protagonists have little to no idea about what is going on. The plot is great, and the pacing is great. The writing was one of the best I've ever seen..... **until the ending.** This ending leaves so many things unanswered and feels like there is a 3rd of the game that you will never see. Because of this game's reliance on the player being clueless on what's going on, and the mysteries in the game, the ending flops. KID rushed this game out because of budget constraints, and even though what we got was quality, the game really suffers because of it. The ending makes everything feel like it was a red hearing... finishing at one of the worst cliffhangers I've ever seen. The game is written well, with great atmosphere and mystery but that ending is something you will remember.... but not for a good reason.
 
-# **Plot - 7/10**
+**Plot - 7/10**
+
+# Gameplay
 
 ![](./19geguh8h37v1png.png)
 
@@ -37,13 +37,17 @@ I don't really have much to say here. It's pretty much the same as Ever 17, exce
 
 ![](./19gegu5ed5jrdjpg.jpg)
 
-# **Gameplay - 7/10**
+**Gameplay - 7/10**
+
+# Sound
 
 ![](./19gegu5e535ufpng.png)
 
 The music got better. Somehow, the music got better. The tracks fit the mood even better, and they kick ass. The music is just great, and makes the atmosphere that this game is so dependent upon. The voice acting is great, and the characters are represented well. This game is a treat for your ears. This is one of my favorite soundtracks, and it's fantastic.
 
-# **Sound - 9/10**
+**Sound - 9/10**
+
+# Visuals
 
 ![](./19gegtjow98d1png.png)
 
@@ -53,18 +57,22 @@ This game very nice. The UI looks great, the CG doesn't look cheesy, the charact
 
 # **Visuals - 9.5/10**
 
+# Enjoyment
+
 ![](./19gegttk2nfy1png.png)
 
 I love Remember 11, to an extent. What we got was golden. When I was playing it, Remember 11 was by far, my favorite visual novel. It was excellent.... but whenever I think of Remember 11, I will remember that ending hand how much it pissed me off. It's a fabulous game and I loved it.... but god damn, that's like the worst ending I've ever seen.
 
-# **Personal Enjoyment - 9/10**
+**Personal Enjoyment - 9/10**
+
+# Conclusion
 
 ![](./19gegttk02k5cpng.png)
 
 Remember 11 a superior game to Ever 17 and 999 for the most part, but it's missing 1/3rd of the plot and that's a like a silver stake in a vampire. This game has all that's needed to be my standard for a perfect visual novel, but due to budget constraints, the hunt for the perfect visual will have to go on.
 
-### **8/10**
+**8/10**
 
-### **I'd give it a Rockman Remarkable if it was finished, but it's not. So Rockmandash Recommends will have to do.**
+**I'd give it a Rockman Remarkable if it was finished, but it's not. So Rockmandash Recommends will have to do.**
 
 ![](./y07y8c7ptmr7h6birmfe.png) ![](./19geguh8cb069png.png)
