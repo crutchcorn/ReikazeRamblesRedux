@@ -11,7 +11,7 @@
 
 Technology looks up to the clouds, and us along with it. We often take to the skies in an endless pursuit of perfection, but this pursuit leads to trends dictated by the big players in the world. These trends may be great, but every now and then they lead to stagnation or regression. In these moments of decline, to truly continue the climb of progress, you need someone like Xiaomi, a company that does things differently. Even with an iterative phone like the Redmi 3s, they’ve shown yet again that trends we follow don’t make sense, a budget phone is more than just budget… and it’s as great as it seems to be.
 
-***Disclaimer: ****This phone was provided by the online retailer Gearbest for the purpose of review, but there was no editorial control or any involvement in the review process. If interested, you can help support the site by picking it up *[*here*](http://shrsl.com/?ev4n)*.*
+****Disclaimer:*** This phone was provided by the online retailer Gearbest for the purpose of review, but there was no editorial control or any involvement in the review process. If interested, you can help support the site by picking it up *[*here*](http://shrsl.com/?ev4n)*.*
 
 ![](./txtknhvtfa2444t5jj38.png) ![](./hrbm1ivbfknlbzemwaqc.png)
 

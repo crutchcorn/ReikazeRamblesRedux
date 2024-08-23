@@ -13,13 +13,14 @@ One of the best parts about playing a Visual Novel is that they are very powerfu
 
 *Ace Academy* is a Visual Novel made by western developer PixelFade Studio, that while maintaining the premise and culture of Visual Novels, bucks the trend of Visual Novels that focus on crafting a wonderful story to the detriment of the experience at a given moment.
 
-\**Note - This game was originally written for *[*FuwaReviews*](http://fuwanovel.net/reviews-hub/)*, a project from the *[*Fuwanovel*](http://fuwanovel.net/)* VN community to make a hub for Visual Novel Reviews. Please check them out if interested, or if you want to see the*[* original version of this article*](http://fuwanovel.net/reviews/2016/10/27/ace-academy/)*.\**
+> **Note:**
+> This game was originally written for *[*FuwaReviews*](http://fuwanovel.net/reviews-hub/)*, a project from the *[*Fuwanovel*](http://fuwanovel.net/)* VN community to make a hub for Visual Novel Reviews. Please check them out if interested, or if you want to see the [*original version of this article*](http://fuwanovel.net/reviews/2016/10/27/ace-academy/).
 
 ***
 
 ![](./dn3gispnsxxh1hwaddig.png) ![](./r8nmpt6qejaby3fha3se.jpg)
 
-*Ace Academy* is set in the future year of 2049, a world where giant robots called GEAR have revolutionized the way people live to the point where they’re commonplace, even in many non-military applications. The protagonist (that the user can name) is an American student pilot who uses an old GEAR made by him and his dad, but due to circumstances (that aren’t revealed until late in the game), he and his sister transfer to *the glorious Nippon* Japan. Instead of going into a typical high school and living a typically boring life, however, our main character transfers into the prestigious *Ace Academy *that trains students to pilot GEARs, and throughout the game, we see him, disappointingly, live a typical high school life with a slight mecha twist.
+*Ace Academy* is set in the future year of 2049, a world where giant robots called GEAR have revolutionized the way people live to the point where they’re commonplace, even in many non-military applications. The protagonist (that the user can name) is an American student pilot who uses an old GEAR made by him and his dad, but due to circumstances (that aren’t revealed until late in the game), he and his sister transfer to *the glorious Nippon* Japan. Instead of going into a typical high school and living a typically boring life, however, our main character transfers into the prestigious *Ace Academy* that trains students to pilot GEARs, and throughout the game, we see him, disappointingly, live a typical high school life with a slight mecha twist.
 
 ![](./rmrsiewenlfbe0pvjap6.jpg)
 
@@ -35,7 +36,7 @@ While many may dislike the slice of life genre because it can feel like a drag, 
 
 ![](./ptsz8rf5xynnfgd4dmmp.jpg)
 
-Then of course there are the the troll options… The dev team must have had fun with making this game, because every choice in the game has the typical answer you would expect, as well as a \_troll answer\_. These are joking responses that elicit glorious reactions out of everyone, giving the main character an amazing sense of humor while making him seem like a complete weirdo. They make for the best moments in *Ace Academy *and are the game’s defining attribute. The best part about these is they give off a sense that the developers are fans just like us: they not only understand the jokes that we would enjoy, but also the culture of the western gaming/Visual Novel/anime community much better than anyone in the East, and this makes it all the more enjoyable. There’s nothing like it in the market: I have yet to play a Visual Novel that truly understands and subverts the culture of the western market like *Ace Academy*. In its execution, it embraces the fact that it is a Visual Novel much more than anything I have read, and because of this, *Ace Academy* becomes truly great, a fantastic experience that I truly loved to play.
+Then of course there are the the troll options… The dev team must have had fun with making this game, because every choice in the game has the typical answer you would expect, as well as a \_troll answer\_. These are joking responses that elicit glorious reactions out of everyone, giving the main character an amazing sense of humor while making him seem like a complete weirdo. They make for the best moments in *Ace Academy* and are the game’s defining attribute. The best part about these is they give off a sense that the developers are fans just like us: they not only understand the jokes that we would enjoy, but also the culture of the western gaming/Visual Novel/anime community much better than anyone in the East, and this makes it all the more enjoyable. There’s nothing like it in the market: I have yet to play a Visual Novel that truly understands and subverts the culture of the western market like *Ace Academy*. In its execution, it embraces the fact that it is a Visual Novel much more than anything I have read, and because of this, *Ace Academy* becomes truly great, a fantastic experience that I truly loved to play.
 
 ***
 

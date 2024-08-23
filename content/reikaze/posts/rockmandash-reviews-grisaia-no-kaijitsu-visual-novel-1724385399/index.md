@@ -9,7 +9,7 @@
 
 There’s always that one work in which many people claim it’s one of the best in the medium. In the VN community, *Grisaia no Kaijitsu *by Frontwing was such a work, seen as amazing and loved by many. Now that I’m reviewing it, it begs the question: Is* Grisaia no Kaijitsu *truly the fantastic game as many fans say it is?
 
-<video src="./1396075541142799788.mp4"></video>
+[](./1396075541142799788.mp4)
 
 In my opinion, No.... Not really.
 
@@ -116,6 +116,6 @@ Also, about the anime adaptation: While I haven’t seen all of the *Grisaia no 
 
 ***
 
-***Disclaimer: ****This copy of the game was provided by Sekai Project for the purpose of review. Also, Under Title 17, Section 107 of United States Copyright law, reviews are protected under fair use. This is a review, and as such, all media used in this review is used for the sole purpose of review and commentary under the terms of fair use. All footage, music and images belong to the respective companies.*
+****Disclaimer:*** This copy of the game was provided by Sekai Project for the purpose of review. Also, Under Title 17, Section 107 of United States Copyright law, reviews are protected under fair use. This is a review, and as such, all media used in this review is used for the sole purpose of review and commentary under the terms of fair use. All footage, music and images belong to the respective companies.*
 
 *You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)*. For An explanation of my review system, *[*check this out*](http://tay.kotaku.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485#_ga=1.205141205.473183827.1418699279)*.*

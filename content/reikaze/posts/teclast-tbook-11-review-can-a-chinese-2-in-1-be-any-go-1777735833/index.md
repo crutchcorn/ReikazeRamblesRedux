@@ -136,4 +136,4 @@ I mentioned it a few times in the review but this is an example of comoditizatio
 
 *Kevin Mai - Rockmandash12 is a frequent writer of Visual Novels and anime on *[*his blog*](http://rockmandash12.kinja.com/#_ga=1.122760139.1523386611.1417386122)* and the *[*AniTAY Blog*](http://anitay.kinja.com/#_ga=1.182989094.1052958133.1463607106)*, but does have a pretty deep interest in the world of tech with all Tech related content available on *[*KMTech*](http://kmtech.kinja.com/#_ga=1.182989094.1052958133.1463607106)*. If you’re interested, come check them out!*
 
-***Disclaimer: ****This tablet was provided by the online retailer Gearbest for the purpose of review, but there was no editorial control or any involvement in the review process. Also, the keyboard was purchased for the sake of the review.*
+****Disclaimer:*** This tablet was provided by the online retailer Gearbest for the purpose of review, but there was no editorial control or any involvement in the review process. Also, the keyboard was purchased for the sake of the review.*
