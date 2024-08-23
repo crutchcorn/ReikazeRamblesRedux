@@ -9,7 +9,7 @@
 
 <video src="./1387775007850698161.mp4"></video>
 
-When I first saw *ef - a fairy tale of the two*, I was blown away by how beautiful it was, how stunning it is. The game had the visuals of a [Makoto Shinkai](http://tay.kotaku.com/the-garden-of-words-the-ani-tay-review-1524606376) film, and I heard almost nothing but praise regarding the story of it, but impressions rarely tell you what your experience will be. Welcome to Rockmandash Reviews, and today, we have a review of what is one of the most beautiful games I’ve had the chance to experience: *ef - a fairy tale of the two, *developed by Minori, which is a VN spinoff of Makoto Shinkai’s animation studio CoMixWave.
+When I first saw *ef - a fairy tale of the two*, I was blown away by how beautiful it was, how stunning it is. The game had the visuals of a [Makoto Shinkai](http://tay.kotaku.com/the-garden-of-words-the-ani-tay-review-1524606376) film, and I heard almost nothing but praise regarding the story of it, but impressions rarely tell you what your experience will be. Welcome to Rockmandash Reviews, and today, we have a review of what is one of the most beautiful games I’ve had the chance to experience: *ef - a fairy tale of the two*, developed by Minori, which is a VN spinoff of Makoto Shinkai’s animation studio CoMixWave.
 
 ***
 
@@ -29,7 +29,7 @@ The execution of the story, however, is very different: It’s similar to [Kara 
 
 ![](./1387775008365488817.jpg)
 
-*Ef - a fairy tale of the two *is actually a compilation of 2 separate VN’s: *ef - the first tale & ef - the latter tale*, which are comprised of 7 chapters in total. It’s hard to give a plot summary really because every chapter has their own separate story and telling you all of that would spoil the game and only give a partial look at the game, but I’ll try my best to give you the gist of it. It’s really split into two separate stories that converge: Prologue, and 5-7 is one story surrounding the tragic relationship between Amamiya Yuuko, a mysterious girl dressed like a nun, and Himura Yuu, a mysterious gentleman who is somehow attached to the church where Yuuko first appears while 1-4 are romances focused on high schoolers in the town, each kinda relating to each other. I’m going to talk about them in the order they are told for the sake of convenience, then do an overview of my thoughts.
+*Ef - a fairy tale of the two* is actually a compilation of 2 separate VN’s: *ef - the first tale & ef - the latter tale*, which are comprised of 7 chapters in total. It’s hard to give a plot summary really because every chapter has their own separate story and telling you all of that would spoil the game and only give a partial look at the game, but I’ll try my best to give you the gist of it. It’s really split into two separate stories that converge: Prologue, and 5-7 is one story surrounding the tragic relationship between Amamiya Yuuko, a mysterious girl dressed like a nun, and Himura Yuu, a mysterious gentleman who is somehow attached to the church where Yuuko first appears while 1-4 are romances focused on high schoolers in the town, each kinda relating to each other. I’m going to talk about them in the order they are told for the sake of convenience, then do an overview of my thoughts.
 
 *Ef - the first tale* is the first half of the game (Prologue, Ch1 & Ch2), and it’s pretty much nothing but a fairy tale. While it has a nice romance that shows hints of something deeper happening, it’s just that... a nice romance. It’s a beautiful story, but [it’s a type of](http://tay.kotaku.com/dexs-review-the-princess-and-the-pilot-1530878039)[ story that](http://tay.kotaku.com/the-garden-of-words-the-ani-tay-review-1524606376) [we’ve seen before](http://tay.kotaku.com/ani-tay-golden-time-review-and-discussion-1556588276). It will intrigue and entertain you but a lot of it is very cliche, and kinda generic.
 
@@ -37,7 +37,7 @@ Besides the really enjoyable Prologue (which was extremely out of place because 
 
 ![](./1387775008449076913.png)
 
-If *ef - the first tale* was just a simple fairy tale, *ef - the latter tale (Ch3-7) *steps that up a notch but stumbles: it’s better written and has a brilliant subversion... but it also has issues that inhibit the whole story.
+If *ef - the first tale* was just a simple fairy tale, *ef - the latter tale (Ch3-7)* steps that up a notch but stumbles: it’s better written and has a brilliant subversion... but it also has issues that inhibit the whole story.
 
 *Ef - the latter tale* starts strong with Chapter 3, which is a beautiful tale of memories and troubled relationships. I don’t want to discuss the plot too much because that’s spoiler territory, but the situation that the writers put in place is very interesting, and the writing in general is improved because of it. Immediately, you see a stream of improvements: the characters, dialogue, and situations are more interesting and I genuinely enjoyed it. The reactions of the characters and the struggles to deal with the event were amazing, and watching what was essentially a mental breakdown was great. It made these characters feel real, not just a cliche, and this is something I wish they did more of.
 
@@ -49,7 +49,7 @@ Remember that prologue that I said was really enjoyable? Well, in Ch5 and 6, the
 
 ![](./1387775008649652657.png)
 
-If the other chapters were fairy tales, chapter 5 and 6 was reality coming out of nowhere and running you over. The bleak and morbid view on reality that it shows due to the horrible events that occur is shocking, engaging, and a genuine surprise, given how generic some of the chapters were. I generally state that shows that try to to be dark usually aren’t, as most edgy shows don’t have anything to back up the edgy tone thematically.* Ef *is the opposite of that; it gives off a lighthearted vibe, but it has dark and bleak themes that whack you when you least expect it. The way it’s issues is executed gloriously.. but bleakly, making it something that blew my mind while screaming how horrible it was.
+If the other chapters were fairy tales, chapter 5 and 6 was reality coming out of nowhere and running you over. The bleak and morbid view on reality that it shows due to the horrible events that occur is shocking, engaging, and a genuine surprise, given how generic some of the chapters were. I generally state that shows that try to to be dark usually aren’t, as most edgy shows don’t have anything to back up the edgy tone thematically. *Ef* is the opposite of that; it gives off a lighthearted vibe, but it has dark and bleak themes that whack you when you least expect it. The way it’s issues is executed gloriously.. but bleakly, making it something that blew my mind while screaming how horrible it was.
 
 The way the story elements was executed and flowed, however... not so great. It has good character interactions and writing that is actually entertaining in comparison to the other chapters, but it’s *ef*, and it wouldn’t be *ef* without writing issues. The style of storytelling they went with in was extremely short sub-chapters. The transition between the sub-chapters was extremely rough; instead of being a continuous story, they would suddenly stop what was happening, thus breaking the pace, atmosphere, and mood. While it was still enjoyable due to the excellent character development, interesting writing, dark themes and the absolutely great presentation, it could have been so much more if they kept the flow. They shot some moments in the foot, and it felt.. anticlimactic.
 
@@ -71,7 +71,7 @@ Chapter 7 serves to wrap the story up, but it felt very anticlimactic in general
 
 <video src="./1387775009015843249.mp4"></video>
 
-I’m the type of person who prefers a good design over technological prowess. As such, I’ll say this: This is one of the most beautiful Visual Novels (and one of the most beautiful games) I’ve ever seen, even though it is dated in some technological aspects. Due to the stunning art style,* ef - a fairy tale of the two *has aged gracefully, impressing me nearly a decade after it’s release.
+I’m the type of person who prefers a good design over technological prowess. As such, I’ll say this: This is one of the most beautiful Visual Novels (and one of the most beautiful games) I’ve ever seen, even though it is dated in some technological aspects. Due to the stunning art style, *ef - a fairy tale of the two* has aged gracefully, impressing me nearly a decade after it’s release.
 
 In comparison to the static nature of most Visual Novels, *ef* is very dynamic when it comes to visuals. It has more than the typical sprite and a background for a good majority of the game: almost every scene has unique CG. The CG looks great, and because it’s not just the normal fixed viewpoint, it leads to well framed scenes and it builds an atmosphere that many VN’s just don’t. Also, **STUFF MOVES**! Blinking eyes, moving mouths, people actually making motions like they are walking when they are walking next to you, etc. It’s no anime, but it’s the little things like this that count and I really appreciate it.
 
@@ -89,7 +89,7 @@ Really, I cannot state this enough: *ef - a fairy tale of the two* has great art
 
 Continuing the trend of emphasizing how beautiful this game is, we have the absolutely amazing and unbelievably beautiful score done by Tenmon, the composer for most of the Shinkai works. It’s really amazing, and one of the most beautiful soundtracks in a game. It’s so good that you could leave running in background and not realize it’s a soundtrack for a game, with almost every song in the soundtrack being pleasing to the ear. It’s the type of soundtrack that you chuck into your iPod/phone without hesitation. Even though it has a clear bias for classical music, there is a surprisingly large range of variety here with everything from happy go lucky generic VN music to some really amazing violin. Everything is well composed, leading to some really beautiful tracks and some amazing songs that will blow you away.
 
-The implementation of this soundtrack is superb as well, with the tracks supplementing the story throughout the game, and when it needed to, solidifying the mood, creating an amazing atmosphere and intensifying the feelings you have during the scene. *Ef *has some very intense tracks that fit perfectly with their respective scenes which really goes a far way in improving the storytelling, and it’s not every day you will find a soundtrack that’s this well executed in a story.
+The implementation of this soundtrack is superb as well, with the tracks supplementing the story throughout the game, and when it needed to, solidifying the mood, creating an amazing atmosphere and intensifying the feelings you have during the scene. *Ef* has some very intense tracks that fit perfectly with their respective scenes which really goes a far way in improving the storytelling, and it’s not every day you will find a soundtrack that’s this well executed in a story.
 
 As for the voice acting, I’m not an expert, but it’s once again... fantastic. The voice actors did a great job portraying the characters, no matter how difficult the situation was... I was especially impressed by Yuuko’s voice actor, as she did a stellar job with that role no matter the situation, and it was a joy to listen to.
 
@@ -103,7 +103,7 @@ As for the voice acting, I’m not an expert, but it’s once again... fantastic
 
 ![](./1387775009517657265.jpg)
 
-When I started up *ef - a fairy tale of two*, I hoped this would be the opportunity to get the Shinkai presentation that I love without [his writing style](http://tay.kotaku.com/dexs-review-5-centimeters-per-second-1499521371). I have always appreciated his movies, but I’ve never really “got into” any of his films and truly enjoyed/loved them like many have. Even with my favorite Shinkai film, *The Place Promised in Our Early Days, *I didn’t enjoy it for the events going on; I enjoyed it because of the scenario of alternate-history Japan, instead of the Shinkai’s typical romance writing with the themes of distance.
+When I started up *ef - a fairy tale of two*, I hoped this would be the opportunity to get the Shinkai presentation that I love without [his writing style](http://tay.kotaku.com/dexs-review-5-centimeters-per-second-1499521371). I have always appreciated his movies, but I’ve never really “got into” any of his films and truly enjoyed/loved them like many have. Even with my favorite Shinkai film, *The Place Promised in Our Early Days,* I didn’t enjoy it for the events going on; I enjoyed it because of the scenario of alternate-history Japan, instead of the Shinkai’s typical romance writing with the themes of distance.
 
 This would not be that opportunity. It’s a different writing style, but it felt very similar. Due to the writing style in the game, I couldn’t shake this feeling off after playing it: I felt like I’ve been trolled by the writer. I came in expecting something amazing due to fans, but I didn’t think it was nearly as good as everyone was saying. I started the game expecting a light romance, and came out having my soul crushed... [I hated what they did at the end of Chapter 6](https://tay.kinja.com/loving-and-hating-the-same-story-the-objective-and-sub-1555683326)[, but I thought it was brilliant...](http://anitay.kinja.com/rockmandash-rambles-sakurasou-is-the-first-romantic-co-1603256720) this feeling was aggravating and annoying, and I wish they didn’t successfully troll me as well as they did.
 
@@ -111,7 +111,7 @@ This would not be that opportunity. It’s a different writing style, but it fel
 
 
 
-I didn’t really enjoy most of *ef - a fairy tale of the two*. I guess the best way to describe how I feel about* ef *is that it felt like a [*Muv-Luv Unlimited*, when it could have been an *Alternative*](http://tay.kotaku.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967). The writing and character interactions were enjoyable and there is no point in the story that’s written really poorly... but it’s just the feeling of wasted potential, and like *Unlimited*, there is absolutely no sense of tension because the light hearted tone counteracts that.
+I didn’t really enjoy most of *ef - a fairy tale of the two*. I guess the best way to describe how I feel about *ef* is that it felt like a [*Muv-Luv Unlimited*, when it could have been an *Alternative*](http://tay.kotaku.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967). The writing and character interactions were enjoyable and there is no point in the story that’s written really poorly... but it’s just the feeling of wasted potential, and like *Unlimited*, there is absolutely no sense of tension because the light hearted tone counteracts that.
 
 ![](./1387775009570419633.png)
 
@@ -135,9 +135,9 @@ The reason? While the story is based on the Visual Novel, Shaft took some libert
 
 > Sidenote here: Even the logo’s been messed around. Shaft changed pretty much everything with this adaptation...
 
-Chapter 6 in* ef - a tale of melodies* takes a massive hit because of this though; Shaft’s changes make it much less impactful. While they fixed the pacing for chapter 5 and led it to chapter 6 better, the changes they made in chapter 6 were pretty bad... they got rid of some of the best scenes entirely and tweaked all of those around them... making the story less interesting, less memorable, and more messy. I was not a fan of these changes.
+Chapter 6 in *ef - a tale of melodies* takes a massive hit because of this though; Shaft’s changes make it much less impactful. While they fixed the pacing for chapter 5 and led it to chapter 6 better, the changes they made in chapter 6 were pretty bad... they got rid of some of the best scenes entirely and tweaked all of those around them... making the story less interesting, less memorable, and more messy. I was not a fan of these changes.
 
-The story structure was changed and I’m not too sure about what to think about it. Instead of the one story at a time that the VN did, they ran the stories simultaneously; Chapters 1-3 were in *tale of memories*, 4-7 in* tale of melodies*, and the prologue was axed. It has an ensemble cast feel this way, which makes it feel more connected and more consistent as a story. While its more consistent in quality, I think that the individual stories took a hit, and it felt unfocused. It still captures the essence of the VN with this story structure, but it doesn’t have the right atmosphere; it’s story structure, ensemble-castness, and scene by scene nature keep *ef - a tale of memories* and *melodies *from being great. It’s hard to get absorbed into the anime of *ef*, and it doesn’t do a lot to be entertaining, so it’s hard to keep interested.
+The story structure was changed and I’m not too sure about what to think about it. Instead of the one story at a time that the VN did, they ran the stories simultaneously; Chapters 1-3 were in *tale of memories*, 4-7 in *tale of melodies*, and the prologue was axed. It has an ensemble cast feel this way, which makes it feel more connected and more consistent as a story. While its more consistent in quality, I think that the individual stories took a hit, and it felt unfocused. It still captures the essence of the VN with this story structure, but it doesn’t have the right atmosphere; it’s story structure, ensemble-castness, and scene by scene nature keep *ef - a tale of memories* and *melodies* from being great. It’s hard to get absorbed into the anime of *ef*, and it doesn’t do a lot to be entertaining, so it’s hard to keep interested.
 
 ![](./1387775012016482737.jpg)
 
@@ -155,9 +155,9 @@ The anime is a totally different beast than the visual novel. There are a lot of
 
 ***
 
-*Ef - a fairy tale of the two* is extremely beautiful, yet extremely flawed. Its production values are something to be admired, but like everything related to Makoto Shinkai, its writing is half-baked. The anime improves on the writing, but sacrifices visuals and a few other things to get there, so it’s pretty much a wash.* Ef* is ok, but it could have been so much better.
+*Ef - a fairy tale of the two* is extremely beautiful, yet extremely flawed. Its production values are something to be admired, but like everything related to Makoto Shinkai, its writing is half-baked. The anime improves on the writing, but sacrifices visuals and a few other things to get there, so it’s pretty much a wash. *Ef* is ok, but it could have been so much better.
 
-Keep in mind that this is my opinion, and this is one where I’m a minority. It’s a good series and many have enjoyed it much more than I did.** I’ll recommend it to most people, but there are flaws that may inhibit your enjoyment of the series, so be aware of that.**
+Keep in mind that this is my opinion, and this is one where I’m a minority. It’s a good series and many have enjoyed it much more than I did. **I’ll recommend it to most people, but there are flaws that may inhibit your enjoyment of the series, so be aware of that.**
 
 ## Overall - 7.5/10, Polarization +2,-1
 
