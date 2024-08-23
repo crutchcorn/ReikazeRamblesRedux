@@ -39,7 +39,7 @@ Being mad at either of these groups is not helping anyone, and both of these gro
 
 There’s one quote that’ll always ring in my mind about piracy, and it’s still relevant now:
 
-> “*Piracy is almost always a service problem and not a pricing problem.*“- Gabe Newell﻿
+> “*Piracy is almost always a service problem and not a pricing problem.*“- Gabe Newell
 
 The reason so many people flock to solutions like Emuparadise is simply put because they provide a much better solution than the alternative. Even for games that aren’t super obscure like *GoldenEye 007*, you’d have to get an n64 because nothing’s BC with N64(and it isn’t on VC) then and you’d have to either go to a retro game store or go online to eBay and pick it up - which is much more annoying than just downloading an emulator and ROM, then playing it on your PC. Hell, there are people in [certain regions like Iran](https://mashable.com/2017/08/20/nintendo-iran-club/#urKV7Yyt6iqd) where game companies aren’t even supported, and they have no legal way of buying very common games other than importing or from third parties.\
 \

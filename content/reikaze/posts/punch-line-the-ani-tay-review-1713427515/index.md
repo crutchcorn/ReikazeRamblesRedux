@@ -1,6 +1,6 @@
 ---
 {
-	title: "Punch Line : The Ani-TAY Review",
+	title: "Punch Line: The Ani-TAY Review",
 	published: "2015-06-25T18:30:00-04:00",
 	tags: ["Rockmandash Reviews", "Punch Line", "Spring 2015", "AniTAY", "The Ani-TAY Review", "Review", "Tayclassic"],
 	kinjaArticle: true
@@ -9,7 +9,7 @@
 
 [](./1313950703162309989.mp4)
 
-With a tagline of* “If he sees underwear, humanity will be destroyed!?”*, what would you expect? Well, Whatever you are thinking, throw it out of the window: With *Punch Line*, [Kotarou Uchikoshi](http://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798#_ga=1.47325799.1523386611.1417386122) and MAPPA have made something that is totally different than what anyone would expect.
+With a tagline of *“If he sees underwear, humanity will be destroyed!?”*, what would you expect? Well, Whatever you are thinking, throw it out of the window: With *Punch Line*, [Kotarou Uchikoshi](http://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798#_ga=1.47325799.1523386611.1417386122) and MAPPA have made something that is totally different than what anyone would expect.
 
 ![](./1313950704000588389.png)
 
@@ -23,7 +23,7 @@ Plot summaries and first impressions can be quite inaccurate at times, completel
 
 ![](./1313950704267840357.png)
 
-Given that, you would assume the show is about looking at panties, but it’s not. Written by Kotarou Uchikoshi of [*Zero Escape *](https://kotaku.com/why-zero-escape-virtues-last-reward-should-be-game-of-5972462)Fame,* Punch Line* starts out as this ecchi show but turns into a SciFi show about the world ending due to the Qmay group hurling an astroid into the earth with the members of the Korai house trying to stop them. Full of twists, character development and interesting elements like time travel and body switching, this show has a meaningful story and one that is well written, well executed and a joy to watch.
+Given that, you would assume the show is about looking at panties, but it’s not. Written by Kotarou Uchikoshi of [*Zero Escape*](https://kotaku.com/why-zero-escape-virtues-last-reward-should-be-game-of-5972462) Fame, *Punch Line* starts out as this ecchi show but turns into a SciFi show about the world ending due to the Qmay group hurling an astroid into the earth with the members of the Korai house trying to stop them. Full of twists, character development and interesting elements like time travel and body switching, this show has a meaningful story and one that is well written, well executed and a joy to watch.
 
 [![](./18acwizrqrnk5jpg.jpg) ](https://kotaku.com/why-zero-escape-virtues-last-reward-should-be-game-of-5972462)
 
@@ -37,7 +37,7 @@ It’s executed like a lighter version of Uchikoshi’s works: it’s not super 
 
 ![](./1313950704351288933.jpg)
 
-If you only had a phrase to describe the visuals, the title of *Punch Line* is s surprisingly accurate way of describing how this show looks. Animated by Studio MAPPA (of [*Terror of Resonance*](https://anitay.kinja.com/terror-in-resonance-the-ani-tay-review-1640199423),* *[*GARO*](https://anitay.kinja.com/garo-the-animation-the-ani-tay-review-1695909572), and [*Rage of Bahamut *](https://anitay.kinja.com/rage-of-bahamut-genesis-the-ani-tay-review-1676327262)fame) with the character designs from Shouta Iwasaki (of [*Kill La Kill*](https://tay.kinja.com/kill-la-kill-the-ani-tay-review-1554090665) fame), this show looks pretty fantastic with a bright, punchy and engaging aesthetic design, combined with the fluid animation you would expect from MAPPA. The way that everything is rendered, the way that everything looks is pretty entertaining and the show is full of life, with great facial expressions and other aspects that add tons of character to the show. It’s a very fun to watch show, and the visuals are a big part of that.
+If you only had a phrase to describe the visuals, the title of *Punch Line* is s surprisingly accurate way of describing how this show looks. Animated by Studio MAPPA (of [*Terror of Resonance*](https://anitay.kinja.com/terror-in-resonance-the-ani-tay-review-1640199423), [*GARO*](https://anitay.kinja.com/garo-the-animation-the-ani-tay-review-1695909572), and [*Rage of Bahamut*](https://anitay.kinja.com/rage-of-bahamut-genesis-the-ani-tay-review-1676327262) fame) with the character designs from Shouta Iwasaki (of [*Kill La Kill*](https://tay.kinja.com/kill-la-kill-the-ani-tay-review-1554090665) fame), this show looks pretty fantastic with a bright, punchy and engaging aesthetic design, combined with the fluid animation you would expect from MAPPA. The way that everything is rendered, the way that everything looks is pretty entertaining and the show is full of life, with great facial expressions and other aspects that add tons of character to the show. It’s a very fun to watch show, and the visuals are a big part of that.
 
 
 
@@ -81,7 +81,7 @@ Also, the small touches are nice too, and really help the story along: All the c
 
 Writing for a visual novel doesn’t always translate well to an anime, and *Punch Line*, along with *Fate/stay night: Unlimited Blade Works* really shows how Visual Novel adaptations (or at least VN writers writing an anime) struggle with serialization: VNs are meant to be marathoned, and Anime has to be broken up into pieces. Due to this fundamental difference in pacing the work, the pacing of this show was averages at best and frustrating at worst, and as good as Uchikoshi’s writing is, it doesn’t really help here. He likes to use the middle of his works with random events that build up clues later on, like a good majority of the scenes in *Ever 17*, but in anime form, this just led to filler episodes that were frankly, boring. This was a pretty annoying issue with the first half of the show, as they tried to change the show from the silly show that was episode one into the more character focused show it eventually became.
 
-These pacing issues can take out most of the momentum that this has to viewers, and the fact that this is a serialized work makes it worse for those currently watching. *Punch Line *is a show where you actually need to know what was happening before hand due to how they progress with the plot, and a week off can throw you completely off on this. For the most part, the pacing of the story is livable, but it could have been better handled.
+These pacing issues can take out most of the momentum that this has to viewers, and the fact that this is a serialized work makes it worse for those currently watching. *Punch Line* is a show where you actually need to know what was happening before hand due to how they progress with the plot, and a week off can throw you completely off on this. For the most part, the pacing of the story is livable, but it could have been better handled.
 
 ***
 
@@ -89,7 +89,7 @@ These pacing issues can take out most of the momentum that this has to viewers, 
 
 ![](./1313950704911490405.png)
 
-Even if the storyline isn’t just ecchi BS, *Punch Line *has a lot of fanservice, if you haven’t noticed yet. I really don’t know what to say here, to defend this or smash this, because it’s titillation for titillation’s sake, but they handle it in a way that makes it engaging and totally relevant to the story. While Punch Line gives out the vibe that this is the main premise of the show, and makes it comical to the point that it’s laughing at my feeble attempts to argue about it (like *Kill la Kill*), but it really only plays a role for 3 episodes, then surviving as an unnecessary plot point from there with relatively annoying panty shots all over the place.
+Even if the storyline isn’t just ecchi BS, *Punch Line* has a lot of fanservice, if you haven’t noticed yet. I really don’t know what to say here, to defend this or smash this, because it’s titillation for titillation’s sake, but they handle it in a way that makes it engaging and totally relevant to the story. While Punch Line gives out the vibe that this is the main premise of the show, and makes it comical to the point that it’s laughing at my feeble attempts to argue about it (like *Kill la Kill*), but it really only plays a role for 3 episodes, then surviving as an unnecessary plot point from there with relatively annoying panty shots all over the place.
 
 The fact that the show even uses this gimmick is kinda annoying, considering that they don’t really do anything with it, treating it as a side thing that feels shoehorned in even though it’s supposed to be the main plot. Literally, if they changed one plot point, there would be no point in this at all... it’s frustrating. I totally get what they were going with here, trying to get you connected to the MC, as Yuta acted pretty prude whenever he saw them but I really felt like this show could have done without it and it may have been more enjoyable.
 
@@ -117,7 +117,7 @@ I was pretty exited to see another *FLCL*-like absurd show that does not give a 
 
 ***Copyright Disclaimer:**** Under Title 17, Section 107 of United States Copyright law, reviews are protected under fair use. This is a review, and as such, all media used in this review is used for the sole purpose of review and commentary under the terms of fair use. All footage, music and images belong to the respective companies.*
 
-*You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)* and the rest of my *[*Infinity & Zero Escape *](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)[*Marathon here*](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)*. For An explanation of my review system, *[*check this out*](http://tay.kotaku.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
+*You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)* and the rest of my [*Infinity & Zero Escape*](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798) [*Marathon here*](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)*. For An explanation of my review system, *[*check this out*](http://tay.kotaku.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.
 
 
 
