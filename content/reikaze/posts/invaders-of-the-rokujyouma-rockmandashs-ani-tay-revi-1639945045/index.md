@@ -13,7 +13,7 @@ Whenever I see a comedy harem show, I immediately think it's one of two things: 
 
 ![](./ftud5uc71qtx1n2jsxba.png)
 
-#### Enjoyable Characters
+# Enjoyable Characters
 
 ![](./bgvqz6d306aojzqgj57k.jpg)
 
@@ -21,7 +21,7 @@ While *Invaders* is very much a harem that does nothing special, the characters 
 \
 Also, I think Yurika deserves her own paragraph. As an airhead magical girl who consistently gets mocked as a cosplayer, she's consistently trotting through failure. Her reactions and personality throughout the show were the show enjoyable, endearing and entertaining, and it made her my favorite character by a long shot. I just wish that the characters (other than Kotarou because of MC OP'ness) knew that she was actually a magical girl and took her seriously.
 
-#### Solid Ending
+# Solid Ending
 
 ![](./pbxvkqzkxrifw0fyzou7.jpg)
 
@@ -29,11 +29,11 @@ The last episode of Invaders was a return to form that explained a lot about Kot
 
 ![](./rbcooqg1zgqflosqpr1q.png)
 
-#### Presentation
+# Presentation
 
 Like every show in this genre, the visuals are just average and they do the job. I found that Silver Link did a nice job every now and then in this show, but most of it was pretty normal. The show does the reactions pretty well, the characters look pleasing to the eye, it has good lighting overall and the world looks pretty solid, but it never blew my mind. As for the music itself, it was pretty solid, but it sits in the background, never drawing attention to itself. Once you pay attention to the soundtrack it's actually quite entertaining, but it does nothing special.
 
-#### Hilarious, then disappointing.
+# Hilarious, then disappointing.
 
 ![](./odza38wcpvi8xznom2mn.jpg)
 
@@ -43,7 +43,7 @@ When they stopped doing that I was disappointed. They switched into a more tradi
 
 ![](./d1mvlfa8t4hprcusxagv.png)
 
-#### Why are you throwing drama into my comedy?
+# Why are you throwing drama into my comedy?
 
 ![](./gmioxfyc7fquckyvha5h.jpg)
 

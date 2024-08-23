@@ -13,7 +13,7 @@ Eijun Sawamura is a baseball fan who’s a lefty pitcher, but he’s a bit of an
 
 ![](./uek6ls8hxsteeuj9d9ju.png)
 
-### It’s a Sports Anime, and it has Everything That Makes Them Great.
+# It’s a Sports Anime, and it has Everything That Makes Them Great.
 
 ![](./iotk7tkv3j3nwfutpaqf.png)
 
@@ -21,7 +21,7 @@ If you’ve seen a sports anime, you’ve kinda seen them all, but that’s not 
 
 ***
 
-### A Solid Character Driven Story
+# A Solid Character Driven Story
 
 ![](./clztizbbojhwmfdz9mcz.jpg)
 
@@ -29,7 +29,7 @@ One of the strengths of sports anime is not how it portrays the sport itself, bu
 
 ***
 
-### Our Cast is not Infallible
+# Our Cast is not Infallible
 
 ![](./hndb2bmmcsx8ljwwensg.png)
 
@@ -37,7 +37,7 @@ Sports anime are structured like shounen, and because of this, one thing you wou
 
 ***
 
-### Builds Up Hype and Tension Better Than Any Other
+# Builds Up Hype and Tension Better Than Any Other
 
 ![](./nqlnm6b4a9bblheefizp.png)
 
@@ -45,7 +45,7 @@ Sports anime are structured like shounen, and because of this, one thing you wou
 
 ***
 
-### A Consistently Enjoyable Show Week by Week
+# A Consistently Enjoyable Show Week by Week
 
 ![](./namskegbuqosqdtx9gp1.png)
 
@@ -53,7 +53,7 @@ If you asked me what show I was looking forward to the most week by week for the
 
 ***
 
-### Wonderful Presentation by Madhouse & Production IG
+# Wonderful Presentation by Madhouse & Production IG
 
 ![](./duwcbdv2gzy3urteue1i.jpg)
 
@@ -61,7 +61,7 @@ The anime industry is a more closely related industry than one may think, and *A
 
 ![](./wc56ddlu9kcxbzveklez.png)
 
-### **It Has the Traditional Downfalls of the Sports Genre**
+# **It Has the Traditional Downfalls of the Sports Genre**
 
 ![](./kzi7iatvqq9rpnueprow.jpg)
 

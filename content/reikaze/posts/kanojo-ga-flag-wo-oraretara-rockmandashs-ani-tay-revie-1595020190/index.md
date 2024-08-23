@@ -11,13 +11,13 @@ Tropes, [flags](http://tvtropes.org/pmwiki/pmwiki.php/Main/EventFlag), [lampshad
 
 ![](x0hpcjz5oekznp6rjowo.png)![](czw7vw7pnfx7v68icdbp.png)
 
-#### The Opening
+# The Opening
 
 I love the opening of flag. It's happy, cute, cheerful and enjoyable, which embodies the reason why I watched Flag. Just look at all those flags! It's a great opening that was silly fun, and JUST LOOK AT ALL THOSE FLAGS! How can you not have a stupid smile on your face after watching that?
 
 ***
 
-#### The Concept
+# The Concept
 
 ![](781362134819868816.jpg)
 
@@ -25,7 +25,7 @@ A show about a guy seeing flags? Just thinking about it is awesome. This show is
 
 ![](nlyxa6jwzsa3nk2pxmek.png)
 
-#### Presentation
+# Presentation
 
 [](ohsi9a9bhxmoqavqmuar.mp4)
 
@@ -33,7 +33,7 @@ Even though the presentation is quite cute, it's just average, which should be e
 
 ***
 
-#### Characters
+# Characters
 
 ![](781430448309304747.jpg)
 
@@ -41,7 +41,7 @@ What's a romantic comedy without good characters? Not much, when you think about
 
 ***
 
-#### Enjoyment
+# Enjoyment
 
 ![](781362135022821520.jpg)
 
@@ -49,7 +49,7 @@ I have to say here that I came into this show with certain expectations that mos
 
 ![](781362135344514704.png)
 
-#### Story
+# Story
 
 Flag as a big problem that plagues a few shows this season; That problem is how it flips between different writing tones, causing severe cases of [mood whiplash](http://tvtropes.org/pmwiki/pmwiki.php/Main/MoodWhiplash). Consistency matters, and this show doesn't have a consistent writing tone. Personally, I wished it was just a silly harem show show all the time, like they promised at the start, as the darker parts are just done poorly. To add to that, flag has bad pacing, with here's 13 episodes, the plot doesn't really get anywhere until the end. Characters don't really develop, and the show essentially leaves you hanging on the serious part of the show until very late in into the show.
 
@@ -59,7 +59,7 @@ To make it even worse, because they try to throw in a darker plot, they start **
 
 ***
 
-#### Ending
+# Ending
 
 **\*SPOILERS HERE, SO READ THIS WITH CAUTION. SKIP THIS IF YOU HAVEN'T SEEN THE ENDING\***\
 ****\

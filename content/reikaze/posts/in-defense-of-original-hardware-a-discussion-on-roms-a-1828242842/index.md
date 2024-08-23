@@ -13,7 +13,7 @@ As an avid fan of retro gaming (especially on original hardware), [Emuparadise](
 
 ***
 
-## About Nintendo and Emuparadise
+# About Nintendo and Emuparadise
 
 ![](qj7cayc1cow27rd6fkwx.png)
 
@@ -33,7 +33,7 @@ Being mad at either of these groups is not helping anyone, and both of these gro
 
 ***
 
-### About Piracy & Game Preservation
+## About Piracy & Game Preservation
 
 ![](mo7gl84ynpljy6ccqklg.jpg)
 
@@ -49,7 +49,7 @@ That being said, game preservation doesn’t necessarily go hand in hand with pi
 
 ***
 
-## **So, About How Much Harder...** 
+# **So, About How Much Harder...** 
 
 ![](e7iddeirdgqujweexlbq.png)
 

@@ -15,15 +15,15 @@ This is the 4th article in AniTAY’s[ Decade In Review ](https://anitay.kinja.c
 
 ***
 
-## 2014 As A Year
+# 2014 As A Year
 
 2014 was a bit more of an innocent time. This was before Brexit and Trump, before disney took over, before algorithms started to invade all facets of life, when [YouTube Rewind](https://www.youtube.com/watch?v=zKx2B8WCQuw) didn’t suck. The iPhone got big for the first time with the iPhone 6 and iPhone 6 Plus, Bitcoin was booming for the very first time, the Seattle Seahawks won the SuperBowl, the Winter Olympics were in Russia, the Hobbit’s faster frame rate tripped everyone out, the Ukraine crisis was a thing and the world was afraid of ebola. While scary stuff still happened, in 2014, there was still plenty of great everything seemed like it was going to be alright. That being said, let’s talk about Anime!
 
 ***
 
-## 2014’s Anime Highlights
+# 2014’s Anime Highlights
 
-### Winter 2014
+## Winter 2014
 
 ![](./ocvafj0zlhf7pjoj0omm.png)
 
@@ -49,7 +49,7 @@ For AniTAY, Winter 2014 was a defining moment for the community: 3 of us, [Dex](
 
 ***
 
-### Spring 2014
+## Spring 2014
 
 ![](./iuy424crcln03kg04s3q.jpg)
 
@@ -75,7 +75,7 @@ With all of these shows, how could we have kept up with them? Maybe, an article 
 
 ***
 
-### Summer 2014
+## Summer 2014
 
 ![](./lgvu8rlfjppn5j3myghw.jpg)
 
@@ -99,7 +99,7 @@ So, while the summer season still had some strong shows, it wasn’t a very deep
 
 ***
 
-### Fall 2014
+## Fall 2014
 
 ![](./xl5zsplsrpv9efchscnh.jpg)
 
@@ -129,7 +129,7 @@ Overall, it was a great time to be an anime fan. While there wasn’t many true 
 
 ***
 
-## 2014 Anime from My Perspective
+# 2014 Anime from My Perspective
 
 Feel free to skip this if you’re not interested, but I decided to write the 2014 article mostly because 2014 was a really important year for me in regards to anime and this community. Basically, this year of anime simultaneously got me into seasonal anime and was one of my favorite years of anime. When I was younger, I watched cartoons and some anime, but I definitely wouldn’t call myself an anime fan. I started playing Visual Novels and as a result watched some anime but I didn’t really get *into* anime as a hobby until when I joined AniTAY in late 2013/early 2014. I stumbled upon Dex’s old reviews and decided I’d join the TAY Platform. I eventually found the old Skype, and joined AniTAY full force in 2014.
 

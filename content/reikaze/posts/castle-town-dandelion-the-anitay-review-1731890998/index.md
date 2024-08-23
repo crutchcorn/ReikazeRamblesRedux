@@ -13,17 +13,17 @@ The Sakurada family is a pretty ordinary family of eleven people living in a sol
 
 ![](./1439651230543981896.png) ![](./1439651230658395464.jpg)
 
-### Interesting Characters With A Fun Premise
+# Interesting Characters With A Fun Premise
 
 If the paragraph above peaked your interest, you’re at the right place, because the premise is handled well. It’s a funny slice of life comedy show with great characters, as the **Sakuraba family is an interesting group of people** and keep the show entertaining throughout. They’re a family and act like it, but because of the royalty factor, superpowers and personalities the show isn’t as generic as one may think and it keeps you interested and engaged. While they may be archetypical and don’t really grow throughout the series, every one of the family members shine by themselves, keeping the show interesting and hilarious, with even the side characters being handled really well. The handling of the election and the premise in general is fun, the characters are great, and it’s all pretty entertaining.
 
-### In Production IMS We Trust
+# In Production IMS We Trust
 
 ![](./1439651230846357832.jpg)
 
 Which leads us into the next bit: the way Production IMS handles the show that makes it so entertaining. From the few shows that Production IMS has made like *Inari, Konkon, Koi Iroha*, *Twintails* and [*Date a Live II*](http://anitay.kinja.com/dexs-review-date-a-live-2-1590778711), IMS built a track record for themselves of well rounded, entertaining and engaging shows that don’t really have a lot of flaws, being some of the best of their respective seasons. You look at the checklist of what makes for a great show like good writing, pacing and tone of the work, characters, sound etc... and you won’t really find any flaws with their works ([except the animation...](https://i.imgur.com/WGtHBFc.jpg)). This trend continues here, as pretty much every aspect of this show is entertaining and done well, from the pacing to the characters. Production IMS is now one of my favorite animation studios for a reason, and they continue their wonderful track record.
 
-### Hilarity Ensues
+# Hilarity Ensues
 
 ![](./1439651230918965832.jpg)
 
@@ -31,11 +31,11 @@ Did I mention this is a comedy show? Adapted from a four panel manga, this show 
 
 ![](./1439651231066457160.png) ![](./1439651231137015112.png)
 
-### **The Focus on Akane**
+# **The Focus on Akane**
 
 This one’s a bit ironic, considering her character, but it may be the biggest gripe that one may have on the show. Akane Sakuraba, who is the main character throughout the show, is extremely shy, and manages to get the most attention throughout the show, as most of the gags surround her. While I liked her character and didn’t really mind the focus, this may bother you.
 
-### The Election Results/Ending
+# The Election Results/Ending
 
 ![](./1439651231195195720.jpg)
 

@@ -23,7 +23,7 @@ Well, now the explanation is done, this is the Ani-TAY Summer 2014 Seasonal Over
 
 ***
 
-### Shows You Should Avoid Watching
+# Shows You Should Avoid Watching
 
 ![](./x6s2vvfnfnu3irb9xtub.png)
 
@@ -39,7 +39,7 @@ Well, now the explanation is done, this is the Ani-TAY Summer 2014 Seasonal Over
 
 ***
 
-### Obligatory Fanservice Shows of the Season
+# Obligatory Fanservice Shows of the Season
 
 ![](./tw4pnhcl5mqfeubzifv1.jpg)
 
@@ -53,7 +53,7 @@ If you do not like Boobs and Trains, don't watch *Rail Wars!*, as that's all it 
 
 ***
 
-### Average Shows of the Season
+# Average Shows of the Season
 
 ![](./p3vqvy2apmtevsjgo1gs.jpg)
 
@@ -73,7 +73,7 @@ Any show with a Muv-Luv reference is worth watching in my eyes, so I (Rockmandas
 
 ***
 
-### Controversial Shows of the Season
+# Controversial Shows of the Season
 
 ![](./yojgkuclong3ay0wbpgj.jpg)
 
@@ -93,7 +93,7 @@ While [*Zankyou no Terror*'s](http://anitay.kinja.com/terror-in-resonance-the-an
 
 ***
 
-### Holdouts from the Spring Season
+# Holdouts from the Spring Season
 
 ![](./rstg5vyfjm0d9aba301s.jpg)
 
@@ -111,7 +111,7 @@ If you ever found Kirito of *Sword Art Online*'s infallibility irritating, prepa
 
 ***
 
-### Popular Shows of the Season
+# Popular Shows of the Season
 
 ![](./wqegdl0fnyficlgolu50.png)
 
@@ -129,7 +129,7 @@ While fans of the manga might complain about the streamlining and excision of ce
 
 ***
 
-### Sequels of the season
+# Sequels of the season
 
 ![](./vsgdgcvglxs6p061htq7.jpg)
 
@@ -151,7 +151,7 @@ Yamishibai 2 is a series of shorts, each no longer than an average song, based o
 
 ***
 
-### Shows that Were Solid Overall
+# Shows that Were Solid Overall
 
 ![](./936772482017596047.jpg)
 
@@ -171,7 +171,7 @@ Yamishibai 2 is a series of shorts, each no longer than an average song, based o
 
 ***
 
-### The Must Watch Shows of the Season
+# The Must Watch Shows of the Season
 
 ![](./kyyyaesasq1dkltb6uwa.png)
 
@@ -187,7 +187,7 @@ Long after you have finished [*Nozaki-kun*](http://anitay.kinja.com/gekkan-shouj
 
 ***
 
-### Overall Thoughts on the Season
+# Overall Thoughts on the Season
 
 ![](./mtfonism3tpji8y1kbys.jpg)
 

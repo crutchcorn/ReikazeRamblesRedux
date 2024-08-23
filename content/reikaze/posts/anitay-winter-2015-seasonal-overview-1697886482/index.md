@@ -13,7 +13,7 @@ Every season, we here on AniTAY do a list of[ Anime that You Should be Watching]
 
 ***
 
-#### The Obligitory Fanservice Shows of the Season
+# The Obligitory Fanservice Shows of the Season
 
 ![](./1209853541310447652.jpg)
 
@@ -25,7 +25,7 @@ Every season, we here on AniTAY do a list of[ Anime that You Should be Watching]
 
 ***
 
-#### **The Gag Shows of the Season**
+# **The Gag Shows of the Season**
 
 ![](./1209853541371388452.jpg)
 
@@ -43,7 +43,7 @@ Military! Is a short form (approx. 3-4 min episodes) ecchi, moe, comedy series. 
 
 ***
 
-#### The Average Shows of the Season
+# The Average Shows of the Season
 
 ![](./1209853541461656100.jpg)
 
@@ -57,7 +57,7 @@ Military! Is a short form (approx. 3-4 min episodes) ecchi, moe, comedy series. 
 
 ***
 
-#### The Controversial Shows of the Season
+# The Controversial Shows of the Season
 
 ![](./avybjn9ketvhzdgr4msq.png)
 
@@ -77,7 +77,7 @@ If you came into *Log Horizon S2* expecting more of the same, or anything at all
 
 ***
 
-#### The Shows that weren't Simulcasted
+# The Shows that weren't Simulcasted
 
 ![](./1210816759250715682.png)
 
@@ -89,7 +89,7 @@ If you came into *Log Horizon S2* expecting more of the same, or anything at all
 
 ***
 
-#### The Holdouts from Fall
+# The Holdouts from Fall
 
 ![](./ziofkjmbkaghjgnvqsvm.jpg)
 
@@ -105,7 +105,7 @@ A shounen meets shoujo adventure [*Yona of the Dawn*](http://anitay.kinja.com/yo
 
 ***
 
-#### The Popular Shows of the Season
+# The Popular Shows of the Season
 
 ![](./z6vzpg1zxe5c4qmaqnur.jpg)
 
@@ -117,7 +117,7 @@ A shounen meets shoujo adventure [*Yona of the Dawn*](http://anitay.kinja.com/yo
 
 ***
 
-#### The Spinoffs/Sequels/Second Seasons of the Season
+# The Spinoffs/Sequels/Second Seasons of the Season
 
 ![](./1210873940470749219.png)
 
@@ -139,7 +139,7 @@ THE *iDOLM\@STER: Cinderella Girls* is an adaptation of the spinoff mobile game 
 
 ***
 
-#### The Shows that Were Solid Overall
+# The Shows that Were Solid Overall
 
 ![](./mh6livkr00onw3ig4zup.png)
 
@@ -161,7 +161,7 @@ Have you ever wondered what would happen if Team Rocket were the good guys and A
 
 ***
 
-#### **The Shows that Were Great**
+# **The Shows that Were Great**
 
 ![](./1210889979403302544.png)
 
@@ -181,7 +181,7 @@ The best anime about anime you will ever see has been just quite amazing this se
 
 ***
 
-#### **The Must Watch Shows of the Season**
+# **The Must Watch Shows of the Season**
 
 ![](./lpgjn1pctxrnjry6ncdf.png)
 
@@ -197,7 +197,7 @@ Sound and music are incredible things. Being a person who creates such beauty is
 
 ***
 
-#### Thoughts on the Season Overall
+# Thoughts on the Season Overall
 
 ![](./1210873940541274915.png)
 

@@ -13,7 +13,7 @@ Have you ever seen a show that runs with a tried and true form of story, yet sti
 
 ![](./jxp0w97wxj8iji4d7o75.png)
 
-#### Execution of Story
+# Execution of Story
 
 ![](./egrk1aaitnt69iumijof.jpg)
 
@@ -25,19 +25,19 @@ From a storytelling aspect, the execution of the story strikes all the right box
 
 There was one theme in particular that they had early on that I really enjoyed: the theme of chasing the past. The events already happened, and it was done and over with, but the desire for it to be the way it used to be is one that hit home for me, and it was done so well that I can't help but admire it. It got me attached to the characters, and was just a blast to experience.
 
-#### Side Characters that Actually Matter
+# Side Characters that Actually Matter
 
 ![](./p0eeh2c1pyxaseimrehm.jpg)
 
 While Ao Haru Ride is very much so a traditional shoujo focused on romance, I really appreciated the development of the side characters: something that most shoujo have, but rarely develop. Seeing the focus on friendship and social status being equivalent to the focus of the main relationship makes this show feel that much more believable, and it's a nice fresh breath of air. Seeing side characters with depth, and developing relationships was something that I wish every show has.
 
-#### I.G. does it again, even in a Shoujo
+# I.G. does it again, even in a Shoujo
 
 ![](./916611654188971589.jpg)
 
 If there's one thing I can count on I.G., it's a consistent standard of quality, especially when it comes to visuals. The art is beautiful, with an awesome water colored look at times that I really enjoyed. It adds a lot of charm to the show, and I appreciate it. The characters look nice and the scenery... it's great. It builds a great atmosphere to compliment the scene, the backgrounds look pleasing to the eyes, and they have good lines and great framing, which is something many shows don't really care about nowadays. It's a nice looking show, as expected from I.G.
 
-#### Oh, The Sound
+# Oh, The Sound
 
 > Excuse the AMV, I could only find Nightcores, Covers, AMV's and the original Music Video which is unrelated to the show, so I figured that the AMV would be the best way to do this. The AMV used is [Black K25's](https://www.youtube.com/channel/UCyKt1SWVckJ3k0W_u-Qqzkg). If you liked it, check out the channel.
 
@@ -47,13 +47,13 @@ There's no way I'd be able to wrap up a soundtrack talk without a mention of the
 
 ![](./gmcuqyf7lene0hriyrt9.png)
 
-#### It's a very Shoujo Show
+# It's a very Shoujo Show
 
 ![](./916611658627610949.png)
 
 If you are a fan of Shoujo, you got it here. This is a very by the books, simple yet a bit generic Shoujo romance, with all the pros and cons that come with that type of story. For someone who loves this kind of story, they'll love it, but because of how "traditional" it is, this might be a huge deterrent. If you aren't a fan of the genre, or you are looking for something new or different, you guys aren't getting it here. This show doesn't do anything really new in the genre, it's the same tried and true formula, but done very well. *Ao Haru Ride *doesn't try to differentiate itself from the of the genre, it does what it wants to do, even if that's been done tons of times. It hits all the notes, but it doesn't cover new ground.
 
-#### The Characters
+# The Characters
 
 ![](./916611658677051205.jpg)
 
@@ -63,13 +63,13 @@ Overall, I like most of the characters. Kou Mabuchi is cynical, caring, enjoyabl
 
 However, Futaba at times really got on my nerves. While Futaba is a solid main character for most of the show, sometimes she's just annoying and grating to me. This may be just be me being a guy and not liking the actions of a girl in love acting impulsively, but her habit of jumping to the wrong conclusions always will rub me the wrong way, and at times it'll just piss me off. It's these impulsive actions that get the cast into into stupid scenarios, one that Kou and others have to fix...hell, the reason she changed her personality and caused half of the whole show's strained relationship is due to her impulsiveness. This impulsiveness helps the show in the end, but in my opinion, it was a negative portion of the story for most of it.
 
-#### Enjoyment
+# Enjoyment
 
 ![](./916617657535572372.jpg)
 
 I really loved the show at the beginning. The themes, characters, everything, it drew me into the story, and I was saying it was the best show of the season. When the show settled down however, it was just running through your typical slice of life, day to day shoujo stuff, with these interesting themes. While I wish *Ao Haru Ride* stayed strong and engaging like the early episodes, I enjoyed everything it did, but your enjoyment pretty much hinges on one simple fact: it's a shoujo and it doesn't do much to differentiate. I enjoyed it because I like shoujo, but if you don't like shoujo, you won't like it.
 
-#### The Anime Ending
+# The Anime Ending
 
 Due to the fact that the anime is one cour, and this is an ongoing manga, they have to find a place to stop. The place they stopped is a pretty nice stopping point, finishing up a major arc, yet making you anticipate more but not in a frustrated way. It's not a bad place to end, and it's probably the best place it could have had to end, but the ending wasn't amazing.
 

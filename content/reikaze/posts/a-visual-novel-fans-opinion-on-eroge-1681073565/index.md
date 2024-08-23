@@ -37,7 +37,7 @@ I spend a lot of time over on AniTAY and TAY talking about stories in visual nov
 
 
 
-## Eroge is there, whether you like it or not.
+# Eroge is there, whether you like it or not.
 
 ![](./neeakhsvphfacdmdiepv.jpg)
 

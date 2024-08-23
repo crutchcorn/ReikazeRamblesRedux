@@ -17,7 +17,7 @@ Enter *Ever 17 Himmel Edition,* or how I’m used to calling it, *Project Foreve
 
 ***
 
-## **Engine Changes**
+# **Engine Changes**
 
 ![](./cgmntrgmrvval6sopymq.png)
 
@@ -40,7 +40,7 @@ Title display allows you to see the title of the section you’re reading, which
 
 ***
 
-## Graphical Changes
+# Graphical Changes
 
 ![](./o4rhyvmrucs8icw8as0m.png) ![](./sxscoovcggm2dbysse2c.png)
 
@@ -55,7 +55,7 @@ There’s some graphical changes that Himmel made that make the game less dated 
 
 ***
 
-## Text Changes
+# Text Changes
 
 ![](./wzkqb3zjcro3etxa2q4c.png)
 

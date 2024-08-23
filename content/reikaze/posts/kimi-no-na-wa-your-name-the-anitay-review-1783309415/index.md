@@ -17,13 +17,13 @@ In the past, you could say that if you’ve seen one of [Makoto Shi](http://tay.
 
 ![](./nftfp4gp1p7qu0hz9mlf.png)
 
-### Still the King of Visuals
+# Still the King of Visuals
 
 ![](./hegngk7uunx9sca6jxfm.jpg)
 
 Let’s start with the softball here - We’re talking about a Shinkai film, so of course this film looks absolutely phenomenal. This is a man that was able to make a work like *Voices of a Distant Star* pretty much by himself and that movie looked fantastic, so add a competent and perfectionist studio in the form of ComixWave and years of experience and you get something phenomenal, to the point that you could say this is the best looking anime and people wouldn’t be all that surprised you said it. The visuals in Shinkai’s films are almost something we take for granted, but really there is a reason why people jokingly refer to his famous movie *5 Centimeters per Second* as *5 Wallpapers per Second.* The way light reflects in his works, the scenery shots that are jaw dropping, the stunning amount of detail in every shot, it makes the world of the movie feel alive while consistently and relentlessly impressing the audience. The composition of the frames, the flow between scenes, the character design, all of the aspects one can think of when talking about visuals has been masterfully executed here and I have to applaud the master of animation on another job well done. *Kimi no Na wa* looks stunning.
 
-### A Twist on the Usual that Pays Off
+# A Twist on the Usual that Pays Off
 
 ![](./ip5kbpm1lfymwj37toos.jpg)
 
@@ -49,7 +49,7 @@ There is more to *Kimi no Na wa* than just entertaining body swapping however: T
 
 Through the combination of everything it does, *Kimi no Na wa* becomes the perfect kind of movie, one that creates a kind of connection and tension that people look for in a movie, one that makes you as the viewer enthralled and immersed in the story it has to tell, one that pulls the heartstrings in a way that makes you root harder and harder for the characters involved. Watching the story unfold in *Kimi no Na wa* is watching a perfect package crafted by a mastermind, throwing all elements together in a way that one cannot help but be impressed by, to fall in love with. I’m not the biggest shinkai fan out there, actively showing disdain while everyone surrounds me with hype, but even with that I cannot sit here and say this was a bad movie, this was Shinkai done right, a journey to behold. It’s one that understands the journey it is and executes it in a stroke of perfection in a way that really comes together to make a fantastic movie.
 
-### A Change of Sound as Well
+# A Change of Sound as Well
 
 With a drastic change in the way the story is told, other aspects of a work have to go with it, and a place where we can see this change is in who makes the music of the work. One constant throughout Shinkai’s works was the wonderful music by Tenmon, who always composes beautiful yet soft spoken tracks that have made the emotions in a Shinkai work ([or minori work ](http://rockmandash12.kinja.com/rockmandash-reviews-ef-a-fairy-tale-of-the-two-visu-1646035015)[for that matter](http://anitay.kinja.com/ani-tay-reviews-eden-they-were-only-two-on-the-pla-1683418341)), all that much more powerful. Soft spoken and beautiful doesn’t really work for *Kimi no Na wa* though, a story that is much more upbeat and excited than anything that Shinkai has done so something has to be done. While the quality of the music has remained, the staff has not, a change that is better suited for the story that *Kimi no Na wa* has to tell. We got a move from elegance to excitement, so it was time for some outside help which we got it through the band RADWIMPS, a japanese rock band.
 
@@ -57,7 +57,7 @@ I’ve never heard of any of their work before this movie, but they nailed it, w
 
 ![](./uwzidha2mewfeftn7adw.png)
 
-### Things Done for the Sake of the Story
+# Things Done for the Sake of the Story
 
 ![](./rf6vtv3hph7ew3awgbkw.jpg)
 
