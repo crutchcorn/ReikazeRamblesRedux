@@ -53,7 +53,7 @@ I have a bad habit of reading reviews as I work on my own reviews and before I p
 
 Sharin no Kuni is a good game, but it was nothing like what I was expecting. It’s another good Akabeisoft2 game, but if you came in here expecting G-Senjou no Maou, you won’t get that. It’s a game with great characters and a great premise, but it could be better. If you can get over the problems it has, you’ll like it.
 
-## Overall - 8/10 Polarization +1.5, -.5
+# Overall - 8/10 Polarization +1.5, -.5
 
 ![](./ib4uxbzcuhs6rfyuitvc.png) ![](./kgl2a2m8ddypzedtkpu4.png)
 

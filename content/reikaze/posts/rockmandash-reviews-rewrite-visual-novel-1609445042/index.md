@@ -65,7 +65,7 @@ Key cannot screw up music. If they ever released a game with bad music, it would
 
 Also, if you want another perspective on *Rewrite*, check out [Hitokiri\_Ace’s mini-review](http://tay.kotaku.com/visual-novel-micro-review-rewrite-739587075).
 
-## Overall - 9/10, Polarization +.5,-1
+# Overall - 9/10, Polarization +.5,-1
 
 ![](./1395906709042435400.png) ![](./1395906709088086344.png)
 
