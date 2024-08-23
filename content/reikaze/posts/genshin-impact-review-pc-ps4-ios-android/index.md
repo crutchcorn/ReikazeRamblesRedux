@@ -8,7 +8,7 @@
 
 It’s so easy to let our preconceived notions and generalizations shape the decisions we make. As a result, though: we can dismiss excellence these labels might deter us from. On paper, _Genshin Impact_ seems like a free-to-play, Gacha _Breath of the Wild_ clone. Many people might overlook it for that, but to think of _Genshin Impact_ like this is doing both it and ourselves a great disservice. _Genshin Impact_ is too good to ignore. In fact, I’ll come out say that it’s a fun and frenetic action-adventure RPG that’s become one of my favorite games this year.
 
-[Genshin Impact Review - Noisy Pixel](https://www.youtube.com/embed/zRyWr-SclJs?feature=oembed)
+<iframe src="https://www.youtube.com/embed/zRyWr-SclJs?feature=oembed"></iframe>
 
 To begin this review, let’s attack those labels: Gacha game and _Breath of the Wild_ clone. _Genshin Impact_ bucks many of the negative gacha trends that would deter people from playing the game. I’ve never really been a huge fan of the gacha mechanics found in mobile titles solely based on their design. In some instances, you’ll feel like missed out on events and characters if you don’t put money in, but even if you do, you might not pull what you’re looking for.
 
@@ -44,7 +44,7 @@ For me, exploring the map, getting to know the unique world of Teybat was the hi
 
 ![Genshin Impact Review - Much More Than Just a Gacha BoTW 5](./Genshin-Impact-9-1024x576.jpg)
 
-The last place I think where _Genshin Impact_ significantly differs from _BoTW_ is with the story. _BoTW_ is incredibly minimalistic in its storytelling because it wants the atmosphere and world to tell that story. Still, Genshin* Impact* isn’t set in a post-apocalypse and has its story front in center as a result. The cast is prominent, and they keep the game enjoyable and make the world feel lived in.
+The last place I think where _Genshin Impact_ significantly differs from _BoTW_ is with the story. _BoTW_ is incredibly minimalistic in its storytelling because it wants the atmosphere and world to tell that story. Still, *Genshin Impact* isn’t set in a post-apocalypse and has its story front in center as a result. The cast is prominent, and they keep the game enjoyable and make the world feel lived in.
 
 While they aren’t super deep characters, they are all fairly entertaining with fun personalities. The narrative revolves around themes within a world, about people and their relation with the places they live, and some political story beats. It doesn’t stand out and is rather predictable, but it’s handled quite well, and it was enough to keep me interested.
 

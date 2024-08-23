@@ -47,7 +47,7 @@ The music is pretty charming, and calming. It's charming, but it suffers through
 
 Grant Wilde, if you are reading/[watching](https://www.youtube.com/watch?v=o9vNjnknN_I\&list=UU4ho5vWtymodIky88AQIaUw) this, I'm very happy that you gave me a review copy, and you check out my stuff. It's been an interesting experience to have a review copy, and I thank you for it. That won't sway my opinion of this game though, as it's not very good. It's not the worst I've played, but it comes pretty close to it. I cannot recommend this game to anybody at the price it currently sits at, and I wouldn't recommend this game even if it was free. This game is bad, and I'm hoping it'll be better the next time.
 
-## Overall - 5/10, Polarization +3 -1
+# Overall - 5/10, Polarization +3 -1
 
 ![](./juzzidmk6ay4v42et3wb.png) ![](./lxecz7nmr5c8nejoulz5.png)
 

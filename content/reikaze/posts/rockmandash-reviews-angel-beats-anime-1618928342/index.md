@@ -73,7 +73,7 @@ Coming in without expectations enables me to be a bit more rational about it, an
 
 If you want another, more positive perspective on this show, check out my fellow AniTAYer [Dex’s review](http://tay.kotaku.com/dexs-review-angel-beats-1490745497) on it.
 
-## OVERALL 6.5/10, Polarization +3, -.5
+# OVERALL 6.5/10, Polarization +3, -.5
 
 ![](./ryu2umcslovrcs9oaee5.png) ![](./1248126402668862790.png)
 

@@ -32,13 +32,14 @@ It’s not quite for everyone, and definitely not for the faint of heart, but if
 
 # 2. _13 Sentinels, Aegis Rim_
 
-# ![Kevin's Top Five Video Games of 2020 4](./13-Sentinels-Aegis-Rim-1-1024x576.jpg)
+![Kevin's Top Five Video Games of 2020 4](./13-Sentinels-Aegis-Rim-1-1024x576.jpg)
 
 _13 Sentinels_, is Video Game storytelling done right, and it’s told in ways that only a video game can tell. Telling a massive interweaving story from 13 different perspectives worked out a lot better than it has any right to, and it was a sight to behold how they unraveled the mystery in the way that they did. The presentation is really out of this world too, with every moment looking absolutely stunning and picturesque. I found myself entranced when playing and was fully immersed in the game – binging through the game in less than a week. While on first impression, the gameplay/story split would seem to be annoying, but the way they faced each other perfectly fed into how my mind works. It made every moment of the game a great time, engaged in a way I’m not often in video games, and I really admire it for that.
 
 # 1. _Final Fantasy VII Remake_
 
-![Kevin's Top Five Video Games of 2020 5](./ff7-remake-header-1024x522.jpg)\
+![Kevin's Top Five Video Games of 2020 5](./ff7-remake-header-1024x522.jpg)
+
 While I didn’t play *Final Fantasy VII* when it originally came out on PS1, I remember adoring it when playing it on PSP and manages to capture the feeling of playing the game for the first time and more. The remake is a glow-up of epic proportions; it lives up to all the expectations that we had when we were eagerly awaiting the game: full of character, engaging to play, and it brings to life the game in ways that we’re only in our imaginations before now. The environments are beautiful; the combat is a joy; the atmosphere is top-notch. I’ve really enjoyed my time with _FFVII Remake,_ and I’m eagerly awaiting the rest of the remake.
 
 Also, I love the new song Hollow – every now and then, I’ll find myself listening to it on repeat over and over again.

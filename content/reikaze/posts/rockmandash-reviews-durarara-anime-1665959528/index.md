@@ -66,7 +66,7 @@ Take everything I said about it, and it’s pretty easy to see what this section
 
 *Durarara!!* is a show that I love to no end. It may have it’s flaws, but I’m not going to let that prevent me from loving it. I’m looking to the continuation of one of my favorite shows, and hopefully I’ll love it as much as this season.
 
-## Overall 9/10, Polarization +1, -3
+# Overall 9/10, Polarization +1, -3
 
 ![](./hke0vzbwcmu1zej4gvv7.png) ![](./1248077601854297957.png)
 

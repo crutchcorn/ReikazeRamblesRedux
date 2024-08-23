@@ -59,7 +59,7 @@ What I got was a fun action show that screamed Type-Moon, while trying to do som
 
 Canaan represents an age of anime that’s past, but in it’s path to homage, it forgot to execute well. It was a nice change of pace and it was an enjoyable ride, but it’s one to enjoy not because of what it is, but because of what it represents.
 
-## OVERALL - 7.5/10, Polarization +1, -3
+# OVERALL - 7.5/10, Polarization +1, -3
 
 ![](./zfiv3yn0zpultasiol9x.png) ![](./1248091306403187630.png)
 

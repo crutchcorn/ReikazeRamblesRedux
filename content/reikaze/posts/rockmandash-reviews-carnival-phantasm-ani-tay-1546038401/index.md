@@ -43,7 +43,7 @@ As this is a comedy series and most of Type-Moon stuff is not, a good majority o
 
 Carnival Phantasm is one of my personal favorite comedy shows. Personally, I loved it, but your mileage may vary. This show is very dependent on whether you have read F/SN & Tsukihime, and it will change how you like the show. If you have experienced those two, it's a must watch.
 
-## OVERALL - 9/10, Polarization +.5,-1.5
+# OVERALL - 9/10, Polarization +.5,-1.5
 
 ![](./ckcvr1iyqn5gcsybcjnt.png) ![](./xp9zhgcucp2knwgctpht.png)
 

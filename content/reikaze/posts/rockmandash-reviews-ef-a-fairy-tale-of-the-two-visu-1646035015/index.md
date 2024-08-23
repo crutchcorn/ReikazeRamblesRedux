@@ -159,7 +159,7 @@ The anime is a totally different beast than the visual novel. There are a lot of
 
 Keep in mind that this is my opinion, and this is one where I’m a minority. It’s a good series and many have enjoyed it much more than I did. **I’ll recommend it to most people, but there are flaws that may inhibit your enjoyment of the series, so be aware of that.**
 
-## Overall - 7.5/10, Polarization +2,-1
+# Overall - 7.5/10, Polarization +2,-1
 
 ![](./1387775012157618609.png)
 
