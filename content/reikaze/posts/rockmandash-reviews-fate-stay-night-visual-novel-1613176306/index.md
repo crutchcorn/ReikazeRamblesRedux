@@ -13,6 +13,8 @@
 
 You might be questioning why I posted this, considering I posted a [*Fate/stay night*](http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1493594993) review earlier this year. Yes, I did release a *Fate/stay night* review, but I've improved my review style: both the substance and how it looks aesthetically. That's where the review+ comes in: Whenever I redo or spice up a review but want to keep the original the way it was, i'll be one of these reviews+.
 
+# Writing
+
 ![](./hfouvthmswci2uapsmln.png) ![](./wg2t9zlqkyi0mcbnx0v4.jpg)
 
 *Fate/stay night* is a well crafted story, with a stellar world, great writing and and an amazing premise. It's famous for this premise, and for a good reason: it's about a Fight-to-the-death tournament called The Fifth Holy Grail War (which isn't really a war....) where people known as masters fight with Heroes throughout history, known as servants, for a chance to get the Holy Grail, which grants their wishes. Each servant is one of the 7 classes, Saber, Archer, Lancer, Berserker, Rider, Assassin, and Caster. If you didn't get that, well, this game has a lot of exposition to explain that basic premise, so you won't be totally lost. The premise is one of the stronger parts of the game, and it's so brilliant that it's spawned a large franchise.
@@ -21,7 +23,7 @@ While *Fate/stay night* may seem like just an action story due to the premise, i
 
 Playing through *Fate/stay night* is like experiencing 3 equally long VN's with 3 separate plots, and 3 completely different tones. Due to the structure of the game, and how vastly different each route is, I'll cover each route separately and then do a cumulative score for the plot.
 
-# **Fate**
+## **Fate**
 
 ![](./a3a2qif0tbuwspahcae4.jpg)
 
@@ -29,9 +31,9 @@ Fate is a typical yet better than average action/romance story with Saber: Shiro
 
 Other than the introduction and doing a decent action story, what carries this route along is Saber. Her personality and actions in this route are the best parts of it, and she's a really enjoyable character. The thing about the fate route is that it doesn't really do anything special; there aren't a lot of interesting plot points in comparison to the other routes, it doesn't stand out well, and due to Shirou's idiocy, it might be annoying to go through, especially in the first run (it's nowhere near as bad in subsequent runs though).
 
-## Fate - 8/10
+**Fate - 8/10**
 
-# **Unlimited Blade Works**
+## **Unlimited Blade Works**
 
 ![](./836321975846877868.jpg)
 
@@ -39,9 +41,9 @@ Unlimited Blade Works is the most action packed out of all the arcs, and is my p
 
 The Unlimited Blade Works route can be described as the concepts of the fate route but with an adrenaline rush, epic feel and a focus on the action and the protagonist. It move you in ways you would never expect an action show to do, and the clash of ideals while keeping the characters interesting pulls off something *Fate/Zero* could only dream of. Unlimited Blade Works is very well executed: in my eyes, UBW has the most enjoyable character interactions, the most memorable scenes, and it keeps you on the edge of your seat with a great atmosphere and a great sense of tension.
 
-## Unlimited Blade Works - 9.5/10
+**Unlimited Blade Works - 9.5/10**
 
-# **Heaven's feel**
+## **Heaven's feel**
 
 ![](./836321976348565164.jpg)
 
@@ -49,31 +51,39 @@ Heaven's feel is by far the most depressing and best written of all the arcs. Ev
 
 Heaven's feel is primarily about conflict within Shirou: Reality vs Ideals, and it is the most contrasting out of the others, and it's the most contrasting because you get to see Shirou act completely different in the other arcs. The main heroine is Sakura Matou: Shirou's kouhai and Shinji's little sister. The choice of Sakura might not make any sense early on, but the more they screw with your the situation, the more sense it makes. Discussing any more about why this is great is spoilers, but there's a reason this route is last; you need to sink into the world of Fate/stay night before Heaven's feel rips you out of it and throws you into the curb. It's the best written route and its bloody fantastic, even if it's quite depressing and dark.
 
-## Heaven's feel - 10/10
+**Heaven's feel - 10/10**
 
-# Writing Overall
+## Writing Overall
 
 The *Fate/stay night* VN has a well written and memorable story that is really unlike many stories I've had the chance to experience. It's a fantastic story, full of interweaving ideals, amazing monologue, great characters and amazing action that's well executed, and is something unlike what you'll experience in other mediums. If you are looking for an epic story, *Fate/stay night* is definitely one to check out.
 
-## **Writing - 9.5/10**
+**Writing - 9.5/10**
+
+# Pacing
 
 ![](./j2ab6jeztqjmdcjqhgux.png) ![](./ed2ws6jqc2pwtyjl54sa.jpg)
 
 Normally, When I do my reviews, I have Pacing integrated into my Writing segment. The thing is though... this VN is really long, and is way too long for most people. One big thing that separates word based mediums like Visual Novels and books from their anime and manga counterparts is length. Visual novels are much longer to flesh out the world and characters, and this one is no exception… it uses that time to flesh out the world and it's very memorable... but My first run of it took about a month of daily reading, and that's something most people are unwilling to do. If you are not a fan of reading, stay far away: it's about a million words of text, and it's definitely feels like it. Due to the length it feels really slow paced when you are playing, and at times you might lose interest. It's not the worst pacing I've seen though; a lot of the fluff does make the experience better, and usually is entertaining and engaging enough that it keeps your attention most of the time but the pacing is a glaring flaw in a great game. In comparison, I thought that the 2006 anime was a more manageable size and had better pacing, and I hope the UBW remake and Heaven's feel movie improve on this.
 
-## **Pacing - 7/10**
+**Pacing - 7/10**
+
+# Visuals
 
 ![](./rolvygjhvwztvmcfpubh.png) ![](./836321976769608364.jpg)
 
 It's been 10 years. While there are parts that shine visually, overall it just looks about average now. There's nothing wrong with it: everything is crisp, memorable, detailed and does it's job well, I just wish that it had a better style, or was more aesthetically appealing, like later Type-Moon works. The designs of the characters, especially the servants are intricate, detailed, and are pretty memorable. While most of the CG looks pretty good, most of it doesn't really stand out. Also there's one thing that needs to be mentioned about the visuals, and that is the fact that this is an eroge... soo.. **CUE THE OBLIGITORY EROGE WARNING HERE.** While the plot hasn't been hit by age, the visuals have. What was once great, is now just average.
 
-## **Visuals - 7.5/10**
+**Visuals - 7.5/10**
+
+# Sound
 
 ![](./nfokbjcrvfemdreulysm.png)
 
 The sound in *Fate/stay night* is pretty good, especially the voice acting. It's great voice acting with all of the actors doing a great job with their roles, and other parts of the series have the same voice actors, which helps keep a level of consistency unmatched on other series. Almost all of the text is voiced, which is **OUTSTANDING**, considering the amount of text that this game actually has. The soundtrack though, is not one of *Fate/stay night's* strong points. The soundtrack is distinctly average; Most of the music is there for atmosphere building which it does quite well, but it's not memorable or mind-blowing. While there are a few memorable tracks like Ever-present feeling and Emiya, most sound a bit better than average, but nothing amazing. It's lacking in something, it sounds good, but it could use some more instruments, and more character. It's a good soundtrack, but it's just lacking that extra something.
 
-## **Sound - 8/10**
+**Sound - 8/10**
+
+# Enjoyment
 
 ![](./mxvmd5q52mpq7a68upsq.png) ![](./836321977370289836.jpg)
 
@@ -81,11 +91,9 @@ Honestly, I didn't really care for F/SN at the beginning. I'm not the biggest fa
 
 If you want more of my personal opinions on F/SN, check out my [rambles article](https://rockmandash12.kinja.com/rockmandash-rambles-fate-stay-night-hype-1633708239).
 
+**Enjoyment - 8.5/10**
 
-
-
-
-## **Enjoyment - 8.5/10**
+# Realta Nua
 
 ![](./em4smanejztginfjroph.png)
 
@@ -97,19 +105,17 @@ Due to the fact that it's the same game, it has the same story, so we don't have
 
 About the Visuals, the improvements are mostly small touches and most of the complaints are still valid. The new CG looks solid ([F/HA quality imo](https://rockmandash12.kinja.com/rockmandash-reviews-fate-hollow-ataraxia-visual-novel-1612260148)), the improvements (effects, camera pans, etc.) help make the game more modern and it helps fit the mood of the game. The visuals are improved, but not to the level of Type-Moon's newer stuff, mostly due to the fact that RN keeps most of the original art. It's still mostly the same, so it still has the same atmosphere and style, but it's been polished up quite a bit. The best part about the visuals though has to be the fact that there's no eroge, something I wish all VN's were. All the H-Scenes are optional and replaced with the alternate scenes from RN, and I wish every VN release was like this. I really appreciated the option to just skip the H-Scenes while getting all of the context.
 
-
-
-
-
 The soundtrack though is really another story: the Mirror-Moon patch for the original release had the Voice Acting added in with a *Realta Nua* patch that added a some stuff from RN, but it still had the original soundtrack. The 2012 soundtrack from the vita is fantastic though; at times it's very similar, but it fits the tone and mood of the game so much more. It has a grander feel, it sounds more "full", more grand, it fits the story quite a bit better than the original and makes it feel more modern. F/HA is still my favorite Fate soundtrack, but this soundtrack closes the gap quite a bit, and fills up a lot of my complaints.
 
 *Realta Nua* is leaps and bounds better than the original release. It fixes quite a few of my gripes, and is just great. If you are interested in the VN, don't even consider playing the original. *Realta Nua* is the way to go.
+
+# Conclusion
 
 ![](./dks2yri01w5hng43xs6z.png)
 
 *Fate/stay night* is a fantastic visual novel. It has an amazing story, one that revolves around thrilling ideals and an excellent premise, but there are aspects that haven't aged particularly well (referring to the Mirror-Moon release) and the pacing can be improved. If you are interested in getting the full story of *Fate/stay night*, play through *Realta Nua*: the definitive version of the VN.
 
-## Overall - 9.25/10, Polarization +.5,-1
+**Overall - 9.25/10, Polarization +.5,-1**
 
 ![](./amgmrtcywq4szdlikmov.png) ![](./p5kdtlh3iwl4anwyx6qw.png)
 

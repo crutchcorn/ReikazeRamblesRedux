@@ -9,13 +9,19 @@
 
 When the first thing you think of when you hear about a series is “Why does it exist?” you know you are for a confusing ride. This is a series that baffled me, then broke my baffled expectations. Today, we have a review for Fate/kaleid liner Prisma Illya; a spinoff that is better than you probably think it is.
 
-![](./1471910960385305492.png)![](./1471910960544945044.png) ![](./1471910960646932372.jpg)
+![](./1471910960385305492.png)
+
+# Anime
+
+![](./1471910960544945044.png) ![](./1471910960646932372.jpg)
 
 > **Caption:** My reaction after I learned 2wei was split-cour, and after kinja ate my review. Rewriting reviews is not really fun.
 
 Like most anime, Fate/illya is an adaptation of an existing work (This time it’s a manga adaptation). For this review, I read through the manga right after Season 1 ended (and read through 3rei near the end of 2wei Pt.1), and what I found was that it’s scary how well adapted this show is. What I find most impressive is how well it gets the “essence” of the source material. While most anime are adaptations of the same work, they “feel” different. What I mean by this is that when you compare the two versions, they usually have a different style, tone, etc and it can feel like a different work. Sometimes when I do a review of a work with an adaptation, the change in execution is quite apparent, like in [Kanon](http://anitay.kinja.com/rockmandash-reviews-kanon-visual-novel-anime-1605160517), but in most cases, it’s usually not so big of a deal ([like Steins;Gate](http://tay.kotaku.com/rockmandash-reviews-steins-gate-visual-novel-anime-1557342550)). That’s not the case here; the anime is almost exactly the same as the manga, and it feels like it too. They have almost the exact same tone, pacing, writing, visuals, etc... so you aren’t gaining or missing anything by reading only the manga or watching only the anime. When I think of Fate/illya, I don’t think of the anime and manga as separate entities because they are so similar in execution. This is something I rarely see and I applaud Silver Link for being able to adapt it this way, knowing the history of Type-Moon adaptations.
 
 I do need to talk about the anime ending though: 2wei Herz changes the ending from the big dramatic twist that the manga ends to something more SoL. I’m mixed on this, as while it makes for a less painful wait, it’s not as good. Much better than the awkward wait after the end of 2wei part one, but it’s still noteworthy.
+
+# Writing
 
 ![](./1471910960735230356.png)
 
@@ -37,7 +43,9 @@ About the characters: keep in mind that a lot of the characters are from F/SN an
 
 In my opinion, the best way to think of Fate/illya is as a more lighthearted and girly version of F/SN, with Illya as the protagonist instead of Shirou. Even though there’s quite a bit more silliness running around in Fate/illya, and the tone overall isn’t nearly as serious, the mood is similar. The most important bit though is how Fate/illya has the “essence” of Fate/stay night; when I see Fate/illya, I can’t help but think about parallels from F/SN and compare the two. This is not exactly a bad thing as I enjoyed F/SN and enjoy stuff like it, but it pretty much makes this show much more dependent on it.
 
-# Writing - 8/10
+**Writing - 8/10**
+
+# Visuals
 
 ![](./1471910961014285204.png) ![](./1471910961066912404.jpg)
 
@@ -53,7 +61,9 @@ Also, in comparison to the rest of the fate series, the character designs looks 
 
 Speaking of the manga, I find that it looks quite nice. It has clean lines, solid backgrounds, nice effects and action that is pleasing to the eye... just showing you how well done Silver Link did with the adaptation. I don’t really have any experience with critiquing visuals in manga, but I found that it looked nice.
 
-# Visuals - 8/10
+**Visuals - 8/10**
+
+# Sound
 
 ![](./1471910961450108308.png)
 
@@ -61,7 +71,9 @@ I don’t really have much to say about the sound in Fate/illya, mainly because 
 
 I don’t really have much to add about the voice actors. The returning characters have their old voice actors and once again they do a bang-up job with their roles, and the voice actors for the new characters are equally as solid.
 
-# Sound - 7.5/10
+**Sound - 7.5/10**
+
+# Enjoyment
 
 ![](./1471910961513546388.png)
 
@@ -77,7 +89,9 @@ I also really enjoyed the occurrence of the Fate/hollow ataraxia characters like
 
 However, this is my opinion and your mileage may vary. **Simply put, Fate/illya is a show made for Type-Moon fanatics like me, and if you are not one, you will probably like this much less than I did.**
 
-# Enjoyment - 8.5/10
+**Enjoyment - 8.5/10**
+
+# Conclusion
 
 ![](./1471910961780995988.png)
 
@@ -85,7 +99,7 @@ Fate/Kaleid liner Prisma Illyais a good show with a clear idea on what it wants 
 
 If you enjoyed Fate/stay night’s VN and want more of that and can handle the more lighthearted and girly approach to the show at the beginning, I’d recommend you check out Fate/illya. **However, you still have to wait for 3rei for the best of the series.** I recommend you check out the manga if you are a fan of the Nasuverse, but the anime is serviceable as well.
 
-# OVERALL 8.25/10; Polarization +.25, -1.25
+**OVERALL 8.25/10; Polarization +.25, -1.25**
 
 ![](./1471910961843536532.png) ![](./1471910961883812500.png)
 
