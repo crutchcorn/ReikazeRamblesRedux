@@ -13,6 +13,8 @@ Have you ever experienced a work that left such a strong impression on you that 
 
 If you are curious enough, here’s a link to my outdated [Video Review](https://www.youtube.com/watch?v=xINxrJM2YRk), the first review I’ve ever made (it took two weeks or more because I didn’t know anything about video editing :/). Looking back on it, it’s not very good, so I’ll redo this video review eventually. Also, if you want to dig up more of my poor writing, here’s the [original Written Review](http://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-visu-1504908037), and it’s equally as rusty.
 
+# Writing
+
 ![](./1306104797466052266.png) ![](./1306104797492973226.jpg)
 
 Ever 17 is one of those stories that was so impactful to me that it bent my perception of how I viewed storytelling, and it redefined what I thought a good story was. It was an essential part of my [entry into the Visual Novel genre](http://tay.kotaku.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739), and it’s a game that I will always hold in high regard due to the fantastic execution of the story. *Ever 17* has a premise that holds unbelievable potential and the best part is that it nails the execution, squeezing all the setting has to offer (if you can get into it).
@@ -43,7 +45,9 @@ Due to the routes being pretty similar to the others, your experiences add up, a
 
 All of these aspects culminate to create a well written story with lots of depth and intrigue. Ever 17 is one of my favorite stories I’ve ever experienced, and due to the writing, it was a blast to experience. There’s the pacing that may bother some out there, but I didn’t really find anything wrong with it. I wish every story was like this: extremely intriguing, extremely enjoyable, and extremely interesting.
 
-# **Writing - 10/10**
+**Writing - 10/10**
+
+# Visuals
 
 ![](./1306104798297618858.png) ![](./1306104798364933034.jpg)
 
@@ -57,13 +61,17 @@ To be specific, the backgrounds of LeMu were pretty solid, the special CG for im
 
 There are aspects that haven’t aged so well however; the sprites and the fonts have not aged that well. The sprites at times can look unnatural in the environments they are in, and the font just looks old. Really though, these won’t inhibit your enjoyment of the game at all, so it’s nothing to worry about.
 
+<iframe src="https://www.youtube.com/embed/8biltdXfwvo?si=8v3quLB5DOzkO7KA"> </iframe>
+
 > *Yes, the gif was just a snippet of this OP. Deal with it.*
 
 In 2011, 5pb & Cyberfront gave *Ever 17* a 360 only remake, and with this remake came change, mostly visual. The game is finally in glorious 16:9 HD (note that the art is just HD-ified art from the original release... that’s how well this has aged) and the backgrounds look stunning, but the visuals did take a hit when it comes to character art: the horrible 3D models. These models look bad and the people who worked on them should feel bad. It looks like early PS2 polygon work, there’s no detail in the models at all. If the sprites stood out from the visuals, these models are skyscrapers in the middle of nowhere. I personally believe that they are way worse than the sprites. These will not age well, and they should have stuck with sprites...
 
 Ignoring the remake’s horrible 3d models, the visuals in *Ever 17* have passed the test of time, and still look good today. This is a feat that many shows would dream of achieving, and it’s an aspect I enjoy.
 
-# **Visuals - 8/10**
+**Visuals - 8/10**
+
+# Sound
 
 ![](./1306104798550752170.png)
 
@@ -71,15 +79,21 @@ The soundtrack in *Ever 17* is one of my favorite soundtracks out there: it’s 
 
 The soundtrack itself overall isn’t particularly mind blowing, with most of it composed of atmospheric pieces, but it does have some standouts like Karma. The atmospheric nature is also an aspect of why the soundtrack is so good though; it’s the atmosphere, a mood, and uses its music very well. In my opinion, music in media is made to manipulate the emotions, and along with the visuals, create a feeling of existence in the world. Due to the fact that we do not exist in these experiences, these works have to try absorbing us into the world by creating an atmosphere that is engaging and a mood that interests the viewer. *Ever 17* has a soundtrack that does this atmosphere building to near perfection, and this soundtrack is a big part of that process. It really takes the writing and story up by a few levels, and creating a soundtrack like this is what every work should strive for.
 
+<iframe src="https://www.youtube.com/embed/5K5PsF5Y2dM"> </iframe>
+
 One of the best parts of this soundtrack is how it fits with the themes of the game, with a smooth, watery feel that helps make this soundtrack blend into the location. The happy and upbeat tracks like [Lemurianishce Ruine ](https://www.youtube.com/watch?v=h99YYncmzeY)sound bubbly and entertaining, the more normal tracks like [Hologramm ](https://www.youtube.com/watch?v=5K5PsF5Y2dM)sound smooth, the tracks like [Karma](https://www.youtube.com/watch?v=zkvQte7JWpw) have a serene and calming feel, yet have the feelings it intends, and the intense tracks like [IBF Notfall](https://www.youtube.com/watch?v=hMiO3ZbyxQY) are like water flooding in, with all the swiftness and dread that comes with it. Really, it’s a phenomenal soundtrack, and it’s very pleasing to the ear.
 
 Considering the age of *Ever 17,* you probably wouldn’t expect voice acting, but it’s here and it’s pretty good! The voice actors do a pretty good job portraying the characters and the emotions that come with them, which I really appreciate. The sound clips seem like they have low sampling rates and are compressed a bit, but it doesn’t really get in the way of your experience.
+
+<iframe src="https://www.youtube.com/embed/pHIJz0Op6sc"> </iframe>
 
 When 5pb decided to remake *Ever 17* in 2011, they also decided to remake the soundtrack... and it’s hit and miss. Some aspects are better, with more instruments, and cleaner sound... but a lot of the charm and smoothness from the original soundtrack is gone, which causes some tracks to sound worse in comparison (Insel null is a great example of this: [360](https://www.youtube.com/watch?v=BjVzqA41neg\&list=PL3E52C022C271E4DD\&index=1) vs [PC](https://www.youtube.com/watch?v=mmuLlROPVLo))
 
 Ignoring the crummy remixes, *Ever 17* has a soundtrack that I love. While the tracks themselves may not be the greatest thing since sliced bread, they sound nice, and the execution is stellar.
 
-# **Sound - 9/10**
+**Sound - 9/10**
+
+# Enjoyment
 
 ![](./1306104798603466410.png) ![](./v9s06u0mljd7u1yfkfcn.jpg)
 
@@ -87,7 +101,9 @@ I’m pretty sure I gushed over it enough in this review, but if it hasn’t sun
 
 Also, I didn’t think this warranted it’s own segment, but I found it interesting: *Ever 17* got a manga adaptation. It’s a pretty low budget, poorly done manga, but it exists, and the fact that it does makes me happy.
 
-# Enjoyment - 10/10
+**Enjoyment - 10/10**
+
+# Conclusion
 
 ![](./1306104798951681450.png)
 
@@ -95,7 +111,7 @@ Also, I didn’t think this warranted it’s own segment, but I found it interes
 
 If you’ve enjoyed *999* or *Zero Escape: Virtue’s Last Reward*, this is a must. You’ll love it just as much as I do. If you haven’t, you may find *999* and *VLR* more accessible, but I’d view this as a must play for you. If there was only one recommendation you would take from me from all my reviews thus far, it’s this one. Seriously. Go play this.
 
-# **Overall - 9.5/10, Polarization +.25, -2**
+**Overall - 9.5/10, Polarization +.25, -2**
 
 ![](./1306104799141230250.png) ![](./1306104799209301418.png)
 
