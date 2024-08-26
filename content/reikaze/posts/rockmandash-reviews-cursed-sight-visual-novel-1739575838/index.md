@@ -17,15 +17,21 @@ There’s something rather interesting to see (or rather, not see) when it comes
 
 Before we start this review, I have to preface this by saying that I’m rather guilty of ignoring OELVNs (Original English Language Visual Novel), usually passing it up for something made in Japan. This isn’t necessarily because I don’t like OELVNs, but because OELVNs are usually lower quality so I never really had much interest picking one up. That being said, there are always exceptions to the rules, and InvertMouse is always a dev that has peaked my interest with great visuals that buck the trend of poor quality art. I’ve seen these works and have always been curious about it, but I never really actually played through any of the works, so when that said developer has contacted me and asked me to review it, I kinda had to do it, to stop the streak of me ignoring these works, and not doing these reviews. (Also, because I mentioned it, a disclaimer: I did get this game from the devs, but this review was not paid or influenced in any way.) Time to move on to the review!
 
+# Visuals
+
 ![](./1510496597648403347.png) ![](./1510496597689451155.jpg)
 
 When I first saw this game, I was quite intrigued about it because of how the game looked, how it stood out from the crowd. This may be because I’m not all that familiar with OELVNs, but a good majority of them just don’t look that great, ranging from good to absolutely atrocious. *Cursed Sight* however, contrary to the name, is an exception to this trend, with the visuals being the highlight of the VN in my opinion. With detailed character art that looks fantastic, a unique and interesting world that distance itself from the crowd with it’s own personality, and a cohesive design that blends everything well to make a great atmosphere, this work looks pretty great. Everything about the visuals work well together to make a nice aesthetic and I really appreciated the attention of detail put into this VN throughout (my favorite touch has to be the changing of the font in specific situations XD).
 
 I do have one complaint though, which you may see as a nitpick: while not 800x600, it’s in a 4:3 aspect ratio, which is kinda recredulous to me given the world we live in. It’s 2015, and nearly everyone has a widescreen 16:9 monitor, meaning that there’s some serious letter boxing on this game for most people. I’m sure most people don’t care, but it’s something that can hinder your experience and if you asked me, leaving it at 4:3 really isn’t acceptable, so i’ll mention it. Other than that though, no real complaints.
 
+# Sound
+
 ![](./1510496597732011411.png)
 
 On the flip side of the presentation, there’s not much to say. While solid, the soundtrack in *Cursed Sight* for most part doesn’t draw attention to itself, keeping itself hidden in the background. It’s not bad, as no song got tiring to listen to and some of the tracks are actually pretty enjoyable, but it’s entirely forgettable, and if you’re not specifically looking for it, you probably won’t notice it. The usage of sound track was solid as well, with some tracks timed rather well, and others, not so much, but overall it was OK. I usually don’t touch on it, but the sound effects and other audio cues were a nice touch. Some may find the lack of voice acting a bummer, but I didn’t really mind. Overall though, the soundtrack was good but entirely forgettable.
+
+# Writing
 
 ![](./1510496598167218835.png) ![](./1510496598356966803.jpg)
 
@@ -39,11 +45,13 @@ The lack of development affects all aspects of the work: It’s the essence of e
 
 It’s also rather noticeable because of the slice of life execution, something I didn’t care for that much because it lead the writing to be a bit lost. *Cursed Sight* isn’t really a tight and focused story at times as it doesn’t have a real objective for large portions of the story and uses the day to day events as a crutch, something that is rather disappointing to see, but isn’t necessarily the end of the world. The game nails the atmosphere of the story, it has characters that are engaging and interesting, it has plot lines that could have been great, and it has a setting that was pretty good, but a rushed execution means it’s a story that’s only good instead of a story that while it could have been great. Kinda disappointing, but it leaves promise for the next attempt.
 
+# Conclusion
+
 ![](./1510496598436157843.png)
 
 The sentiment that it’s disappointing to see can extend to the whole game in general, as the game nails a lot right, and even though I have decent amount of criticism of the story, in no way am I saying it’s bad... it’s just disappointing because it could have been better. *Cursed Sight,* while triumphing over the curse of subpar Aesthetics for OELVNs, tumbles over writing issues that keep the game from greatness. If you’re in the mood for a sadder story that has good visuals and decent characters, or if you just feel like supporting the community, it’s a good time, but if not, look elsewhere.
 
-# Overall - 7/10, Polarization + 1, -1
+**Overall - 7/10, Polarization + 1, -1**
 
 ![](./1510496598508920979.png) ![](./1510496599053905811.png)
 

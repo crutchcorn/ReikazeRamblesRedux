@@ -13,6 +13,8 @@ How do you react when you see an old friend for the first time in years? *Durara
 
 ***
 
+# Writing
+
 ![](./rrxfnv1u0spytnghulet.png) ![](./w8zcdj8splmxgsbj5ir0.png)
 
 Durarara!!X2 is the second season of [Durarara](http://anitay.kinja.com/rockmandash-reviews-durarara-anime-1665959528), and we are back again for fun with a massive ensemble cast in the crazy town of Ikebukuro. Seeing a show get a sequel years after it’s aired is always nice, and brings hope that other shows may follow. *Durarara!! X2* is a show with a an ensemble cast character drama with romance, pure comedy, supernatural aspects, gang wars, and anything else you can really imagine, and while the show aims to keep up with season one, it mostly lags behind.
@@ -29,9 +31,11 @@ Last time I said that the major complaints didn’t really bother me, but I felt
 
 I’d argued in season one, because they used most of their cast really well in season one by balancing the time spent with each character, the show made it’s cast feel small. Season 2 does not do this. The characters that you know and love from season one are still a blast to watch, but mixed in with the relatively underdeveloped cast in this show, it’s hard to say the characters are a strong point for this season. The new cast is huge to the point that I think it’s too big to really get to know the new characters well to the point someone would care for them, and too big to see how our old favorites are doing, which results in a less than ideal experience. For an example, we don’t really see much of Simon from Russia Sushi throughout the season, and the only really memorable scene with him was late into the third cour, which is not a lot of time. Less characters and a better use of said characters would have gone a long way in making the show more enjoyable, as much as season one, but the ones we do spend time with are still great, and it’s still enjoyable.
 
-# Writing - 7/10
+**Writing - 7/10**
 
 ***
+
+# Enjoyment
 
 ![](./npayd7juce8uvrcjcs7h.png) ![](./l2vhndk287lkr6t0gi66.png)
 
@@ -45,17 +49,21 @@ There is one big annoyance with the experience, and while it may not matter to t
 
 Overall, *Durarara!!X2*’s written fairly well, but it’s season 1 on steroids and that’s not necessarily a great thing. While it’s still the DRRR you know and love which is rather enjoyable, It’s exposed the weaknesses of the series which can hurt your experience. The writing in this season can be a mixed bag depending on who you are.
 
-# Experience - 9/10
+**Experience - 9/10**
 
 ***
+
+# Visuals
 
 ![](./gv6jua3fnhzotwyzhxak.png)
 
 With season 2, Brains Base is out, and in is an entirely new studio, Studio Shuka. Studio Shuka is a team composed by members who worked on DRRR Season 1, but this is a new studio and honestly, it looks the part. While it’s still pretty decent, this season has a significantly rougher look than before: it’s not as polished, not as detailed, and in my opinion, not as good. It has a “sharper” look to it, with the eyes being very angled which personally bothered me, and the consistancy isn’t as solid. The art, while serviceable, could use improvement.
 
-# Visuals - 6/10
+**Visuals - 6/10**
 
 ***
+
+# Sound
 
 ![](./oatiexhx1ijvtw6ybqht.png)
 
@@ -65,9 +73,11 @@ For better or worse, the sound is one of the few aspects that haven’t changed 
 
 This doubles for the voice acting as well: we are back with the same great voice actors from S1, and they do a great job, both sub and dub. The new characters do a great job as well, as they capture the personality of the characters they are playing It’s also one of the few shows with simul-dubbing so we already have part of the dub available, and the quality is on par with the sub.
 
-# Sound - 9/10
+**Sound - 9/10**
 
 ***
+
+# Conclusion
 
 ![](./rkzhnwyqoi8dvq7c7g5u.png)
 
