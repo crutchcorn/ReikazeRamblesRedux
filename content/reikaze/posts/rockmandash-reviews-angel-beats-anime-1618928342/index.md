@@ -9,7 +9,11 @@
 
 Let’s think of a recipe for a good anime. One that might come to mind is [Key](https://tay.kinja.com/rockmandash-reviews-key-marathon-wip-1606707641) + PA Works = Greatness. Thinking about the type of stuff they made, this would be a match made in heaven, right? And considering how well said show has been been received by fans, shouldn’t it be an amazing show? Welcome to Rockmandash Reviews, and today we’ve have one of most disappointing shows in my opinion, *Angel Beats!*.
 
-![](./1248126401410316614.png)![](./1248126401483273286.png)
+![](./1248126401410316614.png)
+
+# Writing
+
+![](./1248126401483273286.png)
 
 *Angel Beats!* has a poorly executed plot, due to rushed pacing, bland characters, and a lack of what makes Key works great. It’s a Key work without slice of life, character development, an interesting cast; Without those, all you are left with is a hollow show tries to be as good as the others, but it inevitably fails at doing anything well.
 
@@ -37,13 +41,17 @@ I thought I ranted about the writing enough, but we haven’t even got to the wo
 
 The writing in *Angel Beats* is flawed, but mostly due to the execution. When you execute a plot so horribly, it’s a bad show, and it really drags the rest of the show down.
 
-# Writing - 5/10
+**Writing - 5/10**
+
+# Visuals
 
 ![](./1248126401915809862.png) ![](./1248126401990819910.jpg)
 
 I don’t think that the visuals in *Angel Beats* are something that will blow you away like other [PA Works shows](http://tay.kotaku.com/rockmandash-reviews-nagi-no-asukara-anime-1567969970), but it’s pretty good. PA Works did a great job building an world with the visuals: interesting camera shots, great lighting, and art that makes the world feel like it has depth. Other than that, Angel Beats has solid action scenes neat effects and attention to detail that I appreciated; It has amazing gradients, accurate art and a solid aesthetic design overall. There’s one thing that bothered me about the art, and that was the characters. I think that some of the characters in general look generic, and sometimes the animation and art of the characters can be rough around the edges at times. Overall though, it’s pretty good.
 
-# Visuals - 8/10
+**Visuals - 8/10**
+
+# Sound
 
 ![](./1248126402026301766.png)
 
@@ -51,7 +59,9 @@ The day Key makes something with a bad soundtrack is the day pigs sprout wings a
 
 Just as important as the quality of the soundtrack is the usage of it; In an anime, tracks need to make an atmosphere and the way the show implements the music into the show is quite poor. They reuse the same tracks for the times with tension which can have a negative impact on your enjoyment of the show and sometimes there are times where they should have some music but either there’s no music, or it’s really quiet so you don’t notice it. This soundtrack fades too much into the background, which leads many of the tracks to not be memorable, even though they are pretty good. Also, Quantity; *Angel Beats* needs more music, playing at more times. With only 25 songs, and some sounding eerily similar to others, they blur and I’d think this show would do better with more tracks. More of a good thing isn’t bad.... Hopefully we’ll get more in the VN?
 
-# Sound - 7.5/10
+**Sound - 7.5/10**
+
+# Enjoyment
 
 ![](./1248126402404622406.png)
 
@@ -65,7 +75,9 @@ The first time I watched it, this show filled me with rage. I came in expecting 
 
 Thankfully, I re-watch shows for reviews, and as you can see, the bashing did not happen to the extent that I was expecting it to. Coming in with lower expectations totally changed the way I viewed the show; I actually enjoyed this show a it, even with it’s massive flaws in writing. I couldn’t get the thought out of my head on how much of Angel Beats is a waste of potential. It could have been a lot better; maybe not *Clannad* levels of greatness, but at least *Rewrite* levels. Structurally, its sound; good production values, good basic plot (if a bit boring), lots of potential when it comes to character development, and a potential for feels. That being said, I still don’t get how people love it to death, and that still bugs me. It’s a very flawed show, and I really hope the VN fixes all the issues I have.
 
-# Enjoyment - 6.5/10
+**Enjoyment - 6.5/10**
+
+# Conclusion
 
 ![](./1248126402503096646.png)
 
@@ -73,7 +85,7 @@ Coming in without expectations enables me to be a bit more rational about it, an
 
 If you want another, more positive perspective on this show, check out my fellow AniTAYer [Dex’s review](http://tay.kotaku.com/dexs-review-angel-beats-1490745497) on it.
 
-# OVERALL 6.5/10, Polarization +3, -.5
+**OVERALL 6.5/10, Polarization +3, -.5**
 
 ![](./ryu2umcslovrcs9oaee5.png) ![](./1248126402668862790.png)
 

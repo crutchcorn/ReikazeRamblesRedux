@@ -53,11 +53,13 @@ The tone of a show is a very important element of a show, something that can mak
 
 There's a lot of stuff never answered in Nanana. Why is Nanana in that room in the first place as a ghost? How did Nanana create all of these puzzle rooms and find all the treasures? How does she remember so much about them? How does Nanana have so many games when she doesn't do anything? What is Juugo's motivations for doing what he does? Who were the other people Nanana knew that helped develop the island? The list goes on and on. Forgetting things you mention is a sign of bad writing, and they are all over the place. Don't get me started on the ending, where they just said fuck it after a random battle and called it a season. That thing they call an ending... is just a joke, and just leaves you absolutely confused because they don't explain like half of the things in the plot.
 
+# Conclusion
+
 ![](./776129446382486819.png)
 
 This show can be a lot of fun, and it can be very epic. You may come out of this show loving every bit of it, or hating it. The fact that it's shooting itself in the face and ruining any interest you might have in the plot is a painful experience to watch, but when done right, it's done very well. If this was two separate shows, it would be the greatest thing since sliced bread. But it's not. As such, I leave you with a warning with this show; you will love it, or hate it. Personally, It left a bitter taste in my mouth.
 
-# Overall 6/10; Polarization +2 -2
+**Overall 6/10; Polarization +2 -2**
 
 ![](./onvvq2rncayuezydvvzx.png) ![](./781456388431872805.png)
 

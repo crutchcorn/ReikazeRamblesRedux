@@ -59,11 +59,13 @@ The cherry on top of this show is that they end almost EVERY episode on a cliffh
 
 Mekakucity Actors is the prime example of what I want a show to be like, on paper at least. Great and interesting characters, neat visual style, with good with a solid animation studio. Watching it though, is a completely different story. Simply put, I didn't enjoy this show, due to the horrible information management, and all the gripes I wrote in this review. Even with the interesting premise of the Mekakushi Dan, the show still manages to fail due to the lack of plot development. You never see the Mekakushi Dan do jack shit, and they are together for only like half the show. The rest of the show is just exposition of their pasts, which is not what I came to watch this show for. I came into this thinking this would be the perfect show for Shaft. After watching it however, I think that Shaft was absolutely the wrong studio to do this show, as everything they do well detracts from the story, and just ruins it.
 
+# Conclusion
+
 ![](./776963281152882090.png)
 
 This show is bad. Stay far, far away. It had an interesting idea with a great cast, but was ruined by source material, bad directing, and a combination of other factors. If anybody had any idea what happened while watching Mekaku, i'll applaud you, but I'm pretty sure you didn't understand it at all, which was really the biggest problem. I sure didn't. They fucked it up, so please don't watch it. If you are that much a die hard shaft fan, go ahead, but it's not going to be a fun trip.
 
-# Overall 5/10, Polarization +2.5, -1
+**Overall 5/10, Polarization +2.5, -1**
 
 ![](./arpoqlamehbbxwaxmpxy.png) ![](./776974089378216623.png)
 

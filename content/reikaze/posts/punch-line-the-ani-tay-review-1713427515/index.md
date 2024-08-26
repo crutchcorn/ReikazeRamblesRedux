@@ -105,11 +105,13 @@ I was pretty exited to see another *FLCL*-like absurd show that does not give a 
 
 ***
 
+# Conclusion
+
 ![](./1313950705304356453.png) ![](./1313950705382471269.png)
 
 *Punch Line* is an odd show, acting like an ecchi show turned *Zero Escape: Lite*, taking everything Uchkoshi typically does well and watering it down to fit the type of show it is, but not at the same time. Of course, because it’s an Uchikoshi work the writing is as great as usual, it’s fun to go through and the plot is engaging, but there’s some core issues that may keep you from enjoying this show. Personally? I liked it for the most part, but was kinda disappointed in some aspects. Your mileage may vary.
 
-# Overall - 8.25/10, Polarization +1, -2.75
+**Overall - 8.25/10, Polarization +1, -2.75**
 
 ![](./1313950705503707237.png) ![](./1313950705666991717.png)
 
