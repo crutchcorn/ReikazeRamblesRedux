@@ -15,7 +15,7 @@ Now here’s a game that lives and dies on the concept alone. It’s a game that
 
 There’s only one reason why you would buy this or play this at all. That one reason, is that this game has a novelty factor that’s just insane. This is a visual novel about GOING TO JAPAN... IT’S A VISUAL NOVEL... ABOUT GOING TO JAPAN. LET THAT SINK IN. Common, that’s just mind boggling and insane. the execution and everything just make the novelty factor great, which is great because this is the only reason why your even playing it in the first place.
 
-## Novelty - 8/10
+**Novelty - 8/10**
 
 ![](./llnwr7bpvprbpdmp9qgc.png)
 
@@ -25,13 +25,13 @@ If you were expecting AAA writing from a game that’s about visiting japan... w
 
 ![](./xkv70zrcccvcb1mxfiyd.jpg)
 
-## Writing - 4/10
+**Writing - 4/10**
 
 # Length
 
 The Time/Entertainment ratio is really low. This game has a total length of 2 hours. TWO HOURS. Let that sink into you. You can finish this in one sitting. And that’s playing through the whole game, going to a total of SIX locations. this game is way too short, and Anybody who accepts this is long enough needs to be strangled.
 
-## Length - 2/10
+**Length - 2/10**
 
 # Information dump
 
@@ -44,19 +44,22 @@ This game is a tour guide. The game dumps a ton of information about the issue..
 
 Pretty much most of this game is an info dump, and I found this annoying. I’ve learned a bit from it, but doesn’t make up for it all my facepalming.
 
-## Information Dump - 4/10
+**Information Dump - 4/10**
 
 # Low budget assets
 
 This game screams low budget. From the about 3 songs played, to the little variety in character frames..... Ugh this game is meh. In both aspects, Go Go Nippon! is lacking. It doesn’t have enough music, there’s not enough art, and they aren’t that great in either category. The music is pretty meh, and visuals are average at best. It’s so generic....
 
-## Presentation - 5/10
+**Presentation - 5/10**
+
+
+# Conclusion
 
 ![](./zcq4pa1olfdfpyosawrn.png)
 
 Go! Go! Nippon! is a game you play because you saw it from Game Grumps or something like this. It’s a really bad game with a really good concept. Maybe next time? **This game really does hinge on whether you like the concept or not,will determine my recommendation or not.** If you like the concept, proceed with caution as the writing is pretty bad. If you don’t, avoid this with all your power. I give this a Rockmandash Regrets and a 4/10.
 
-## OVERALL - 4/10
+**OVERALL - 4/10**
 
 ![](./afmo2x9ocb6i3mgkxskd.png) ![](./rdeyuhbikwrb1dycxjt1.png)
 

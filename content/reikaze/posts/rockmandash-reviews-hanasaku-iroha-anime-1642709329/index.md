@@ -11,6 +11,8 @@
 
 Even though I write a lot of reviews on anime, there are so many shows I haven’t seen. When Dex put *Hanasaku Iroha* in the Also Recommended section of the end card for our [*Glasslip* review](http://anitay.kinja.com/glasslip-ani-tay-review-and-discussion-1641880502) and I saw how much people liked it in the comments, I thought now would be a good time to check it out. Welcome to Rockmandash Reviews, and today we have a *Hanasaku Iroha*: a great PA Works show written by Mari Okada.
 
+# Writing
+
 ![](./1248085436049238445.png)
 
 Mari Okada is an amazing writer, and *Hanasaku Iroha* is yet another example of her great writing. The perfect balance of day to day activities, character interactions, interesting events, and well developed themes is really a sight to behold; this show is written well, and this balance will keep you interested.
@@ -31,7 +33,9 @@ The interactions between the characters is one of the strong points of *Hanasaku
 
 If I had to say there was any flaws with this show, it has 2 of them: the middle parts of the show where it falls into the typical event-of-the-week type of show, and the direction at the beginning which was unclear. Both of these cause the plot and themes to falter, but the interesting interactions between the characters kept me watching. Really, Mari Okada is a stellar writer and this is another example why. It had good pacing, and it was entertaining throughout the show, especially at the end. It was a slice of life done right, and it shows that an interesting setting with interesting characters can go a long way.
 
-# Writing – 9.25/10
+**Writing – 9.25/10**
+
+# Visuals
 
 ![](./1248085436234760109.png) ![](./1248085436276489389.jpg)
 
@@ -39,29 +43,31 @@ I can pretty much copy and paste this segment for PA Works shows at this point: 
 
 I normally don’t really touch on them, but I thought that the character designs in *Hanasaku Iroha* were quite great because the characters have designs that work with their personalities. Ohana in general had a great design: Her hair with the flowers look amazing, no matter the expression she has on her face it’s pleasing to the eye, and the design really fits with her personality.
 
-# Visuals – 9.25/10
+**Visuals – 9.25/10**
+
+# Sound
 
 ![](./1248085436321461677.png)
 
 It goes without saying that *Hanasaku Iroha* has great soundtrack... but there’s one big thing that separates this soundtrack from the other PA Works soundtracks: subtlety. The soundtrack in *Hanasaku Iroha* is made to compliment the mood, not to make the mood or atmosphere. Once you finally notice the soundtrack, you’ll be pleasantly surprised as it has well composed tracks, it utilizes a wide variety of instruments, it’s pleasing to the ear and it’s pretty great overall. As for voice acting, it’s pretty solid, but I’m not really an expert when it comes to voice acting so I can’t say much about it.
 
-# Sound - 8.5/10
+**Sound - 8.5/10**
+
+# Enjoyment
 
 ![](./1248085436352335533.png) ![](./1248085436394128301.jpg)
 
 Normally, with Okada stories, I have strong opinions on the stories she writes. With *Hanasaku Iroha*, that’s not really the case. I’ve been saying it throughout the review; this show is very subtle and what it’s trying to do, and this subtlety is something that makes me appreciate the show after the fact more than while watching it. It gives it a feeling that this show was more planned than others, and I liked that. However, this can be a flaw; the show was thoroughly enjoyable and found it to be great… but it doesn’t have the passion I usually feel when dealing with Mari Okada works. I missed that, and I’m not exactly sure what to think of the change, but I don’t think that’s the point with this show. This was a show that set out to be an enjoyable slice of life and a feel good show, which it certainly does. It’s kinda like the [Anti-Sakurasou](https://anitay.kinja.com/rockmandash-rambles-sakurasou-is-the-first-romantic-co-1603256720) in execution, but they share a lot of similarities otherwise. It’s an enjoyable ride that you’ll appreciate, but it’s not a story that’s memorable because of the emotions it inflicted on you.
 
+**Enjoyment - 8.5/10**
 
-
-
-
-# Enjoyment - 8.5/10
+# Conclusion
 
 ![](./1248085436435165869.jpg)
 
 *Hanasaku Iroha* is a great show, but for reasons I did not expect. It’s one of the best slice of life shows I’ve seen, with a feel good attitude and subtlety that’s been forgotten in many shows. It does a lot right, and while it may not have the passion that I typically think of when I think of a Mari Okada work, it was still enjoyable, and I would definitely recommend this one.
 
-# Overall - 9/10, Polarization +.25, -1
+**Overall - 9/10, Polarization +.25, -1**
 
 ![](./k9vncdimctgafjn2g1fu.png)
 
