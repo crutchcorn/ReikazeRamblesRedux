@@ -15,6 +15,8 @@ Even though it’s being overshadowed by other VN releases, I’d say so, as it�
 
 ***
 
+# Writing
+
 ![](./1513818381376775973.png) ![](./1513818381435805733.jpg)
 
 The premise is rather strong: In the beautiful Manten Aquarium, there lies something deeper under the beautiful tranquil surface that it has, a tragedy that our main character Mayumi has been avoiding for years. You see, 5 years ago, her younger sister Mari mysteriously disappeared in this aquarium, and Mayumi’s life hasn’t been since... but thanks to her best friend Himeno who is determined to learn about the rumors that are spreading, Mayumi heads back to this aquarium. What awaits Mayumi however is nothing but horror, a twisted aquarium with everything she has to face and more, with everything out for lust and logic defying feats of insanity happening all over the place.
@@ -41,6 +43,8 @@ So, even though while this story is an absolute mess in structure, *Sound of Dro
 
 ***
 
+# Visuals
+
 ![](./1513818381613081637.png) ![](./1513818381685120805.jpg)
 
 When I read that the developers of this game aiueoKompany were indie, I was honestly surprised by that given the quality of the game and the visuals. *Sound of Drop* looks absolutely fantastic for an indie VN, and pretty much every aspect of it shines here: it has great backgrounds and absolutely beautiful artwork overall, detailed character art, CG that is varied and really adds to the experience, nice UI elements, a well done font, and the game is always a treat for the eyes. The best part about the visuals have to be how consistent and cohesive they are, helping to create an amazing atmosphere that really gets you sucked into the game. Really though, nothing but praise for the visuals of the game though, as it was done very well.
@@ -49,11 +53,15 @@ One odd thing I want to mention though is that unlike most VNs which is complete
 
 ***
 
+# Sound
+
 ![](./1513818382421624357.png)
 
 As a game with sound in the name, one would expect a certain level of quality or amount of focus on that element. With *Sound of Drop*, the game continues to impress as it definitely delivers in the quality department, with one of my favorite soundtracks from a VN that i’ve heard in a long time. No seriously, *Sound of Drop* has a great soundtrack, with it’s extremely atmospheric and moody tracks that get you absorbed into the game and are a joy to listen to, bringing the game up to another level in enjoyment. The usage of the tracks and effects are great as well, and everything melts together to make a great package that compliments every element of the game. That being said, some people may be bummed that there is no voice acting, but I wasn’t bothered by it and the music experience was still great regardless.
 
 ***
+
+# Experience
 
 ![](./1513818382609550117.png) ![](./1513818382678004517.jpg)
 
@@ -69,11 +77,13 @@ Also, the changes with NG+ were absolutely amazing, being touching, tense, engag
 
 ***
 
+# Conclusion
+
 ![](./1513818382897762085.png)
 
 *Sound of Drop - fall into poison* is a flawed game that has traits that are normally game breakers, but manages to do other things like having a great sense of tension in it’s atmosphere to keep it an engaging and enjoyable experience. Even with it’s flaws though, I wholeheartedly recommend it to anyone as it’s a horror game that’s moving and engaging, one that is definitely worthwhile to play and doesn’t deserve being overshadowed by others like it is.
 
-### Overall - 8/10, Polarization +.5, -1
+**Overall - 8/10, Polarization +.5, -1**
 
 ![](./1513818382954080805.png) ![](./1513818383371188261.png)
 
