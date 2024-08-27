@@ -9,11 +9,15 @@
 
 Welcome to Rockmandash Reviews, and this is my review of the highly regarded *Muv-Luv* Visual Novels made by Age. *Muv-Luv* is a series that defies expectations, manipulates your emotions, and justifies it’s place at the top of VNDB as these games are some of the best in the genre.
 
-![](./dawudqmpimngnkpxt2zq.png)![](./s40vq1fern1w15s5myxf.png)
+![](./dawudqmpimngnkpxt2zq.png)
+
+# Writing
+
+![](./s40vq1fern1w15s5myxf.png)
 
 Even though there are 2 Visual Novels in the series: *Muv-Luv* and *Muv Luv Alternative,* there are 3 Arcs of this series that are very different from each other but are all very integral to the plot. The 3 Arcs are Extra, Unlimited, and Alternative, and I’m going to talk about them one at at a time, for the sake of convenience.
 
-# Extra
+## Extra
 
 ![](./oqrfsprr74mgj7hihkyx.png)
 
@@ -23,7 +27,7 @@ For those of you who aren’t a fan of the genre, and aren’t particularly used
 
 The game really engages you with the world that surrounds Takeru: get to know how his close friends and accentuates act, and you get used to this nice, peaceful world that is in Muv Luv....
 
-# Unlimited
+## Unlimited
 
 ![](./c9td9wjp1yjdoyawynvp.png)
 
@@ -31,7 +35,7 @@ The game really engages you with the world that surrounds Takeru: get to know ho
 
 Unfortunately, *Muv-Luv Unlimited* has one huge flaw that keeps it from being something spectacular… Unlimited does a weird balancing act between the slice of life of *Extra* and the seriousness that is *Alternative* and ends up too lighthearted to it’s determent. In every aspect of *Muv-Luv Unlimited*, everything is a bit too lighthearted: from the atmosphere, to the pacing, to the writing in general. There is absolutely no sense of urgency, which is ultimately frustrating, but the arc squanders those ideas thanks to this imbalance. The atmosphere and tone of a game is very important, and *Unlimited* is an example of what goes wrong when you don’t pay attention to them. Ultimately, it’s done in this fashion to make alternative better, being a key part of the coming of age for Takeru, but as an arc itself, it doesn’t live up to it’s potential.
 
-# Alternative
+## Alternative
 
 ![](./711978557808876072.jpg)
 
@@ -51,15 +55,19 @@ Plot wise, *Muv-Luv Alternative* is a military invasion story similar to the pop
 
 The writing in this game is absolutely phenomenal, manipulating the player in ways they have not been manipulated before. If [*G-Senjou no Maou*](http://tay.kotaku.com/g-senjou-no-maou-the-tay-review-1524540625) is a roller coaster of a plot, then *Muv-Luv* is a road trip; beautifully showing you the world at the pace you want to go, getting you absorbed, and getting you attached to the plot. I wouldn’t say alternative is the best story ever; it’s not in my opinion. It is however, one of the best stories I’ve ever experienced. It’s does everything you would want in this setting, and does it very well.
 
-# Overall
+## Overall
 
 It’s hard to sum up *Muv-Luv* as a whole, because there’s so much variance between the arcs. That being said: *Muv Luv* has some of the highest highs in the medium, with *Alternative* being 20+ hours of highs. Even though there are lows in the form of *Extra* for some, the better arcs absolutely overshadow the negative arcs, especially because of how well Alternative uses every element of your experience and integrates it into the story. *Muv-Luv Alternitive* is one of the best experiences you’ll ever find in this medium, but if you want to play Alternative, you will have to go through quite a bit lows to get to the better parts of the series.
+
+# Characters
 
 ![](./vz3lznnkicy1ulskzedu.png) ![](./lfxpinmfwkxiqya5nek7.jpg)
 
 The cast is the highlght of the series. You follow the main character, Takeru Shirogane. At first Takeru is your typical high school student with a carefree and kinda mean attitude, but as you go through the game, you see him develop into a meaningful character, one who understands others, and becomes a mature person. He does an excellent job as a representative of the player, as he’s the only character you can relate to. He’s a great main character, and he’s probably the character I’ve been most attached to in any medium **ever**.
 
 Because *Muv-Luv* starts out as a dating sim, there are plenty of heroines, but moreso than the strengths as individuals, it’s remarkable how the player gets attached to them as a whole. Even with a large cast, all the characters are written absolutely fantastically and they all have a reason for being there. They are all extremely fleshed out with interesting back stories, interesting personalities, etc. Because of your situation in *Unlimited* and *Alternative*, the game really creates a feeling like you are in a squad, and it’s icing on the cake. All the characters are written well, and they make the world feel real, and they are the best part of the series.
+
+# Presentation
 
 ![](./xyvfvrnqibduhegdbgaz.png) ![](./s3ugp2m70deowgbl9t32.jpg)
 
@@ -75,6 +83,8 @@ Alternative does a little bit better in this aspect and when you launch it up, b
 
 The character art, UI, voice acting and aesthetics in general are pretty much the same throughout the games. In general, art is just average and there’s no getting around that, but it has it’s charms and it can grow on you like it has done for many. The visuals never actively hinders the experience, but it’s rarely top of the class. The voice actors are the same in all games and they do a pretty nice job in all of them.
 
+# Enjoyment
+
 ![](./gp4teohnljwo2kgs0xm7.png)
 
 Normally, I’d just write a few paragraphs about my personal enjoyment of the game, but Muv-Luv is an experience unlike anything else, and as a result it deeply resonated to me, to the point in which keeping my thoughts contained here would do it a bit of injustice. I whole [opinion piece on my experience with Muv-Luv](https://rockmandash12.kinja.com/rockmandash-rambles-why-i-loved-muv-luv-but-you-might-1566859006) but if that’s too long for you, I’ll say it here: It’s phenomenal and I love it.
@@ -89,6 +99,8 @@ Normally, I’d just write a few paragraphs about my personal enjoyment of the g
 
 \*\*\* this applies for the FanTL and if you get the 18+ patch for the localized version, but the localization actually does a great job in avoiding these once thought to be essential elements of the story.
 
+# Anime
+
 ![](./k28rkscvtlmwq7npsyej.png) ![](./bkpnd3fdqxd9ecbdlumg.png)
 
 There’s some Muv-Luv Anime Spinoffs worth mentioning here: [*Total Eclipse*](http://tay.kotaku.com/preview/rockmandash-reviews-muv-luv-alternative-total-eclipse-1585812547?rev=1401861401) and [*Schwarezmarken*](https://anitay.kinja.com/schwarzesmarken-the-ani-tay-review-1766320077), read these if you are interested.
@@ -99,11 +111,7 @@ I love *Muv-Luv*. It has it’s ups and downs, but it’s a prime example of why
 
 Also, if you want another opinion, check out Dexomega’s reviews on [*Muv Luv*](https://anitay.kinja.com/muv-luv-the-tay-review-1541968420) and *A*[*lternative*](http://tay.kotaku.com/muv-luv-alternative-the-tay-review-1546183909).
 
-
-
-
-
-# Overall - 9/10, Polarization +1,-3
+**Overall - 9/10, Polarization +1,-3**
 
 ![](./gobehtkn7tc67v0tqrt0.png) ![](./yuggwq82whstiyquzqxb.png)
 

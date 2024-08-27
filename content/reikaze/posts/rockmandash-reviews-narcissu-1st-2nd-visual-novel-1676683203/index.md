@@ -11,6 +11,8 @@
 
 I spend a lot of time talking about being attached to a story and why it’s important. Today on Rockmandash Reviews, we have *Narcissu*, an indie Visual Novel that is a great example of this; It’s a short but powerful VN which focuses on the story of those who’s only future is death, moving the player in ways they would never expect.
 
+# Writing
+
 ![](./1248076395286327909.png) ![](./1248076395372061029.jpg)
 
 > First screen in the game. Yup.
@@ -37,11 +39,13 @@ That being said, the soundtrack is still a soundtrack, and it does everything an
 
 Keeping the aspects of the presentation in mind, you can see how the presentation supports the story: The show the emotion, helping to put you into the viewpoint of the main characters themselves, reinforcing that feeling of attachment. The sound creates an amazing atmosphere that plays with the themes while doing amazing world building and moving you along with the tone of the story. It’s a perfect blend of story and assets, and it makes for a great experience where you are hooked into the story... and hooked I was. Starting the game up at 10 PM, then looking at the clock and seeing that it’s suddenly 3 AM is a feeling that I love from VNs, and this one nails it. It was a thrilling, intriguing and entertaining experience that I could not help but love.
 
+# Conclusion
+
 ![](./1248076395655272293.png)
 
 *Narcissu* is a wonderful and captivating experience that is unlike any visual novel out there. It’s written well, it’s presentation is unlike anything else, and it’s just a great ride. Really, what are you doing still reading this review? This is a visual novel that I would recommend to anyone and considering that it’s free on steam thanks to Sekai Project, you should be downloading it now.
 
-# Overall - 9/10, Polarization +1, -2
+**Overall - 9/10, Polarization +1, -2**
 
 ![](./gnb8bvcdmz7xupdui4p5.png) ![](./1248076395771516517.png)
 
