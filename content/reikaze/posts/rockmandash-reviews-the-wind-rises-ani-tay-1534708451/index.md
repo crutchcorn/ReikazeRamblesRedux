@@ -55,11 +55,13 @@ The Wind Rises has an inevitable fact that will linger on and might influence yo
 
 I hate mainstream media. This movie, intensifies this. Along this movie comes a wave of controversy because it's a more mature plot, and the fact that it's made in memory of the designer of the Mitsubishi Zero, the airplanes Japan used in WWII. This fact is actually an important plot point in TWR, as Jiro is just a guy who wanted to make beautiful airplanes, but the government had other thoughts. The controversy annoyed me to no end... just enjoy a movie as is; it was a great movie. If you watch it, it gives a very pacifist message, but most people coming in will not expect this. Also, a lot of people equate Ghibli to children friendly (obviously they have not watched Grave of the Fireflies...), but this is anything but that. The older you are, the more you will enjoy this.
 
+# Conclusion
+
 ![](./19hbdm8i4te7gpng.png)
 
 The Wind Rises was a fantastic movie. If you are a fan of Ghibli, you will love this movie. It has all the charm you expect, but it also has an amazing and mature plot. Along with Spirited Away, this is my favorite Ghibli film. I loved it, and I think you will too. **GO AND WATCH IT NOW**. You owe it to yourself to see this, and I'm sure you will love it just as much as I did.
 
-## OVERALL - 9/10
+**OVERALL - 9/10**
 
 ![](./emtii57z4isyjajdswa4.png) ![](./19hbdm4jxqjh2png.png)
 
