@@ -17,6 +17,8 @@ While Visual Novels usually slow affairs with either meticulous writing or Slice
 
 Also, for those who would rather not read, here’s a video review! That being said, it’s based on an older version of this review and game (instead of the official release in the west by Sekai Project), so please keep that in mind as you watch through it. If you want to hear my current thoughts however, continue on :)
 
+<iframe src="https://www.youtube.com/embed/UdcNZkhvqqk"></iframe>
+
 ***
 
 ![](./1529558210885106248.png) ![](./1529558210926076232.png)
