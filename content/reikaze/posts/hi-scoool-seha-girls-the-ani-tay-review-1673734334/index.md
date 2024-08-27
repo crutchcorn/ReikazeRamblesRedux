@@ -37,6 +37,8 @@ Personally, I loved this bit here where they show the genesis and she's dressed 
 
 # The Presentation
 
+<iframe src="https://www.youtube.com/embed/6mERS8UM12c"></iframe>
+
 Were you really expecting anything here? The show uses cheap CG throughout most of the show, which helps cut costs and blend the characters more seamlessly into the games. but it's really nothing special. The games are produced faithfully, and the models of the main characters are pretty nice at times, but it all has that cheapy look to it. Shouldn't really hinder your enjoyment of the show though. As for the music and voice acting, average job overall.. but that OP Music... it's so catchy....
 
 # It's Exactly What It Says on the Tin

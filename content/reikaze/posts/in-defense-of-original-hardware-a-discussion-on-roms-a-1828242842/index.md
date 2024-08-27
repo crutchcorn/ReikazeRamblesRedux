@@ -45,6 +45,8 @@ The reason so many people flock to solutions like Emuparadise is simply put beca
 \
 Seeing these games go down is a bummer because the industry hasn’t done a good job of archiving games - if every NES, SNES, N64, SMS, TG16, GEN, SAT, DC, etc game was available on like the Switch eShop for an example, I doubt many people would be nearly as upset as they are now. These games are a key part of the history that this industry builds, and to see them be that much harder to access is a tragedy.
 
+<iframe src="https://www.youtube.com/embed/ffngZOB1U2A"></iframe>
+
 That being said, game preservation doesn’t necessarily go hand in hand with piracy and piracy shouldn’t be looked at as the only method of preserving these games. Companies like GOG put a lot of effort to make abandonware up to date and available legally, and if you aren’t familiar with what they’ve done, check out this documentary out if interested. Here’s hoping that groups like Emuparadise use this opportunity to make console games more accessible on modern platforms, to keep the idea of game preservation alive, in a more legal manner.
 
 ***
@@ -62,6 +64,8 @@ While some poorly sold cult classics games like *Snatcher *and *Earthbound* are 
 ![](bfk7bsghfidntb7pf9ft.png)
 
 Playing your original games isn’t really an issue too: If you don’t mind emulation, there’s great systems like the [Retron 5](<https://smile.amazon.com/Hyperkin-RetroN-Console-not-machine-specific/dp/B00DZIX3CQ/ref=sr_1_1?ascsubtag=db64892324f1887fb0bcf2f0663ff39fc21261d7\&ie=UTF8\&keywords=retron 5\&qid=1533878649\&s=videogames\&sr=1-1\&tag=kinja-20>) that’ll allow you to play multiple systems in one box in HD, and if you’re a sucker for original hardware like me, then those aren’t all that expensive either: A Sega Genesis costs about 20 bucks to get, a PS2 costs about 50 dollars, a Dreamcast costs about 40 dollars (Everyone reading this, buy a Dreamcast it’s great), etc.
+
+<iframe src="https://www.youtube.com/embed/LOSQgBEf5ac"></iframe>
 
 If you’re worried about these consoles failing because of their age, I really wouldn’t be - first of all these consoles are pretty reliable or can be repaired for fairly cheap, but more importantly many people in the retro community are hard at work trying to preserve these consoles. With the older consoles, a lot of work has gone into what we call FPGA consoles - these are systems that can perfectly replicate the way that the original hardware worked and pipe them out in glorious HD. For newer, CD based systems, many groups have made alternatives to CDs that allow you to load games on hardware that’s less prone to failure: you can run games off of an SD card for TurboGrafx 16 through the [SuperSD System 3](https://shop.terraonion.com/en/pc-engine/12-super_sd_system_3-pc_engine.html), the Saturn has [Rhea](https://gdemu.wordpress.com/installation/rhea-installation/)/[Phoebe](https://gdemu.wordpress.com/installation/phoebe-installation/), the Dreamcast has [GDEmu](https://gdemu.wordpress.com/), the GC has [SD Gecko](https://www.gc-forever.com/wiki/index.php?title=SDGecko), while the Xbox, PS2, Wii, Wii U can run HDD games through softmodding. There’s also companies like [Polymega ](http://polymega.com/)hard at work trying to make systems that include disk drives that are capable of running these games you know and love.
 
