@@ -9,7 +9,11 @@
 
 As I was starting this review marathon, I saw that first [Rewrite](http://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1516111258) review could use some improvements; I figured that this marathon was a perfect opportunity to fix that. Welcome to Rockmandash Reviews+, and this is my **REWRITTEN** review of *Rewrite* for the [Key Marathon](http://tay.kotaku.com/rockmandash-reviews-key-marathon-wip-1606707641), so be prepared to rewrite your expectations, as this game is quite different than what you would expect from Key.
 
-![](./1395906708261334600.png)![](./1395906708391215432.png)
+![](./1395906708261334600.png)
+
+# Writing
+
+![](./1395906708391215432.png)
 
 When people experience something, they have to judge things based on prior experiences. This is what is normally referred to a bias, and a bias can lead to interesting experiences. A bias can lead to hype backlash, or in this case, it can lead you to an experience that would be the exact opposite of what you would expect. If you have ever played a Key game, *Rewrite* will tear down your expectations and offer you an experience unlike you would ever expect.
 
@@ -37,7 +41,9 @@ What we got was good, but it was not what I would expect from key. The writing f
 
 ![](./1395906708559835720.jpg)
 
-# Writing - 8.5/10
+**Writing - 8.5/10**
+
+# Visuals
 
 ![](./1395906708672304200.png)
 
@@ -45,19 +51,25 @@ I welcome you Visual Novels, to the modern world. Finally! We have Glorious **WI
 
 ![](./1395906708827448648.jpg)
 
-# Visuals - 7/10
+**Visuals - 7/10**
+
+# Sound
 
 ![](./1395906708871404104.png)
 
 Key cannot screw up music. If they ever released a game with bad music, it would be the equivalent of pigs flying. *Rewrite* has a soundtrack that builds an atmosphere and supplements the world that very few have approached in quality, and few will ever approach. Every song in this soundtrack has a reason: these tracks create a world that feels well developed, and they makes scenes so much better. The soundtrack gives the feeling of mystery, of scope, of calm, and it’s all great to listen to. While a lot of it is atmospheric tracks, they are some of the best atmospheric tracks you will ever hear, making an atmosphere that is so amazing that you’ll fall in love with it. It’s a soundtrack that enhance the story in every way, it’s one of those soundtracks that will leave an impression on you just because of how great it is, and you’ll never get sick of it. Seriously... I’ve listened to this soundtrack over and over again and I’ve never gotten tired of it. There’s so many amazing tracks in this soundtracks, it’s almost absurd. Rewrite has a large variety of music, with a large quantity of it, so quality isn’t a problem either. The voice acting is just as excellent, with all the characters just sounding like you would expect. It’s one of the best soundtracks Key has ever made and one of the best I’ve listened to. Bravo.
 
-# Sound - 10/10
+**Sound - 10/10**
+
+# Enjoyment
 
 ![](./1395906708912968520.png)
 
 *Rewrite* is an enjoyable game. It has a great sense of humor ( [the oppai route is hilarious](https://www.youtube.com/watch?v=rcFn3FVJLmk)), with the common route is really solid when it comes to keeping a smile on your face, and even though the serious parts of the plot might slack off with the humor, they are entertaining in their own way. *Rewrite* is a enjoyable and entertaining ride, one I hope others give a shot. The fluctuating quality of the character routes might hinder your experience though, but it’s really worth it to get to that amazing Terra route.
 
-# Enjoyment - 8.5/10
+**Enjoyment - 8.5/10**
+
+# Conclusion
 
 ![](./1395906708965265736.png)
 
@@ -65,7 +77,7 @@ Key cannot screw up music. If they ever released a game with bad music, it would
 
 Also, if you want another perspective on *Rewrite*, check out [Hitokiri\_Ace’s mini-review](http://tay.kotaku.com/visual-novel-micro-review-rewrite-739587075).
 
-# Overall - 9/10, Polarization +.5,-1
+**Overall - 9/10, Polarization +.5,-1**
 
 ![](./1395906709042435400.png) ![](./1395906709088086344.png)
 

@@ -17,6 +17,8 @@ If you want to watch this instead of read this article, you can see it in video 
 
 ***
 
+# Writing & Experience
+
 ![](./vq8lodjilgrio7ixssrs.png) ![](./je7y9lxsd6i3dunezkyk.jpg)
 
 Let’s get this out of the way: *Root Double* is a well-written work and definitely one of the best VNs available in the west (or on Steam), but this is almost to be expected—something you could have figured out if you looked into the staff of this work. With a great premise, interesting twists, well developed characters, and a phenomenally executed final route, this is definitely a Visual Novel that has a story that shouldn’t be missed, but before you start playing this game, you should know this fact about it: *Root Double* is a work that actively prioritizes the writing, but is fixated on its goal of making a great story to the point that the decisions it makes can hinder one’s experience of the work.
@@ -47,6 +49,8 @@ In this context, *Root Double* is an interesting work: it does a lot right in th
 
 ***
 
+# Gameplay
+
 ![](./tus88qzgslefphmoipea.png) ![](./vrejuzf8btkxdzalemys.jpg)
 
 While most Visual Novels have very limited gameplay in the form of selecting options, *Root Double* does a bit more than through the [Senses Sympathy System](http://www.siliconera.com/2016/04/28/guide-story-emotion-not-choice-root-double-crime-days-xtend-edition/), which is (as mentioned previously) a form of gameplay that integrates the themes of trust into your decision making process. On the top-right corner, there exists a little hexagon for this system whenever you need to make a choice, and whenever you use it, you need to dial a sense value on a slider based on how much you trust each character and how much emotion and awareness you think the characters need to have. While doing this, you also need to consider the importance of the decision, which is indicated by the color of the lines, with blue being not that important, yellow being a caution and red being a life or death situation. That being said, while it’s well-integrated into the game, looking nice and adding to the story, as an aspect of gameplay, it is essentially a glorified and overly-convoluted choice system that is more frustrating than enjoyable. This is due to some flaws that are fundamental to the nature of the system; attributes that make it unclear what you’re doing. You are just picking a value from min to max, you never have any idea on what your value does, and it’s flat-out inconsistent at times, combining senses, emotions, trust, et cetera, into one system in a way that is impossible to know what any of it does. This makes the decision-making process flat-out frustrating at times, and while this system seems cool from an outside perspective or a story perspective, it’s another example of story over experience, a frustrating system that *Root Double* probably would have been better without (and kinda is, given that you can go through regular decisions after you finish the true routes of the respective route you want to go through).
@@ -67,6 +71,8 @@ They’re all solid routes and the way they interact together structurally is so
 
 ***
 
+# Presentation
+
 ![](./xfe1xq0xkdw8x2jrilsk.png) ![](./ocjlfnt2xoceji3sudfc.jpg)
 
 *Root Double*, as a work that focuses solely on the story, has a presentation that serves to present the story to you; nothing more, nothing less. At no moment in time can you point to *Root Double* and say that it looks particularly bad, but I’d be hard-pressed to say that it was overly impressive, either. (There’s a few scenes that come to mind, of course). In general, the issue with this game is that it’s not all that inspired when it comes to visuals, serving up a nice, but uninspired, anime style. Given that *Root Double* was made in 2012, the Visuals some of the sharpest and cleanest out there because it’s much more modern than most VNs, but if you’ve played a modern Sci-Fi VN or seen a Sci-Fi anime in the past few years, you probably have a good idea on how this looks. *Root Double* represents the atmosphere and setting well, but the visuals aren’t a standout feature of the game and only serves to do its job for the most part.
@@ -75,11 +81,13 @@ I’d say the sound of this game follows the same philosophy as well, managing t
 
 ***
 
+# Conclusion
+
 ![](./bpekird6hobfb0yqhphr.png)
 
 It’s not often you see a work that prioritizes one thing over everything else, and it’s even more unusual to see that it’s prioritization lead to a worse experience, but *Root Double* is this game, and it’s almost disheartening to see it that way. That being said, while this review may sound harsh with the incessant hammering on aspect of story over experience as it is a key aspect of the game that went wrong, *Root Double* overall, as a work is truly a great game, even if it has flaws that can seem to be rather apparent. With an engaging, interesting, and compelling story, *Root Double* is a game that is absolutely worth playing through, and one of the best VNs that Steam has to offer. This game is definitely worth your time, but just be aware that it has its fair share of issues like suspension of disbelief breaking and exposition dumping that may just keep it from greatness to many.
 
-### Overall 8.5/10, Polarization +1.5, -1.5
+**Overall 8.5/10, Polarization +1.5, -1.5**
 
 ![](./ccd63qikcpaadolpqnmp.png)
 

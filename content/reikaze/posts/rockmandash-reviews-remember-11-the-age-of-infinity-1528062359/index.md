@@ -55,7 +55,7 @@ This game very nice. The UI looks great, the CG doesn't look cheesy, the charact
 
 ![](./19gegttk4pinojpg.jpg)
 
-# **Visuals - 9.5/10**
+**Visuals - 9.5/10**
 
 # Enjoyment
 
