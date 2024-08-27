@@ -9,10 +9,6 @@
 
 Welcome to Rockmandash Reviews and today on Ani-Tay is part 5 of my [Type-Moon Marathon](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534), we have series of movies made by Ufotable & Type-Moon called *Kara no Kyoukai: The Garden of Sinners*. *Kara no Kyoukai* is the first series of Type-Moon adaptations by Ufotable, so the question has to be asked: is it a good series? Let’s find out in this review!
 
-
-
-
-
 ![](./1313370283695264404.jpg)
 
 Before I start my actual review of *Kara no Kyoukai*, I’m going to start this with some viewing tips:
@@ -23,6 +19,8 @@ Before I start my actual review of *Kara no Kyoukai*, I’m going to start this 
 4. When you watch *Kara no Kyoukai*, you need to be devoting 100% of your focus in *Kara no Kyoukai*. It’s better if you are actively thinking about the plot, as it’s filled with important plot pieces everywhere and you need those to unravel the mystery that is *Kara no Kyoukai*.
 
 With those tips in mind, lets continue onto the review!
+
+# Writing
 
 ![](./1313370283904806804.png)
 
@@ -48,13 +46,17 @@ E.|E. Kara no Kyoukai Epilogue: The Edge of Emptiness/ Owari Shou
 
 Even with the out of order plot, the writing is great, as expected from Type-Moon. Kara no Kyoukai is a murder mystery thriller with some great action, but you need to think quite a bit about what the hell is going on before you actually enjoy the writing. I must emphasize this. **KARA NO KYOUKAI IS A CONFUSING SHOW, AND THIS MIGHT RUIN YOUR EXPERIENCE. IF YOU ARE NOT INTO SHOWS WHERE YOU HAVE TO ACTIVELY THINK ABOUT THE PLOT, YOU WILL NOT LIKE *****KARA NO KYOUKAI*****. IT HAS A VERY HIGH BARRIER OF ENTRY.** *Kara no Kyoukai* is a series that gets better on a second watch, and when you know what’s happening, it’s really a blast. What’s so great about the plot In *Kara no Kyokai*, is it’s dark atmosphere. Kara no Kyoukai has a perfect grim atmosphere going on in half of the movies, and it’s really thrilling. It deals with dark issues like drugs, hostages, rape, murder, so you better be aware of this. A great example is in Movie 7, where one of the main characters Kokutou, tries one of the drugs to get to the bottom of the murder mystery in the town. Also, there’s a magic element in the plot that is pretty much the structure for other Type-Moon shows, even though they are much less stated in this show. In Kara No Kyoukai, there are 2 main characters, Shiki Ryougi, and Mikiya Kokutou. Shiki’s a girl with 2 distinct personalities; a male personality SHIKI (織), and the original female personality Shiki (式). Later on in the series, Shiki gains the “Mystic Eyes of Death Perception”, an ability to see death in the form of a line or a point. Shiki really steals the show for most of the series, with her harsh yet awesome personality. Kokutou is a normal nice guy who fell in love with Shiki, but he’s special because he’s so normal. Kokutou probably the only character you can relate to in Kara no Kyoukai, and because he strives for normality, it makes him stand out from the cast of weirdos in this series.The rest of the characters are great, I personally like most of the side characters a bit more because they have more personality to them than the main characters, but all of the characters are written excellently. The show has some pacing issues with a really slow start.. which might deteriorate from the experience, and a slow pace in general.... but once you can get the barriers that the plot presents to most people, you should enjoy this plot. It’s hard to get into, but it has some great writing.
 
-# Writing - 8/10
+**Writing - 8/10**
+
+# Visuals
 
 ![](./1313370283956161684.png) ![](./1313370284381928340.jpg)
 
 It might be ballzy to say this, but tied with Redline, Kara no Kyoukai is the pinnacle of Japanese animation, the best that Japanese animation has to offer. With gradients all over the place, great lighting, excellent character art, fluid animation, great atmosphere, etc. The gritty atmosphere of the animation perfectly matches with the gritty atmosphere of the writing. This anime is the best looking anime so far. Nothing but praise about this… it’s absolutely outstanding how great this looks. Everything about it’s visuals… is perfection.
 
-# Visuals - 10/10
+**Visuals - 10/10**
+
+# Sound
 
 ![](./1313370284447462548.png)
 
@@ -62,19 +64,23 @@ There are series that use music to a comedic effect, series that use music to ge
 
 Listen to it… it’s amazing. Done yet? Well, let’s continue with this review. The Voice acting, is also top notch. I’m no expert, but all the voices fit the characters well, and they sound great. The sound in Kara no Kyoukai, is masterful. This anime has one of the best soundtracks i’ve heard, and it’s a treat to your ears. Just a note though, the naming scheme of this soundtrack is just as confusing as the show itself…. so when you do eventually download/buy it, be aware of that.
 
-# Sound - 10/10
+**Sound - 10/10**
+
+# Enjoyment
 
 ![](./1313370284496656532.png) ![](./1313370284777810068.jpg)
 
 The Plot has a high barrier of entry, but once you can get through that, it’s a roller coaster of amazing experiences. I’m a big fan of the music and the visuals, they did a really good job with the gradients and lighting which makes me happy. All fight scenes were epic. You cannot describe the feeling of those fight scenes without mentioning the word EPIC. I don’t care for the out of order storytelling, but when you understand everything, the plot becomes very enjoyable. Movies 3, 5 and 7 really took the cake in writing and action; they were amazing. Kara no Kyoukai is an excellent and enjoyable show, once you understand it.
 
-# Enjoyment - 9/10
+**Enjoyment - 9/10**
+
+# Conclusion
 
 ![](./1313370284859865492.png)
 
 Kara no Kyoukai is the quintessence of Modern Anime. It does so much right, even if it takes a bit of a commitment to get into. This is one you need to watch, and Ufotable did an excellent job. Kara no Kyoukai is the start of a blossoming relationship between Type-Moon and Ufotable, and it should not be missed.
 
-# Overall - 9.25/10
+**Overall - 9.25/10**
 
 ![](./1313370285039462036.png) ![](./1313370285173399444.png)
 
