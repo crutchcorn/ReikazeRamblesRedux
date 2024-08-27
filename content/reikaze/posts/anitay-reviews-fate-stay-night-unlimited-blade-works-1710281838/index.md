@@ -91,6 +91,8 @@
 
 **RockmanDash12:** yup.
 
+<iframe src="https://www.youtube.com/embed/byPofX1IEZY"></iframe>
+
 **Grex:** I was so worried when I found out they wouldn’t be using Lisa’s version of This Illusion (from the first season’s finale) for the new opening, but I ended up liking Brave Shine a lot.
 
 **RockmanDash12:** If they used This Illusion as the new opening, I would have been the happiest person out there.
