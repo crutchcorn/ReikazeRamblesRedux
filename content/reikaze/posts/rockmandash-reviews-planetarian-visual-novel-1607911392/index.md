@@ -9,7 +9,11 @@
 
 Why don't you come to the Planetarium? The beautiful twinkling of eternity that will never fade, no matter when. All the stars in the sky are waiting for you.... even as you watch through this review. Welcome to Rockmandash Reviews, and today I'm reviewing one of the most charming stories I've ever had the chance to experience, *Planetarian ~The Reverie of a Little Planet~*.
 
-![](./i3kmykaiawr0iqgffr6l.png)![](./v79tcrsp2foyrcmlpton.png) ![](./g5e9v2uy9qajjq2yycew.jpg)
+![](./i3kmykaiawr0iqgffr6l.png)
+
+# Writing
+
+![](./v79tcrsp2foyrcmlpton.png) ![](./g5e9v2uy9qajjq2yycew.jpg)
 
 *Planetarian* is a story so charming, and so amazing that I can't help but be impressed by it. It's a short kinetic novel that's about 4 hours, meaning that all you do is read without any interactions, in this short period of time... and I think it's better for that. It may be a turn off for some, but I think it really helps you get into the fantastic world that exists in this game, and into the fantastic story that is *Planetarian*.
 
@@ -25,25 +29,31 @@ Last but not least, the story ends with a bang. when that ending hits, you will 
 
 *Planetarian* is a great example of what a short VN should be like and it's one that will touch your heart. It's enjoyable throughout, and it's a story that uses what it has effectively to move players in ways they wouldn't expect. It's just well written, and I really enjoyed it.
 
-# **Writing - 9/10**
+**Writing - 9/10**
+
+# Visuals
 
 ![](./823349130080591140.png) ![](./823349130307764004.jpg)
 
 Considering that it's 10 years old, and it's a short game, *Planetarian* is absolutely beautiful. It's really simple visually, with Yumemi being the only character with art, and it doesn't actually show much, but what they do show is great and the whole aesthetic of the game is really nice. I just love the look of Yumeni, as they put a lot of attention to her, making her look amazing and the game just looks great overall. The only real issues I have with the art is that I wish they had a bit more art to show everything, and I wish most of the art was full screen as most of the art was in a small window, but those are small nitpicks for a pretty good looking game.
 
-# Visuals - 8.5/10
+**Visuals - 8.5/10**
+
+# Sound
 
 ![](./823349130474072868.png)
 
 You know, I could just sum this section by saying it's made by Key and you'd probably get the same context. This atmospheric, touching, and charming soundtrack is just excellent, it's definitely iPod worthy. Everything here works well, is pleasing to the ears, and adds charm in a way that most other games can't really come close to doing. A game like Planetarian really needs to have music that make the mood, and the soundtrack delivers, utilizing it to make you feel everything it wants you to feel while enjoying it's tunes. The voice acting is good too, as the voices really fit characters well. Overall, this game sounds great, no real complaints. What did you expect? It's KEY.
+ 
+**Sound - 9/10**
 
-# Sound - 9/10
+# Conclusion
 
 ![](./823349131243802404.png)
 
 Planetarian is a charming Visual Novel that proves how well Key can write. It's extremely short for a Visual Novel, but it uses that time well, executing its in a way that makes it a shining example for a short VN done right. It packs more emotion in a short time span than many do in much longer time, and it's something I'd recommend you check out, especially because it's available on steam from Sekai project.
 
-# OVERALL - 9/10, Polarization +.5, -1
+**OVERALL - 9/10, Polarization +.5, -1**
 
 ![](./ycasqcjz3kd1jmtf6e6h.png) ![](./823349131500382500.png)
 
