@@ -210,6 +210,8 @@ This year was absolutely flooded with top quality OPs, but these were the ones t
 
 # **Best ED**
 
+<iframe src="https://www.youtube.com/embed/euseUCiM5KE"></iframe>
+
 Many people like to skip the ED, but this year made that a harder task to do than usual, as we were gifted with an unusually large crop of addicting EDs. Some of these EDs were so good they even made us wish the episode would end just so we could see them again, even if we loved the show they were attached to.
 
 **Nominees:**
