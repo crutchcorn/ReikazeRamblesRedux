@@ -17,6 +17,8 @@ Before we actually get started, there is one thing I need to clarify; I’m talk
 
 # *What is a Visual Novel?*
 
+<iframe src="https://www.youtube.com/embed/8Shqd1lhah4"></iframe>
+
 A Visual Novel is genre of video games (I like to think of it as an interactive storytelling medium, as there isn’t really much gameplay), that’s similar to Choose Your Own Adventure books and Adventure games from the 90’s. As the name implies, Visual Novels are text heavy, but they usually have music, voice acting and stills of characters to help you get absorbed into the story. The biggest gameplay aspect of a Visual novel is choices; The player has to decide what the protagonist does in the form of options. The options can lead you to different story plotlines called routes, or they could just lead you to a bad end and you’ll have to try again. Visual Novels without choices are usually referred to as Sound Novels or Kinetic Novels.
 
 ***
