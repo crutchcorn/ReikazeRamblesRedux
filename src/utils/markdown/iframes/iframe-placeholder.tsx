@@ -13,6 +13,7 @@ export interface IFramePlaceholderProps {
 	propsToPreserve: string;
 	pageTitle: string;
 	pageIcon: string;
+	thumbnail?: string;
 }
 
 /** @jsxImportSource hastscript */
@@ -20,6 +21,7 @@ export function IFramePlaceholder({
 	height,
 	width,
 	propsToPreserve,
+	thumbnail,
 	...props
 }: IFramePlaceholderProps): Element {
 	return (
@@ -66,13 +68,17 @@ export function IFramePlaceholder({
 				class="embed__placeholder"
 				data-iframeurl={props.src}
 				data-iframeprops={propsToPreserve}
-				style={`height: ${Number(height) ? `${height}px` : height};`}
+				style={`height: ${Number(height) ? `${height}px` : height}; ${
+					thumbnail
+						? `background-image: url(${thumbnail}); background-size: cover; background-repeat: no-repeat; background-position: center;`
+						: ""
+				}`}
 			>
 				<button class="button regular primary-emphasized text-style-button-regular">
 					<div aria-hidden="true" class="buttonIcon">
 						{fromHtml(play)}
 					</div>
-					<div class="innerText">Run</div>
+					<div class="innerText">Play</div>
 				</button>
 			</div>
 		</div>

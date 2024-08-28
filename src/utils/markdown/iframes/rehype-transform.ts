@@ -141,6 +141,7 @@ function fetchPageIcon(src: URL, srcHast: Root): Promise<string> {
 
 type PageInfo = {
 	title?: string;
+	thumbnail?: string;
 	iconFile: string;
 };
 
@@ -153,6 +154,7 @@ export async function fetchPageInfo(src: string): Promise<PageInfo | null> {
 	if (!srcHast) return null;
 
 	let title: string | undefined;
+	let thumbnail: string | undefined;
 
 	if (url.hostname === "www.youtube.com" || url.hostname === "youtube.com") {
 		const json = await fetch(
@@ -162,6 +164,7 @@ export async function fetchPageInfo(src: string): Promise<PageInfo | null> {
 			.catch(() => null);
 		if (json) {
 			title = `${json.title}`;
+			thumbnail = json.thumbnail_url;
 		}
 	} else {
 		title = getPageTitle(srcHast);
@@ -172,7 +175,7 @@ export async function fetchPageInfo(src: string): Promise<PageInfo | null> {
 
 	// find the page favicon (cache by page origin)
 	const iconFile = await fetchPageIcon(url, srcHast);
-	return { title, iconFile };
+	return { title, iconFile, thumbnail };
 }
 
 // TODO: Add switch/case and dedicated files ala "Components"
@@ -221,6 +224,7 @@ export const rehypeUnicornIFrameClickToRun: Plugin<
 					pageTitle: String(dataFrameTitle ?? "") || info.title || "",
 					pageIcon: info.iconFile,
 					propsToPreserve: JSON.stringify(propsToPreserve),
+					thumbnail: info.thumbnail,
 				});
 
 				Object.assign(iframeNode, iframeReplacement);
