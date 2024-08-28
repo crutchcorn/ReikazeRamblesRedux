@@ -15,6 +15,8 @@ Also, Before we start this off, I have to say thanks to the people who made this
 
 If you want to watch this instead of read this article, you can see it in video form here:
 
+<iframe src="https://www.youtube.com/embed/tijDZKAp_Ec"></iframe>
+
 ***
 
 # Writing & Experience

@@ -41,6 +41,8 @@ The handling of Amadeus and the characters show just one of the strengths of *St
 
 Amedeus/\[Kurisu] is also just a fantastic character. A perfect blend of robotic, the amazingness of Kurisu, and the quirks of character that come along with the knowledge that \[Kurisu] is not the original all add up to make a lovable character that is amazing to talk to whenever you can. I’d have to say though, all of the new characters like the professor and Maho are great though, and they do this all without compromising the existing storyline or existing characters. They all have great personalities get development in a manner that makes most of them more than just cardboard cutouts, making characters definitely a strong point for *Steins;Gate 0*.
 
+<iframe src="https://www.youtube.com/embed/6Gey0nfMIwM"></iframe>
+
 The presentation also goes a long way into making *Steins;Gate 0* effective, an essential part of why it’s so great. The atmosphere that the visuals and sound create help you get absorbed into the work, and the presentation makes you feel the uncertainty and downtrodden nature that this work is laced in, making the story it’s trying to tell extremely effective. Even a quick look at the cover art will show you a stark difference in tone than the original, and I think it’s a change for the better. It does this all while continuing to do what the original did great: the music is once again phenomenal, being a joy to listen to and effective at manipulating your emotions to go along with the story, great backgrounds that is beautiful as ever, and the CG is really impressive. That being said, here is a few things that did bother me with the presentation this time: character art is very different, lacking the gradient that casted throughout S;G in the past. To me, it makes the characters stick out a bit too much, and this was hard for me to get used to given the familiarity of the previous games. Also, I played this on the vita and noticed technical issues with the effects: effects will show in the top left corner off sync with the rest of the screen for some reason, and sometimes [frames will be completely torn](http://i.imgur.com/377ImiC.jpg). It doesn’t happen often and is definitely not enough to ruin the game but it’s worth noting. Overall though, the presentation is top notch and really helps to build the atmosphere of the game, helping tell the tale of *Steins;Gate 0*.
 
 ![](./yolxqt5izxymcxwshsjy.jpg)
@@ -57,6 +59,8 @@ That being said, *Steins;Gate 0* is not perfect: it has several flaws that can d
 ![](./avu25dydxpecjclu5htm.png)
 
 ***
+
+<iframe src="https://www.youtube.com/embed/HNcnkIaEr5A"></iframe>
 
 Looking at everything that makes this game tick, it’s hard not to be impressed by *Steins;Gate 0*, and impressed I was. It’s a shining example of how concluding works should be, while also being a shining example of how things like tone, focus and presentation can drastically change a work. If you had a sliver of doubt that this game wouldn’t live up to the original, eliminate them: *Steins;Gate 0* is a phenomenal game, a game so good that one can easily make the argument that it’s even better. If you asked me, I probably would.
 

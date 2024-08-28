@@ -57,6 +57,8 @@ One odd thing I want to mention though is that unlike most VNs which is complete
 
 ![](./1513818382421624357.png)
 
+<iframe src="https://www.youtube.com/embed/mnFNMHM7-aw"></iframe>
+
 As a game with sound in the name, one would expect a certain level of quality or amount of focus on that element. With *Sound of Drop*, the game continues to impress as it definitely delivers in the quality department, with one of my favorite soundtracks from a VN that i’ve heard in a long time. No seriously, *Sound of Drop* has a great soundtrack, with it’s extremely atmospheric and moody tracks that get you absorbed into the game and are a joy to listen to, bringing the game up to another level in enjoyment. The usage of the tracks and effects are great as well, and everything melts together to make a great package that compliments every element of the game. That being said, some people may be bummed that there is no voice acting, but I wasn’t bothered by it and the music experience was still great regardless.
 
 ***
