@@ -405,7 +405,7 @@ Radiant 2 - “Chitto mo Shiranakatta” by Emi Nakamura
 
 ![](./lkwoj2e1vdgyj13eds6o.jpg)
 
-What’s better than our lovable bois? Welcome to our *Best Male Character *nominees, a category that has everything from loner NEETs, to obsessed fighting maniacs.
+What’s better than our lovable bois? Welcome to our *Best Male Character* nominees, a category that has everything from loner NEETs, to obsessed fighting maniacs.
 
 **Nominees:**
 
@@ -553,4 +553,4 @@ Last but not Least, AniTAY Favorites! This is one we included to spice things up
 
 ***
 
-*Thanks for checking out AniTAY and the AniTAY Anime Awards!* *Ani-TAY is the anime-focused portion of Kotaku’s community-run blog, Talk Amongst Yourselves where writers love everything anime related. Click *[*here*](http://anitay.kinja.com/)* to check us out, and remember to participate by*[* suggesting *](https://docs.google.com/forms/d/e/1FAIpQLSfEo_bHWEeyDGhqF77cRrSCOVlwgiDrPfsghJ_8vEprbjMCyg/viewform?usp=sf_link)*and *[*voting*](https://docs.google.com/forms/d/e/1FAIpQLSeYCb-Ftzj8gEueZzzXbGAq69rg9x5DB7qMl7aNv0k07FkCNA/viewform?usp=sf_link)*!*
+*Thanks for checking out AniTAY and the AniTAY Anime Awards!* *Ani-TAY is the anime-focused portion of Kotaku’s community-run blog, Talk Amongst Yourselves where writers love everything anime related. Click *[*here*](http://anitay.kinja.com/)* to check us out, and remember to participate by* [*suggesting*](https://docs.google.com/forms/d/e/1FAIpQLSfEo_bHWEeyDGhqF77cRrSCOVlwgiDrPfsghJ_8vEprbjMCyg/viewform?usp=sf_link) *and* [*voting*](https://docs.google.com/forms/d/e/1FAIpQLSeYCb-Ftzj8gEueZzzXbGAq69rg9x5DB7qMl7aNv0k07FkCNA/viewform?usp=sf_link)*!*

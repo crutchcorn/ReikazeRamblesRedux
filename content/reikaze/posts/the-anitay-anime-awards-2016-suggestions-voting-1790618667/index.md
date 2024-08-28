@@ -282,7 +282,7 @@ Many people like to skip the ED, but this year made that a harder task to do tha
 
 ![](./rtdu28mwrus44iboscy7.png)
 
-This year gave us quite a large range of characters taking the spotlight, and this couldn’t be better seen than in the *Best Male Character *nominees. Everything from figure skaters and manga artists to plaster busts, this year had it all.
+This year gave us quite a large range of characters taking the spotlight, and this couldn’t be better seen than in the *Best Male Character* nominees. Everything from figure skaters and manga artists to plaster busts, this year had it all.
 
 **Nominees:**
 
@@ -310,14 +310,14 @@ This year gave us quite a large range of characters taking the spotlight, and th
 
 ![](./o8tstuqdauvprftxgsho.jpg)
 
-The bold, the brash, the rejected, and the moe- 2016 brought plenty of endearing choices to make the race for *Best Female Character *a widely debated discussion in anime circles.
+The bold, the brash, the rejected, and the moe- 2016 brought plenty of endearing choices to make the race for *Best Female Character* a widely debated discussion in anime circles.
 
 **Nominees:**
 
 * Myaano (*Tanaka-kun*)
 * Shiraishi (*Tanaka-kun*)
 * Ecchizen (*Tanaka-kun*)
-* EKUSUPUROSION! (Megumin from* Konosuba*)
+* EKUSUPUROSION! (Megumin from *Konosuba*)
 * Aqua (*Konosuba*)
 * Darkness (*Konosuba*)
 * Everyone in *New Game!*
@@ -355,4 +355,4 @@ Last but not Least, AniTAY Favorites! This is one we included to spice things up
 
 ***
 
-*Thanks for checking out AniTAY and the AniTAY Anime Awards!* *Ani-TAY is the anime-focused portion of Kotaku’s community-run blog, Talk Amongst Yourselves where writers love everything anime related. Click *[*here*](http://anitay.kinja.com/)* to check us out, and remember to participate by*[* suggesting *](https://goo.gl/forms/vkQpnunBrOHtReiz1)*and *[*voting*](https://docs.google.com/forms/d/e/1FAIpQLScVJxYTUaCx6r2axf-yfsSoBVMVSHoEJFFjvc8fHgaBDetBWQ/viewform?c=0\&w=1)*!*
+*Thanks for checking out AniTAY and the AniTAY Anime Awards!* *Ani-TAY is the anime-focused portion of Kotaku’s community-run blog, Talk Amongst Yourselves where writers love everything anime related. Click *[*here*](http://anitay.kinja.com/)* to check us out, and remember to participate by* [*suggesting*](https://goo.gl/forms/vkQpnunBrOHtReiz1) *and* [*voting*](https://docs.google.com/forms/d/e/1FAIpQLScVJxYTUaCx6r2axf-yfsSoBVMVSHoEJFFjvc8fHgaBDetBWQ/viewform?c=0\&w=1)*!*

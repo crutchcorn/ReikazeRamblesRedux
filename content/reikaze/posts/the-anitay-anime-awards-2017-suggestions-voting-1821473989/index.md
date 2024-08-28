@@ -9,7 +9,7 @@
 
 ![](./z9sphzp0rv7bzldqpern.png)
 
-At the end of every year, everyone seems to reminisce back on the events we witnessed, and we try to define the time that just passed in all sorts of ways. One such method is top lists and Awards, and here at AniTAY, we are not immune in this behavior. Returning from last year is The *AniTAY Anime Awards, *a collaborative effort by members in the AniTAY community to decide the best of the best of what 2017 had to offer, and we would love your help.
+At the end of every year, everyone seems to reminisce back on the events we witnessed, and we try to define the time that just passed in all sorts of ways. One such method is top lists and Awards, and here at AniTAY, we are not immune in this behavior. Returning from last year is The *AniTAY Anime Awards*, a collaborative effort by members in the AniTAY community to decide the best of the best of what 2017 had to offer, and we would love your help.
 
 AniTAY has always been community first, and we always try to put our own community spin on these kinds of projects because the different opinions fed by the diversity of the community leads to better results. That’s why this Award process is open to everyone!
 
@@ -231,13 +231,13 @@ Many people like to skip the ED, but this year made that a harder task to do tha
 
 <video src="./vrxaulsim9lkqkt4bs4e.mp4"></video>
 
-This year gave us quite a large range of characters taking the spotlight, and this couldn’t be better seen than in the *Best Male Character *nominees. Everything from figure skaters and manga artists to plaster busts, this year had it all.
+This year gave us quite a large range of characters taking the spotlight, and this couldn’t be better seen than in the *Best Male Character* nominees. Everything from figure skaters and manga artists to plaster busts, this year had it all.
 
 **Nominees:**
 
-* *Kiriyama Rei *- March comes in like a lion S2
+* *Kiriyama Rei* - March comes in like a lion S2
 * *Harunobu Nikaidou* - March Comes in like a Lion S2
-* *Zouroku *- Alice & Zoroku
+* *Zouroku* - Alice & Zoroku
 * *Inuyashiki Ichirou* - Inuyashiki
 * *Ainsworth Elias* - Ancient Magus Bride
 * Araragi Koyomi - Owarimonogatari S2
@@ -251,7 +251,7 @@ This year gave us quite a large range of characters taking the spotlight, and th
 
 <video src="./qjdtamzp0hbun7cobeou.mp4"></video>
 
-The bold, the brash, the rejected, and the moe- 2017 brought plenty of endearing choices to make the race for *Best Female Character *a widely debated discussion in anime circles.
+The bold, the brash, the rejected, and the moe- 2017 brought plenty of endearing choices to make the race for *Best Female Character* a widely debated discussion in anime circles.
 
 **Nominees:**
 
@@ -291,4 +291,4 @@ Last but not Least, AniTAY Favorites! This is one we included to spice things up
 * *Girls’ Last Tour*
 * *GARO: Vanishing Line*
 
-*Thanks for checking out AniTAY and the AniTAY Anime Awards!* *Ani-TAY is the anime-focused portion of Kotaku’s community-run blog, Talk Amongst Yourselves where writers love everything anime related. Click *[*here*](http://anitay.kinja.com/)* to check us out, and remember to participate by*[* suggesting *](https://docs.google.com/forms/d/e/1FAIpQLSfFTID83kA7-v3EbQp0S80PXW2QKyZR75n6CArlSfj80_zyFA/viewform?usp=sf_link)*and *[*voting*](https://docs.google.com/forms/d/e/1FAIpQLSfWLv6b2MOGUW1nDgTScNm8skFpBfa5GuC0lgwtbaO-lM5xmg/viewform?usp=sf_link)*!*
+*Thanks for checking out AniTAY and the AniTAY Anime Awards!* *Ani-TAY is the anime-focused portion of Kotaku’s community-run blog, Talk Amongst Yourselves where writers love everything anime related. Click *[*here*](http://anitay.kinja.com/)* to check us out, and remember to participate by* [*suggesting*](https://docs.google.com/forms/d/e/1FAIpQLSfFTID83kA7-v3EbQp0S80PXW2QKyZR75n6CArlSfj80_zyFA/viewform?usp=sf_link) *and* [*voting*](https://docs.google.com/forms/d/e/1FAIpQLSfWLv6b2MOGUW1nDgTScNm8skFpBfa5GuC0lgwtbaO-lM5xmg/viewform?usp=sf_link)*!*

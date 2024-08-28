@@ -9,7 +9,7 @@
 
 ![](./or6pxzhdwysy7nnjxmvh.png)
 
-2018's been a wild ride, and along with it, so has anime. From the comfy *Yuru Camp* to the controversial *Goblin Slayer*, we’ve had a lot this year! Now that the year’s over though, it’s time to look back, and what better way to look back on the anime this year than our annual *AniTAY Anime Awards,*a collaborative effort by members in the AniTAY community to decide the best of the best!
+2018's been a wild ride, and along with it, so has anime. From the comfy *Yuru Camp* to the controversial *Goblin Slayer*, we’ve had a lot this year! Now that the year’s over though, it’s time to look back, and what better way to look back on the anime this year than our annual *AniTAY Anime Awards*, a collaborative effort by members in the AniTAY community to decide the best of the best!
 
 AniTAY has always been community first, and we always try to put our own community spin on these kinds of projects because the different opinions fed by the diversity of the community leads to better results. That’s why this Award process is open to everyone!
 
@@ -17,7 +17,7 @@ This article will cover the nominations selected by AniTAY members mucking aroun
 
 Like last year, we’ll be running 2 awards, the Author’s Awards and the Reader’s Awards. This way we can keep our voice while including everyone in the process. Make your vote count by [filling this form here](https://docs.google.com/forms/d/e/1FAIpQLScQSXekRigWYrKX-JltN1uKZTaRV2I-1Ddbc75faVl_7eAzJw/viewform?usp=sf_link). Voting will be closed 1/13 /2019, when we release the results in a separate article.
 
-There has been some slight changes to the formula this year however: we gave anime movies their own section, added a Slice of Life section, and a *Most Trash Show *Section. Hope you enjoy the tweaks and look forward to seeing your votes! Enough of my rambling, onto the nominees!
+There has been some slight changes to the formula this year however: we gave anime movies their own section, added a Slice of Life section, and a *Most Trash Show* Section. Hope you enjoy the tweaks and look forward to seeing your votes! Enough of my rambling, onto the nominees!
 
 ***
 
@@ -257,17 +257,17 @@ Many people like to skip the ED, but this year made that a harder task to do tha
 
 ![](./b6qvxvhn7ofvtyarkuth.jpg)
 
-This year gave us quite a large range of characters taking the spotlight, and this couldn’t be better seen than in the *Best Male Character *nominees. Everything from figure skaters and manga artists to plaster busts, this year had it all.
+This year gave us quite a large range of characters taking the spotlight, and this couldn’t be better seen than in the *Best Male Character* nominees. Everything from figure skaters and manga artists to plaster busts, this year had it all.
 
 **Nominees:**
 
-* Akira Fudo -* Devilman Crybaby*
+* Akira Fudo - *Devilman Crybaby*
 * Aslan Jade Callenreese (Ash) - *Banana Fish*
 * Daisuke Jigen - *Lupin III Part V*
 * Doug - *Double Decker*
 * Immortal Sugimoto- *Golden Kamuy*
-* Junk Dog/Joe* - Megalobox*
-* Koutarou Tatsumi -* Zombieland Saga*
+* Junk Dog/Joe - *Megalobox*
+* Koutarou Tatsumi - *Zombieland Saga*
 * Narumi - *Karakuri Circus*
 * Sakuta Azusagawa - *Rascal Does Not Dream of Bunny Girl Senpai*
 * White Blood Cell - *Cells at Work*
@@ -283,20 +283,20 @@ The bold, the brash, the rejected, and the moe- 2018 brought plenty of endearing
 **Nominees:**
 
 * Akane Shinjou - *SSSS Gridman*
-* Ayano Hanesaki -* Hanebado*
+* Ayano Hanesaki - *Hanebado*
 * Fujiko - *Lupin*
 * Hanako - *Asobi Asobase*
-* Hisone Amakasu-* Dragon Pilot: Hisone and Masotan*
-* Koito Yuu* - Yagate Kimi ni Naru*
+* Hisone Amakasu- *Dragon Pilot: Hisone and Masotan*
+* Koito Yuu - *Yagate Kimi ni Naru*
 * Mai Sakurajima - *Rascal Does Not Dream of Bunny Girl Senpai*
 * Nadeshiko Kagamihara - *Yuru Camp*
-* Nagisa Aragaki -* Hanebado*
+* Nagisa Aragaki - *Hanebado*
 * Olivia - *Asobi Asobase*
 * Red Blood Cell - *Cells at Work*
 * Rin Shima - *Yuru Camp*
 * Saki Nikaidou - *Zombieland Saga*
 * Shirogane Saiga- *Karakuri Circus*
-* Violet Evergarden -* Violet Evergarden*
+* Violet Evergarden - *Violet Evergarden*
 * Zero Two - *Darling in the Franxx*
 
 ***
@@ -341,4 +341,4 @@ Last but not Least, AniTAY Favorites! This is one we included to spice things up
 * *Violet Evergarden*
 * *Yuru Camp*
 
-*Thanks for checking out AniTAY and the AniTAY Anime Awards!* *Ani-TAY is the anime-focused portion of Kotaku’s community-run blog, Talk Amongst Yourselves where writers love everything anime related. Click *[*here*](http://anitay.kinja.com/)* to check us out, and remember to participate by*[* suggesting *](https://docs.google.com/forms/d/e/1FAIpQLSfFTID83kA7-v3EbQp0S80PXW2QKyZR75n6CArlSfj80_zyFA/viewform?usp=sf_link)*and *[*voting*](https://docs.google.com/forms/d/e/1FAIpQLSfWLv6b2MOGUW1nDgTScNm8skFpBfa5GuC0lgwtbaO-lM5xmg/viewform?usp=sf_link)*!*
+*Thanks for checking out AniTAY and the AniTAY Anime Awards!* *Ani-TAY is the anime-focused portion of Kotaku’s community-run blog, Talk Amongst Yourselves where writers love everything anime related. Click *[*here*](http://anitay.kinja.com/)* to check us out, and remember to participate by* [*suggesting*](https://docs.google.com/forms/d/e/1FAIpQLSfFTID83kA7-v3EbQp0S80PXW2QKyZR75n6CArlSfj80_zyFA/viewform?usp=sf_link) *and* [*voting*](https://docs.google.com/forms/d/e/1FAIpQLSfWLv6b2MOGUW1nDgTScNm8skFpBfa5GuC0lgwtbaO-lM5xmg/viewform?usp=sf_link)*!*
