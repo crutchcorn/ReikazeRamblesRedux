@@ -15,7 +15,11 @@ It’s pretty sad to see something that had so much promise be handled so poorly
 
 Also, if you’d rather watch a video of it, I have a video version of it here -
 
+<iframe src="https://www.youtube.com/embed/WX_UX5NP1aQ"></iframe>
+
 ***
+
+<iframe src="https://www.youtube.com/embed/hdwKxuogBbk"></iframe>
 
 In July of 2015, during the convention known as Anime Expo, the visual novel publisher called Sekai Project a nnounced that a highly regarded but relatively obscure Sci-Fi visual novel called *Root Double: Before Crime \* After Days* would be translated and localized for the english speaking world by Lemenscia Translations. To anyone who knows the people involved with this, one could not help but get excited. The game was helmed by the director of* Ever 17 - The Out of Infinity*, a much loved visual novel that is rather influential in the western visual novel community, and is also the spiritual predecessor of the *Zero Escape* series - visual novels that are proclaimed to be some of the best games of all time. The translation group, Lemnisca, is one that’s dedicated to translating science-fiction visual novels and its members have worked on works in the *Infinity* series, as well as the popular visual novel *Steins;Gate*. Everyone involved with the project brings excitement, except for the most important part of the puzzle: Sekai Project.
 
@@ -40,6 +44,8 @@ If you asked me, the way that this game’s kickstarter has been run is best des
 **3.** They failed to advertise or fix anyone’s issues until they realized that there was no way that this would make its goal unless it got a last-minute push, which they did by flooding the kickstarter with new tiers, new pricing, new rewards, a vita port, etc.
 
 **4.** They put the kickstarter way too close to launch. It’s so close that many people (including myself) felt that it pretty much feels like a worthless endeavor because the game is coming out anyways. FYI, the game was already translated before the kickstarter rolled out - the kickstarter began in early January and the game is due for launch in March. Of this year.
+
+<iframe src="https://www.youtube.com/embed/Y7RB6nLPOc0"></iframe>
 
 **5.** Early on, the kickstarter looked like a statistical improbability unless they did a drastic change in the middle of it. Why do I say this? Let’s take a look at the numbers:
 

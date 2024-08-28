@@ -19,6 +19,8 @@ For those who like anime movies, a new film by Mamoru Hosoda brings a round of e
 
 Mamoru Hosoda is great at constructing stories that are polished and entertaining, and to nobody’s surprise, *The Boy and the Beast *is no different. If you’ve liked the stories in his previous films, or if you like Ghibli-like films you’ll be perfectly at home here as the style of the story he tells is very similar, but good and different enough to keep things interesting and engaging. While the story isn’t perfect (I’ll talk about the issues later), Hosoda’s consistency with writing is to the point that every time I go and watch one of his works, I come in expecting a well constructed film that’ll put a smile on my face, and *The Boy and the Beast* provides that with a coming of age and great character interactions between the cast.
 
+<iframe src="https://www.youtube.com/embed/-0NDXOeb-lY"></iframe>
+
 We start out the story following a 9 year old child named Ren (later known as Kyuuta), right after his mother has passed away. In despair because of his loss and curiosity where his father was, Ren decides to run away from his guardians into the busy streets of Tokyo with no plan on what to do. While brooding in the streets, he encounters a beast who we learn later on is named Kumatetsu. Ren follows Kumatetsu into the world of beasts (called *Jūtengai* in the film*)*, where Kumatetsu takes in Ren as an apprentice, and they live and grow together, each fixing the flaws that other has while developing their character in general. It’s an interesting premise and even though it’s tried and true, they handle it well: due to the way that they treat Ren/Kyuuta, instead having it a temporary adventure like most films would, this is his life. It’s not until he’s much older that he returns to our world, and this dichotomy between his worlds is an aspect that is handled well, one of my favorite parts of the story.
 
 ![](./jzewc3t4bogkuxjyvck5.jpg)
@@ -41,6 +43,8 @@ Overall though, *The Boy and the Beast *is another well polished Mamoru Hosoda c
 
 If you’ve been paying attention to the staff who’ve been working on Hosoda’s films, you’d know that they’ve traditionally been made by Studio Madhouse, a studio known for their high production values and amazing visuals in works like known for works like [*One Punch Man*](http://anitay.kinja.com/one-punch-man-the-ani-tay-review-1749225072)*, *Satoshi Kon’s films, and the absolutely stunning *Redine. **The Boy and The Beast *is the first Hosoda film to completely buck this trend, instead made by Studio Chizu, which is Hosoda’s own animation studio. This honestly is not a concern however, because if I didn’t check to see who made this movie, I honestly wouldn’t have been the wiser: this is the best looking Hosoda film yet, and man is it gorgeous. From the absolutely [gorgeous backgrounds](http://imgur.com/a/2udkD) to the amazing visual directing with amazing shot composition, the visuals are some of the best that animation has to offer. If you asked me, it’s up there with [Shinkai movies](http://tay.kinja.com/the-garden-of-words-the-ani-tay-review-1524606376) in my eyes with an insane amount of polish and detail in the shots that one can’t help but be impressed by.
 
+<iframe src="https://www.youtube.com/embed/RL-jmLp7Tng"></iframe>
+
 It’s more than just scenery though: the movie is based around a specific fight and the animation is silky smooth, fight or no fight. In the fight scenes though, it’s well choreographed, and the animation throughout the scenes are great: fast and fluid, beautiful and consistent. Motion is impressive and the world looks interesting and alive, with the way they show the small details being the absolute highlight: they show like the way that sweat and blood looks and moves looking impressive throughout and makes the film look better than your traditional anime film. I just wish all anime could be this nice visually, but that’s a pipe dream.
 
 ![](./wpz65fusviz09mz4wdgc.jpg)
@@ -50,6 +54,8 @@ Speaking of things that I wish all works could have but is impossible, I have to
 ***
 
 # The Dub is Pretty Great
+
+<iframe src="https://www.youtube.com/embed/mXwoPcOORvY"></iframe>
 
 Normally, anime fans here on AniTAY typically watch our anime in subtitles, having to read the words so we can understand it because there are usually no dubs out for the anime we are watching. Movies, which when brought over to the West are almost always an exception to this, and with The Boy and the Beast, I had the chance to go and see the movie in the theatres, in a dub. I gotta say, I rather liked it; all the actors really fit their characters well and they all gave a great performance. I am not an expert, but the experience listening to them throughout was solid and never once did I really think that it was unnatural or that someone else should have played a role. Everyone did their job well and it was one of the better dubs that I’ve seen (though, movie dubs are usually better than their TV counterparts for anime).
 
@@ -70,6 +76,8 @@ Also, the antagonist that was essentially pulled out of nowhere at the end, whil
 ***
 
 # **The Background Music is entirely in the Background**
+
+<iframe src="https://www.youtube.com/embed/rkzj81Amcnc"></iframe>
 
 *The Boy and the Beast* has rather great music, each fitting with the world and the scene it is trying to create, but like so many other movies, it’s completely sitting in the background, only serving to augment the other aspects of the story without portraying any sense of importance or identity itself. The whole movie has solid tracks composed of the traditional, grandiose tracks you would associate with someone like Ghibli, but as I was writing this review I couldn’t recall any track or scene where there was music that particularly stood out, and that’s not the best sign to me. It signifies to me at least that attention wasn’t put to this aspect as much as others. This definitely won’t hurt your experience too much as so many films treat the soundtrack as completely in the background, but given everything else, it seems like a bit of a letdown to me, even if it’s good.
 
