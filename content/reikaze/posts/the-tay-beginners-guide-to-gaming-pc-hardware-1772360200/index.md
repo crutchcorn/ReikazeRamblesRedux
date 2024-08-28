@@ -91,6 +91,8 @@ PC makers are generally in parity, so this usually doesn’t apply, try not to b
 
 # Putting It Together
 
+<iframe src="https://www.youtube.com/embed/d_56kyib-Ls"></iframe>
+
 Putting a PC together is very simple, and while I could tell you step by step, but that would take a long time and there are many guides out there on how to do it. Putting a PC is like putting legos together so you shouldn’t have too much trouble if you’re following a guide. Here is my favorite guide for building a PC, made by newegg in video form, while lifehacker has a great one if you’d rather not watch a video. If you don’t like these, there are plenty of other guides out there, and it’s really just a quick search away.
 
 Lifehacker’s Guide:
@@ -137,15 +139,23 @@ A note for international members, all prices are in USD and prices of specific p
 
 **1. Console Challenger - $400**
 
+<iframe src="https://www.youtube.com/embed/3G-7bfPG2dE"></iframe>
+
 \*Solid Gaming Performance @ 1080p Medium, Cannot VR\*\
 i3, GTX 950 - <http://pcpartpicker.com/list/vk9pBP>\
 i3, RX 460 - <http://pcpartpicker.com/list/J2mvjc>
 
 Intel Core i3 6100, Nvidia GTX 950 or Radeon rx 460, 8gb RAM
 
+<iframe src="https://www.youtube.com/embed/PVgAWMp33Ss"></iframe>
+
+<iframe src="https://www.youtube.com/embed/b_ahq7GSfoY"></iframe>
+
 Who said you can’t have a PC experience that’s equivalent to next gen consoles for the same price? Now that the prices have gone reasonable, we can get a great gaming PC for the same price as consoles, and it can do so much more. This PC is already a better machine than consoles as it can game comfortably at 1080p and is really a solid option for anyone in the market. Also, I really don’t recommend going lower than this because if you go lower, especially with the GPU, you’ll run into price to performance issues. I guess you could probably Pentium G3258 and overclock that sucker to match performance with the i3, but that’s going to run hotter, has an older architecture, and doesn’t have hyperthreading. Overall though, this is a great little rig that is a great bang for the buck while performing better than consoles. Both GPUs give out essentially console quality performance, and are both rather power efficient chips. (depending on the 950 you get, it may need a 6 pin power connector).
 
 If you wanted to make this pc more like a console, I’d recommend getting an itx board and a case like the [Silverstone SG13](https://www.youtube.com/watch?v=8ptbpKpObzs), and if you’re upgrading and still have DDR3 ram, I’d recommend getting a DDR3 Board to reuse your ram.
+
+<iframe src="https://www.youtube.com/embed/nLkaNWo0EV0"></iframe>
 
 8300, 950 - <http://pcpartpicker.com/list/kfdcHN>\
 8300, Rx 460 - <http://pcpartpicker.com/list/QzPN6X>
@@ -162,6 +172,8 @@ If you get the FX chip and have extra cash, get a cooler like the Cryorig H7, ge
 
 **2. Bang for Buck Budget VR Beast- $600**
 
+<iframe src="https://www.youtube.com/embed/YUTPgWYTqyk"></iframe>
+
 \*Games on Ultra 1080p, Cannot VR\*
 
 1060 3gb -<http://pcpartpicker.com/list/hBjCd6>\
@@ -169,7 +181,13 @@ RX470 4gb - <http://pcpartpicker.com/list/DmrXkT>
 
 Intel Core i5 6500, Geforce GTX 960, 8gb RAM
 
+<iframe src="https://www.youtube.com/embed/mF4S5ZaXdgE"></iframe>
+
+<iframe src="https://www.youtube.com/embed/2GdfDCq86Gk"></iframe>
+
 Ahh... the i5. Get an i5 and you’re basically ready for anything gaming has to throw at you CPU wise. This upgrade makes the rig significantly more futureproof while performing better in many titles. More exiting though... is the GPU as it’s **NEW GPU TIME! **Thanks to the introduction of cards like the Radeon Rx 480 and 1060, we now have have VR capable GPUs down to affordable prices. You’ll be ready for the Vive and the Rift if you want them, and these guys can handle everything you throw at it 1080p. They’re also a good buy considering they’re about 970-980 performance, the higher end chips that devs are now targeting due to their popularity. Add in the fact that they’re similar to the PS4 Pro and Scorpio in performance and you should be set for a while.
+
+<iframe src="https://www.youtube.com/embed/2R76wLCxRXY"></iframe>
 
 So,that leads the question: 1060 or 470/480? 3,4,6,8Gb ram? with so many variables, it ultimately comes up to what you care about more: performance now or performance later. In most benchmarks, the 1060 is up by 10% in almost all games, but it’s also usually more expensive. The exception is in the new DX12 games which utilize AMD’s design better, so the RX chips will go faster there. The AMD cards also have more memory at a lower price, setting them up to age well, just like all of AMD’s GCN cards (7xxx, 2xx, 3xx).
 
@@ -180,6 +198,8 @@ You need to ask yourself if you care about performance now vs later, how long yo
 ***
 
 **3. The Point of Diminishing Returns - $900**
+
+<iframe src="https://www.youtube.com/embed/rkiZdSBux9E"></iframe>
 
 \*1440p Gaming\*\
 i5, 1070 - <http://pcpartpicker.com/p/xcndjX>\
