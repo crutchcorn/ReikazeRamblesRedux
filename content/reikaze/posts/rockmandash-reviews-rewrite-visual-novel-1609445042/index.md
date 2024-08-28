@@ -7,7 +7,7 @@
 }
 ---
 
-As I was starting this review marathon, I saw that first [Rewrite](http://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1516111258) review could use some improvements; I figured that this marathon was a perfect opportunity to fix that. Welcome to Rockmandash Reviews+, and this is my **REWRITTEN** review of *Rewrite* for the [Key Marathon](http://tay.kotaku.com/rockmandash-reviews-key-marathon-wip-1606707641), so be prepared to rewrite your expectations, as this game is quite different than what you would expect from Key.
+As I was starting this review marathon, I saw that first [Rewrite](/posts/rockmandash-reviews-rewrite-visual-novel-1516111258) review could use some improvements; I figured that this marathon was a perfect opportunity to fix that. Welcome to Rockmandash Reviews+, and this is my **REWRITTEN** review of *Rewrite* for the [Key Marathon](http://tay.kotaku.com/rockmandash-reviews-key-marathon-wip-1606707641), so be prepared to rewrite your expectations, as this game is quite different than what you would expect from Key.
 
 ![](./1395906708261334600.png)
 

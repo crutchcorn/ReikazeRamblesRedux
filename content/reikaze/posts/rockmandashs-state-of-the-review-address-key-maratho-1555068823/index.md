@@ -29,7 +29,7 @@ So, here's what to expect once I start this up:
 4. Planetarian - I already have a [mini-review](http://petesgameroomforum.com/topic/5346010/1/) for this on the forums I was on before I joined TAY, but i'll do a full review
 5. Tomoyo After
 6. Little Busters - Seen anime, haven't played game
-7. [Rewrite...](http://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1516111258) HAHA I ALREADY DID THIS :D I guess I'll spice it up when I get there.
+7. [Rewrite...](/posts/rockmandash-reviews-rewrite-visual-novel-1516111258) HAHA I ALREADY DID THIS :D I guess I'll spice it up when I get there.
 8. Angel Beats \[Anime] - Get ready. This one... will be controversial.
 9. Kud Wafter - HORRAY FOR WAITING FOR TRANSLATIONS... :(
 10. Rewrite Havest Festa! - This'll be more about waiting for a translation instead of me being lazy... I guess I could learn japanese but KANJI IS HARD :(

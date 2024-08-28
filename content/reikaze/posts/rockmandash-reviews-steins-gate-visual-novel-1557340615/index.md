@@ -9,7 +9,7 @@
 
 Welcome to Rockmandash Reviews! This is my review Steins; Gate, the Visual Novel. Steins;Gate is a visual novel made which was a cooperative project by 5pb and Nitroplus. This is the [second](http://tvtropes.org/pmwiki/pmwiki.php/Main/Sequel) game in the "science adventure game" series, (The stuff with the semi-colon in the middle, the first game is [Chaos;Head](http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/ChaosHead) and the 3rd is [Robotics;Notes](http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/RoboticsNotes)) This is one of my favorites, so let's see how this shapes up in this review.
 
-Link to [Anime Review](http://rockmandash12.kinja.com/rockmandash-reviews-steins-gate-ani-tay-1557356577?rev=1409028905341)
+Link to [Anime Review](/posts/rockmandash-reviews-steins-gate-ani-tay-1557356577?rev=1409028905341)
 
 ![](./admtqsdyg5qytpnbus3q.jpg)
 

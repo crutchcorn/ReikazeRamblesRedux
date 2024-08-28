@@ -9,7 +9,7 @@
 
 ![](./1396310173576702755.png)
 
-Have you ever felt that your pain would never go away, continuing with no end in sight? This is the focus of *Ame no Marginal*, a Short VN by Stage-Nana, the creator of the absolutely fantastic [*Narcissu*](http://rockmandash12.kinja.com/rockmandash-reviews-narcissu-1st-2nd-visual-novel-1676683203). Transported into a strange and mysterious world, where there is nothing but rain and sorrow, we see a moving tale about staticity, the consistant pain that occurs when everything is fruitless.
+Have you ever felt that your pain would never go away, continuing with no end in sight? This is the focus of *Ame no Marginal*, a Short VN by Stage-Nana, the creator of the absolutely fantastic [*Narcissu*](/posts/rockmandash-reviews-narcissu-1st-2nd-visual-novel-1676683203). Transported into a strange and mysterious world, where there is nothing but rain and sorrow, we see a moving tale about staticity, the consistant pain that occurs when everything is fruitless.
 
 ***
 

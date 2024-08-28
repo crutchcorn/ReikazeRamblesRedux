@@ -102,7 +102,7 @@ If there’s anything you think that’s missing, that’s probably because I ha
 
 
 
-**If you like this one, play** [*Ever 17*](http://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485?rev=1415068987374#_ga=1.175364071.473183827.1418699279)*, *[*Remember 11*](http://rockmandash12.kinja.com/rockmandash-reviews-remember-11-the-age-of-infinity-1687285802)*, *[*Never 7*](http://rockmandash12.kinja.com/rockmandash-reviews-never-7-the-end-of-infinity-visu-1677618797)*, *[*Zero Escape: Virtue’s Last Reward*](http://rockmandash12.kinja.com/zero-escape-virtues-last-reward-is-nearly-perfect-expe-1713427517#_ga=1.227865688.473183827.1418699279)* (3DS, Vita), *[*Steins;Gate*](http://tay.kotaku.com/rockmandash-reviews-steins-gate-visual-novel-anime-1557342550)*, Steins;Gate 0, Chaos; Head, *[*I/O*](http://tay.kotaku.com/rockmandash-reviews-i-o-visual-novel-1563212529)*, Root Double*
+**If you like this one, play** [*Ever 17*](/posts/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485?rev=1415068987374#_ga=1.175364071.473183827.1418699279)*, *[*Remember 11*](/posts/rockmandash-reviews-remember-11-the-age-of-infinity-1687285802)*, *[*Never 7*](/posts/rockmandash-reviews-never-7-the-end-of-infinity-visu-1677618797)*, *[*Zero Escape: Virtue’s Last Reward*](/posts/zero-escape-virtues-last-reward-is-nearly-perfect-expe-1713427517#_ga=1.227865688.473183827.1418699279)* (3DS, Vita), *[*Steins;Gate*](http://tay.kotaku.com/rockmandash-reviews-steins-gate-visual-novel-anime-1557342550)*, Steins;Gate 0, Chaos; Head, *[*I/O*](http://tay.kotaku.com/rockmandash-reviews-i-o-visual-novel-1563212529)*, Root Double*
 
 ***
 
@@ -112,13 +112,13 @@ If there’s anything you think that’s missing, that’s probably because I ha
 
 > “The story follows Tomoya Okazaki, a third year high school student resentful of his life. His mother passed away from a car accident when he was younger, causing his father to resort to alcohol and gambling. This results in a fight that injured Tomoya’s shoulder, and Since then, Tomoya has had distant relationships with his father, causing him to become a delinquent. On his way to school, he meets a strange girl named Nagisa Furukawa who is a year older, but is repeating due to illness. Due to this, she is often alone as most of her friends have moved on. The two begin hanging out and slowly, as time goes by, Tomoya finds his life shifting in a new direction.”
 
-**Why this rocks: **All of the feelz ;-;. It’s pretty much like the anime, but there are a few routes that are in the game that go further or are totally missing from the anime. If you don’t know anything about[*Clannad*](http://rockmandash12.kinja.com/rockmandash-reviews-clannad-visual-novel-anime-1609437459/all), it’s a great story with excellent characters, excellent writing, and is just amazing overall. This game really impacts you with a great message, great characters, and it floods you with feelz.
+**Why this rocks: **All of the feelz ;-;. It’s pretty much like the anime, but there are a few routes that are in the game that go further or are totally missing from the anime. If you don’t know anything about[*Clannad*](/posts/rockmandash-reviews-clannad-visual-novel-anime-1609437459/all), it’s a great story with excellent characters, excellent writing, and is just amazing overall. This game really impacts you with a great message, great characters, and it floods you with feelz.
 
 
 
 
 
-**If you like this one, play** [Anything made by Key](http://tay.kotaku.com/rockmandash-reviews-key-marathon-wip-1606707641#_ga=1.193189992.473183827.1418699279): [*Kanon*](http://anitay.kinja.com/rockmandash-reviews-kanon-visual-novel-anime-1605160517#_ga=1.3987829.473183827.1418699279)*, *[*Rewrite*](http://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1609445042)*, Little Busters, *[*Katawa Shoujo*](http://tay.kotaku.com/katawa-shoujo-review-510682746), and the fantastic* White Album 2* (no complete English translation yet, but it’s going to be great when it comes out. Check out the anime).
+**If you like this one, play** [Anything made by Key](http://tay.kotaku.com/rockmandash-reviews-key-marathon-wip-1606707641#_ga=1.193189992.473183827.1418699279): [*Kanon*](http://anitay.kinja.com/rockmandash-reviews-kanon-visual-novel-anime-1605160517#_ga=1.3987829.473183827.1418699279)*, *[*Rewrite*](/posts/rockmandash-reviews-rewrite-visual-novel-1609445042)*, Little Busters, *[*Katawa Shoujo*](http://tay.kotaku.com/katawa-shoujo-review-510682746), and the fantastic* White Album 2* (no complete English translation yet, but it’s going to be great when it comes out. Check out the anime).
 
 Some Utsuges I’d like to point out would be [eden\*](http://anitay.kinja.com/ani-tay-reviews-eden-they-were-only-two-on-the-pla-1683418341#_ga=1.160100728.473183827.1418699279), [*Planetarian*](https://rockmandash12.kinja.com/rockmandash-reviews-planetarian-visual-novel-1607911392#_ga=1.226750808.473183827.1418699279) and [*Narcissu*](https://rockmandash12.kinja.com/rockmandash-reviews-narcissu-1st-2nd-visual-novel-1676683203#_ga=1.205649110.473183827.1418699279)*, *as these were just fantastic and are great starter VNs.
 
@@ -154,9 +154,9 @@ Some Utsuges I’d like to point out would be [eden\*](http://anitay.kinja.com/a
 
 > “The story follows Shirou Emiya, who lost his parents in a fire when he was young and was adopted by a magus named Kiritsugu, the man who saved him from said fire. He lived his life wishing to become a hero of justice, but one fateful day, he was drawn into the Holy Grail War; a series of battles among powerful heroes of history and powerful maguses, who are fighting for the Holy Grail.
 
-**Why this rocks: **This, along with *Clannad* are pretty much flagships of Visual Novels. *Fate/stay night* has a very well written story, and I’m a big fan. If you want to learn more about this, check out my review [here](http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1493594993).
+**Why this rocks: **This, along with *Clannad* are pretty much flagships of Visual Novels. *Fate/stay night* has a very well written story, and I’m a big fan. If you want to learn more about this, check out my review [here](/posts/rockmandash-reviews-fate-stay-night-visual-novel-1493594993).
 
-**If you like this one, play** [*Tsukihime*](http://rockmandash12.kinja.com/rockmandash-reviews-tsukihime-visual-novel-1614282097?rev=1410387041124#_ga=1.5037302.473183827.1418699279)*, *[*Fate/hollow Ataraxia*](http://rockmandash12.kinja.com/rockmandash-reviews-fate-hollow-ataraxia-visual-novel-1612260148), [everything Type-Moon...](http://tay.kotaku.com/type-moon-marathon-wip-1534726534)
+**If you like this one, play** [*Tsukihime*](/posts/rockmandash-reviews-tsukihime-visual-novel-1614282097?rev=1410387041124#_ga=1.5037302.473183827.1418699279)*, *[*Fate/hollow Ataraxia*](/posts/rockmandash-reviews-fate-hollow-ataraxia-visual-novel-1612260148), [everything Type-Moon...](http://tay.kotaku.com/type-moon-marathon-wip-1534726534)
 
 Edit: I have to mention [**Muv-Luv**](http://tay.kotaku.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967), Which I’ve played since posting this, and it’s pretty amazing. If you are interested, check out Dex’s [guide of sorts to the series](http://dexomega.kinja.com/dex-where-do-i-start-with-muv-luv-1561900783#_ga=1.207182480.247934920.1454126956).
 
@@ -200,6 +200,6 @@ In conclusion, the Visual Novel genre is unlike anything else; a video game genr
 
 ***
 
-*Rockmandash is a frequent writer of Visual Novels and anime on *[*this blog*](http://rockmandash12.kinja.com/)* and the *[*AniTAY Blog*](http://anitay.kinja.com/)* as well. Come and check them out if you are interested in reviews and opinion pieces on these topics!*
+*Rockmandash is a frequent writer of Visual Novels and anime on *[*this blog*](/posts/)* and the *[*AniTAY Blog*](http://anitay.kinja.com/)* as well. Come and check them out if you are interested in reviews and opinion pieces on these topics!*
 
 ***Note:**** Edited on 2/16/2015 to polish it up a bit, and update some things. Also Edited on 1/31/2016 to update the header image, distribution info, formatting, and other small things.*

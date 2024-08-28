@@ -11,7 +11,7 @@
 
 I love Key works as much as the next person, but unfortunately for me, that love can easily lead to fear. Hearing about the fan favorite Visual Novel *Rewrite* getting an adaptation is just one example of why: instead of cheering, [*I was praying*](https://puu.sh/rx9uV/17e17ef72f.png). Adapting any work into a new medium can be hard, but *Rewrite* is no ordinary work... it’s a Key Visual Novel. Thanks to a convoluted story structure and 8-Bit’s terrible adaptation skills, my fears were realized as the *Rewrite* anime became a checklist of everything that can go wrong, a work that fails to appeal to fans and newcomers alike.
 
-This is a review of the 2016 Anime adapted by 8-Bit. If you’re interested in a review of the Visual Novel, [****check out my review here****](http://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1609445042)
+This is a review of the 2016 Anime adapted by 8-Bit. If you’re interested in a review of the Visual Novel, [****check out my review here****](/posts/rockmandash-reviews-rewrite-visual-novel-1609445042)
 
 ***
 
@@ -75,4 +75,4 @@ Remember that quote from my VN review earlier, stating that the VN has 7 routes?
 
 ***
 
-*You’re reading Ani-TAY, the anime-focused portion of Kotaku’s community-run blog, Talk Amongst Yourselves. Ani-TAY is a non-professional blog whose writers love everything anime related. Click *[*here*](http://anitay.kinja.com/)* to check us out. If you want to read more of my writing, check out *[*RockmanDash Reviews*](http://rockmandash12.kinja.com/)* and *[*KMTech*](http://kmtech.kinja.com/)*.*
+*You’re reading Ani-TAY, the anime-focused portion of Kotaku’s community-run blog, Talk Amongst Yourselves. Ani-TAY is a non-professional blog whose writers love everything anime related. Click *[*here*](http://anitay.kinja.com/)* to check us out. If you want to read more of my writing, check out *[*RockmanDash Reviews*](/posts/)* and *[*KMTech*](http://kmtech.kinja.com/)*.*

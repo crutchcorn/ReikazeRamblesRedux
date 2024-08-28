@@ -91,4 +91,4 @@ If you’re looking for an affordable device though and this is compatible, this
 
 ***
 
-*Kevin Mai - Rockmandash12 is a frequent writer of Visual Novels and anime on *[*his blog*](http://rockmandash12.kinja.com/#_ga=1.122760139.1523386611.1417386122)* and the *[*AniTAY Blog*](http://anitay.kinja.com/#_ga=1.182989094.1052958133.1463607106)*, but does have a pretty deep interest in the world of tech with all Tech related content available on *[*KMTech*](http://kmtech.kinja.com/#_ga=1.182989094.1052958133.1463607106)*. If you’re interested, come check them out!*
+*Kevin Mai - Rockmandash12 is a frequent writer of Visual Novels and anime on *[*his blog*](/posts/#_ga=1.122760139.1523386611.1417386122)* and the *[*AniTAY Blog*](http://anitay.kinja.com/#_ga=1.182989094.1052958133.1463607106)*, but does have a pretty deep interest in the world of tech with all Tech related content available on *[*KMTech*](http://kmtech.kinja.com/#_ga=1.182989094.1052958133.1463607106)*. If you’re interested, come check them out!*

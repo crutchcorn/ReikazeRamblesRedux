@@ -18,10 +18,10 @@ EDIT: Yeah, couldn’t really finish it. Maybe I’ll give the rest a shot, but 
 
 1. [Kanon](http://anitay.kinja.com/rockmandash-reviews-kanon-visual-novel-anime-1605160517#_ga=1.16287679.888615642.1438970662)
 2. [Planetarian](https://rockmandash12.kinja.com/rockmandash-reviews-planetarian-visual-novel-1607911392)
-3. [Rewrite \[Original Review\]](http://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1516111258)
-4. [Rewrite \[Review+\]](http://rockmandash12.kinja.com/rockmandash-reviews-rewrite-visual-novel-1609445042)
-5. [Angel Beats \[Anime\]](http://rockmandash12.kinja.com/rockmandash-reviews-angel-beats-anime-1618928342)
-6. [Clannad \[VN & Anime\]](http://rockmandash12.kinja.com/rockmandash-reviews-clannad-visual-novel-anime-1609437459/all#_ga=1.16287679.888615642.1438970662)
+3. [Rewrite \[Original Review\]](/posts/rockmandash-reviews-rewrite-visual-novel-1516111258)
+4. [Rewrite \[Review+\]](/posts/rockmandash-reviews-rewrite-visual-novel-1609445042)
+5. [Angel Beats \[Anime\]](/posts/rockmandash-reviews-angel-beats-anime-1618928342)
+6. [Clannad \[VN & Anime\]](/posts/rockmandash-reviews-clannad-visual-novel-anime-1609437459/all#_ga=1.16287679.888615642.1438970662)
 
 # Maybe in the future:
 

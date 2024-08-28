@@ -29,7 +29,7 @@ A comedy needs a great cast, and *Nozaki-kun* definitely has one. Continuing wit
 
 ![](./mcyheokpftprz48jqlih.jpg)
 
-Another great touch is how well they managed to pull off an [ensemble cast](http://tvtropes.org/pmwiki/pmwiki.php/Main/EnsembleCast). The fact that all the characters get their own time to shine instead of just focusing on Chiyo and Nozaki is great because so many [other shows just focus on a few characters even when they have a cast done as well as they have here](http://rockmandash12.kinja.com/rockmandash-reviews-angel-beats-anime-1618928342/all), and to see them develop all the characters equally as well and keep the humor going is something to be appreciated.
+Another great touch is how well they managed to pull off an [ensemble cast](http://tvtropes.org/pmwiki/pmwiki.php/Main/EnsembleCast). The fact that all the characters get their own time to shine instead of just focusing on Chiyo and Nozaki is great because so many [other shows just focus on a few characters even when they have a cast done as well as they have here](/posts/rockmandash-reviews-angel-beats-anime-1618928342/all), and to see them develop all the characters equally as well and keep the humor going is something to be appreciated.
 
 # Amazing Adaptation
 

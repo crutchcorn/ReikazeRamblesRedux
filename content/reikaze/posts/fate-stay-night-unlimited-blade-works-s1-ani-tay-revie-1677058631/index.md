@@ -11,7 +11,7 @@
 
 **Rockmandash12:** Haven't seen one of these in a while! Due to the split cour nature of *Fate/stay night*, and my extreme fanboisms/indecisiveness, I thought it would be neat if the UBW reviews per season would be discussion reviews similar to [*Glasslip*](http://anitay.kinja.com/glasslip-ani-tay-review-and-discussion-1641880502) and [*Golden Time*](http://tay.kotaku.com/ani-tay-golden-time-review-and-discussion-1556588276). I'm planning on doing a full review when it's all done, but that's a matter for the future.
 
-**Rockmandash12:** *Fate/stay night: Unlimited Blade Works* is an anime by Ufotable which in adaptation of the route with the same name from the [visual novel](http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1613176306?rev=1407787126382), about the 5th Holy Grail war, where masters summon servants to fight to the death for a chance to win the Holy Grail war.
+**Rockmandash12:** *Fate/stay night: Unlimited Blade Works* is an anime by Ufotable which in adaptation of the route with the same name from the [visual novel](/posts/rockmandash-reviews-fate-stay-night-visual-novel-1613176306?rev=1407787126382), about the 5th Holy Grail war, where masters summon servants to fight to the death for a chance to win the Holy Grail war.
 
 **Rockmandash12:** Because this is such a popular series, and the way they've been releasing them is so screwed up, there's many perspectives on this series.
 

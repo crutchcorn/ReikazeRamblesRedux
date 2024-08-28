@@ -21,13 +21,13 @@ I’m pretty well known around here for being a [Fate/fanboy](https://rockmandas
 
 Now, in no specific order:
 
-* [*Never 7: The End of Infinity*](http://rockmandash12.kinja.com/rockmandash-reviews-never-7-the-end-of-infinity-visu-1677618797?rev=1426568087045)
-* [*Ever 17: The Out of Infinity*](http://rockmandash12.kinja.com/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485)
-* [*Remember 11: The Age of Infinity*](http://rockmandash12.kinja.com/rockmandash-reviews-remember-11-the-age-of-infinity-1687285802)
+* [*Never 7: The End of Infinity*](/posts/rockmandash-reviews-never-7-the-end-of-infinity-visu-1677618797?rev=1426568087045)
+* [*Ever 17: The Out of Infinity*](/posts/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485)
+* [*Remember 11: The Age of Infinity*](/posts/rockmandash-reviews-remember-11-the-age-of-infinity-1687285802)
 * *12 Riven: The Ψcliminal of Integral (whenever translation is done)*
-* [*999: Nine Hours, Nine Persons, Nine Doors*](http://rockmandash12.kinja.com/why-i-love-999-nine-hours-nine-persons-nine-doors-so-1688146811#_ga=1.14274167.1523386611.1417386122)
-* [*Zero Escape: Virtue’s Last Reward*](http://rockmandash12.kinja.com/zero-escape-virtues-last-reward-is-nearly-perfect-expe-1713427517)
+* [*999: Nine Hours, Nine Persons, Nine Doors*](/posts/why-i-love-999-nine-hours-nine-persons-nine-doors-so-1688146811#_ga=1.14274167.1523386611.1417386122)
+* [*Zero Escape: Virtue’s Last Reward*](/posts/zero-escape-virtues-last-reward-is-nearly-perfect-expe-1713427517)
 * [*Punch Line*](http://anitay.kinja.com/punch-line-the-ani-tay-review-1713427515?rev=1435276400628#_ga=1.14274167.1523386611.1417386122)
-* [*Root Double: Before Crime \* After Days*](http://rockmandash12.kinja.com/rockmandash-reviews-root-double-before-crime-after-1780907573)
-* [*Zero Time Dilemma*](http://rockmandash12.kinja.com/rockmandash-reviews-zero-time-dilemma-the-end-of-a-d-1785071867)
+* [*Root Double: Before Crime \* After Days*](/posts/rockmandash-reviews-root-double-before-crime-after-1780907573)
+* [*Zero Time Dilemma*](/posts/rockmandash-reviews-zero-time-dilemma-the-end-of-a-d-1785071867)
 * [*Zero Escape: The Nonary Games*](https://rockmandash12.kinja.com/rockmandash-reviews-zero-escape-the-nonary-games-1793632748)

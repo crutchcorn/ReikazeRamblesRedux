@@ -17,7 +17,7 @@ In 2011, when the original iPad came out, tablets were marketed as the next revo
 
 ![](htaraiftmowekpqsnhxq.jpg)
 
-The Teclast Tbook 11 is a 10.6 inch tablet made by a relatively unknown Chinese tablet manufacturer called Teclast. Unlike the last tablet I reviewed from them (The [Teclast x98 Air II](http://rockmandash12.kinja.com/teclast-x98-air-ii-review-an-interesting-dual-booting-1700897037)) which was eerily similar to the iPad, the Tbook 11 in particular isn’t necessarily a clone of anything, instead serving as an example of the generic 2 in 1 tablet(as long as you buy the additional keyboard). While Teclast isn’t the most well known in the west, to those who know them they make solid devices that are great for the money, and this guy is no different.
+The Teclast Tbook 11 is a 10.6 inch tablet made by a relatively unknown Chinese tablet manufacturer called Teclast. Unlike the last tablet I reviewed from them (The [Teclast x98 Air II](/posts/teclast-x98-air-ii-review-an-interesting-dual-booting-1700897037)) which was eerily similar to the iPad, the Tbook 11 in particular isn’t necessarily a clone of anything, instead serving as an example of the generic 2 in 1 tablet(as long as you buy the additional keyboard). While Teclast isn’t the most well known in the west, to those who know them they make solid devices that are great for the money, and this guy is no different.
 
 ![](xy33mo1l9khuj1shko0f.jpg)
 
@@ -50,7 +50,7 @@ Another difference between the two is build quality: while that Nexus had plasti
 
 Similar in quality to the build is the display: The screen is a 10.6 inch 1080p screen, which isn’t the best in the world, but it sure does look like it. Great detail, solid viewing angles, crisp colors, This display is one that looks great and would be unthinkable at this price range a few years ago. Though, this isn’t the best out there as if you compare it to other tablets, it is on the budget side of things all things considered, with a lowly 207 PPI to it’s name. It’s certainly not as crisp as some of the ultra high displays out there, and you can definitely see pixels if you’re paying attention to the screen, but it’s lower PPI will never be a hindrance to your experience, and it sometimes even serves more of a benefit due to the poor scaling for high resolution displays on windows.
 
-Even though the landscape has changed in comparison to a few years ago when the only good display on a windows tablet was pretty much just the *Surface* line and a few Chinese tablets, high resolution tablets are still the exception, not the rule. It’s one of the best displays you can get at this price point on windows, and while there is other Chinese competition and devices from more well known OEMs like the Asus Transformer T100 Chi in spitting range of price at 250, most at or near this price range are a lousy 1280x800 affair. The Tbook 11 has a great display, with my only real complaints being that ’s not laminated (which means the gap between the display and the glass is not fused together, thus being noticeable), but so are most tablets in this price range and that the display is a fingerprint magnet which means you have to wipe it off once in a while. It comes with a preapplied screen protector which you could use if you wanted to which would make the fingerprints much less of an issue, but touch sensitivity is worse and it feels worse so it’s a trade off there.
+Even though the landscape has changed in comparison to a few years ago when the only good display on a windows tablet was pretty much just the* *Surface* *line and a few Chinese tablets, high resolution tablets are still the exception, not the rule. It’s one of the best displays you can get at this price point on windows, and while there is other Chinese competition and devices from more well known OEMs like the Asus Transformer T100 Chi* *in spitting range of price at 250, most at or near this price range are a lousy 1280x800 affair. The Tbook 11 has a great display, with my only real complaints being that ’s not laminated (which means the gap between the display and the glass is not fused together, thus being noticeable), but so are most tablets in this price range and that the display is a fingerprint magnet which means you have to wipe it off once in a while. It comes with a preapplied screen protector which you could use if you wanted to which would make the fingerprints much less of an issue, but touch sensitivity is worse and it feels worse so it’s a trade off there.
 
 ![](bvt4rr0rwnzydoykelxa.jpg)
 
@@ -108,19 +108,19 @@ There was one thing about my unit that was particularly bad though, bad enough t
 
 ## Like
 
-**The display** - High resolution IPS displays are great and this is no different. Coupled with a great size and this is a solid experience.
+**The display - **High resolution IPS displays are great and this is no different. Coupled with a great size and this is a solid experience.
 
-**The build quality** - All metal build feels nice and premium, comfortable yet high end. Really great job with the build.
+**The build quality -**All metal build feels nice and premium, comfortable yet high end. Really great job with the build.
 
-**The experience as a 2 in 1** - As good as it’s more expensive rivals, a great production experience that gives confidence in regards to replacing a laptop.
+**The experience as a 2 in 1 - **As good as it’s more expensive rivals, a great production experience that gives confidence in regards to replacing a laptop.
 
 ## No Like
 
-**Weak WiFi performance** - WiFi is our world and poor connection only leads to frustration. Also has the side effect of making Android much less useful.
+**Weak WiFi performance - **WiFi is our world and poor connection only leads to frustration. Also has the side effect of making Android much less useful.
 
-**Odd keyboard decisions** - Why would you make the shift smaller for the arrows? Why doesn’t 2 finger scrolling work? Ugh.
+**Odd keyboard decisions - **Why would you make the shift smaller for the arrows? Why doesn’t 2 finger scrolling work? Ugh.
 
-**Weird things here and there** - Weird things like headphone port tightness and micro SD card slot making the experience worse...
+**Weird things here and there -** Weird things like headphone port tightness and micro SD card slot making the experience worse...
 
 ***
 
@@ -134,6 +134,6 @@ I mentioned it a few times in the review but this is an example of comoditizatio
 
 ***
 
-*Kevin Mai - Rockmandash12 is a frequent writer of Visual Novels and anime on *[*his blog*](http://rockmandash12.kinja.com/#_ga=1.122760139.1523386611.1417386122)* and the *[*AniTAY Blog*](http://anitay.kinja.com/#_ga=1.182989094.1052958133.1463607106)*, but does have a pretty deep interest in the world of tech with all Tech related content available on *[*KMTech*](http://kmtech.kinja.com/#_ga=1.182989094.1052958133.1463607106)*. If you’re interested, come check them out!*
+*Kevin Mai - Rockmandash12 is a frequent writer of Visual Novels and anime on *[*his blog*](/posts/#_ga=1.122760139.1523386611.1417386122)* and the *[*AniTAY Blog*](http://anitay.kinja.com/#_ga=1.182989094.1052958133.1463607106)*, but does have a pretty deep interest in the world of tech with all Tech related content available on *[*KMTech*](http://kmtech.kinja.com/#_ga=1.182989094.1052958133.1463607106)*. If you’re interested, come check them out!*
 
 ****Disclaimer:*** This tablet was provided by the online retailer Gearbest for the purpose of review, but there was no editorial control or any involvement in the review process. Also, the keyboard was purchased for the sake of the review.*

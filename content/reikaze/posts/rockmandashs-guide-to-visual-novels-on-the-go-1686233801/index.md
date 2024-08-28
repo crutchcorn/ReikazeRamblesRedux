@@ -7,7 +7,7 @@
 }
 ---
 
-When I first got into the [Visual Novel ](http://rockmandash12.kinja.com/the-beginners-guide-to-visual-novels-1541975662?rev=1424195118689)genre, there was something that struck me as odd about it: the lack of mobility. I know I prefer to read when I’m around and about, so I thought... What are some ways that we can consume Visual Novels on the go, in a more natural way? How can we read them in similar fashion to actual books? I’ve been spending some time to figure this out, and here are my results: Welcome to my guide to Visual Novels on the Go!
+When I first got into the [Visual Novel ](/posts/the-beginners-guide-to-visual-novels-1541975662?rev=1424195118689)genre, there was something that struck me as odd about it: the lack of mobility. I know I prefer to read when I’m around and about, so I thought... What are some ways that we can consume Visual Novels on the go, in a more natural way? How can we read them in similar fashion to actual books? I’ve been spending some time to figure this out, and here are my results: Welcome to my guide to Visual Novels on the Go!
 
 ![](./1272816347148556204.png)
 
@@ -111,6 +111,6 @@ I think that Windows tablets are really the best way to play Visual Novels, and 
 
 ***
 
-*Rockmandash is a frequent writer of Visual Novels and anime on *[*this blog*](http://rockmandash12.kinja.com/)* and the *[*AniTAY Blog*](http://anitay.kinja.com/)* as well. Come and check them out if you are interested in reviews and opinion pieces on these topics!*
+*Rockmandash is a frequent writer of Visual Novels and anime on *[*this blog*](/posts/)* and the *[*AniTAY Blog*](http://anitay.kinja.com/)* as well. Come and check them out if you are interested in reviews and opinion pieces on these topics!*
 
 *Edit 2/19/15 - Added disclaimer and CRD.*

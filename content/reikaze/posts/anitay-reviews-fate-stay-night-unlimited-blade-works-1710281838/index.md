@@ -9,13 +9,13 @@
 
 <video src="./1330439161839783717.mp4"></video>
 
-**RockmanDash12:** Welcome to the *Fate/stay night: Unlimited Blade Works* AniTAY review, this time covering the whole show instead of just the first cour like we did with the other [AniTAY review of *Fate/stay night: Unlimited Blade Works*](http://anitay.kinja.com/fate-stay-night-unlimited-blade-works-s1-ani-tay-revie-1677058631). While I already wrote my personal thoughts on my own [review](http://rockmandash12.kinja.com/fate-stay-night-unlimited-blade-works-tv-is-beautifu-1642722982#_ga=1.260370888.473183827.1418699279) of the series, I thought it would be best if we had a discussion review for the entire show due to the complexity that is the Nasuverse, and how many people deal with it.
+**RockmanDash12:** Welcome to the *Fate/stay night: Unlimited Blade Works* AniTAY review, this time covering the whole show instead of just the first cour like we did with the other [AniTAY review of *Fate/stay night: Unlimited Blade Works*](http://anitay.kinja.com/fate-stay-night-unlimited-blade-works-s1-ani-tay-revie-1677058631). While I already wrote my personal thoughts on my own [review](/posts/fate-stay-night-unlimited-blade-works-tv-is-beautifu-1642722982#_ga=1.260370888.473183827.1418699279) of the series, I thought it would be best if we had a discussion review for the entire show due to the complexity that is the Nasuverse, and how many people deal with it.
 
-**RockmanDash12:** With me today are two people with a completely different perspective than I have with the Nasuverse. Along with me, your VN obsessive Type-Moon nut, we have Grex, who started with the [Deen](http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-2006-anime-1497715875#_ga=1.4962422.473183827.1418699279) [adaptations](https://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-unlimited-blade-w-1710413335#_ga=1.4962422.473183827.1418699279) then fell in love with [*Fate/Zero*](http://anitay.kinja.com/grexs-fate-zero-review-1703148815#_ga=1.206147926.473183827.1418699279).
+**RockmanDash12:** With me today are two people with a completely different perspective than I have with the Nasuverse. Along with me, your VN obsessive Type-Moon nut, we have Grex, who started with the [Deen](/posts/rockmandash-reviews-fate-stay-night-2006-anime-1497715875#_ga=1.4962422.473183827.1418699279) [adaptations](https://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-unlimited-blade-w-1710413335#_ga=1.4962422.473183827.1418699279) then fell in love with [*Fate/Zero*](http://anitay.kinja.com/grexs-fate-zero-review-1703148815#_ga=1.206147926.473183827.1418699279).
 
 **Grex:** Salutations.
 
-**RockmanDash12:** And joining us like last time is Protonstorm, who saw only [*Fate/Zero* ](http://rockmandash12.kinja.com/rockmandash-reviews-fate-zero-ani-tay-1538163593#_ga=1.230807642.473183827.1418699279)before jumping into *Fate/stay night: Unlimited Blade Works*.
+**RockmanDash12:** And joining us like last time is Protonstorm, who saw only [*Fate/Zero* ](/posts/rockmandash-reviews-fate-zero-ani-tay-1538163593#_ga=1.230807642.473183827.1418699279)before jumping into *Fate/stay night: Unlimited Blade Works*.
 
 **Protonstorm:** Hey guys.
 
@@ -154,7 +154,7 @@
 
 **RockmanDash12:** like, the story is still the same fighting to the death tournament for the holy grail war, but the focus was on Shirou in the VN, with his input on everything. The Anime doesn’t do that and it looses a lot of the “color commentary” to speak. it feels bland in comparison. It doesn’t have the feel of the original work that I fell in love with, and that really bothers me.
 
-**RockmanDash12:** But, this is a [VN fan ](http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1613176306)rambling, and you may feel completely different about it.
+**RockmanDash12:** But, this is a [VN fan ](/posts/rockmandash-reviews-fate-stay-night-visual-novel-1613176306)rambling, and you may feel completely different about it.
 
 ![](./1330439163018663973.jpg)
 

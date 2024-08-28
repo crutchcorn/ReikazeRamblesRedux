@@ -55,7 +55,7 @@ One name can sum up what I think about the soundtrack, and that’s Yuki Kajiura
 
 ![](./1313360470164487715.png)
 
-While I did enjoy *Fate/Zero*, I didn’t like it nearly as much as the rest of the Type-Moon universe. and I blame that to [hype backlash](http://tvtropes.org/pmwiki/pmwiki.php/Main/HypeBacklash), and a lack of personality, which I talk about in my [revisited article](http://rockmandash12.kinja.com/rockmandash-rambles-fate-zero-revisited-1637549445).
+While I did enjoy *Fate/Zero*, I didn’t like it nearly as much as the rest of the Type-Moon universe. and I blame that to [hype backlash](http://tvtropes.org/pmwiki/pmwiki.php/Main/HypeBacklash), and a lack of personality, which I talk about in my [revisited article](/posts/rockmandash-rambles-fate-zero-revisited-1637549445).
 
 ![](./1313360470449098531.jpg)
 

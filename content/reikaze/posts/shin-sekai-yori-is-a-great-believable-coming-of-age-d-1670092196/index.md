@@ -9,7 +9,7 @@
 
 ![](./oe3crfvaoa2tejbhdtro.png)
 
-A few weeks ago, I watched an anime that's been recommended to me several times: *Shin Sekai Yori*, or *From the New World*. It's one of the few anime dystopians I've seen (which has to by my favorite genre of [literature](http://rockmandash12.kinja.com/1984-review-1659903477) FYI), so I thought I'd talk about it.
+A few weeks ago, I watched an anime that's been recommended to me several times: *Shin Sekai Yori*, or *From the New World*. It's one of the few anime dystopians I've seen (which has to by my favorite genre of [literature](/posts/1984-review-1659903477) FYI), so I thought I'd talk about it.
 
 **Disclaimer: This is my pure thoughts on the show and thus structures can be damned. If you want a more structured, less ramble-y review of Shin Sekai Yori, check out the one** [**MainProtagonist**](https://tay.kinja.com/cleverly-titled-anime-review-shin-sekai-yori-1494395136) **posted earlier this year.**
 
@@ -27,7 +27,7 @@ It has a well constructed world yet it's a despicable one: the primitive society
 
 You may wonder, why would I grow to like a world I disliked? It's because of how well executed it is, fleshed out, well developed and extremely well integrated the world is into the story. Like a good dystopian should, it makes a point (which I'll leave up to your interpretation) that justifies flaws in the world. While being a despicable world at times, it's an intriguing world with a bloodstained history, one that has half a foot in the future, but another foot in the past. They throw oodles of information about the situation of the society, the more you watch, the more information about this world appears. It's a like if there was a world built around the ideas of the hedgehog's dilemma and fear, influencing every part of society in horrific ways.
 
-To me, the history of it is probably the best part of it, bridging the gap between the story and now, helping to give a perspective on how different the world is. It helps make the show that much more believable, that much more engaging and it's something that anime rarely does. That trend of doing the unexpected continues on in other aspects of this show: rarely in anime do you see a society so well fleshed out, rarely do you have a story in anime that everything is important to the plot and the development in the world... it's this nice change of pace that I really appreciate, and I love how *Shin Sekai Yori* has these elements that I love out of traditional dystopians like 1984 and BNW, and the dystopian elements it shows (especially at the end... ;-;) is done really well. It also makes me wish anime had more dystopians, and i'd love for some recommendations if you guys know of any others. (Come on guys! You know you want to do a dystopian! **PLEASE???**)
+To me, the history of it is probably the best part of it, bridging the gap between the story and now, helping to give a perspective on how different the world is. It helps make the show that much more believable, that much more engaging and it's something that anime rarely does. That trend of doing the unexpected continues on in other aspects of this show: rarely in anime do you see a society so well fleshed out, rarely do you have a story in anime that everything is important to the plot and the development in the world... it's this nice change of pace that I really appreciate, and I love how* Shin Sekai Yori *has these elements that I love out of traditional dystopians like 1984 and BNW, and the dystopian elements it shows (especially at the end... ;-;) is done really well. It also makes me wish anime had more dystopians, and i'd love for some recommendations if you guys know of any others. (Come on guys! You know you want to do a dystopian! **PLEASE???**)
 
 ![](./vm37rojha7jhhkoqe6kv.jpg)
 
@@ -51,11 +51,11 @@ I managed to get this far without mentioning the ending? Better get onto that: i
 
 ![](./1042989631108645776.jpg)
 
-All that being said, it's pretty great, but *Shin Sekai Yori* is not perfect, so I'll just briefly talk about some less than great aspects here.
+All that being said, it's pretty great, but* Shin Sekai Yori *is not perfect, so I'll just briefly talk about some less than great aspects here.
 
-1\. **THE DAMN TIME JUMPS.** If there's one thing that annoys me the most, it's when stories do not have a continuous story line, and when they randomly jump.... which Shin Sekai Yori has. These time skips happen almost at random times, and every time they did it, it threw me out of a loop. Was not a fan. Apparently these time skips were in the original novel so I can't put blame on the anime, but it still annoyed me nonetheless.
+1\. **THE DAMN TIME JUMPS. **If there's one thing that annoys me the most, it's when stories do not have a continuous story line, and when they randomly jump.... which Shin Sekai Yori has. These time skips happen almost at random times, and every time they did it, it threw me out of a loop. Was not a fan. Apparently these time skips were in the original novel so I can't put blame on the anime, but it still annoyed me nonetheless.
 
-2\. *It's not here to entertain you.* It's here to make the best of what it did in quality and writing which it did a great job with. This means of execution though, may limit how much you liked it. You may be bored at times, and it may feel dragged out. As a story, *Shin Sekai Yori* is great. As entertainment? Not so much.
+2\. *It's not here to entertain you.* It's here to make the best of what it did in quality and writing which it did a great job with. This means of execution though, may limit how much you liked it. You may be bored at times, and it may feel dragged out. As a story, *Shin Sekai Yori *is great. As entertainment? Not so much.
 
 3\. *The pacing is slow*. While not an issue for me, it's still an issue to some.... but if that'll detract you, you obviously are not the intended audience for this story. The pacing helped to develop everything in the story and I never personally had an issue with it but it can be a bit dull.
 

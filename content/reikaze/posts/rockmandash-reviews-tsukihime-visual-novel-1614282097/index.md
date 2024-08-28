@@ -7,7 +7,7 @@
 }
 ---
 
-Time waits for nobody. The further we go along, the more we advance... but every now and then, we need to take a step back to appreciate the past and the progress we’ve had. As we approach Fate/stay night (2014), now is the perfect time to look back on what started it all. Today on [Rockmandash Reviews+](http://rockmandash12.kinja.com/rockmandash-reviews-tsukihime-visual-novel-1511280291), we have [Nasu’s](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534) breakout doujin Visual Novel: Tsukihime.
+Time waits for nobody. The further we go along, the more we advance... but every now and then, we need to take a step back to appreciate the past and the progress we’ve had. As we approach Fate/stay night (2014), now is the perfect time to look back on what started it all. Today on [Rockmandash Reviews+](/posts/rockmandash-reviews-tsukihime-visual-novel-1511280291), we have [Nasu’s](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534) breakout doujin Visual Novel: Tsukihime.
 
 ![](./1353797215643137059.png)
 

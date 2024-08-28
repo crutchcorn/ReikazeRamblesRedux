@@ -11,7 +11,7 @@ Welcome to Rockmandash Reviews, and this is Part 4 of the Type Moon Review Marat
 
 ![](./tqsvujztfhkbhjdttck8.jpg)
 
-Link to new Review: [http://rockmandash12.kinja.com/rockmandash-re…](http://rockmandash12.kinja.com/rockmandash-reviews-tsukihime-visual-novel-1614282097)
+[Link to new Review](/posts/rockmandash-reviews-tsukihime-visual-novel-1614282097)
 
 # Writing
 

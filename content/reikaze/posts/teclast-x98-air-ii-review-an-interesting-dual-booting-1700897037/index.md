@@ -107,7 +107,7 @@ I didn’t watch too many movies on this tablet because I try to avoid black bez
 
 ![](1231932436620636049.jpg)
 
-As for gaming, you have a wide selection of games to choose from, because you have both the android library of games and the windows library of games. Don’t expect to run demanding games on this: High resolution + Atom does not equal a great PC gaming experience. I’ve been playing a ton of lighter games on this though because it’s a portable windows machine and playing PC games on the go is all kinds of fun. If you follow what I normally write, you would probably know that I’m a big[ Visual Novel](https://rockmandash12.kinja.com/the-beginners-guide-to-visual-novels-1541975662) fan, and the primary reason I got this tablet was because of [Visual Novels on the go](http://rockmandash12.kinja.com/rockmandashs-guide-to-visual-novels-on-the-go-1686233801). Really, if this was all this review was about, I could rave on and on as this is absolutely amazing for that purpose, the best VN experience I’ve ever had, it’s sooo good and if you want a tablet for VNs, this is a no brainer at the price point it’s at. The 4:3 screen ratio is awesome here because almost all VNs are 4:3, and the screen makes them look really nice, especially on modern VNs which can render text at a higher resolution.
+As for gaming, you have a wide selection of games to choose from, because you have both the android library of games and the windows library of games. Don’t expect to run demanding games on this: High resolution + Atom does not equal a great PC gaming experience. I’ve been playing a ton of lighter games on this though because it’s a portable windows machine and playing PC games on the go is all kinds of fun. If you follow what I normally write, you would probably know that I’m a big[ Visual Novel](https://rockmandash12.kinja.com/the-beginners-guide-to-visual-novels-1541975662) fan, and the primary reason I got this tablet was because of [Visual Novels on the go](/posts/rockmandashs-guide-to-visual-novels-on-the-go-1686233801). Really, if this was all this review was about, I could rave on and on as this is absolutely amazing for that purpose, the best VN experience I’ve ever had, it’s sooo good and if you want a tablet for VNs, this is a no brainer at the price point it’s at. The 4:3 screen ratio is awesome here because almost all VNs are 4:3, and the screen makes them look really nice, especially on modern VNs which can render text at a higher resolution.
 
 
 
@@ -143,7 +143,7 @@ For the low cost of $200 dollars, you’re getting a device that aims high and m
 
 ***
 
-*Kevin Mai - Rockmandash12 is a frequent writer of Visual Novels and anime on *[*his blog*](http://rockmandash12.kinja.com/#_ga=1.122760139.1523386611.1417386122)* and the *[*AniTAY Blog*](http://anitay.kinja.com/#_ga=1.107530946.1523386611.1417386122)*, but does have a pretty deep interest in the world of Tech. If you’re interested, come check this out!*
+*Kevin Mai - Rockmandash12 is a frequent writer of Visual Novels and anime on *[*his blog*](/posts/#_ga=1.122760139.1523386611.1417386122)* and the *[*AniTAY Blog*](http://anitay.kinja.com/#_ga=1.107530946.1523386611.1417386122)*, but does have a pretty deep interest in the world of Tech. If you’re interested, come check this out!*
 
 
 

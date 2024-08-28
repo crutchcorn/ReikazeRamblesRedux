@@ -11,7 +11,7 @@
 
 ![](./gcuzisvfbftoyr4tzg3j.png)
 
-You might be questioning why I posted this, considering I posted a [*Fate/stay night*](http://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1493594993) review earlier this year. Yes, I did release a *Fate/stay night* review, but I've improved my review style: both the substance and how it looks aesthetically. That's where the review+ comes in: Whenever I redo or spice up a review but want to keep the original the way it was, i'll be one of these reviews+.
+You might be questioning why I posted this, considering I posted a [*Fate/stay night*](/posts/rockmandash-reviews-fate-stay-night-visual-novel-1493594993) review earlier this year. Yes, I did release a *Fate/stay night* review, but I've improved my review style: both the substance and how it looks aesthetically. That's where the review+ comes in: Whenever I redo or spice up a review but want to keep the original the way it was, i'll be one of these reviews+.
 
 # Writing
 

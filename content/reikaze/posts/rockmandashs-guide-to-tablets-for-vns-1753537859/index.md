@@ -13,7 +13,7 @@ Many people in the VN community have turned to tablets for playing visual novels
 
 ![](./rtdayusrmtzrkffgsuzt.png)
 
-Before I start, I need to mention that this is an extension to my [*Visual Novels on the Go*](http://rockmandash12.kinja.com/rockmandashs-guide-to-visual-novels-on-the-go-1686233801) article, so if you need help with software and the pros and cons of getting a tablet for visual novels, check that. Just a refresher though, in that article I decided that the best tablet experience is a windows tablet based off of the x86 architecture, meaning it can run regular windows applications. This means in this video every tablet I am going to be talking about is going to run windows, so this means no iPads, no android tablets, because Windows is the most important part for compatibility with visual novels. Get it? Got it? Good. Let’s move on.
+Before I start, I need to mention that this is an extension to my [*Visual Novels on the Go*](/posts/rockmandashs-guide-to-visual-novels-on-the-go-1686233801) article, so if you need help with software and the pros and cons of getting a tablet for visual novels, check that. Just a refresher though, in that article I decided that the best tablet experience is a windows tablet based off of the x86 architecture, meaning it can run regular windows applications. This means in this video every tablet I am going to be talking about is going to run windows, so this means no iPads, no android tablets, because Windows is the most important part for compatibility with visual novels. Get it? Got it? Good. Let’s move on.
 
 ***
 
@@ -109,7 +109,7 @@ Now that you know what type of tablet you want, here are some specific choices t
 
 > *(pictured - Teclast X98 Air II)*
 
-**The iPad Experience for Windows- [_Teclast X98 Air III_](http://rockmandash12.kinja.com/teclast-x98-air-ii-review-an-interesting-dual-booting-1700897037) (~$130):** Do you like iPads? The Teclast X98 Air line is just for you, providing a great overall experience with it’s retina screens, 4:3 aspect ratio, best in class battery life and metal build quality that make it seem way more expensive than it really is, especially when you consider the budget Air III which is ~$130, in comparison to the ~200 I spent for my Air II I had. The Teclast tablets provide a full sized tablet experience that’s great and if you like this form factor, you’ll really like this tablet (It has some port placement oddities and software kinks though). If you’re interested, [here’s the link to buy it](http://shrsl.com/?~b63v).
+**The iPad Experience for Windows- [_Teclast X98 Air III_](/posts/teclast-x98-air-ii-review-an-interesting-dual-booting-1700897037) (~$130):** Do you like iPads? The Teclast X98 Air line is just for you, providing a great overall experience with it’s retina screens, 4:3 aspect ratio, best in class battery life and metal build quality that make it seem way more expensive than it really is, especially when you consider the budget Air III which is ~$130, in comparison to the ~200 I spent for my Air II I had. The Teclast tablets provide a full sized tablet experience that’s great and if you like this form factor, you’ll really like this tablet (It has some port placement oddities and software kinks though). If you’re interested, [here’s the link to buy it](http://shrsl.com/?~b63v).
 
 ![](./l7qqwlgmly02b8b3xfal.jpg)
 
@@ -141,4 +141,4 @@ Now that you know what type of tablet you want, here are some specific choices t
 
 ***
 
-*Thanks for reading this article! Rockmandash is a frequent writer of Visual Novels and anime on *[*this blog*](http://rockmandash12.kinja.com/)* and the *[*AniTAY Blog*](http://anitay.kinja.com/#_ga=1.27039165.1614825977.1451878508)* as well. Come and check them out if you are interested in reviews and opinion pieces on these topics!*
+*Thanks for reading this article! Rockmandash is a frequent writer of Visual Novels and anime on *[*this blog*](/posts/)* and the *[*AniTAY Blog*](http://anitay.kinja.com/#_ga=1.27039165.1614825977.1451878508)* as well. Come and check them out if you are interested in reviews and opinion pieces on these topics!*

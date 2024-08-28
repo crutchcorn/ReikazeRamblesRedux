@@ -11,7 +11,7 @@ It's that time of the year again! The time where I tell you about my review sche
 
 ![](./jqauvu2x44ymomxndgss.png)
 
-Before I discuss that though, I want to discuss my current plans for my writing. As for the [Type-Moon review marathon](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534), It's pretty much done, thanks to stuff like [Fate/hollow ataraxia](http://rockmandash12.kinja.com/rockmandash-reviews-fate-hollow-ataraxia-visual-novel-1612260148) coming out so I can review. There's a lot of smaller Type-Moon stuff I haven't got to yet, but everything I want to get, I already tackled, or it's not out yet. The way I'm going to tackle the FSN anime later this year will be one review at the end, with a Rockmandash Rambles inserted at the end of the seasons, and a first impressions.
+Before I discuss that though, I want to discuss my current plans for my writing. As for the [Type-Moon review marathon](https://rockmandash12.kinja.com/type-moon-marathon-wip-1534726534), It's pretty much done, thanks to stuff like [Fate/hollow ataraxia](/posts/rockmandash-reviews-fate-hollow-ataraxia-visual-novel-1612260148) coming out so I can review. There's a lot of smaller Type-Moon stuff I haven't got to yet, but everything I want to get, I already tackled, or it's not out yet. The way I'm going to tackle the FSN anime later this year will be one review at the end, with a Rockmandash Rambles inserted at the end of the seasons, and a first impressions.
 
 
 
