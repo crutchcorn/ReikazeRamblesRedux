@@ -48,6 +48,8 @@ Here’s what the authors of AniTAY have to say! We here at AniTAY are an opinio
 
 ****Author’s Pick for Best ED: *Dragon Pilot & Rascal Does Not Dream of Bunny Girl Senpai*****
 
+<iframe src="https://www.youtube.com/embed/hG-ahxkDPCA"></iframe>
+
 ***
 
 ****Author’s Pick for Best OP: *Zombieland Saga*****
@@ -189,6 +191,10 @@ Now for the Community’s results! The community that reads AniTAY is pretty var
 ***
 
 **Reader’s Pick for Anime Movie of the Year: *My Hero Academia: Two Heroes & Night is Short, Walk on Girl***
+
+<iframe src="https://www.youtube.com/embed/70W0u35wa48"></iframe>
+
+<iframe src="https://www.youtube.com/embed/RGHXqjCbyEQ"></iframe>
 
 ***
 

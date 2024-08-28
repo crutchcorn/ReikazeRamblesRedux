@@ -51,9 +51,13 @@ Here’s what the authors of AniTAY have to say! We here at AniTAY are an opinio
 
 ****Author’s Pick for Best ED:** *Girls’ Last Tour***
 
+<iframe src="https://www.youtube.com/embed/7ybhLXebppU"></iframe>
+
 ***
 
 ****Author’s Best OP:** *ACCA: 13th Territory Inspection Department***
+
+<iframe src="https://www.youtube.com/embed/pITNm95Sd1k"></iframe>
 
 ***
 
@@ -125,11 +129,17 @@ Now for the Community’s results! The community that reads AniTAY is pretty var
 
 ****Reader’s Pick for Best ED:** *Girl’s Last Tour, Miss Kobayashi’s Dragon Maid & Saga of Tanya of Evil***
 
+<iframe src="https://www.youtube.com/embed/7ybhLXebppU"></iframe>
+
+<iframe src="https://www.youtube.com/embed/euseUCiM5KE"></iframe>
+
 ****
 
 ***
 
 ****Reader’s Pick for Best OP:** *Attack on Titan S2 & Miss Kobayashi’s Dragon Maid***
+
+<iframe src="https://www.youtube.com/embed/LKP-vZvjbh8"></iframe>
 
 ***
 
