@@ -71,6 +71,8 @@ Steins;Gate is an experience that nobody should miss. This is an amazing game th
 
 Video Review -
 
+<iframe src="https://www.youtube.com/embed/KdUCiI6lf7k"></iframe>
+
 ***
 
 **Copyright Disclaimer:** Under Title 17, Section 107 of United States Copyright law, reviews are protected under fair use. This is a review, and as such, all media used in this review is used for the sole purpose of review and commentary under the terms of fair use. All footage, music and images belong to the respective companies.
