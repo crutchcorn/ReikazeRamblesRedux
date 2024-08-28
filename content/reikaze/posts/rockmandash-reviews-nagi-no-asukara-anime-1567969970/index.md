@@ -39,6 +39,8 @@ Man, this show looks great. PA Works really knows what they are doing with the v
 
 ![](./1323445383619140197.png)
 
+<iframe src="https://www.youtube.com/embed/Sv9oA9ODbd8"></iframe>
+
 With such impressive visuals, and fantastic writing plot, what could possibly top that? By some miraculous reason, in my opinion the music manages to be the strong point of the series, trumping both the plot and the visuals in quality. The soundtrack for the show is absolutely phenomenal, and it wasn’t long before I was wishing that I had the soundtrack sitting in my phone, ready to be listened over and over again. It’s one of the best soundtracks I’ve heard in recent times, and that’s a pretty ballsy claim considering the amazing soundtrack that Attack on Titan and Kill la Kill had. The high point for the soundtrack in my opinion, has to be absolutely fantastic ending theme Aqua Terrarium. I love it to death. Another fantastic thing about the soundtrack is that they use the tracks at the right time, for the right length, etc. They use the music for enhancing the mood, something every show with a standout soundtrack has to do. On another note, I thought that the voices are pretty great as well. I felt like all the voices were kind to the ear, as they all did a fantastic job at the voice acting and the casting was superb. Never once did I think these voices could be done by anybody else, and I’d be really sad if they were. (well, probably not....)
 
 **Sound - 10/10**

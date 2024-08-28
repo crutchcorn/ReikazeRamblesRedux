@@ -81,6 +81,8 @@ Alternative does a little bit better in this aspect and when you launch it up, b
 
 \*\* The official localization gave them proper voice actors, so this only applies for the FanTL
 
+<iframe src="https://www.youtube.com/embed/yAXEMvIHtT0"></iframe>
+
 The character art, UI, voice acting and aesthetics in general are pretty much the same throughout the games. In general, art is just average and there’s no getting around that, but it has it’s charms and it can grow on you like it has done for many. The visuals never actively hinders the experience, but it’s rarely top of the class. The voice actors are the same in all games and they do a pretty nice job in all of them.
 
 # Enjoyment

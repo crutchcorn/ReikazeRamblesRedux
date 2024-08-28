@@ -62,6 +62,8 @@ It might be ballzy to say this, but tied with Redline, Kara no Kyoukai is the pi
 
 There are series that use music to a comedic effect, series that use music to get things stuck in your head, and then there is Kara no Kyoukai, using music to it’s absolute best to engage you into the plot, the action, the mystery, the drama, the EVERYTHING. The music, and the use of music is PERFECT. The music is done by Yuki Kajiura, who has only made excellence, and this series… is a pleasure for your ears. With a load of memorable pieces, Kara no Kyoukai’s music is made to stand out, to be amazing. I’m gonna shut up so you can hear this beautiful soundtrack.
 
+<iframe src="https://www.youtube.com/embed/7480ZmNOB98"></iframe>
+
 Listen to it… it’s amazing. Done yet? Well, let’s continue with this review. The Voice acting, is also top notch. I’m no expert, but all the voices fit the characters well, and they sound great. The sound in Kara no Kyoukai, is masterful. This anime has one of the best soundtracks i’ve heard, and it’s a treat to your ears. Just a note though, the naming scheme of this soundtrack is just as confusing as the show itself…. so when you do eventually download/buy it, be aware of that.
 
 **Sound - 10/10**

@@ -29,6 +29,8 @@ If you've played a Pokémon game, you've seen this before. You move into town, a
 
 ![](./aorlvcuwhbzpkye3xtjh.png)
 
+<iframe src="https://www.youtube.com/embed/qzJp51ZuIRc"></iframe>
+
 This generation of Pokemon fixed so many things game play wise, it's now fast and engaging, I love it! The EXP Share was changed to an EXP All, and it's broken as all hell but awesome, because you no longer have to spend hours grinding. With the EXP Share the game was a blast! They gave people an incentive to catch Pokémon, which is when you catch them, you get EXP, which is awesome! The Design of the world reminded me of Kanto, I felt like they were trying to return to the roots with this one, and it succeeded. So, they added a bunch of new features, so much so that I can't really mention them all because I haven't used them all. They added fairy types, a new counter to dragon types, a sky battle where you battle in the skies, mega evolutions, which are like super saiyans for Pokémon, Poke-Amie, which is something you can do to play with Pokémon, and Super training, which is AMAZING. The game's length was nice as always, and It had a nice and simple difficulty progression.It's the most fun I've had in Pokémon gameplay in a long time, and I loved it. It's great, but it's not perfect. I have 2 gripes with the gameplay, the first one is that post game there's not very much to do, and Lumiose City is insane to try to navigate.
 
 **Gameplay - 9.5/10**
@@ -46,6 +48,8 @@ This is Pokémon how it should be. The game looks like a lower res version of XD
 ![](./ixnsasase5fyaky7jqeu.png)
 
 Pokemon X & Y has a pretty good soundtrack, in the game. In context, it's some of the best music we've seen in pokemon, with a ton of blood pumping pieces that work with the mood or calming ones for routes, but X\&Y's soundtrack is pretty average standalone, a lot worse in comparison to other soundtracks in the series.
+
+<iframe src="https://www.youtube.com/embed/IdSjChtEY3Y"></iframe>
 
 **Sound - 8.5/10**
 
@@ -146,6 +150,8 @@ Beautiful. Production IG is known for great visuals, and once again and they nai
 ![](./ajbc6pqred11q7edo2ac.png)
 
 The sound was excellent, with outstanding remixes. Japanese dub was pretty good and the soundtrack playing was GLORIOUS. The remixes are some of the best Pokémon Remixes I've heard. Production IG did a stellar job on the soundtrack. The dub, however... is something to avoid. While it's amazing they got a dub done in 4 months, there was so much mis-casting that it's not very enjoyable. They should have just hired the voice actors from the regular series... Johnny Yong Bosch as Brock is just wrong.
+
+<iframe src="https://www.youtube.com/embed/z5s4VYC9xR4"></iframe>
 
 **Sound - 8.5/10**
 
