@@ -13,7 +13,7 @@ export const layouts: Layout[] = [banner, twitterPreview];
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-const post = getPostBySlug("async-pipe-is-not-pure")!;
+const post = getPostBySlug("ani-debate-blip-1631831849")!;
 
 const rebuild = async () => {
 	console.log("rebuilding...");

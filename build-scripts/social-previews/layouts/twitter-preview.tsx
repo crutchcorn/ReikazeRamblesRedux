@@ -4,54 +4,26 @@ import style from "./twitter-preview-css";
 import fs from "fs/promises";
 import { getPersonById } from "utils/api";
 
-const unicornUtterancesHead = await fs.readFile(
-	"src/assets/unicorn_utterances_sticker.svg",
-	"utf-8",
-);
-
-interface TwitterCodeScreenProps {
-	title: string;
-	html: string;
-}
-
-const TwitterCodeScreen = ({ title, html }: TwitterCodeScreenProps) => {
-	const rotations = [
-		"rotateX(-17deg) rotateY(32deg) rotateZ(-3deg) translate(16%, 0%)",
-		"rotateX(5deg) rotateY(35deg) rotateZ(345deg) translate(18%, 0)",
-		"rotateX(15deg) rotateY(25deg) rotateZ(12deg) translate(3%, -15%)",
-	];
-
-	// use second char of title as "deterministic" random value
-	const transform = rotations[title.charCodeAt(1) % rotations.length];
-
-	return (
-		<div className={`absoluteFill codeScreenBg`}>
-			<div
-				className="absoluteFill codeScreen"
-				style={`transform: ${transform};`}
-			>
-				<div
-					className="absoluteFill"
-					dangerouslySetInnerHTML={{ __html: html }}
-				/>
-			</div>
-		</div>
-	);
-};
+const unicornUtterancesHead = Buffer.from(
+	await fs.readFile("src/assets/reikaze-full-logo.png"),
+).toString("base64");
 
 const TwitterLargeCard = ({
 	post,
-	postHtml,
 	width,
 	authorImageMap,
 }: ComponentProps) => {
 	return (
 		<>
-			<TwitterCodeScreen title={post.title} html={postHtml} />
 			<div className="absoluteFill codeScreenOverlay" />
 			<div className="absoluteFill backgroundColor content">
+				<img
+					style={{position: "absolute", left: 64, top: 64}}
+					width={400}
+					src={`data:image/png;charset=utf-8;base64,${unicornUtterancesHead}`}
+				/>
 				<div style="flex-grow: 1; text-align: right;">
-					<div class="url">unicorn-utterances.com</div>
+					<div class="url">reikazerambles.com</div>
 				</div>
 				<h1
 					style={{
@@ -78,19 +50,13 @@ const TwitterLargeCard = ({
 					</div>
 					<div class="postInfo">
 						<span class="authors">
-							{post.authors
-								.map((id) => getPersonById(id)!.name)
-								.join(", ")}
+							{post.authors.map((id) => getPersonById(id)!.name).join(", ")}
 						</span>
 						<span class="date">
 							{post.publishedMeta} &nbsp;&middot;&nbsp;{" "}
 							{post.wordCount.toLocaleString("en")} words
 						</span>
 					</div>
-					<div
-						class="unicorn"
-						dangerouslySetInnerHTML={{ __html: unicornUtterancesHead }}
-					/>
 				</div>
 			</div>
 		</>

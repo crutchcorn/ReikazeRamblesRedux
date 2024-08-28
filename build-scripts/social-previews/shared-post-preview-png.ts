@@ -13,55 +13,6 @@ import { Layout, PAGE_HEIGHT, PAGE_WIDTH } from "./base";
 import { getPersonById } from "utils/api";
 import { getPostContentMarkdown } from "utils/get-post-content";
 
-const unifiedChain = unified()
-	.use(remarkParse)
-	.use(remarkToRehype, { allowDangerousHtml: true })
-	.use(() => (tree) => {
-		// extract code snippets from parsed markdown
-		const nodes = findAllAfter(tree as unknown as Parent, 0, {
-			tagName: "pre",
-		});
-
-		// join code parts into one element
-		const value =
-			nodes
-				.map((node) => toString(node))
-				.join("\n")
-				.trim() +
-			"\n" +
-			renderPostPreviewToString.toString().replace(/([;,])/g, (s) => s + "\n");
-
-		const children = value
-			.split("\n")
-			.filter((value) => !!value.trim().length)
-			.map((value) => ({
-				type: "element",
-				tagName: "code",
-				children: [
-					{
-						type: "text",
-						value: value,
-					},
-				],
-			}));
-
-		return {
-			type: "root",
-			children: [
-				{
-					type: "element",
-					tagName: "pre",
-					children,
-				},
-			],
-		};
-	})
-	.use(rehypeStringify, { allowDangerousHtml: true });
-
-async function markdownToHtml(content: string) {
-	return await (await unifiedChain.process(content)).toString();
-}
-
 const authorImageCache = new Map<string, string>();
 
 export const renderPostPreviewToString = async (
@@ -89,8 +40,6 @@ export const renderPostPreviewToString = async (
 		),
 	);
 
-	const postHtml = await markdownToHtml(await getPostContentMarkdown(post));
-
 	return `
 	<!DOCTYPE html>
 	<html>
@@ -112,7 +61,6 @@ export const renderPostPreviewToString = async (
 	${render(
 		createElement(layout.Component, {
 			post,
-			postHtml,
 			width: PAGE_WIDTH,
 			height: PAGE_HEIGHT,
 			authorImageMap,
