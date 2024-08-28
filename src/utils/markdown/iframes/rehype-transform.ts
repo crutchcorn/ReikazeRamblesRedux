@@ -152,7 +152,20 @@ export async function fetchPageInfo(src: string): Promise<PageInfo | null> {
 	const srcHast = await fetchPageHtml(url.toString());
 	if (!srcHast) return null;
 
-	const title = getPageTitle(srcHast);
+	let title: string | undefined;
+
+	if (url.hostname === "www.youtube.com" || url.hostname === "youtube.com") {
+		const json = await fetch(
+			`https://noembed.com/embed?dataType=json&url=${encodeURIComponent(src)}`,
+		)
+			.then((r) => r.status === 200 && r.json())
+			.catch(() => null);
+		if (json) {
+			title = `${json.title}`;
+		}
+	} else {
+		title = getPageTitle(srcHast);
+	}
 
 	if (process.argv.includes("--verbose"))
 		console.log(`[iframes] found title for ${src}: "${title}"`);
