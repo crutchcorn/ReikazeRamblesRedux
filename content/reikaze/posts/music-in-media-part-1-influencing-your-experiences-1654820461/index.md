@@ -14,12 +14,13 @@ I believe that there is an inherent flaw in the way we typically talk about musi
 Also, I'm just going to throw a disclaimer so this doesn't become an issue in the future: I spend most of my time watching [Anime](http://anitay.kinja.com/) and playing[ Visual Novels](http://tay.kotaku.com/the-beginners-guide-to-visual-novels-1541975662). Most of my examples will be from those medias, but I'll try to throw in more familiar music ~~and will probably fail~~. Also, everything in this article is my opinion, so feel free to disagree. I'm not trying to discuss facts, I'm trying to encourage discussion.
 
 
-
-
-
 # Getting Absorbed into the World - Creating an Atmosphere
 
+<iframe src="https://www.youtube.com/embed/_zJBSNM77rQ"></iframe>
+
 When we experience a game or movie, we are inherently detached from the experience. Unlike events in our real life, the events that take place inside a movie or a game have a very minimal effect on our own lives. Due to this, these works have to try absorbing us into the world by creating an atmosphere that is engaging and a mood that interests the viewer. In medias like TV shows and Video Games, one of the tools that that creators can utilize to absorb us into the world is our senses, thus Visuals and Music are usually used to appease them. They are a crucial element or removing the barriers of a media and making the world feel believable. Through music, these works of art can create an environment in which we can experience, and give a sense of what the scene is like. Through the composition of the songs, you get sensory information the tone of the scene, while acquiring knowledge on the scope of the world. In the track I selected above, Stranger from [*Fate/hollow ataraxia*](http://rockmandash12.kinja.com/rockmandash-reviews-fate-hollow-ataraxia-visual-novel-1612260148?rev=1414624834220) is a tranquil, serene track. Just listening to this, it creates a calming atmosphere which helps you to imagine a calm and tranquil environment which a track like this would play in, and it creates a feeling of existence. Music like this makes you feel like you are in this serine world that this music plays in, and this is an important part of music in media.
+
+<iframe src="https://www.youtube.com/embed/ZHZhRMzfH1Y"></iframe>
 
 This atmosphere is especially important to make in Video Games, where there are long expanses of time where there is little going on screen that involves writing, thus the other tools need to pick up the slack. Some games like platformers don't really have a plot at all, so they rely on the visuals, sound and gameplay to engage the player in an experience. One example I can think of in a game that creates a really solid atmosphere via music is in *Sonic Unleashed*'s Night stages. Many people would say that these stages are absolutely horrible; they are too long, the gameplay is repetitive, and they really shouldn't be there. The biggest reason that I kept playing was the absolutely amazing soundtrack that would play when there wasn't battles; the variety of instruments made me feel like I was playing as a character in that part of the world (because *Unleashed* took place in many parts of the world), and the solid execution with pleasing to the ear composure and smoothness is one that I fell in love with.
 
@@ -37,6 +38,8 @@ It'll be nearly impossible to show you in this text article about what a well-ex
 
 
 # Controlling How You Feel - Dictating Mood
+
+<iframe src="https://www.youtube.com/embed/vdk_76z38bA"></iframe>
 
 Why is the execution important? Mood. Music is what dictates the mood of the story, and by doing this, directly influences how you the viewer/player feels. One can say that music is emotion itself, and I'd have to agree with thatWhen you have a good soundtrack, the music will attach you to the characters, and the music will mess with you. When you engage a story, you come into it with your own mindset: It is the music's job to snap you into the mindset that the scene intends you to be in, and when it does this, it usually elicits emotions. When you and the music are in the same mindset, it can really memorable moments, and those are the moments when they flood gates open, the emotions start impacting. My example for this is *Clannad*, as the track Roaring Tides does an absolutely fantastic job moving you, and it certainly did a number on me when I first heard it... I was pouring tears.
 
