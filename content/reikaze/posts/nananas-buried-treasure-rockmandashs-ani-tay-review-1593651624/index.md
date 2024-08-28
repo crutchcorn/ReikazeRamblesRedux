@@ -31,6 +31,8 @@ Every now and then, there will be a battle in Nanana, which usually happens beca
 
 # Animation
 
+<iframe src="https://www.youtube.com/embed/6YJBriG_RFY"></iframe>
+
 A-1 Pictures does it again. I don't think they can screw up animation, they do it so well... this show is very pretty. I absolutely love the look on the environment, the puzzle rooms and fight scenes are absolutely gorgeous, and the whole show is easily described as beautiful. I'm a fan of CG when done right, and this show is definitely an example of CG done right. One might call the art style immature and silly, I think it works fine.
 
 # Sound
