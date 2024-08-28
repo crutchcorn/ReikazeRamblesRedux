@@ -1,6 +1,6 @@
 ---
 {
-	title: "",
+	title: "Muv-Luv Blimp: AX Giveaway Unboxing",
 	published: "2016-02-09T21:29:24-05:00",
 	tags: ["muv-luv"],
 	kinjaArticle: true,

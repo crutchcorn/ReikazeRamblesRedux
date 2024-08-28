@@ -1,6 +1,6 @@
 ---
 {
-	title: "",
+	title: "Another AniTAY Blimp: It’s that time of year again!",
 	published: "2015-06-20T16:28:31-04:00",
 	tags: [],
 	kinjaArticle: true,

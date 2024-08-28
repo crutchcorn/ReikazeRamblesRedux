@@ -1,6 +1,6 @@
 ---
 {
-	title: "",
+	title: "PSA: Watch Anime Movies",
 	published: "2018-08-23T03:29:00-04:00",
 	tags: [],
 	kinjaArticle: true,
