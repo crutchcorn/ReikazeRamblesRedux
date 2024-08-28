@@ -1,5 +1,5 @@
 import style from "./post-card-grid.module.scss";
-import { PostCard, PostCardExpanded } from "./post-card";
+import { PostCard } from "./post-card";
 import { PostInfo, UnicornInfo } from "types/index";
 import { HTMLAttributes } from "preact/compat";
 import { isDefined } from "utils/is-defined";
@@ -25,16 +25,7 @@ export function PostCardGrid({
 					.map((id) => postAuthors.get(id))
 					.filter(isDefined);
 
-				return expanded && post.bannerImg ? (
-					<PostCardExpanded
-						class={style.expanded}
-						post={post}
-						authors={authors}
-						headingTag={postHeadingTag}
-						// images should be loaded eagerly when presented above-the-fold
-						imageLoading={i < 4 ? "eager" : "lazy"}
-					/>
-				) : (
+				return (
 					<PostCard post={post} authors={authors} headingTag={postHeadingTag} />
 				);
 			})}

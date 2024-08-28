@@ -24,7 +24,6 @@ export interface PostInfo extends RawPostInfo {
 	publishedMeta: string;
 	editedMeta?: string;
 	socialImg: string;
-	bannerImg?: string;
 	wordCount: number;
 }
 

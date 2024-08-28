@@ -4,12 +4,11 @@ import { fileURLToPath } from "url";
 import { ensureDirectoryExistence } from "./utils";
 import { renderPostPreviewToString } from "./shared-post-preview-png";
 
-import banner from "./layouts/banner";
 import twitterPreview from "./layouts/twitter-preview";
 import { Layout } from "./base";
 import { getPostBySlug } from "utils/api";
 
-export const layouts: Layout[] = [banner, twitterPreview];
+export const layouts: Layout[] = [twitterPreview];
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 

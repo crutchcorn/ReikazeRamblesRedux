@@ -301,26 +301,6 @@ for (const person of [...people]) {
 }
 
 {
-	// sort posts by date in descending order
-	const sortedPosts = [...posts].sort((post1, post2) => {
-		const date1 = new Date(post1.published);
-		const date2 = new Date(post2.published);
-		return date1 > date2 ? -1 : 1;
-	});
-
-	// calculate whether each post should have a banner image
-	for (let i = 0; i < sortedPosts.length; i++) {
-		const post = sortedPosts[i];
-		// index of the post on its page (assuming the page is paginated by 8)
-		const pageIndex = i % 8;
-		// if the post is at index 0 or 4, it should have a banner
-		if (pageIndex === 0 || pageIndex === 4) {
-			post.bannerImg = `/generated/${post.slug}.banner.jpg`;
-		}
-	}
-}
-
-{
 	// sum the totalWordCount and totalPostCount for each unicorn object
 	for (const post of [...posts]) {
 		for (const authorId of post.authors) {

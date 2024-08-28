@@ -4,7 +4,6 @@ import { resolve } from "path";
 import * as api from "utils/api";
 import { renderPostPreviewToString } from "./shared-post-preview-png";
 import { Layout, PAGE_HEIGHT, PAGE_WIDTH } from "./base";
-import banner from "./layouts/banner";
 import twitterPreview from "./layouts/twitter-preview";
 import { PostInfo } from "types/PostInfo";
 
@@ -94,12 +93,6 @@ for (const post of api.getPosts()) {
 			post,
 			resolve(outDir, `.${post.socialImg}`),
 		);
-	}
-}
-
-for (const post of api.getPosts()) {
-	if (post.bannerImg) {
-		await renderPostImage(banner, post, resolve(outDir, `.${post.bannerImg}`));
 	}
 }
 

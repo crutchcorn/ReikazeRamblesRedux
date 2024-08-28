@@ -77,38 +77,6 @@ function PostCardMeta({ post, authors }: PostCardProps) {
 	);
 }
 
-export const PostCardExpanded = ({
-	post,
-	authors,
-	headingTag: HeadingTag = "h2",
-	class: className = "",
-	imageLoading = "lazy",
-}: PostCardProps & { imageLoading?: "eager" | "lazy" }) => {
-	return (
-		<li
-			{...getHrefContainerProps(`/posts/${post.slug}`)}
-			className={`${className} ${style.postBase} ${style.extendedPostContainer}`}
-		>
-			<div className={style.extendedPostImageContainer}>
-				<img
-					loading={imageLoading}
-					className={style.extendedPostImage}
-					src={post.bannerImg}
-					alt=""
-				/>
-			</div>
-			<div className={style.postContainer}>
-				<a href={`/posts/${post.slug}`} className={`${style.postHeaderBase}`}>
-					<HeadingTag className={`text-style-headline-2`}>
-						{post.title}
-					</HeadingTag>
-				</a>
-				<PostCardMeta post={post} authors={authors} />
-			</div>
-		</li>
-	);
-};
-
 export const PostCard = ({
 	post,
 	authors,
