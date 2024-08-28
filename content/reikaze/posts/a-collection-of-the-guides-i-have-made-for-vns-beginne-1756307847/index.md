@@ -1,6 +1,6 @@
 ---
 {
-	title: "A Collection of the Guides I have made for VNs
+	title: "A Collection of the Guides I have made for VNs",
 	published: "2016-01-31T22:13:27-05:00",
 	tags: ["Guide"],
 	kinjaArticle: true,

@@ -1,6 +1,6 @@
 ---
 {
-	title: "Blimp: Silver Spoon’s on Netflix!
+	title: "Blimp: Silver Spoon’s on Netflix!",
 	published: "2015-08-05T01:30:45-04:00",
 	tags: [],
 	kinjaArticle: true,
