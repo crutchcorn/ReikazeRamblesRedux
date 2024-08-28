@@ -93,4 +93,4 @@ Tsukihime has a direct sequel called Kagetsu Tohya, but i'll probably be skippin
 
 
 
-*This game is availible on *[*Fuwanovel *](http://fuwanovel.org/novels/tsukihime)*for download.*
+*This game is availible on [*Fuwanovel*](http://fuwanovel.org/novels/tsukihime) for download.*

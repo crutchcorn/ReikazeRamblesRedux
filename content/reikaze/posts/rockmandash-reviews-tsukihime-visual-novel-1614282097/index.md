@@ -35,7 +35,7 @@ The plot is just executed well. Everything from the pacing to the characters, to
 
 ![](./1353797215996651811.png) ![](./1353797216083499043.jpg)
 
-The Visuals in Tsukihime are very dated. Every time I look at it, I wish that the remakes were out... it has not aged very well. Tsukihime came out in 2000, as a doujin. Knowing this, you can’t really expect the most impressive visuals, but it’s been 14 years, and expectations change. It’s passable, with good character art and OK backgrounds, but it’s definitely aged, with an antiquated UI and an “impressive” standard definition resolution of 640x480. For the most part, the art itself is fine. Characters are detailed, almost everything is pleasing to the eye, and it does the job... but it’s not the greatest and there’s been much better since. A minor nitpick I have with the art though is that the backgrounds are just pictures, not drawn. To me this is very jarring, but it’s not something that will ruin your experience. However, there is something relating to visuals that may ruin your experience: this is an eroge... soo... **CUE THE OBLIGATORY EROGE WARNING HERE. **To me, this is like the final nail on the coffin. At the time it was a necessary evil, but things have changed now, and I think it detracts from the experience.
+The Visuals in Tsukihime are very dated. Every time I look at it, I wish that the remakes were out... it has not aged very well. Tsukihime came out in 2000, as a doujin. Knowing this, you can’t really expect the most impressive visuals, but it’s been 14 years, and expectations change. It’s passable, with good character art and OK backgrounds, but it’s definitely aged, with an antiquated UI and an “impressive” standard definition resolution of 640x480. For the most part, the art itself is fine. Characters are detailed, almost everything is pleasing to the eye, and it does the job... but it’s not the greatest and there’s been much better since. A minor nitpick I have with the art though is that the backgrounds are just pictures, not drawn. To me this is very jarring, but it’s not something that will ruin your experience. However, there is something relating to visuals that may ruin your experience: this is an eroge... soo... **CUE THE OBLIGATORY EROGE WARNING HERE.** To me, this is like the final nail on the coffin. At the time it was a necessary evil, but things have changed now, and I think it detracts from the experience.
 
 The presentation just doesn’t hold up. This is due for a remake, which is coming… we just don’t really know when, and there’s no real sign of progress. For now, the presentation is probably the largest barrier in this game, as it’s really dated.
 
@@ -95,6 +95,6 @@ Also, Tsukihime has a direct sequel called Kagetsu Tohya, but i’ll be skipping
 
 
 
-*This game is available on *[*Fuwanovel *](http://fuwanovel.org/novels/tsukihime)*for download.*
+*This game is available on [*Fuwanovel*](http://fuwanovel.org/novels/tsukihime) for download.*
 
 *Also, Huge thanks to Raitzeno for all the editing he did.*
