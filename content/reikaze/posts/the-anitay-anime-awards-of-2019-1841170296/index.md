@@ -27,7 +27,7 @@ Let’s start with the Community’s results! This is the consensus reached by a
 
 ***
 
-## Reader’s Pick for Most Trash Show:* Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?*
+## Reader’s Pick for Most Trash Show: *Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?*
 
 ![](./zywnfhmcg01f3rfojouy.jpg)
 
@@ -45,7 +45,7 @@ Let’s start with the Community’s results! This is the consensus reached by a
 
 ***
 
-## Reader’s Pick for Best ED:* Kaguya-sama: Love Is War* - “Chikatto Chika Chika” by Chika Fujiwara
+## Reader’s Pick for Best ED: *Kaguya-sama: Love Is War* - “Chikatto Chika Chika” by Chika Fujiwara
 
 ***
 
@@ -141,11 +141,11 @@ Here’s what the Authors of AniTAY decided! We here at AniTAY are an opinionate
 
 ***
 
-## Author’s Pick for Best OP: *Dororo - *“Kaen” by Ziyoou-vachi
+## Author’s Pick for Best OP: *Dororo* - “Kaen” by Ziyoou-vachi
 
 ***
 
-## Author’s Pick for Best Slice of Life:* Ascendance of a Bookworm*
+## Author’s Pick for Best Slice of Life: *Ascendance of a Bookworm*
 
 ![](./zbjxy1urikacz2zlcw5k.png)
 
@@ -173,13 +173,13 @@ Here’s what the Authors of AniTAY decided! We here at AniTAY are an opinionate
 
 ![](./avpe84zjfkrjegtg8moq.jpg)
 
-## Author’s Pick for Best Animated:* Mob Psycho 100 II*
+## Author’s Pick for Best Animated: *Mob Psycho 100 II*
 
 ![](./cyd5ge6nz5tzgv7kvedn.jpg)
 
 ***
 
-## Author’s Pick for Hidden Gem:* Endro~!*
+## Author’s Pick for Hidden Gem: *Endro~!*
 
 ![](./fi45d2f4eicly7fwijq6.jpg)
 
