@@ -6,9 +6,9 @@
 }
 ---
 
-The impending doom of being trapped inside a facility with no clear explanation is a tried-and-true premise that I can’t help but enjoy every time I see it, and *Root Double: Before Crime \* After Days *happens to use these themes as a foundation for an excellent sci-fi mystery. Written by Takumi Nakazawa, of _Ever 17_ fame, this phenomenal piece of fiction finds its way onto Nintendo Switch. Still, it prioritizes the main story to the point that it can hinder one’s experience of the work.
+The impending doom of being trapped inside a facility with no clear explanation is a tried-and-true premise that I can’t help but enjoy every time I see it, and *Root Double: Before Crime \* After Days* happens to use these themes as a foundation for an excellent sci-fi mystery. Written by Takumi Nakazawa, of _Ever 17_ fame, this phenomenal piece of fiction finds its way onto Nintendo Switch. Still, it prioritizes the main story to the point that it can hinder one’s experience of the work.
 
-*Root Double: Before Crime \* After Days’ *narrative drastically changes throughout the game. The story focuses on a few different perspectives that completely alters how the premise is viewed. Set in the year 2030 in Rokumei City, On September 16th, the nuclear facility LABO undergoes a nuclear meltdown, and to prevent leakage, the facility shuts down its doors.
+*Root Double: Before Crime \* After Days’* narrative drastically changes throughout the game. The story focuses on a few different perspectives that completely alters how the premise is viewed. Set in the year 2030 in Rokumei City, On September 16th, the nuclear facility LABO undergoes a nuclear meltdown, and to prevent leakage, the facility shuts down its doors.
 
 Unfortunately, this safety mechanism puts our cast of characters at risk of death due to excessive exposure. They are trapped inside, but the story is much more than just an escape story. Several elements that give _Root Double_ its own unique identity include psychic powers, unreliable narrators, and a mysterious setting that features a future world that has drastically diverged from our current worldline. In particular, the mystery is handled well and adds so much to one’s engagement and experience of the game.
 

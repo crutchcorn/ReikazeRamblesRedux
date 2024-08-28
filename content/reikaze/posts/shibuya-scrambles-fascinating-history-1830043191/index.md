@@ -21,7 +21,7 @@ Later this genre would catch on thanks to games like Banshee’s Last Cry which 
 
 <iframe src="https://www.youtube.com/embed/VaRzgfoLxJo"></iframe>
 
-Chunsoft continued to buck the trend even further in 1998 when they released the cult classic and spiritual predecessor to *428*,* Machi*.* Machi*, which literally translates to City, used live actors and photographs to create a unique VN experience. With the NVL style, photographic presentation and parallel storytelling, *Machi* was incredibly unique and is a cult classic among Japanese gamers, being extremely well received. Back in 2006, Famitsu did a poll on JP gamers asking what they thought was the top 100 games of all time, Machi was 5. fans yearned for a sequel...
+Chunsoft continued to buck the trend even further in 1998 when they released the cult classic and spiritual predecessor to *428*, *Machi*. *Machi*, which literally translates to City, used live actors and photographs to create a unique VN experience. With the NVL style, photographic presentation and parallel storytelling, *Machi* was incredibly unique and is a cult classic among Japanese gamers, being extremely well received. Back in 2006, Famitsu did a poll on JP gamers asking what they thought was the top 100 games of all time, Machi was 5. fans yearned for a sequel...
 
 <iframe src="https://www.youtube.com/embed/2WAgYvOrQwc"></iframe>
 
