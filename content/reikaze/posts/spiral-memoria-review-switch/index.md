@@ -8,7 +8,7 @@
 
 Otome visual novel typically hit on a few recognizable beats. You have your Japanese setting, innocent heroine, and a group of hot boys coming to shake up your life. Sadly, the OperaHouse-developed Spiral Memoria ends up taking this general description and creating an entire game surrounding it.  Spiral Memoria hits the beats of a standard Otome but never does anything more than expected while stumbling in other elements in the process.
 
-[Spiral Memoria: The Summer I Meet Myself Review - Noisy Pixel](https://www.youtube.com/embed/9ngWX5BvxYc?feature=oembed)
+<iframe src="https://www.youtube.com/embed/9ngWX5BvxYc?feature=oembed"></iframe>
 
 _Spiral Memoria_ is inherently about memory. Our main heroine Miku is an amnesiac girl who is tasked with finding her memories and figuring out her situation through the narrative, which also leads her through four romance routes. The game’s amnesic story and the circumstance surrounding the main character are interesting, but I couldn’t get past just how generic the setup is.
 

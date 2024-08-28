@@ -8,7 +8,7 @@
 
 There was a time that the 3D Platformer genre appeared to be dead, but it feels like we’ve hit a bit of a Renaissance in recent years. The newest entry in the genre is _Tasomachi: Behind the Twilight_ – a charming adventure collectathon made by a single developer, nocras. This happens to be a truly beautiful game and succeeds in its goal of presenting this genre to the modern era, but it’s marred by technical issues, leaving me feeling like it isn’t ready for prime time.
 
-[YouTube video player](https://www.youtube.com/embed/eAdyU0Hynj8)
+<iframe src="https://www.youtube.com/embed/eAdyU0Hynj8"></iframe>
 
 _Tasomachi_’s visuals and its world immediately stand out. The art direction is striking, and the environments are incredibly unique. The levels are inspired by East Asian architecture and are visually stunning, especially at night. The general layout makes them fun to explore, which is the most appealing part of these games.
 
@@ -16,13 +16,13 @@ The character designs complement this presentation, but it’s just a shame that
 
 ![Tasomachi: Behind the Twilight Review - Not Ready for Prime Time 1](./Tasomachi-1024x576.jpg)
 
-As for the gameplay, _Tasomachi_ stylistically hails from an era of games that time has left behind. The 3D platformer collectathon was most prevalent in the N64 days with games like* Mario 64* and* Banjo Kazooie*. While not exactly unique, the genre has been out of vogue for so long that any new entry is appreciated.
+As for the gameplay, _Tasomachi_ stylistically hails from an era of games that time has left behind. The 3D platformer collectathon was most prevalent in the N64 days with games like *Mario 64* and *Banjo Kazooie*. While not exactly unique, the genre has been out of vogue for so long that any new entry is appreciated.
 
 _Tasomachi_ focuses on getting you immersed in exploration and adventure. The adventure is set in large levels that are dense in detail and filled with collectibles. The game encourages you to have a good time wandering around without a major time limit so you can properly get to know the places you’re visiting. It’s a throwback to a more innocent time, and the feeling of wandering around in this world is something I couldn’t help but love. It also happens to be why 3D Platformers are one of my favorite genres.
 
 ![Tasomachi: Behind the Twilight Review - Not Ready for Prime Time 2](./tasomachi-Win64-Shipping_2021-04-09_15-04-26-1024x576.jpg)
 
-_Tasomachi_’s collectibles called Sources of the Earth aren’t big rewards like stars in* Mario 64* but are fairly easy to acquire and are spread out all across the world like in* Mario Odyssey*. However, these sources felt more rewarding than the moons in _Odyssey_ because the reward matched the achievement. For most things, _Tasomachi_’s small reward of a source is satisfying. For big achievements, the source is usually paired with something else, like expanding the level or gaining a movement mechanic.
+_Tasomachi_’s collectibles called Sources of the Earth aren’t big rewards like stars in *Mario 64* but are fairly easy to acquire and are spread out all across the world like in *Mario Odyssey*. However, these sources felt more rewarding than the moons in _Odyssey_ because the reward matched the achievement. For most things, _Tasomachi_’s small reward of a source is satisfying. For big achievements, the source is usually paired with something else, like expanding the level or gaining a movement mechanic.
 
 This positive attribute is partially caused by a problem in the game though, as you are artificially limited on how you move,  what you can get, and where you can go. I understand the latter two since it encourages you to come back to levels later. Not having your whole moveset at the beginning, though, gives a bad impression because _Tasomachi’s_ beginning isn’t the best representation of its finer aspects.
 
