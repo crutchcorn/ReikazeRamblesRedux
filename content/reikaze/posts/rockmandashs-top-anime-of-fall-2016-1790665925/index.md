@@ -33,6 +33,8 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 # Honorable Mention: *Shelter*
 
+<iframe src="https://www.youtube.com/embed/fzQ6gRAEoy0"></iframe>
+
 **Anime Made By:** Porter Robinson, A-1 Pictures
 
 **Genre: **Anime, Music Video
@@ -99,6 +101,8 @@ I really love sports anime, and Haikyuu has been an integral part of my sports a
 
 ## 1. *Girlish Number*
 
+<iframe src="https://www.youtube.com/embed/yJ4UjVK2P64"></iframe>
+
 **Anime Made By: **Diomedea
 
 **Genre: **Comedy, Satire, Slice of Life
@@ -106,6 +110,8 @@ I really love sports anime, and Haikyuu has been an integral part of my sports a
 **Plot Summary: **Talent, perseverance, mental focus, professionalism, the ability to connect with fans, and luck are all key attributes to becoming successful voice actor. Fledgling voice actress Chitose Karasuma might not have any of those things, but she does have plenty of self-confidence (which may or may not be justified). After beginning her career in relative obscurity, Chitose finally catches her big break and a chance to show everyone that she is a star. The path to the top of the voice acting profession may be beset with adversity, but Chitose intends to rush down that path avoiding as much of it as she can. - *Plot Summary from the *[*17 Anime of Autumn 2016 You Should Be Watching Article*](http://anitay.kinja.com/the-17-anime-of-autumn-2016-you-should-be-watching-1789451240) 
 
 **Justification & Thoughts: **Girlish Number absolutely fantastic, the latest creation by *My Teen Romantic Comedy SNAFU*’s Author Wataru Watari* *but with a hint of *Shirobako *and Narcisism. It’s an absolutely amazing watch, noe that shows fascinating parts of an industry I love as well as being a wonderful character study that we would expect from Watari. Love it.
+
+<iframe src="https://www.youtube.com/embed/TG23kENLpKk"></iframe>
 
 Also, did I forget to mention *best girl Chitose*? Chitose is the most entertaining, most self centered, most expressionful character I’ve ever seen in anime, and her alone made every episode worth it. I loved Girlish Number, and it easily took AOTS for me.
 
