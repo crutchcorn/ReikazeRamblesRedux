@@ -56,6 +56,8 @@ While *Durarara!!* doesn’t aim to be the best looking anime, that doesn’t ne
 
 ![](./1248077601479605861.png)
 
+<iframe src="https://www.youtube.com/embed/uZ5N_c6qPJg"></iframe>
+
 If there’s one aspect of this show that is universally praised, it’s the soundtrack. It’s a great soundtrack that is pleasing to the ear, absolutely makes the mood, and has a great personality. It’s thrilling, engaging, interesting, unique, awesome, and any other adjectives I can throw at it. Really, it speaks for itself. I just love how it fits with the situation extremely well, as it’s modern and there’s a huge variety that I appreciate, with a great use of distinct instruments and jazz. Absolutely one of my favorite soundtracks, tons of great stuff and they are all very amusing to listen to.
 
 Onto the voice acting... I’m pretty sure that *Durarara!!* has the best voice acting I’ve seen in the past few years... both dubbed and subbed. I’ve originally got into *Durarara!!* via dub so I prefer that one, but both have A+ talant (Miyano Mamoru, Kana Hanazawa, Miyuki Sawashiro, Jun Fukuyama are some greats for the Japanese, and Crispin Freeman, Johnny Yong Bosh, Steve Blum are some greats for the English) and everyone did a fantastic job. It’s a treat for the ears, and it’s a joy to listen to.

@@ -69,6 +69,8 @@ Also, just like its predecessor, This is an eroge... soo.. **QUE THE OBLIGATORY 
 
 ![](./ntjmkpk8zbpaw1f9fw64.png)
 
+<iframe src="https://www.youtube.com/embed/0Z0S2h9aiFk"></iframe>
+
 Icing on the cake. That's what this soundtrack is. Wonderful. Personally, I wasn't a big fan of F/SN's soundtrack, so stepping into F/HA's was something that blew my mind. *Fate/hollow ataraxia* has variety, extremely memorable tracks, and is just composed well. There's some really stellar stuff in here, and almost always you'll be listening to something that's pleasing to your ear. This soundtrack does it all: great usage, sets up an atmosphere that works extremely well, is great to listen to outside of the game, and manages to blow your mind. One thing to note though is that there's no voice acting like in *Fate/stay night*, which sucks, but considering how great the soundtrack is, it's not a really big deal.
 
 **Sound - 9.25/10**

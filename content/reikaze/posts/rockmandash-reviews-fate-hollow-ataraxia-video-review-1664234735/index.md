@@ -10,6 +10,5 @@
 
 I finally got around to making my video review for Fate/hollow ataraxia, so to celebrate Thanksgiving, and the vita release of the game (in Japan, no english FHA for us....), it's now out!
 
-
-
+<iframe src="https://www.youtube.com/embed/QmvRJTGTmKI"></iframe>
 

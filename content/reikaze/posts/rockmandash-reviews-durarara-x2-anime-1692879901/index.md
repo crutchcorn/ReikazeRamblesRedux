@@ -57,6 +57,8 @@ Overall, *Durarara!!X2*’s written fairly well, but it’s season 1 on steroids
 
 ![](./gv6jua3fnhzotwyzhxak.png)
 
+<iframe src="https://www.youtube.com/embed/Fmcwt_o7TN0"></iframe>
+
 With season 2, Brains Base is out, and in is an entirely new studio, Studio Shuka. Studio Shuka is a team composed by members who worked on DRRR Season 1, but this is a new studio and honestly, it looks the part. While it’s still pretty decent, this season has a significantly rougher look than before: it’s not as polished, not as detailed, and in my opinion, not as good. It has a “sharper” look to it, with the eyes being very angled which personally bothered me, and the consistancy isn’t as solid. The art, while serviceable, could use improvement.
 
 **Visuals - 6/10**
@@ -66,6 +68,8 @@ With season 2, Brains Base is out, and in is an entirely new studio, Studio Shuk
 # Sound
 
 ![](./oatiexhx1ijvtw6ybqht.png)
+
+<iframe src="https://www.youtube.com/embed/5r0jdlfqeE4"></iframe>
 
 For better or worse, the sound is one of the few aspects that haven’t changed at all. Other than new OPs and EDs (which are great btw), It’s the same great soundtrack that the fans have came to love and it’s great here, even if it’s the same as last time. I’ll let a quote from my review of season one do the honors here:
 
