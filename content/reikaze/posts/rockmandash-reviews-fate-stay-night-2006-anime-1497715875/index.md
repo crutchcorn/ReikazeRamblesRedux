@@ -33,6 +33,8 @@ It’s meh. Studio deen has a habit of going off model with shows, and even thou
 
 ![](./1291634712815088744.png)
 
+<iframe src="https://www.youtube.com/embed/Qy7Q77ZD_ME"></iframe>
+
 This soundtrack is actually quite great. I really liked the first OP, it’s one of my favorites and is really soothing. Most of the soundtrack fits the atmosphere better than the game does, and I prefer the soundtrack overall. It has a grander feel in comparison to the soundtrack in the game. The voice acting for the Japanese dub has the same voice actors as game, so if you liked the game’s dub then you will like this one. As for the English dub, it’s a mixed bag. Some of the acting is really good but others are very bad. Shirou, Issei and Ilya sound just horrible while Saber, Rin, and Archer are ok. The Dub has some really good talent on it, I just believe it’s worse than the Japanese dub.
 
 **Sound - 8/10**

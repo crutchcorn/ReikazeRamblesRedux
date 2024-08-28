@@ -67,6 +67,8 @@ Speaking of the manga, I find that it looks quite nice. It has clean lines, soli
 
 ![](./1471910961450108308.png)
 
+<iframe src="https://www.youtube.com/embed/6pXBA0Tu1K4"></iframe>
+
 I don’t really have much to say about the sound in Fate/illya, mainly because I didn’t remember any of it after I watched through the show. I listened through the soundtrack standalone and this listen reaffirmed my thoughts on the soundtrack: It’s pretty average. While there’s nothing that sounds bad per se and everything is pleasing to the ear, overall it’s pretty forgettable. It has a wide variety of instruments and the songs in the show are composed well, but nothing stands out is or is really memorable. This soundtrack is one that does its job; nothing more, nothing less.
 
 I don’t really have much to add about the voice actors. The returning characters have their old voice actors and once again they do a bang-up job with their roles, and the voice actors for the new characters are equally as solid.

@@ -77,6 +77,8 @@ It's been 10 years. While there are parts that shine visually, overall it just l
 
 # Sound
 
+<iframe src="https://www.youtube.com/embed/3L1DEvzsftw"></iframe>
+
 ![](./nfokbjcrvfemdreulysm.png)
 
 The sound in *Fate/stay night* is pretty good, especially the voice acting. It's great voice acting with all of the actors doing a great job with their roles, and other parts of the series have the same voice actors, which helps keep a level of consistency unmatched on other series. Almost all of the text is voiced, which is **OUTSTANDING**, considering the amount of text that this game actually has. The soundtrack though, is not one of *Fate/stay night's* strong points. The soundtrack is distinctly average; Most of the music is there for atmosphere building which it does quite well, but it's not memorable or mind-blowing. While there are a few memorable tracks like Ever-present feeling and Emiya, most sound a bit better than average, but nothing amazing. It's lacking in something, it sounds good, but it could use some more instruments, and more character. It's a good soundtrack, but it's just lacking that extra something.
@@ -104,6 +106,8 @@ If you want more of my personal opinions on F/SN, check out my [rambles article]
 Due to the fact that it's the same game, it has the same story, so we don't have to cover that because it's pretty much the same thing, but there are some changes, with new scenes and such. I appreciated them, but they aren't really the big focus here.
 
 About the Visuals, the improvements are mostly small touches and most of the complaints are still valid. The new CG looks solid ([F/HA quality imo](https://rockmandash12.kinja.com/rockmandash-reviews-fate-hollow-ataraxia-visual-novel-1612260148)), the improvements (effects, camera pans, etc.) help make the game more modern and it helps fit the mood of the game. The visuals are improved, but not to the level of Type-Moon's newer stuff, mostly due to the fact that RN keeps most of the original art. It's still mostly the same, so it still has the same atmosphere and style, but it's been polished up quite a bit. The best part about the visuals though has to be the fact that there's no eroge, something I wish all VN's were. All the H-Scenes are optional and replaced with the alternate scenes from RN, and I wish every VN release was like this. I really appreciated the option to just skip the H-Scenes while getting all of the context.
+
+<iframe src="https://www.youtube.com/embed/AtclrJb-D3A"></iframe>
 
 The soundtrack though is really another story: the Mirror-Moon patch for the original release had the Voice Acting added in with a *Realta Nua* patch that added a some stuff from RN, but it still had the original soundtrack. The 2012 soundtrack from the vita is fantastic though; at times it's very similar, but it fits the tone and mood of the game so much more. It has a grander feel, it sounds more "full", more grand, it fits the story quite a bit better than the original and makes it feel more modern. F/HA is still my favorite Fate soundtrack, but this soundtrack closes the gap quite a bit, and fills up a lot of my complaints.
 

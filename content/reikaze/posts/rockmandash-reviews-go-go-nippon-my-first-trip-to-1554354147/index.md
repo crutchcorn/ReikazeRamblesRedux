@@ -50,6 +50,8 @@ Pretty much most of this game is an info dump, and I found this annoying. I’ve
 
 This game screams low budget. From the about 3 songs played, to the little variety in character frames..... Ugh this game is meh. In both aspects, Go Go Nippon! is lacking. It doesn’t have enough music, there’s not enough art, and they aren’t that great in either category. The music is pretty meh, and visuals are average at best. It’s so generic....
 
+<iframe src="https://www.youtube.com/embed/FVFwG7uwBHA"></iframe>
+
 **Presentation - 5/10**
 
 
