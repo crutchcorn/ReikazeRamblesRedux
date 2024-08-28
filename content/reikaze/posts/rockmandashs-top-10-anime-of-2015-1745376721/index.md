@@ -51,11 +51,15 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 With *Gatchaman Crowds Insight*, we have... Politics in anime? While this may not be for everyone and I do have some gripes with how the story is told, it’s the dealing with social topics like *Yuri Kuma Arashi *that really got me into *Gatchaman Crowds Insight*, doing great job getting people to think about the world they live in and getting me hooked. while being a stellar story by itself, with great characters and a great premise. By striking at the very core of our society and messing with what it means to be people, the show presents ideas and gets you to think more than many works out there, and this is something to admire, something that one should hold dear. It’s also truly modern anime, striking at our modern society in a modern way instead of looking around to hide, associating with what it believes people are now, something I appreciated, especially when the lessons lie in the past. It’s also just a well handled show in general, with great action scenes, amazing development of characters and a really well rounded and stylish presentation. It’s truly a human story and I can’t go through this list without giving it my praises.
 
+<iframe src="https://www.youtube.com/embed/pJ0I9LQ2EOA"></iframe>
+
 **If interested, you should also check out** [our review of *Yuri Kuma Arashi* from Morie ](http://anitay.kinja.com/yurikuma-arashi-the-ani-tay-review-1694675212#_ga=1.60175918.241020698.1444271310)and [our review of *Gatchaman Crowds *from Koda!](http://anitay.kinja.com/gatchaman-crowds-insight-the-ani-tay-review-1733947368#_ga=1.263205519.241020698.1444271310)
 
 ***
 
 # *9. Noragami Aragoto*
+
+<iframe src="https://www.youtube.com/embed/3oFTHxkOzjE"></iframe>
 
 **Plot Description: **In the second season of *Noragami, *the main focus is on Bishamon, god of war. She has many shinki due to her being unable to abandon spirits attacked by Ayakashi. She has a large group of shinki with her as leader, causing her trouble as she sometimes cannot tend to all of them properly, especially when one of them gets sick or is in pain. She has a strong hate for Yato, as a dark past binds the two of them. How will the horrifying events dated hundreds of years ago in combination with current evil happenings affect Yato and Yukine? *- Plot Description from MAL*
 
@@ -87,6 +91,8 @@ The tale of a small not quite doujin circle, but not quite indie studio’s jour
 
 **Justification & Thoughts:** Ever since I fell in love with *The World God Only Knows*, I’ve been searching for more of that, a show that manages to pull off a meta romantic comedy that plays off of the tropes we all know and love well with really solid humor and interactions in general. You can’t believe how excited I was when I finally found what I was looking for in *Best Girl: The Animation Winter 2015* *Saekano* which even has the extreme Otaku as the MC! Every episode has been entertaining and hilarious, with absolutely amazing character interactions, excellent execution of meta elements, and just well written comedy in general. All the characters here are just fantastic and the premise really enables this show to use them to their full potential. Really, it’s nothing new, [as Fruity would tell you](http://anitay.kinja.com/ani-tay-podcast-episode-10-from-ani-tay-with-love-1684583335), but I find that it does everything extremely well and I adored every minute of it.
 
+<iframe src="https://www.youtube.com/embed/gsZb9-SRDDI"></iframe>
+
 **If interested, you should also check out** [Protonstorm’s impressions article](http://anitay.kinja.com/saekano-knows-how-to-make-itself-better-1682761576#_ga=1.60314286.241020698.1444271310), and[ his AniTAY review of it](http://anitay.kinja.com/saekano-how-to-raise-a-boring-girlfriend-the-ani-tay-1693443663).
 
 ***
@@ -107,7 +113,11 @@ The tale of a small not quite doujin circle, but not quite indie studio’s jour
 
 [http://www.dailymotion.com/video/x38nd0o\_…](http://www.dailymotion.com/video/x38nd0o_diamond-no-ace-2-new-opening_videogames)
 
-**Justification & Thoughts: **If you asked the 2014 me of what anime would be on this list, sports anime wouldn’t be in the radar (and it wasn’t last year, as Ping Pong was completely absent from my 2014 list). If there’s one thing I have to give to 2015, It is definitely the year that I got hooked on sports anime, becoming one of my favorite anime genres out there. With the pros of Shounen without many of the flaws, So, you may ask, why 4 shows at the spot, which seems insane given it’s a top 10 list? Simple: I can’t pick between them, with all of them being absolutely fantastic in the experience department, with extremely well done characters, engaging stories, awesome scenarios, all make for a great watch that is almost always entertaining, etc, everything that makes sports anime great and pretty much everything [Koda says in his sports anime post](http://anitay.kinja.com/the-thrill-of-the-game-why-i-love-sports-anime-1690442761). 2015 was a great year for a sports anime fan, and if you like what you’re reading here, I would recommend any of these shows wholeheartedly.
+**Justification & Thoughts:** If you asked the 2014 me of what anime would be on this list, sports anime wouldn’t be in the radar (and it wasn’t last year, as Ping Pong was completely absent from my 2014 list). If there’s one thing I have to give to 2015, It is definitely the year that I got hooked on sports anime, becoming one of my favorite anime genres out there. With the pros of Shounen without many of the flaws, So, you may ask, why 4 shows at the spot, which seems insane given it’s a top 10 list? Simple: I can’t pick between them, with all of them being absolutely fantastic in the experience department, with extremely well done characters, engaging stories, awesome scenarios, all make for a great watch that is almost always entertaining, etc, everything that makes sports anime great and pretty much everything [Koda says in his sports anime post](http://anitay.kinja.com/the-thrill-of-the-game-why-i-love-sports-anime-1690442761). 2015 was a great year for a sports anime fan, and if you like what you’re reading here, I would recommend any of these shows wholeheartedly.
+
+<iframe src="https://www.youtube.com/embed/a8HknbLjWZ4"></iframe>
+
+<iframe src="https://www.youtube.com/embed/hO2K51vZvLM"></iframe>
 
 **If interested, you should also check out** the aforementioned post about sports anime, and the many reviews we have: [Koda’s review of Yowamushi Pedal S1](http://anitay.kinja.com/yowamushi-pedal-the-ani-tay-review-1599570106), [Krakken’s review of Grande Road](http://anitay.kinja.com/yowamushi-pedal-grande-road-the-ani-tay-review-1697668045), [Koda’s review of Haikyuu Season 1](http://anitay.kinja.com/haikyuu-the-ani-tay-review-1637543181), and [Kristof’s review of Baby Steps 2](http://anitay.kinja.com/baby-steps-2-the-anitay-review-1728020664).
 
@@ -119,9 +129,13 @@ The tale of a small not quite doujin circle, but not quite indie studio’s jour
 
 **Plot Description: **Kousei Arima is a former piano prodigy who lost his ability to hear the piano after the death of his mother. Two years later he has not played the piano since and sees the world in monotone without color but is content with his life until he meets a girl who changes everything. Kaori Miyazono is a free spirited and beautiful violinist who changes Kousei’s perspective and makes his world colorful again, helping him return to the world of music. – Plot Summary from Mdub’s [You Should Be Watching Your Lie in April article](http://anitay.kinja.com/you-should-be-watching-your-lie-in-april-1648891546)
 
+<iframe src="https://www.youtube.com/embed/SnXkhkEvNIM"></iframe>
+
 **Justification & Thoughts: **The fact that *Your Lie in April *moved up on this list in comparison to last year is both a testament to the fact that 2015 wasn’t as awesome of a year as 2014 was, but is also a testament to how good this show is, as it got even better in the second half.
 
 [If ](http://anitay.kinja.com/op-eds-a-day-by-ani-tay-roundup-week-10-march-1st-8-1689842460#_ga=1.49179567.888615642.1438970662)[you’ve](http://anitay.kinja.com/is-this-anime-season-really-that-bad-1689767939) [spent](http://anitay.kinja.com/ani-kei-meeting-6-that-distance-1690281769) [any](http://anitay.kinja.com/ani-tay-podcast-episode-11-the-musical-edition-1690095853) [time](http://anitay.kinja.com/op-ed-a-day-66-nanairo-symphony-your-lie-in-apri-1682050967) [on](http://anitay.kinja.com/the-ani-tay-interview-ani-kei-strikes-1679606137) [AniTAY](http://anitay.kinja.com/ani-tays-top-15-anime-openings-of-2014-1672601925) [early](http://anitay.kinja.com/my-best-list-of-best-girls-of-2014-1678411311#_ga=1.90612755.888615642.1438970662) [on](http://anitay.kinja.com/op-ed-a-day-35-hikaru-nara-your-lie-in-april-1682043992) [in](http://tay.kotaku.com/about-the-cliche-love-story-1653388127) [the](http://anitay.kinja.com/ani-kei-meeting-6-that-distance-1690281769) [mear](http://anitay.kinja.com/fataliss-thoughts-on-anime-in-2014-also-my-top-5-list-1678425199), you would know how crazy everyone’s been over this show, and for a good reason. It’s blown my mind with how great it has been, and the emotions it’s evoked has really been something I have loved, and it’s only gotten better since I did my [top 10 anime of 2014](http://anitay.kinja.com/rockmandashs-top-ten-anime-of-2014-1676188044#_ga=1.90612755.888615642.1438970662) list, pushing itself to be one of my favorite romance anime I’ve seen. It’s a show that blends music seamlessly into the storyline better than almost every other show I’ve seen so far (yeah, nothing will beat[ White Album 2](http://tay.kotaku.com/dexs-review-white-album-2-1488422133) or [KnK](http://tay.kotaku.com/rockmandash-reviews-kara-no-kyoukai-the-garden-of-si-1524615358) in this aspect... sorry guys!), has passionate emotions and great characters. How can I not love this show? This show is a blast to watch, I love the development and reactions of the characters (and how relatable the characters were to me, especiallylly Kousei), and the show is just extremely well written. The show gets you emotionally attached with an amazing display of tone and a narrative that’s as moving as the music itself... it’s executed great and it’s pretty amazing.
+
+<iframe src="https://www.youtube.com/embed/3aL0gDZtFbE"></iframe>
 
 **If interested, you should also check out **[Mdub’s You should be watching article](http://anitay.kinja.com/you-should-be-watching-your-lie-in-april-1648891546#_ga=1.16277823.888615642.1438970662), [Protonstorm’s resonation article](http://anitay.kinja.com/your-lie-in-april-resonates-with-me-on-multiple-levels-1681269152), [Fatalis’s food for thought article](http://anitay.kinja.com/kousei-s-mom-vs-kaori-food-for-thought-1679874907) and [Mdub’s review](http://anitay.kinja.com/your-lie-in-april-the-ani-tay-review-1691904314#_ga=1.16277823.888615642.1438970662) which I helped write.
 
@@ -133,9 +147,13 @@ The tale of a small not quite doujin circle, but not quite indie studio’s jour
 
 **Plot Description: ***Non Non Biyori Repeat* continues following the lives of four girls: the first-grader Renge Miyauchi, the fifth-grader Hotaru Ichijo, the seventh-grader Natsumi Koshigaya, and the eighth-grader Komari Koshigaya, as they attend school and kill boredom in the village of Asahigaoka in the Japanese countryside. *- Plot Description by Koda from the Anime You Should Be Watching Article*
 
+<iframe src="https://www.youtube.com/embed/liniqGHdXbM"></iframe>
+
 **Justification & Thoughts: **Yes, a slice of life is 3rd on the list, but when it’s good as this, it doesn’t matter. When you were a child, have you ever spent any considerable amount of time wandering around your neighborhood with the sheer curiosity of a child or spent time goofing around with friends? Non Non Biyori Repeat, being the masterpiece of slice of life that it is (And really, this is an amazing slice of life... one of the best with *Silver Spoon & Barakamon)*, hearkens back to the time of what it is to be a kid, while showing realistic yet charming relationships that are extremely well done, putting a smile on your face at all times as you watch this life unfold in front of you. It’s not a show of action, but a show that is to be enjoyed... there’s no plot here, or anything at all... but what this show does offer is relationships between characters that are both moving and entertaining at all times, humor that seems childish, but is rather brilliant. Really though, this show is a panacea, wiping all of your issues away as you watch through the show in a state of bliss, smiling and enjoying the scenes as they unfold, from the hilarious to the moving.
 
 What sets *Non Non Biyori *far and away from it’s competitors is how it feels to watch, the experience it creates for the viewer. I’m sure everyone here has some fond childhood memories that they have, or some they wished to have: well, by being the best slice of life you can imagine, *Non Non Biyori* captures that feeling, and makes you feel it, soothing you as you experience this once again. It presents you the wonder of experiencing something new, the feeling of losing something you hold dear but eventually learn that everything’s OK, the feeling of just having fun with people you care about... feelings of childhood that you won’t ever be able to get back, but can try to get back in a show like this. In this time where we rush everywhere to do anything, a break is necessary, and what break is better than relaxing with some childhood experiences? This is a great experience, and it’s one I fell in love with.
+
+<iframe src="https://www.youtube.com/embed/fbx0WPICW14"></iframe>
 
 **If interested, you should also check out** [our review from Koda](http://anitay.kinja.com/non-non-biyori-repeat-the-ani-tay-review-1732258015#_ga=1.16813360.888615642.1438970662) or [his impressions post](http://anitay.kinja.com/non-non-biyori-may-be-on-repeat-but-i-wouldnt-want-it-1720990507).
 
@@ -153,17 +171,23 @@ What sets *Non Non Biyori *far and away from it’s competitors is how it feels 
 
 Because of the nature of the show, making fun of a really popular and easy to watch show,* One Punch Man* is also easily accessible, and when combined with the fact it’s extremely hilarious, *One Punch Man *is the popular show of the year, an engaging show that I and many others had a blast with. Unlike other shows though, it earns it’s popularity with some of the most engaging action scenes anime has to offer, tons of fluidity in the animation which makes it look great, hilarious interactions, etc. It’s a show that is a joy to experience, and it’s one I loved, definitely a must watch in the year and one of my favorites. It’s a show that maintains a high level of quality, one that makes for a blast to watch at all times. Plus, how the hell do you say no to something with a JAM Project opening like this?
 
+<iframe src="https://www.youtube.com/embed/QImBolnTVH8"></iframe>
+
 **If interested, you should also check out** [Koda’s review on AniTAY](http://anitay.kinja.com/one-punch-man-the-ani-tay-review-1749225072).
 
 ***
 
 # *1. Kekkai Sensen/Blood Blockade Battlefront*
 
+<iframe src="https://www.youtube.com/embed/4J8jcI0WtzM"></iframe>
+
 **Plot Description:** A breach between Earth and the netherworlds has opened up over the city of New York, trapping New Yorkers and creatures from other dimensions in an impenetrable bubble. They’ve lived together for years, in a world of crazy crime sci-fi sensibilities. Now someone is threatening to sever the bubble, and a group of stylish superhumans is working to keep it from happening. *- Plot Description from MAL*
 
 ![](./eghm4idpawlcn4vsh4ih.jpg)
 
 **Justification & Thoughts:** I said it back in Spring 2015 that *Kekkai Sensen *at was going to be the top of the list, and now that we’re at the end of the year, here it is, AOTY for me. Written by the genius who brought us the classic Trigun, *Kekkai Sensen* is an amazing episodic show that does a lot right, a show that will hook you in like few shows really can. It’s a show that presents an amazing world, a vibrant, extremely well crafted Monster New York that drags you in with interesting changes to reality, stylization that keeps you constantly engaged, and an atmosphere that makes this setting feeling more alive than pretty much any other setting out there. It doesn’t just end there either: pretty much everything about this show deserves praise, from the extremely memorable and awesome characters (Zapp!) to the brilliant presentation and music (Dat Jazz!) and the absolutely engaging scenarios that happen throughout this story (Chess!). This is a show that I admire as it is the type of show I always look for, being experience first by showing you some absolutely interesting, engaging and amazing scenarios that can either hit hard (Feelz about hamburgers... ;-;), be really entertaining (That guy where all the bad things happen XD) or just be absolutely outstanding to the point that every aspect about this show is just brilliant and and a joy to watch, showing how episodic shows are done right. Almost everything about this show is something I adored (The wait for the last episode.. not so much...) and it all added to a package that as amazing and hit all the right strings for me, Anime of the year.
+
+<iframe src="https://www.youtube.com/embed/j3SlUmr_T4g"></iframe>
 
 **If interested, you should also check out** [Maelwys’ review on AniTAY](http://anitay.kinja.com/kekkai-sensen-the-anitay-review-1713944746).
 

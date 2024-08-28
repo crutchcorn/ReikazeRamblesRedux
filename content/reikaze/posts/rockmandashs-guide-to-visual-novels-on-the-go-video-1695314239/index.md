@@ -10,6 +10,4 @@
 
 I got the video version of my guide to Visual Novels on the Go finished, so if you don't want to read the article, try the video :)
 
-
-
-
+<iframe src="https://www.youtube.com/embed/4D3_s_o7s8g"></iframe>
