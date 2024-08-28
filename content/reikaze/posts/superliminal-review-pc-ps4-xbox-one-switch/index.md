@@ -8,7 +8,7 @@
 
 We often take our perspective for granted as we assume the way things appear is the way they have to be. Sometimes, a change in perspective might be just what you need, but other times, it might not do anything at all. _Superliminal_ is a game that aims to bend one’s perspective to create a unique experience and while it leads to a meaningful gameplay difference, the overall experience isn’t anything too memorable in practice.
 
-[Superliminal Review - Noisy Pixel](https://www.youtube.com/embed/Odw9BPzIQ3Y?feature=oembed)
+<iframe src="https://www.youtube.com/embed/Odw9BPzIQ3Y?feature=oembed"></iframe>
 
 _Superliminal_ is all about perspective, and the way it plays with this theme is the selling point. During gameplay, you can manipulate specific objects, and when you interact with them, the objects’ size becomes fixed to how it appears on your screen, and when you place them the physical size changes. So, if you pick up a chess piece, you can make it larger by putting it far away from you or smaller by placing it nearby.
 

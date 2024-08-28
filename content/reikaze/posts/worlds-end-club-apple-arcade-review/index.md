@@ -10,7 +10,7 @@ After Kotarou Uchikoshi and Kazutaka Kodaka (the makers of* Zero Escape* and _Da
 
 Immediately, the soundtrack of _World’s End Club_ stood out to me as excellent. Each level’s music represents the region well and just compliment the adventure to keep you engaged. As an Uchikoshi and Kodaka story-driven game, music is essential to the setting and tone of the game, which this does incredibly well – moments of tension or other emotions are built up just as well as the best Zero Escape or Danganronpa games, soundtrack wise.
 
-[World's End Club Review - Noisy Pixel](https://www.youtube.com/embed/U0Hfp2tFuPU?feature=oembed)
+<iframe src="https://www.youtube.com/embed/U0Hfp2tFuPU?feature=oembed"></iframe>
 
 However, I can’t really say the same for the graphics. Honestly, none of the team’s earlier titles were graphically intensive, but the impressive aesthetic design that permeated throughout made up for a lack of technical excellence. In comparison, World’s* End Club *completely lacks this charm, and on top of the overly simplistic models, the game uses a generic UI with bland text boxes and simplistic font, making the game feel distinctively cheap.
 
