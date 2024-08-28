@@ -47,6 +47,8 @@ Beautiful. While not nearly as minimalistic as *Narcissu*, it still has those mi
 
 ***
 
+<iframe src="https://www.youtube.com/embed/cVRkzGCDJmY"></iframe>
+
 Ame no Marginal is a good game. It’s a solid experience with an interesting story, moving you in a way that only a stage-mana story can with it’s somber yet calm atmosphere, but it’s a bit too short and underdeveloped to call it amazing. I had a great time with this and would recommend it to everyone, but you should keep in mind that it’s not omgamazingness that *Narcissu* was.
 
 Also, I need to mention pricing: *Ame no Marginal* is sitting at $12.99, which is a bit expensive, considering the length of the game. It’s a good time, but it’s probably not worth that much to most people and even if you’re a *Narcissu* fan, it’s a lot. That being said, wait for a sale or something, it’s definitely worth trying out at some point.

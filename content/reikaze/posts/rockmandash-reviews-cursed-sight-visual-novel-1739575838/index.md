@@ -27,6 +27,8 @@ I do have one complaint though, which you may see as a nitpick: while not 800x60
 
 # Sound
 
+<iframe src="https://www.youtube.com/embed/0xjqwBZVc5Q"></iframe>
+
 ![](./1510496597732011411.png)
 
 On the flip side of the presentation, there’s not much to say. While solid, the soundtrack in *Cursed Sight* for most part doesn’t draw attention to itself, keeping itself hidden in the background. It’s not bad, as no song got tiring to listen to and some of the tracks are actually pretty enjoyable, but it’s entirely forgettable, and if you’re not specifically looking for it, you probably won’t notice it. The usage of sound track was solid as well, with some tracks timed rather well, and others, not so much, but overall it was OK. I usually don’t touch on it, but the sound effects and other audio cues were a nice touch. Some may find the lack of voice acting a bummer, but I didn’t really mind. Overall though, the soundtrack was good but entirely forgettable.

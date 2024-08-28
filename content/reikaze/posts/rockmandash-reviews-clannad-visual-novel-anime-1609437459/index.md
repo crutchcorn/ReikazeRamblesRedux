@@ -65,6 +65,8 @@ That being said, even the anime hasn’t aged perfectly and there are elements w
 
 # Sound
 
+<iframe src="https://www.youtube.com/embed/vdk_76z38bA"></iframe>
+
 ![](./1533533614098355373.png)
 
 It’s Key... do I even have to say it at this point? It’s **OUTSTANDING**. If you had to ask me what my favorite soundtrack is... this one would probably be mentioned, as I loved every bit of it. In my check-mark list of what a great soundtrack is for an anime or a visual novel, a soundtrack has to have music that is pleasing to listen to, creates the mood and atmosphere, and has to have enough variety and quantity so you never get tired of listening to the tracks. *Clannad* aces all of the above, and has something I normally never really consider when thinking about sound in a show: synergy. Jun Maeda just blew me away with this one: the songs match the tone of the writing extremely well, and the synergy pushes the soundtrack from great to perfect. There’s something about this soundtrack that just strikes a cord, no matter the tone. The soundtrack makes the slice of life even more entertaining than it would have, and it makes a huge impact when it comes to the scenes with lots of tension. It’s a really great soundtrack that’s full of well done songs, and a wide variety of them too. Likewise, the voice acting is top notch, as the voices really fit the personalities of the characters, which really helps the experience. The Dub, not so much, as some just don’t fit with what the characters represent. It’s not that pleasing to the ear, but it’s not the worst I’ve heard.

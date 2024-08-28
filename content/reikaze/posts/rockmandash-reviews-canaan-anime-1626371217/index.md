@@ -43,6 +43,8 @@ I have no complaints here. The action looks good, the characters are pleasing to
 
 # Sound
 
+<iframe src="https://www.youtube.com/embed/gFbdJZCBzKw"></iframe>
+
 ![](./1248091306045399982.png)
 
 The soundtrack in Canaan is hard to talk about. It has the same tones and beautiful atmospheric sounds as other Type-Moon stuff, and it definitely feels like a type moon soundtrack... but it’s not. It’s an early PA Works soundtrack and it definitely doesn’t have an impact. While Kara no Kyoukai never leaves my head, Canaan left my head as soon as I finished the episode. It does a great job at making an atmosphere, it fits the show well and it makes the mood, but as good as it is, it doesn’t do anything special. This is a soundtrack that’s better standalone, as it’s a beautiful soundtrack, but it doesn’t do much for the show. The soundtrack overall is pretty enjoyable yet forgettable, and that’s a darn shame. As for the voice over, It does the job. Miyuki Sawashiro did a stellar job with Canaan and Alphard, but other than that performance, it was just OK.
