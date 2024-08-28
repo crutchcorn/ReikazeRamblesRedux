@@ -25,6 +25,8 @@ If you’d rather watch the review, here’s the video:
 
 Let’s get the thing you’re probably all thinking about out of the way, 428 looks like no other visual novel you’ve probably seen thanks to its photographic presentation of live actors and frankly, that’s a good thing. The amount of budget that went into this is frankly amazing, and while it’s presentation might seem like an acquired taste the amount of charm and effort they put into it makes me think that very few people would actually dislike it. 428 is a game that tries to balance weird and serious, and the presentation goes a long way to making this happen. If you asked me, the presentation is really fantastic and adds a lot of character. It’s a visual style that echoes its era in a way that ages extremely well, much better than others in the time, and it makes me think that this could easily be looked back on as a timeless classic.
 
+<iframe src="https://www.youtube.com/embed/2WAgYvOrQwc"></iframe>
+
 As for the sound of 428 ,it echoes many of the same elements from the visuals like charm and personality, and it definitely serves as the emotional driving point of the diverse story but this one’s definitely more of an acquired taste. It has a lot of character, and it has some songs that really help make the moment feel absolutely fantastic, but some of the tracks are honestly just plain weird and many just fall flat. It’s serviceable, but not really something you’re probably gonna listen to outside of the game... trust me I’ve tried. Now, with the presentation out of the way, onto the story!
 
 ***

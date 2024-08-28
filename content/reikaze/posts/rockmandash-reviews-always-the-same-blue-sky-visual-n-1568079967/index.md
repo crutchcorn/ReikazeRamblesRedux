@@ -51,6 +51,8 @@ I don't really know what to think about the visuals on this game. It's water col
 
 The music is pretty charming, and calming. It's charming, but it suffers through the same problems that plagues this whole game: There's not enough of it, and it doesn't try to stand out, thus it doesn't really stand out.
 
+<iframe src="https://www.youtube.com/embed/rN1L9Z6DIus"></iframe>
+
 **Sound - 6.5/10**
 
 # Conclusion
