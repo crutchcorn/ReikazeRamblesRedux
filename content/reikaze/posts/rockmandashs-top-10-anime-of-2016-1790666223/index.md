@@ -71,11 +71,15 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 # 7. *Girlish Number*
 
+<iframe src="https://www.youtube.com/embed/yJ4UjVK2P64"></iframe>
+
 **Anime Made By: **Diomedea
 
 **Genre: **Comedy, Satire, Slice of Life
 
 **Plot Summary: **Talent, perseverance, mental focus, professionalism, the ability to connect with fans, and luck are all key attributes to becoming successful voice actor. Fledgling voice actress Chitose Karasuma might not have any of those things, but she does have plenty of self-confidence (which may or may not be justified). After beginning her career in relative obscurity, Chitose finally catches her big break and a chance to show everyone that she is a star. The path to the top of the voice acting profession may be beset with adversity, but Chitose intends to rush down that path avoiding as much of it as she can. - *Plot Summary from the *[*17 Anime of Autumn 2016 You Should Be Watching Article*](http://anitay.kinja.com/the-17-anime-of-autumn-2016-you-should-be-watching-1789451240) 
+
+<iframe src="https://www.youtube.com/embed/TG23kENLpKk"></iframe>
 
 **Justification & Thoughts: ***Girlish Number* absolutely fantastic, the latest creation by *My Teen Romantic Comedy SNAFU*’s Author Wataru Watari* *but with a hint of *Shirobako *and Narcisism. It’s an absolutely amazing watch, noe that shows fascinating parts of an industry I love as well as being a wonderful character study that we would expect from Watari. Love it.
 
@@ -148,6 +152,8 @@ If you’re interested in reading more thoughts about *Kimi no Na wa*, [check ou
 ***
 
 # ***1. Shouwa Genroku Rakugo Shinjuu***
+
+<iframe src="https://www.youtube.com/embed/K28Lcc-MdJs"></iframe>
 
 **Made by:** Studio Deen
 

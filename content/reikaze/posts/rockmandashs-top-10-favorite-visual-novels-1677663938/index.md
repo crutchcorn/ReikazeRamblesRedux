@@ -15,6 +15,8 @@ Visual Novels. It’s a medium that many don’t really have much experience wit
 
 ***Also, here’s the link to a video version of this if interested, but note that this is based off of the first version of the list, so it’s a bit different. (Namely, Muv-Luv is in a totally different place.)***
 
+<iframe src="https://www.youtube.com/embed/jb86imqe5DE"></iframe>
+
 ***
 
 # Honorable Mention #1: *Mahoutsukai no Yoru*
@@ -144,6 +146,8 @@ Both Bazett and Shirou find themselves in time loop that lasts four days, beginn
 ***
 
 # 1. *999: 9 Hours, 9 Persons, 9 Doors* - A True Masterpiece
+
+<iframe src="https://www.youtube.com/embed/869azSXO1BI"></iframe>
 
 **Plot Description: **999 opens with our hero Junpei, an average college-aged kid, waking up in a haze of cloudy memory in a place he’s never seen before. As he gets his bearings, he quickly discovers the grim situation he’s in — he’s been kidnapped. Kidnapped, and taken to a ship adrift somewhere in the ocean. He soon meets up with eight other victims and they all discover, together, that they’ve been gathered together by a madman to play through a sick and twisted human experiment called “the Nonary Game.” *- Plot Description from IGN’s Review*
 
