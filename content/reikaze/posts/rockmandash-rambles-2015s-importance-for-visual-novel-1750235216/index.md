@@ -13,6 +13,8 @@ It’s the end of 2015, and of course, like everyone, I’ve been reminiscing ab
 
 Also, For those who would rather watch a video, here is my video version:
 
+<iframe src="https://www.youtube.com/embed/O2pEFkctktY"></iframe>
+
 ***
 
 ![](./qvmpticu3hc15i56pryh.jpg)

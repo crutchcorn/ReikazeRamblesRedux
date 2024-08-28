@@ -59,6 +59,8 @@ If you only had a phrase to describe the visuals, the title of *Punch Line* is s
 
 # Sound
 
+<iframe src="https://www.youtube.com/embed/7CAZWgZgcPg"></iframe>
+
 While the opening of this show may be the single most flashy thing you’ll see this year, most of the music in *Punch Line* isn’t exactly that, with the music serving a supporting role. That being said, don’t let that make it sound like it’s a bad thing though, as this soundtrack does a great job at supporting the show, putting the viewer in the mood that the scenes dictate and they really help engage the viewer with the work. Whether it’s an upbeat scene or one that’s more somber, the music does a great job at fitting in, working well and just doing a good job at being a soundtrack.
 
 ***
