@@ -90,9 +90,15 @@ The art is pretty solid though and some may consider it an improvement: while I 
 
 ***
 
+<iframe src="https://www.youtube.com/embed/5lDb5D1O7cQ"></iframe>
+
 Remember how I said that *999*’s soundtrack is one of the best, if not the best atmospheric soundtracks that are available in gaming as it does a great job capturing the essence of the work and effectively using it’s sound to manipulate you as a player? It’s back in full force, as Shinji Hosoe from* 999* composed the soundtrack here once again, and it’s great.
 
+<iframe src="https://www.youtube.com/embed/Cys1-jwTQnY"></iframe>
+
 It does everything that *999* did well, manipulating your mood, creating a great atmosphere, amplifying your feelings, sounding great in general, the whole gamut of actions that a good soundtrack does. Where this soundtrack looses marks is the fact that this is literally* 999*’s soundtrack, just remastered... yup, almost every track in here is a remix of *999*’s soundtrack, made to sound grander, with some even having orchestral elements. If you asked me to compare, I couldn’t really give you a clear answer: I really appreciated the simplicity of the original soundtrack, and what they did stylistically, but ZE:VLR’s sounds just as good, even if it looses a bit stylistically. It does loose points for not being original though, and that’s kinda a disappointment.
+
+<iframe src="https://www.youtube.com/embed/b22btwlVVow"></iframe>
 
 That being said, the new addition to the soundtrack is pretty great: *Blue Bird Lamentation* is pretty much the only new track, but it’s done so well that I can’t help but adore it. It’s VLR’s Morphogenetic Sorrow, the feelz song that is super powerful with it’s simple yet awesome music box playing with the beautiful orchestral sound, and it’s pretty much the best of both worlds when it comes to these soundtracks. It’s a great track, and I’m a big fan.
 
