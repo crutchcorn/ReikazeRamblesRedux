@@ -15,4 +15,4 @@ There wasn’t a lot of people here, we barely had ZTD cosplayers, we were missi
 
 Here’s what you’ve been waiting for, the imgur album that has all of the pictures:
 
-[Open *imgur.com*](http://imgur.com/a/uORKM/embed)
+[Open *imgur.com*](http://imgur.com/a/uORKM)

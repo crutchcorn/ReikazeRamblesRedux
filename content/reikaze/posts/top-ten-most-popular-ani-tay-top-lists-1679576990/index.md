@@ -7,13 +7,13 @@
 }
 ---
 
-As we were working on our 15 Most Popular Anime of 2014, We started to think meta. We made quite a few lists, so wouldn't it be fun to list the Most popular anime **lists **on AniTAY? We thought it was a good idea, (and even if it's not, it's certainly interesting and fun to see) so here it is.
+As we were working on our 15 Most Popular Anime of 2014, We started to think meta. We made quite a few lists, so wouldn't it be fun to list the Most popular anime **lists** on AniTAY? We thought it was a good idea, (and even if it's not, it's certainly interesting and fun to see) so here it is.
 
 ![](./c7da2jt9fenhgvwmn7jl.png)
 
 # Honorable Mentions
 
-While not the most popular lists, these are here because I liked them thus they are here. Also,[ here are](https://anitay.kinja.com/protonstorms-music-awards-for-summer-2014-anime-1637517602) [a bunch ](http://anitay.kinja.com/top-10-non-japanese-anime-opening-and-endings-1627821161)[I lik](http://anitay.kinja.com/mainprotagonists-10-favorite-anime-openings-ever-of-al-1617296281)[ed ](http://anitay.kinja.com/mainprotagonists-10-favorite-anime-openings-ever-of-al-1617296281)[that I'm ](http://anitay.kinja.com/my-best-list-of-best-girls-of-2014-1678411311)[not dedicating](http://anitay.kinja.com/fataliss-thoughts-on-anime-in-2014-also-my-top-5-list-1678425199) [a whole](http://anitay.kinja.com/the-15-most-popular-anime-of-2014-1679402237) [section to ](http://anitay.kinja.com/kodas-anime-favorites-of-2014-1676935298)[though](http://anitay.kinja.com/kodas-top-10-2014-anime-openings-1665580488).
+While not the most popular lists, these are here because I liked them thus they are here. Also, [here are](https://anitay.kinja.com/protonstorms-music-awards-for-summer-2014-anime-1637517602) [a bunch](http://anitay.kinja.com/top-10-non-japanese-anime-opening-and-endings-1627821161) [I lik](http://anitay.kinja.com/mainprotagonists-10-favorite-anime-openings-ever-of-al-1617296281)[ed ](http://anitay.kinja.com/mainprotagonists-10-favorite-anime-openings-ever-of-al-1617296281)[that I'm ](http://anitay.kinja.com/my-best-list-of-best-girls-of-2014-1678411311)[not dedicating](http://anitay.kinja.com/fataliss-thoughts-on-anime-in-2014-also-my-top-5-list-1678425199) [a whole](http://anitay.kinja.com/the-15-most-popular-anime-of-2014-1679402237) [section to ](http://anitay.kinja.com/kodas-anime-favorites-of-2014-1676935298)[though](http://anitay.kinja.com/kodas-top-10-2014-anime-openings-1665580488).
 
 
 ## Fruity's Miscellaneous Anime Awards of 2014!! (huzarr!)
@@ -50,7 +50,7 @@ During [winter, Koda rated his favorite shows](http://tay.kotaku.com/kodas-winte
 
 Hey! [It's my list](http://anitay.kinja.com/rockmandashs-top-ten-anime-of-2014-1676188044) of my top shows of the year! It's pretty surprising that it's on the list because of the short amount of time that it's been up, but the article was one of the first Tops of the year for AniTAY, and it deviated quite a bit from other lists like Kotaku's, so maybe that's why it managed to get onto this list. Check it out! You won't regret it.
 
-## 7. Series That Proves Anime Is* Not* for kids only (~9,000)
+## 7. Series That Proves Anime Is *Not* for kids only (~9,000)
 
 ![](./1078587414284145512.png)
 
