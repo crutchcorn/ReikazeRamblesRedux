@@ -200,6 +200,6 @@ In conclusion, the Visual Novel genre is unlike anything else; a video game genr
 
 ***
 
-*Rockmandash is a frequent writer of Visual Novels and anime on *[*this blog*](/posts/)* and the *[*AniTAY Blog*](http://anitay.kinja.com/)* as well. Come and check them out if you are interested in reviews and opinion pieces on these topics!*
+*Rockmandash is a frequent writer of Visual Novels and anime on *[*this blog*](/people/reikaze)* and the *[*AniTAY Blog*](http://anitay.kinja.com/)* as well. Come and check them out if you are interested in reviews and opinion pieces on these topics!*
 
 ***Note:*** *Edited on 2/16/2015 to polish it up a bit, and update some things. Also Edited on 1/31/2016 to update the header image, distribution info, formatting, and other small things.*

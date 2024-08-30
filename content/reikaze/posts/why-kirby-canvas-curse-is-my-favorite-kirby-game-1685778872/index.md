@@ -17,7 +17,7 @@ I am a firm believer that *Kirby Canvas Curse* is the best Kirby game that HAL L
 
 ![](./cr0hpehyopawtaxd6tkj.png)
 
-In an era where Nintendo was known for gimmicks, on a platform that was full of gimmicky games with a gimmick-sounding control scheme, one may assume that *Canvas Curse *is nothing but a gimmick. That's a completely valid assumption to make, but you know what they say, assumptions make an ass out of you and me. Instead of just jumping to the goal, Kirby* Canvas Curse* turns the tried and true platform genre on it's head, with innovative controls that makes it really like drawing on a canvas.
+In an era where Nintendo was known for gimmicks, on a platform that was full of gimmicky games with a gimmick-sounding control scheme, one may assume that *Canvas Curse* is nothing but a gimmick. That's a completely valid assumption to make, but you know what they say, assumptions make an ass out of you and me. Instead of just jumping to the goal, Kirby *Canvas Curse* turns the tried and true platform genre on it's head, with innovative controls that makes it really like drawing on a canvas.
 
 *Canvas Curse* uses the touchscreen of the DS really well to create a control scheme that I wouldn't be better any other way: you don't control Kirby directly, but you use your stylus to create a road under it, and tap Kirby to do a dash, or use a power up. It's a simple tweak to the formula, but controlling Kirby in this way is just so much more fun than just sucking and jumping, and the touch control is a plus, not a con. The way the levels were designed encouraged an interesting use of the screen, the power ups were fun to use, and Boss fights were fun mini games that I always had a blast with. It's an interesting and unique form of platforming that was done well, and we haven't really seen anything like it since (until *Rainbow Curse*, that is).\
 \
@@ -53,13 +53,13 @@ Really, I can go gushing on and on about this game, because there's so much to i
 
 ![](./jnuabl5lytfdkzvsgzve.jpg)
 
-It seems like *Canvas Curse *was the start of a trend for Kirby spinoffs, with visuals that are eccentric and off beat, but very pretty. This game takes a mosaic painting look, and I love it, especially the backgrounds of the game. It's really nice and unlike anything I've ever seen, which keeps you interested in the levels and what's to come up in the future.
+It seems like *Canvas Curse* was the start of a trend for Kirby spinoffs, with visuals that are eccentric and off beat, but very pretty. This game takes a mosaic painting look, and I love it, especially the backgrounds of the game. It's really nice and unlike anything I've ever seen, which keeps you interested in the levels and what's to come up in the future.
 
 ***
 
 # A Seriously Stimulating Soundtrack
 
-Take any song from any Kirby game you know and smash it into bits. Take that broken soundtrack, make it techno, and add a trippy soundfont. Congratulations! You've just made the soundtrack in *Canvas Curse, *a wonderful soundtrack of unique, almost unrecognizable remixes that I adore. They feel like they fit the new levels really well, but they are obviously homages to Kirby games of the past. I'm a big fan of the soundtrack, and it helps to create...
+Take any song from any Kirby game you know and smash it into bits. Take that broken soundtrack, make it techno, and add a trippy soundfont. Congratulations! You've just made the soundtrack in *Canvas Curse*, a wonderful soundtrack of unique, almost unrecognizable remixes that I adore. They feel like they fit the new levels really well, but they are obviously homages to Kirby games of the past. I'm a big fan of the soundtrack, and it helps to create...
 
 ***
 
@@ -69,12 +69,12 @@ Take any song from any Kirby game you know and smash it into bits. Take that bro
 
 Remember *Kirby 64*'s Shiver Star? The level that was eerily like a post apocalyptic earth, void of a civilization but certainly capable of supporting one, with post-industrial buildings like shopping malls and factories? Just imagine a whole game with that atmosphere instead of just a level, and you've pretty much described the atmosphere of *Canvas Curse*, an atmosphere that I just adore. While not explicitly creepy, it's a world of speculation with eeriness abound: The emptiness levels that you inhibit create dissonance between the events on screen make this painting of dream world feel like a nightmare, and I loved every bit of it. This dissonance with the game made me assume that *Canvas Curse* was a post apocalyptic Kirby game when I first played it because of the old footage of Kirby that played during the dash jump game and the void like level select music... yeah...
 
-When battling against bosses like Dedede, you're not just battling against Dedede, you're battling against a *soul-less Dedede under Drawcia's control. *Then it gets even creepier when you get to Drawcia herself… yeah... It's a Kirby game first and foremost, with bright colors and a happy aesthetic, but from the eery, broken music to the slow melt into insanity as you enter Drawcia's world, it's clear that this game is not just sunshine and rainbows, with it's peak on her soul form, something i'd ever expect from a Kirby game.
+When battling against bosses like Dedede, you're not just battling against Dedede, you're battling against a *soul-less Dedede under Drawcia's control*. Then it gets even creepier when you get to Drawcia herself… yeah... It's a Kirby game first and foremost, with bright colors and a happy aesthetic, but from the eery, broken music to the slow melt into insanity as you enter Drawcia's world, it's clear that this game is not just sunshine and rainbows, with it's peak on her soul form, something i'd ever expect from a Kirby game.
 
 ***
 
-*Kirby Canvas Curse* is my favorite Kirby game because it's fun, creative, is executed very well, and is something so unique you can't help but admire it. Every time I see it, it puts a smile on my face and I bounce in glee about how fun and entertaining it was. I loved every bit of it, and I'm really glad to see Nintendo continue what is one of my favorite spinoffs with *Rainbow Curse*. I implore you to give* Canvas Curse *a chance, as it's really one of a kind.
+*Kirby Canvas Curse* is my favorite Kirby game because it's fun, creative, is executed very well, and is something so unique you can't help but admire it. Every time I see it, it puts a smile on my face and I bounce in glee about how fun and entertaining it was. I loved every bit of it, and I'm really glad to see Nintendo continue what is one of my favorite spinoffs with *Rainbow Curse*. I implore you to give *Canvas Curse* a chance, as it's really one of a kind.
 
 ***
 
-[*Rockmandash *](/posts/)*is a reader on *[*TAY*](http://tay.kotaku.com/)* that finds himself writing a lot about Visual Novels or Anime at *[*Ani-TAY*](http://anitay.kinja.com/)*, but every now and then does a regular Video Game post like this for some strange reason. You can find this game on sale at *[*Amazon*](http://www.amazon.com/Kirby-Canvas-Curse-Nintendo-DS/dp/B00095LIC0/?ascsubtag=6cd5c727624368bd559e7f4b8eb780455ee81a22\&tag=kinja-20)* here.*
+[*Rockmandash*](/people/reikaze) *is a reader on *[*TAY*](http://tay.kotaku.com/)* that finds himself writing a lot about Visual Novels or Anime at *[*Ani-TAY*](http://anitay.kinja.com/)*, but every now and then does a regular Video Game post like this for some strange reason. You can find this game on sale at *[*Amazon*](http://www.amazon.com/Kirby-Canvas-Curse-Nintendo-DS/dp/B00095LIC0/?ascsubtag=6cd5c727624368bd559e7f4b8eb780455ee81a22\&tag=kinja-20)* here.*

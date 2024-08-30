@@ -204,4 +204,4 @@ In conclusion, while PCs seem to be expensive upfront, there’s lots of ways to
 
 ***
 
-*You’re reading TAY, Kotaku’s community-run blog. TAY is written by and for Kotaku readers like you. We write about games, art, culture and everything in between. Want to write with us? Check out our tutorial *[*here*](http://tay.kotaku.com/the-new-taytorial-1659855583)* and join in. If you want to read more of my writing, check out *[*AniTAY*](http://anitay.kinja.com/#_ga=1.93871646.241020698.1444271310)*, *[*RockmanDash Reviews*](/posts/)* and *[*KMTech*](http://kmtech.kinja.com/#_ga=1.36297248.1213287835.1458274895)*.*
+*You’re reading TAY, Kotaku’s community-run blog. TAY is written by and for Kotaku readers like you. We write about games, art, culture and everything in between. Want to write with us? Check out our tutorial *[*here*](http://tay.kotaku.com/the-new-taytorial-1659855583)* and join in. If you want to read more of my writing, check out *[*AniTAY*](http://anitay.kinja.com/#_ga=1.93871646.241020698.1444271310)*, *[*RockmanDash Reviews*](/people/reikaze)* and *[*KMTech*](http://kmtech.kinja.com/#_ga=1.36297248.1213287835.1458274895)*.*

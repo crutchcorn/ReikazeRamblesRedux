@@ -89,7 +89,7 @@ By being able to see one's biases, it enables you to better understand the persp
 
 ***
 
-*Rockmandash is a frequent writer of Visual Novels and anime on *[*this blog*](/posts/)* and the *[*AniTAY Blog*](http://anitay.kinja.com/#_ga=1.196883561.473183827.1418699279)* as well. Come and check them out if you are interested in reviews and opinion pieces on these topics!*
+*Rockmandash is a frequent writer of Visual Novels and anime on *[*this blog*](/people/reikaze)* and the *[*AniTAY Blog*](http://anitay.kinja.com/#_ga=1.196883561.473183827.1418699279)* as well. Come and check them out if you are interested in reviews and opinion pieces on these topics!*
 
 
 

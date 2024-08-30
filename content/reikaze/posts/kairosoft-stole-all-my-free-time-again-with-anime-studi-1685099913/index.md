@@ -37,4 +37,4 @@ To sum this game up, it's *Game Dev Story* with anime. That's about it, and **I 
 
 ***
 
-[*Rockmandash*](/posts/) is a reader on *[*TAY*](http://tay.kotaku.com/)* that finds himself writing a lot about Visual Novels or Anime at *[*Ani-TAY*](http://anitay.kinja.com/)*, but every now and then does a regular Video Game post like this for some strange reason. You can find this game on the *[*Google Play Store*](https://play.google.com/store/apps/details?id=net.kairosoft.android.animestudio_en)*, and I have no idea when it's coming to iOS, if it's not on there.
+[*Rockmandash*](/people/reikaze) is a reader on *[*TAY*](http://tay.kotaku.com/)* that finds himself writing a lot about Visual Novels or Anime at *[*Ani-TAY*](http://anitay.kinja.com/)*, but every now and then does a regular Video Game post like this for some strange reason. You can find this game on the *[*Google Play Store*](https://play.google.com/store/apps/details?id=net.kairosoft.android.animestudio_en)*, and I have no idea when it's coming to iOS, if it's not on there.

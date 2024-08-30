@@ -131,7 +131,7 @@ Also, the price does not include software or accessories; those are later on in 
 \
 **KEEP IN MIND, BEFORE PICKING A BUILD, CHECK THE RESOLUTION OF YOUR MONITOR, OR THE ONE YOU ARE GOING TO UPGRADE TO.** Gaming is all about the GPU. If you have a lower resolution monitor, there is very little reason to get a more expensive rig, as certain GPUs will run everything fine at certain resolutions and spending more provides little noticeable benefit. My 7970 I got a few years ago for an example has been rocking 1080p in nearly any game I throw at it. I only upgraded to the R9 fury in my current rig because I got a 4k TV to use as a monitor and I’ve been pushing my poor 7970 to it’s limit with those higher resolutions.\
 \
-That being said, the great part about PCs is the wide variety of choices. If you’d rather spend more on a case, or get a different GPU, then do so. You can pick and choose and this is just a guide, my personal recommendation for what you should get. The law of diminishing returns will affect you if you buy high end, so it might be better if you just buy mid-range stuff. The recommended upgrades are if you want a better experience in that price bracket. if you want more performance, step up a bracket. **Also, as of (9/13/16), Don’t buy an AMD CPU, and get a new GPU now. **They’ve been due for an upgrade for a while**** (AMD hasn’t upgraded their CPUs in several years), and Zen’s looking promising so you’d be a fool to upgrade now unless you really need to. GPU wise though, GO GO GO! The new GPUs have been big upgrades that provided significantly more price to performance.
+That being said, the great part about PCs is the wide variety of choices. If you’d rather spend more on a case, or get a different GPU, then do so. You can pick and choose and this is just a guide, my personal recommendation for what you should get. The law of diminishing returns will affect you if you buy high end, so it might be better if you just buy mid-range stuff. The recommended upgrades are if you want a better experience in that price bracket. if you want more performance, step up a bracket. **Also, as of (9/13/16), Don’t buy an AMD CPU, and get a new GPU now. **They’ve been due for an upgrade for a while** (**AMD hasn’t upgraded their CPUs in several years), and Zen’s looking promising so you’d be a fool to upgrade now unless you really need to. GPU wise though, GO GO GO! The new GPUs have been big upgrades that provided significantly more price to performance.
 
 A note for international members, all prices are in USD and prices of specific parts may vary depending on your location. Sorry.
 
@@ -185,7 +185,7 @@ Intel Core i5 6500, Geforce GTX 960, 8gb RAM
 
 <iframe src="https://www.youtube.com/embed/2GdfDCq86Gk"></iframe>
 
-Ahh... the i5. Get an i5 and you’re basically ready for anything gaming has to throw at you CPU wise. This upgrade makes the rig significantly more futureproof while performing better in many titles. More exiting though... is the GPU as it’s **NEW GPU TIME!** Thanks to the introduction of cards like the Radeon Rx 480 and 1060, we now have have VR capable GPUs down to affordable prices. You’ll be ready for the Vive and the Rift if you want them, and these guys can handle everything you throw at it 1080p. They’re also a good buy considering they’re about 970-980 performance, the higher end chips that devs are now targeting due to their popularity. Add in the fact that they’re similar to the PS4 Pro and Scorpio in performance and you should be set for a while.
+Ahh... the i5. Get an i5 and you’re basically ready for anything gaming has to throw at you CPU wise. This upgrade makes the rig significantly more futureproof while performing better in many titles. More exiting though... is the GPU as it’s **NEW GPU TIME! **Thanks to the introduction of cards like the Radeon Rx 480 and 1060, we now have have VR capable GPUs down to affordable prices. You’ll be ready for the Vive and the Rift if you want them, and these guys can handle everything you throw at it 1080p. They’re also a good buy considering they’re about 970-980 performance, the higher end chips that devs are now targeting due to their popularity. Add in the fact that they’re similar to the PS4 Pro and Scorpio in performance and you should be set for a while.
 
 <iframe src="https://www.youtube.com/embed/2R76wLCxRXY"></iframe>
 
@@ -247,7 +247,7 @@ G/O Media may get a commission
 
 [](https://www.amazon.com/dp/B005EOWBHC?ascsubtag=26033b89efb185da59533a5f9d20a6658b72d5cc\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
-**[AmazonBasics Wired Keyboard, Keyboard only (1-Pack)](https://www.amazon.com/dp/B005EOWBHC?ascsubtag=26033b89efb185da59533a5f9d20a6658b72d5cc\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)**
+### [AmazonBasics Wired Keyboard, Keyboard only (1-Pack)](https://www.amazon.com/dp/B005EOWBHC?ascsubtag=26033b89efb185da59533a5f9d20a6658b72d5cc\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
 From amazon
 
@@ -259,7 +259,7 @@ G/O Media may get a commission
 
 [$35](https://www.amazon.com/dp/B016MAK38U?ascsubtag=b8020539c6f39f5010d3894794dcd1792edeaceb\&linkCode=ogi\&psc=1\&smid=AXZ7TDMJNMJSZ\&tag=kinja-20\&th=1)
 
-**[Redragon K552 Mechanical Gaming Keyboard RGB LED Rainbow Backlit...](https://www.amazon.com/dp/B016MAK38U?ascsubtag=b8020539c6f39f5010d3894794dcd1792edeaceb\&linkCode=ogi\&psc=1\&smid=AXZ7TDMJNMJSZ\&tag=kinja-20\&th=1)**
+### [Redragon K552 Mechanical Gaming Keyboard RGB LED Rainbow Backlit...](https://www.amazon.com/dp/B016MAK38U?ascsubtag=b8020539c6f39f5010d3894794dcd1792edeaceb\&linkCode=ogi\&psc=1\&smid=AXZ7TDMJNMJSZ\&tag=kinja-20\&th=1)
 
 From amazon
 
@@ -269,7 +269,7 @@ G/O Media may get a commission
 
 [$80](https://www.amazon.com/dp/B00HZE2PJS?ascsubtag=dba37391fcee0ff739634d7deee63662061df99f\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
-**[Thermaltake Tt e Sports Poseidon Z Blue Switches with 4-Level Brightness...](https://www.amazon.com/dp/B00HZE2PJS?ascsubtag=dba37391fcee0ff739634d7deee63662061df99f\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)**
+### [Thermaltake Tt e Sports Poseidon Z Blue Switches with 4-Level Brightness...](https://www.amazon.com/dp/B00HZE2PJS?ascsubtag=dba37391fcee0ff739634d7deee63662061df99f\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
 From amazon
 
@@ -295,7 +295,7 @@ G/O Media may get a commission
 
 [$140](https://www.amazon.com/dp/B015WKY3FU?ascsubtag=664dfd90898683218847874329c0d961067574d7\&linkCode=ogi\&psc=1\&smid=A1QVAV8LAWE2HY\&tag=kinja-20\&th=1)
 
-**[SteelSeries Rival 100, Optical Gaming Mouse - Black](https://www.amazon.com/dp/B015WKY3FU?ascsubtag=664dfd90898683218847874329c0d961067574d7\&linkCode=ogi\&psc=1\&smid=A1QVAV8LAWE2HY\&tag=kinja-20\&th=1)**
+### [SteelSeries Rival 100, Optical Gaming Mouse - Black](https://www.amazon.com/dp/B015WKY3FU?ascsubtag=664dfd90898683218847874329c0d961067574d7\&linkCode=ogi\&psc=1\&smid=A1QVAV8LAWE2HY\&tag=kinja-20\&th=1)
 
 From amazon
 
@@ -315,7 +315,7 @@ G/O Media may get a commission
 
 [$120](https://www.amazon.com/dp/B008DWITHI?ascsubtag=3daceb9d8af99e40a0e57c15565d6cb723f5e2f2\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
-**[ASUS VS239H-P 23" Full HD 1920x1080 IPS HDMI DVI VGA Back-lit LED...](https://www.amazon.com/dp/B008DWITHI?ascsubtag=3daceb9d8af99e40a0e57c15565d6cb723f5e2f2\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)**
+### [ASUS VS239H-P 23" Full HD 1920x1080 IPS HDMI DVI VGA Back-lit LED...](https://www.amazon.com/dp/B008DWITHI?ascsubtag=3daceb9d8af99e40a0e57c15565d6cb723f5e2f2\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
 From amazon
 
@@ -328,7 +328,8 @@ G/O Media may get a commission
 [](https://smile.amazon.com/PX277-27-inch-2560x1440-FreeSync-Technology/dp/B01HPDAF68/ref=sr_1_14?ascsubtag=344f94cde4882aaca973f3fc1b39ec57548e4ca0\&ie=UTF8\&keywords=freesync\&qid=1473842109\&sr=8-14\&tag=kinja-20)
 
 
-**[Pixio PX277 27-inch 2560x1440 144Hz AMD FreeSync IPS Technology WQHD...](https://smile.amazon.com/PX277-27-inch-2560x1440-FreeSync-Technology/dp/B01HPDAF68/ref=sr_1_14?ascsubtag=344f94cde4882aaca973f3fc1b39ec57548e4ca0\&ie=UTF8\&keywords=freesync\&qid=1473842109\&sr=8-14\&tag=kinja-20)**
+
+### [Pixio PX277 27-inch 2560x1440 144Hz AMD FreeSync IPS Technology WQHD...](https://smile.amazon.com/PX277-27-inch-2560x1440-FreeSync-Technology/dp/B01HPDAF68/ref=sr_1_14?ascsubtag=344f94cde4882aaca973f3fc1b39ec57548e4ca0\&ie=UTF8\&keywords=freesync\&qid=1473842109\&sr=8-14\&tag=kinja-20)
 
 From amazon
 
@@ -338,7 +339,7 @@ G/O Media may get a commission
 
 [](http://smile.amazon.com/Monoprice-27-Inch-Select-Monitor-113808/dp/B016LOU0FI/ref=sr_1_1?ascsubtag=c64a8608fb3fac7af6ca8e524501ab6355f7c813\&ie=UTF8\&keywords=monoprice%20monitor\&qid=1461270796\&sr=8-1\&tag=kinja-20)
 
-**[Monoprice 27-Inch IPS WQHD LED Select Series Monitor with HDMI and...](http://smile.amazon.com/Monoprice-27-Inch-Select-Monitor-113808/dp/B016LOU0FI/ref=sr_1_1?ascsubtag=c64a8608fb3fac7af6ca8e524501ab6355f7c813\&ie=UTF8\&keywords=monoprice%20monitor\&qid=1461270796\&sr=8-1\&tag=kinja-20)**
+### [Monoprice 27-Inch IPS WQHD LED Select Series Monitor with HDMI and...](http://smile.amazon.com/Monoprice-27-Inch-Select-Monitor-113808/dp/B016LOU0FI/ref=sr_1_1?ascsubtag=c64a8608fb3fac7af6ca8e524501ab6355f7c813\&ie=UTF8\&keywords=monoprice%20monitor\&qid=1461270796\&sr=8-1\&tag=kinja-20)
 
 From amazon
 
@@ -356,7 +357,7 @@ G/O Media may get a commission
 
 [](https://www.amazon.com/dp/B005SAKW9G?ascsubtag=6a93b7b4eecdc1ae2f146d7f2ba326917a7dd439\&linkCode=ogi\&psc=1\&smid=A18GW7QD5SN4TI\&tag=kinja-20\&th=1)
 
-**[Asus Dual Band (2.4GHz 300Mbps/5GHz 300Mbps) Wireless-N USB Adapter...](https://www.amazon.com/dp/B005SAKW9G?ascsubtag=6a93b7b4eecdc1ae2f146d7f2ba326917a7dd439\&linkCode=ogi\&psc=1\&smid=A18GW7QD5SN4TI\&tag=kinja-20\&th=1)**
+### [Asus Dual Band (2.4GHz 300Mbps/5GHz 300Mbps) Wireless-N USB Adapter...](https://www.amazon.com/dp/B005SAKW9G?ascsubtag=6a93b7b4eecdc1ae2f146d7f2ba326917a7dd439\&linkCode=ogi\&psc=1\&smid=A18GW7QD5SN4TI\&tag=kinja-20\&th=1)
 
 From amazon
 
@@ -366,7 +367,7 @@ G/O Media may get a commission
 
 [$140](https://www.amazon.com/dp/B007GMPZ0A?ascsubtag=d872a85dc73947d11c516ecb0935e865064d9fdc\&linkCode=ogi\&psc=1\&smid=A24DYA9LEFSGDH\&tag=kinja-20\&th=1)
 
-**[TP-Link TL-WDN4800 N900 Dual Band Wireless PCI Express Adapter...](https://www.amazon.com/dp/B007GMPZ0A?ascsubtag=d872a85dc73947d11c516ecb0935e865064d9fdc\&linkCode=ogi\&psc=1\&smid=A24DYA9LEFSGDH\&tag=kinja-20\&th=1)**
+### [TP-Link TL-WDN4800 N900 Dual Band Wireless PCI Express Adapter...](https://www.amazon.com/dp/B007GMPZ0A?ascsubtag=d872a85dc73947d11c516ecb0935e865064d9fdc\&linkCode=ogi\&psc=1\&smid=A24DYA9LEFSGDH\&tag=kinja-20\&th=1)
 
 From amazon
 
@@ -376,7 +377,7 @@ G/O Media may get a commission
 
 [$38](https://www.amazon.com/dp/B00AWRUICG?ascsubtag=b8c09f291c10e55ab7e17c99536e00229c1a542f\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
-**[TP-Link AV600 Powerline Ethernet Adapter(TL-PA4010 KIT)- Plug\&Play,...](https://www.amazon.com/dp/B00AWRUICG?ascsubtag=b8c09f291c10e55ab7e17c99536e00229c1a542f\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)**
+### [TP-Link AV600 Powerline Ethernet Adapter(TL-PA4010 KIT)- Plug\&Play,...](https://www.amazon.com/dp/B00AWRUICG?ascsubtag=b8c09f291c10e55ab7e17c99536e00229c1a542f\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
 From amazon
 
@@ -386,7 +387,7 @@ G/O Media may get a commission
 
 [$5](https://www.amazon.com/dp/B0002JFN4M?ascsubtag=227e3cf5e4a15cd97e3e0cdbdb2c39618a6c6cda\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
-**[C2G/ Cables To Go 27153 Cat6 Cable - Snagless Unshielded Ethernet...](https://www.amazon.com/dp/B0002JFN4M?ascsubtag=227e3cf5e4a15cd97e3e0cdbdb2c39618a6c6cda\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)**
+### [C2G/ Cables To Go 27153 Cat6 Cable - Snagless Unshielded Ethernet...](https://www.amazon.com/dp/B0002JFN4M?ascsubtag=227e3cf5e4a15cd97e3e0cdbdb2c39618a6c6cda\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
 From amazon
 
@@ -421,7 +422,7 @@ G/O Media may get a commission
 
 [$20](https://www.amazon.com/dp/B0033Z2BAQ?ascsubtag=2059a1a27f6fe4acb3c118129e6aa69799505555\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
-**[Asus 24x DVD-RW Serial-ATA Internal OEM Optical Drive DRW-24B1ST...](https://www.amazon.com/dp/B0033Z2BAQ?ascsubtag=2059a1a27f6fe4acb3c118129e6aa69799505555\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)**
+### [Asus 24x DVD-RW Serial-ATA Internal OEM Optical Drive DRW-24B1ST...](https://www.amazon.com/dp/B0033Z2BAQ?ascsubtag=2059a1a27f6fe4acb3c118129e6aa69799505555\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
 From amazon
 
@@ -431,12 +432,12 @@ G/O Media may get a commission
 
 [$30](https://www.amazon.com/dp/B00C2AMK2M?ascsubtag=151c1c9ea4bc9839f5b5e4c5adba3a45085fc4ae\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
-**[LG Electronics 8X USB 2.0 Super Multi Ultra Slim Portable DVD Rewriter...](https://www.amazon.com/dp/B00C2AMK2M?ascsubtag=151c1c9ea4bc9839f5b5e4c5adba3a45085fc4ae\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)**
+### [LG Electronics 8X USB 2.0 Super Multi Ultra Slim Portable DVD Rewriter...](https://www.amazon.com/dp/B00C2AMK2M?ascsubtag=151c1c9ea4bc9839f5b5e4c5adba3a45085fc4ae\&linkCode=ogi\&psc=1\&smid=ATVPDKIKX0DER\&tag=kinja-20\&th=1)
 
 From amazon
 
 Blu Ray Drive\
-\*If you get a Blu Ray drive, there’s no point in getting a DVD drive\*
+\* If you get a Blu Ray drive, there’s no point in getting a DVD drive\*
 
 Internal -[ $50](<https://smile.amazon.com/LG-Electronics-Internal-Rewriter-WH14NS40/dp/B007VPGL5U/ref=sr_1_2?ascsubtag=4147630b04c330e0bc714777d2a1ebd74af47f05\&ie=UTF8\&keywords=blu ray drive\&qid=1473842567\&s=pc\&sr=1-2\&tag=kinja-20>)
 
@@ -460,7 +461,7 @@ G/O Media may get a commission
 
 [$20](https://www.amazon.com/dp/B0032A0RBC?ascsubtag=e4502273e813ade7363d173655473327f6796f09\&linkCode=ogi\&psc=1\&smid=A26BKZHHS8SI0Z\&tag=kinja-20\&th=1)
 
-**[Third Party Made Xbox 360 Wireless Gaming Receiver Black](https://www.amazon.com/dp/B0032A0RBC?ascsubtag=e4502273e813ade7363d173655473327f6796f09\&linkCode=ogi\&psc=1\&smid=A26BKZHHS8SI0Z\&tag=kinja-20\&th=1)**
+### [Third Party Made Xbox 360 Wireless Gaming Receiver Black](https://www.amazon.com/dp/B0032A0RBC?ascsubtag=e4502273e813ade7363d173655473327f6796f09\&linkCode=ogi\&psc=1\&smid=A26BKZHHS8SI0Z\&tag=kinja-20\&th=1)
 
 From amazon
 
@@ -472,4 +473,4 @@ In conclusion, while PCs can be rather intimidating, they make for a great gamin
 
 ***
 
-*You’re reading TAY, Kotaku’s community-run blog. TAY is written by and for Kotaku readers like you. We write about games, art, culture and everything in between. Want to write with us? Check out our tutorial *[*here*](http://tay.kotaku.com/the-new-taytorial-1659855583)* and join in. If you want to read more of my writing, check out *[*AniTAY*](http://anitay.kinja.com/#_ga=1.93871646.241020698.1444271310)*, *[*RockmanDash Reviews*](/posts/)* and *[*KMTech*](http://kmtech.kinja.com/)*.*
+*You’re reading TAY, Kotaku’s community-run blog. TAY is written by and for Kotaku readers like you. We write about games, art, culture and everything in between. Want to write with us? Check out our tutorial *[*here*](http://tay.kotaku.com/the-new-taytorial-1659855583)* and join in. If you want to read more of my writing, check out *[*AniTAY*](http://anitay.kinja.com/#_ga=1.93871646.241020698.1444271310)*, *[*RockmanDash Reviews*](/people/reikaze)* and *[*KMTech*](http://kmtech.kinja.com/)*.*
