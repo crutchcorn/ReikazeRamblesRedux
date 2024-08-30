@@ -13,7 +13,7 @@ If you thought the [Hulu Purge ](http://anitay.kinja.com/the-great-hulu-anime-pu
 
 ***
 
-On a [forum thread](http://www.crunchyroll.com/forumtopic-956853/outbreak-company-videos-missing) on Wednesday June 22nd, 2016, it was pointed out by the poster Deejilator that the show *Outbreak Company *was suddenly missing. Other people chimed in about shows that were missing and other members are working to find all of the shows that suddenly disappeared as Crunchyroll hasn’t announced anything yet. As of 6/23/16, the shows that have been reported missing are:
+On a [forum thread](http://www.crunchyroll.com/forumtopic-956853/outbreak-company-videos-missing) on Wednesday June 22nd, 2016, it was pointed out by the poster Deejilator that the show *Outbreak Company* was suddenly missing. Other people chimed in about shows that were missing and other members are working to find all of the shows that suddenly disappeared as Crunchyroll hasn’t announced anything yet. As of 6/23/16, the shows that have been reported missing are:
 
 > AMNESIA\
 > Angel Beats\

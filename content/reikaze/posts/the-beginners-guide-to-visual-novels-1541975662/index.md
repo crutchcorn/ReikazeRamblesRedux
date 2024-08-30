@@ -11,7 +11,7 @@ What exactly is a Visual Novel? Why should I care, and why are you talking about
 
 <video src="./dt2sgbswno93qzsckozl.mp4"></video>
 
-Before we actually get started, there is one thing I need to clarify; I’m talking about Visual Novels as a genre, not about dating sims. **NOT ALL VISUAL NOVELS ARE DATING SIMS. **Dating sims are a Sub-Genre of Visual Novels, if that. A lot of them aren’t even VN’s. Get it? Ok, good. Let’s move on.
+Before we actually get started, there is one thing I need to clarify; I’m talking about Visual Novels as a genre, not about dating sims. **NOT ALL VISUAL NOVELS ARE DATING SIMS.** Dating sims are a Sub-Genre of Visual Novels, if that. A lot of them aren’t even VN’s. Get it? Ok, good. Let’s move on.
 
 ***
 
@@ -19,7 +19,7 @@ Before we actually get started, there is one thing I need to clarify; I’m talk
 
 <iframe src="https://www.youtube.com/embed/8Shqd1lhah4"></iframe>
 
-A Visual Novel is genre of video games (I like to think of it as an interactive storytelling medium, as there isn’t really much gameplay), that’s similar to Choose Your Own Adventure books and Adventure games from the 90’s. As the name implies, Visual Novels are text heavy, but they usually have music, voice acting and stills of characters to help you get absorbed into the story. The biggest gameplay aspect of a Visual novel is choices; The player has to decide what the protagonist does in the form of options. The options can lead you to different story plotlines called routes, or they could just lead you to a bad end and you’ll have to try again. Visual Novels without choices are usually referred to as Sound Novels or Kinetic Novels.
+A Visual Novel is a genre of video games (I like to think of it as an interactive storytelling medium, as there isn’t really much gameplay), that’s similar to Choose Your Own Adventure books and Adventure games from the 90’s. As the name implies, Visual Novels are text heavy, but they usually have music, voice acting and stills of characters to help you get absorbed into the story. The biggest gameplay aspect of a Visual novel is choices; The player has to decide what the protagonist does in the form of options. The options can lead you to different story plotlines called routes, or they could just lead you to a bad end and you’ll have to try again. Visual Novels without choices are usually referred to as Sound Novels or Kinetic Novels.
 
 ***
 
@@ -27,7 +27,7 @@ A Visual Novel is genre of video games (I like to think of it as an interactive 
 
 ![](./1381548999286848841.jpg)
 
-Visual novels are a very flexible genre, storytelling wise. Visual novels have very little restrictions, story wise, as they can go on and have a ton of exposition without making a book **HUGE**, they have the flexibility of multiple routes, they don’t have to comply with arbitrary rules set by TV companies and using the genre to mess with you. The *Fate/ stay night* Visual novel is a good example of this, as it’s 50+ hours, had 3 separate routes, and having Shirou as a narrator can skew your viewpoint. The flexibility leads to many visual novels to have amazing stories. Because of the excellent stories from this genre, many popular visual novels get anime adaptations. Some of the most well known adaptations are *Clannad, Fate/stay night, Steins;Gate, and Higurashi*. Some of you may be asking, why would I play Visual Novels if I could watch the anime? There are many parts of the visual novels that do not get adapted, and sometimes the adaptation is kinda bad. Also, there are some great visual novels that have not been adapted, like *Phoenix Wright, G-Senjou no Maou, 999: Nine Hours, Nine Persons, Nine Doors, and*[* Tsukihime*](http://z2.ifrm.com/10702/60/0/p1008035/hisuisays_enhanced.gif)that I’d recommend you check out.
+Visual novels are a very flexible genre, storytelling wise. Visual novels have very little restrictions, story wise, as they can go on and have a ton of exposition without making a book **HUGE**, they have the flexibility of multiple routes, they don’t have to comply with arbitrary rules set by TV companies and using the genre to mess with you. The *Fate/ stay night* Visual novel is a good example of this, as it’s 50+ hours, had 3 separate routes, and having Shirou as a narrator can skew your viewpoint. The flexibility leads to many visual novels to have amazing stories. Because of the excellent stories from this genre, many popular visual novels get anime adaptations. Some of the most well known adaptations are *Clannad, Fate/stay night, Steins;Gate, and Higurashi*. Some of you may be asking, why would I play Visual Novels if I could watch the anime? There are many parts of the visual novels that do not get adapted, and sometimes the adaptation is kinda bad. Also, there are some great visual novels that have not been adapted, like *Phoenix Wright, G-Senjou no Maou, 999: Nine Hours, Nine Persons, Nine Doors, and* [*Tsukihime*](http://z2.ifrm.com/10702/60/0/p1008035/hisuisays_enhanced.gif) that I’d recommend you check out.
 
 ***
 
@@ -52,28 +52,28 @@ The fact that Visual Novels are not popular in the west means that most of them 
 ![](./1381548999599590473.png)
 
 * **Visual Novel** - This is an umbrella term used in the west to designate a type of game which is particularly story-focused, or containing novel-like narration in its writing. In Japan, such games are generally referred to as “love adventure games” (恋愛ADV/AVG), or novel game (ノベルゲーム noberu gēmu, in short: NVL).
-* **Routes **- The name that refers to a story line in visual novels. Non-linear branching story lines are a common trend in visual novels, and these branching story lines are routes.
-* **Kinetic Novel **- Kinetic novels are visual novels without choices, so all you do is read.
+* **Routes** - The name that refers to a story line in visual novels. Non-linear branching story lines are a common trend in visual novels, and these branching story lines are routes.
+* **Kinetic Novel** - Kinetic novels are visual novels without choices, so all you do is read.
 
 ![](./dcwht27dcemdl2ijb5os.jpg)
 
-* **Sound Novel **- Sound novels is a trademark from Chunsoft. The term is the original word referring to novel type games.However “Visual Novels” became prevalent due to other companies using it in order to avoid the company’s trademark.This term later was known because of Higurashi, which used it because the sound was more important than the actual visuals, so they called it sound novels. 07th Expansion’s sound novels are essentially kinetic novels with a focus on sound to create an atmosphere.
+* **Sound Novel** - Sound novels is a trademark from Chunsoft. The term is the original word referring to novel type games.However “Visual Novels” became prevalent due to other companies using it in order to avoid the company’s trademark.This term later was known because of Higurashi, which used it because the sound was more important than the actual visuals, so they called it sound novels. 07th Expansion’s sound novels are essentially kinetic novels with a focus on sound to create an atmosphere.
 * **Dating Sim** - Technically, this term refers to simulation games focused on dating. However, this term is frequently used by English speakers to describe any romance-driven game, regardless of game mechanics used.
-* **Nakige **- A game that produces emotional catharisis (touching your heart, making you cry, etc), with a good ending. Think of games like Clannad.
+* **Nakige** - A game that produces emotional catharisis (touching your heart, making you cry, etc), with a good ending. Think of games like Clannad.
 
 ![](./kwaxefnhqm9jhcfzt79p.jpg)
 
 * **Utsuge** - games that are made with the intent of making you depressed, kinda like how nakige is to make you cry.
 * **Moege** - A VN where the focus is on Moe (not even going to try defining moe....)
-* **Charage **- Sub-genre of Moege where the focus is on character development
+* **Charage** - Sub-genre of Moege where the focus is on character development
 * **Eroge** - An eroge (エロゲー or エロゲ erogē); is a portmanteau of the words erotic game. This is a blanket term for any game that includes NSFW content.
 * **Nukige** - A sub-genre of Visual Novels which focus on the erotic content.
-* **Harem **- A trope characterized by a protagonist surrounded by three or more members of the opposing sex who are usually love interests. Harem usually refers to a male protagonist with female love interests, while stuff with females with male love interests are referred to as reverse harem. Occurs in manga and anime as well.
+* **Harem** - A trope characterized by a protagonist surrounded by three or more members of the opposing sex who are usually love interests. Harem usually refers to a male protagonist with female love interests, while stuff with females with male love interests are referred to as reverse harem. Occurs in manga and anime as well.
 * **Bishōjo game** - This term designates any game involving a male lead dating pretty anime girls. The word “bishōjo” literally means “pretty young girl”. “Girl game” and “gal game” are also used to describe this sub-genre. Not really used here in the west.
 
 ![](./gnzrxd34adcnmnxmd1ht.jpg)
 
-* **Otome game - **This term designates any romantic game involving a female lead... so the exact opposite. Translated literally, Otome game means “maiden game”. They are also referred to as a “reverse harem”.
+* **Otome game** - This term designates any romantic game involving a female lead... so the exact opposite. Translated literally, Otome game means “maiden game”. They are also referred to as a “reverse harem”.
 * **Boy’s Love game** - This term designates any game involving a male lead dating pretty anime boys in a homosexual relationship. “BL game” and “Yaoi” are terms also used to describe these games. This sub-genre is primarily geared toward a female audience.
 
 If I missed any terms please post a comment below and i’ll update this post, or check out [Fuwanovel’s document of Lexicon](https://docs.google.com/document/d/1yfMIKXtfCFnZgcgRN_-34B8CdSTRE2FwDrvT4gCPP-s/edit) that should have pretty much anything I missed.
@@ -90,7 +90,7 @@ If there’s anything you think that’s missing, that’s probably because I ha
 
 ***
 
-## *Sci-Fi -**999: Nine Hours, Nine Persons, Nine Doors***** (DS,iOS)**
+## *Sci-Fi -**999: Nine Hours, Nine Persons, Nine Doors*** **(DS,iOS)**
 
 ![](./1381548999883322953.jpg)
 
@@ -112,7 +112,7 @@ If there’s anything you think that’s missing, that’s probably because I ha
 
 > “The story follows Tomoya Okazaki, a third year high school student resentful of his life. His mother passed away from a car accident when he was younger, causing his father to resort to alcohol and gambling. This results in a fight that injured Tomoya’s shoulder, and Since then, Tomoya has had distant relationships with his father, causing him to become a delinquent. On his way to school, he meets a strange girl named Nagisa Furukawa who is a year older, but is repeating due to illness. Due to this, she is often alone as most of her friends have moved on. The two begin hanging out and slowly, as time goes by, Tomoya finds his life shifting in a new direction.”
 
-**Why this rocks: **All of the feelz ;-;. It’s pretty much like the anime, but there are a few routes that are in the game that go further or are totally missing from the anime. If you don’t know anything about[*Clannad*](/posts/rockmandash-reviews-clannad-visual-novel-anime-1609437459/all), it’s a great story with excellent characters, excellent writing, and is just amazing overall. This game really impacts you with a great message, great characters, and it floods you with feelz.
+**Why this rocks:** All of the feelz ;-;. It’s pretty much like the anime, but there are a few routes that are in the game that go further or are totally missing from the anime. If you don’t know anything about[*Clannad*](/posts/rockmandash-reviews-clannad-visual-novel-anime-1609437459/all), it’s a great story with excellent characters, excellent writing, and is just amazing overall. This game really impacts you with a great message, great characters, and it floods you with feelz.
 
 
 
@@ -120,7 +120,7 @@ If there’s anything you think that’s missing, that’s probably because I ha
 
 **If you like this one, play** [Anything made by Key](http://tay.kotaku.com/rockmandash-reviews-key-marathon-wip-1606707641#_ga=1.193189992.473183827.1418699279): [*Kanon*](http://anitay.kinja.com/rockmandash-reviews-kanon-visual-novel-anime-1605160517#_ga=1.3987829.473183827.1418699279)*, *[*Rewrite*](/posts/rockmandash-reviews-rewrite-visual-novel-1609445042)*, Little Busters, *[*Katawa Shoujo*](http://tay.kotaku.com/katawa-shoujo-review-510682746), and the fantastic* White Album 2* (no complete English translation yet, but it’s going to be great when it comes out. Check out the anime).
 
-Some Utsuges I’d like to point out would be [eden\*](http://anitay.kinja.com/ani-tay-reviews-eden-they-were-only-two-on-the-pla-1683418341#_ga=1.160100728.473183827.1418699279), [*Planetarian*](https://rockmandash12.kinja.com/rockmandash-reviews-planetarian-visual-novel-1607911392#_ga=1.226750808.473183827.1418699279) and [*Narcissu*](https://rockmandash12.kinja.com/rockmandash-reviews-narcissu-1st-2nd-visual-novel-1676683203#_ga=1.205649110.473183827.1418699279)*, *as these were just fantastic and are great starter VNs.
+Some Utsuges I’d like to point out would be [eden\*](http://anitay.kinja.com/ani-tay-reviews-eden-they-were-only-two-on-the-pla-1683418341#_ga=1.160100728.473183827.1418699279), [*Planetarian*](https://rockmandash12.kinja.com/rockmandash-reviews-planetarian-visual-novel-1607911392#_ga=1.226750808.473183827.1418699279) and [*Narcissu*](https://rockmandash12.kinja.com/rockmandash-reviews-narcissu-1st-2nd-visual-novel-1676683203#_ga=1.205649110.473183827.1418699279), as these were just fantastic and are great starter VNs.
 
 ***
 
@@ -130,9 +130,9 @@ Some Utsuges I’d like to point out would be [eden\*](http://anitay.kinja.com/a
 
 > “On one hot summer day in 1983, a transfer student named Maebara Keiichi comes to a peaceful rural village in Hinamizawa. There, he befriends his classmates Rena, Mion, Rika, and Satoko. Accepted as a full-fledged member of the “club,” Keiichi and the gang plays all sorts of activities ranging from card and board games to hide-and-seek. But just as Keiichi was beginning to be assimilated in simple rural life, he stumbles upon the dark history of Hinamizawa. As Keiichi dives deeper into the mystery, he finds that his new found friends may not be all what they claim to be.” - Plot summary from ANN
 
-**Why This Rocks: **It’s a horror mystery. it has some of the most interesting scenes in any series ever, and is unlike anything you’ll ever see. Personally, I haven’t played the game so I can’t speak personally about it, but I did love the anime.
+**Why This Rocks:** It’s a horror mystery. it has some of the most interesting scenes in any series ever, and is unlike anything you’ll ever see. Personally, I haven’t played the game so I can’t speak personally about it, but I did love the anime.
 
-**If you like this one, play ***Umineko, Corpse Party* (PSP), [*Saya no Uta*](http://kotaku.com/saya-no-uta-the-song-of-saya-the-kotaku-review-509012142#_ga=1.193722472.473183827.1418699279) (on a totally different lvl of messed up tho....), [*Kara no Shoujo*](http://kotaku.com/kara-no-shojo-the-kotaku-review-1486926848)*, Cartagra*
+**If you like this one, play** *Umineko, Corpse Party* (PSP), [*Saya no Uta*](http://kotaku.com/saya-no-uta-the-song-of-saya-the-kotaku-review-509012142#_ga=1.193722472.473183827.1418699279) (on a totally different lvl of messed up tho....), [*Kara no Shoujo*](http://kotaku.com/kara-no-shojo-the-kotaku-review-1486926848)*, Cartagra*
 
 ***
 
@@ -142,7 +142,7 @@ Some Utsuges I’d like to point out would be [eden\*](http://anitay.kinja.com/a
 
 > “You play the role of Azai Kyousuke, the son of a legendary gangster infamous in the underworld. You spend your time listening to Bach, playing God at school and covertly working for your stepfather, a ruthless financial heavyweight. This idyllic existence is broken when two individuals appear in the city - a beautiful girl named Usami Haru with hair you could get lost in for days, and a powerful international gangster known only as “Maou”. Almost without delay, the two begin a deadly cat-and-mouse game, bringing you and your friends into the crossfire. Plotting, political intrigue and layer upon layer of interlocking traps are the weapons in this epic battle of wits.” - Plot summary from Fuwanovel
 
-**Why this rocks: **I like to call this the* Death Note* of Visual Novels. If you want to learn more about this, check out my review [Here](http://tay.kotaku.com/g-senjou-no-maou-the-tay-review-1524540625).
+**Why this rocks:** I like to call this the *Death Note* of Visual Novels. If you want to learn more about this, check out my review [Here](http://tay.kotaku.com/g-senjou-no-maou-the-tay-review-1524540625).
 
 **If you like this one, play** [*Sharin no Kuni*](http://tay.kotaku.com/rockmandash-reviews-sharin-no-kuni-himawari-no-shouj-1554102675)*,* Any Akabeisoft2 game, *Higurashi, Hotel Dusk, Last Window*
 
@@ -154,9 +154,9 @@ Some Utsuges I’d like to point out would be [eden\*](http://anitay.kinja.com/a
 
 > “The story follows Shirou Emiya, who lost his parents in a fire when he was young and was adopted by a magus named Kiritsugu, the man who saved him from said fire. He lived his life wishing to become a hero of justice, but one fateful day, he was drawn into the Holy Grail War; a series of battles among powerful heroes of history and powerful maguses, who are fighting for the Holy Grail.
 
-**Why this rocks: **This, along with *Clannad* are pretty much flagships of Visual Novels. *Fate/stay night* has a very well written story, and I’m a big fan. If you want to learn more about this, check out my review [here](/posts/rockmandash-reviews-fate-stay-night-visual-novel-1493594993).
+**Why this rocks:** This, along with *Clannad* are pretty much flagships of Visual Novels. *Fate/stay night* has a very well written story, and I’m a big fan. If you want to learn more about this, check out my review [here](/posts/rockmandash-reviews-fate-stay-night-visual-novel-1493594993).
 
-**If you like this one, play** [*Tsukihime*](/posts/rockmandash-reviews-tsukihime-visual-novel-1614282097?rev=1410387041124#_ga=1.5037302.473183827.1418699279)*, *[*Fate/hollow Ataraxia*](/posts/rockmandash-reviews-fate-hollow-ataraxia-visual-novel-1612260148), [everything Type-Moon...](http://tay.kotaku.com/type-moon-marathon-wip-1534726534)
+**If you like this one, play** [*Tsukihime*](/posts/rockmandash-reviews-tsukihime-visual-novel-1614282097?rev=1410387041124#_ga=1.5037302.473183827.1418699279), [*Fate/hollow Ataraxia*](/posts/rockmandash-reviews-fate-hollow-ataraxia-visual-novel-1612260148), [everything Type-Moon...](http://tay.kotaku.com/type-moon-marathon-wip-1534726534)
 
 Edit: I have to mention [**Muv-Luv**](http://tay.kotaku.com/rockmandash-reviews-muv-luv-extra-alternative-visua-1567978967), Which I’ve played since posting this, and it’s pretty amazing. If you are interested, check out Dex’s [guide of sorts to the series](http://dexomega.kinja.com/dex-where-do-i-start-with-muv-luv-1561900783#_ga=1.207182480.247934920.1454126956).
 
@@ -170,7 +170,7 @@ Edit: I have to mention [**Muv-Luv**](http://tay.kotaku.com/rockmandash-reviews-
 
 **Why this rocks:** If you’ve made it this far without knowing what Phoenix Wright is, i’m disappointed in you. You play as the defense attorney Phoenix Wright, and it’s quite fun.
 
-**If you like this one, play** the rest of the *Ace Attorney* series, [*Ghost Trick *(DS, iOS)](https://kotaku.com/this-stylish-supernatural-ios-adventure-is-so-damned-go-5883274), *Danganronpa, Hotel Dusk*
+**If you like this one, play** the rest of the *Ace Attorney* series, [*Ghost Trick* (DS, iOS)](https://kotaku.com/this-stylish-supernatural-ios-adventure-is-so-damned-go-5883274), *Danganronpa, Hotel Dusk*
 
 [![](./18j0s6xvwc6ecjpg.jpg) ](https://kotaku.com/this-stylish-supernatural-ios-adventure-is-so-damned-go-5883274)
 
@@ -186,9 +186,9 @@ Visual Novels usually come from Japan. You kinda have to expect stuff like this.
 
 * [THIS LIST. WTF JAPAN.](http://www.cracked.com/article_19827_the-6-most-insane-video-games-about-dating.html)
 * [*Go! Go! Nippon! My First Trip to Japan*](http://tay.kotaku.com/rockmandash-reviews-go-go-nippon-my-first-trip-to-1554354147)- This one’s about an okaku going to Japan. It has an interesting concept, but it’s really not worth your money…. can finish in one sitting.
-* [*Hatoful Boyfriend*](https://kotaku.com/the-original-bird-dating-sim-is-getting-an-english-rema-1587606754)** **- YOU ARE TRYING TO DATE PIGEONS. AND GUESS WHAT? IT’S COMING TO THE STATES.
+* [*Hatoful Boyfriend*](https://kotaku.com/the-original-bird-dating-sim-is-getting-an-english-rema-1587606754) - YOU ARE TRYING TO DATE PIGEONS. AND GUESS WHAT? IT’S COMING TO THE STATES.
 * [*Osananajimi wa Daitouryou: My Girlfriend is the President*](http://kotaku.com/schoolgirl-presidents-aliens-and-super-saiyan-panda-f-5911348) - This one is self explanatory. I’m very curious.
-* [*School Days*](http://kotaku.com/school-days-hq-is-a-beautiful-shocking-yet-flawed-tit-5937487)* *- A game that defies expectations with the most [assholish protagonist ever](http://tay.kotaku.com/school-days-hq-the-tay-review-1594674728).
+* [*School Days*](http://kotaku.com/school-days-hq-is-a-beautiful-shocking-yet-flawed-tit-5937487) - A game that defies expectations with the most [assholish protagonist ever](http://tay.kotaku.com/school-days-hq-the-tay-review-1594674728).
 * Edit: Thanks to our friend [Richard Eisenbeis](http://richard-eisenbeis.kinja.com/), I’d seen some pretty weird VN’s as of late. Interested in dating [Sushi](http://kotaku.com/when-sushi-turns-into-beautiful-boys-youre-gonna-have-1585103500) or [slabs of meat](http://kotaku.com/in-this-game-you-date-slabs-of-meat-seriously-675502392)? Well, NOW YOU CAN!
 * If you thought the weird ones I showed you before were the weirdest visual novels can get... You would be wrong, as I saved the best for last. This is [*OMGWTFOTL*](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/OMGWTFOTL), which is an extremely short and over the top Visual Novel that is so obscure that I only found it while specifically looking for weird Visual Novels..... I have no other words to describe this.
 
@@ -202,4 +202,4 @@ In conclusion, the Visual Novel genre is unlike anything else; a video game genr
 
 *Rockmandash is a frequent writer of Visual Novels and anime on *[*this blog*](/posts/)* and the *[*AniTAY Blog*](http://anitay.kinja.com/)* as well. Come and check them out if you are interested in reviews and opinion pieces on these topics!*
 
-***Note:**** Edited on 2/16/2015 to polish it up a bit, and update some things. Also Edited on 1/31/2016 to update the header image, distribution info, formatting, and other small things.*
+***Note:*** *Edited on 2/16/2015 to polish it up a bit, and update some things. Also Edited on 1/31/2016 to update the header image, distribution info, formatting, and other small things.*
