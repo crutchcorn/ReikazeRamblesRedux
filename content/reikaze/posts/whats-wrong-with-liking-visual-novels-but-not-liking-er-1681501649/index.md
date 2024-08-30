@@ -7,7 +7,7 @@
 }
 ---
 
-Recently, I posted an article about my views on [Eroge in Visual Novels ](https://anitay.kinja.com/a-visual-novel-fans-opinion-on-eroge-1681073565)which was mostly about how I felt like they were doing a disservice to the genre by creating a stigma, how there should be a choice, and how I personally don't like them. I also happened to post that article to [/r/visualnovels](http://www.reddit.com/r/visualnovels/comments/2tc6l6/a_visual_novel_fans_opinion_on_eroge/), one of the biggest visual novel communities on the web. The response?* "Stop being so prude and selfish, If you don't like Eroge, you like the wrong medium."* So, I beg the question... What's wrong with liking [Visual Novels](http://tay.kotaku.com/the-beginners-guide-to-visual-novels-1541975662) and not liking Eroge?
+Recently, I posted an article about my views on [Eroge in Visual Novels ](https://anitay.kinja.com/a-visual-novel-fans-opinion-on-eroge-1681073565)which was mostly about how I felt like they were doing a disservice to the genre by creating a stigma, how there should be a choice, and how I personally don't like them. I also happened to post that article to [/r/visualnovels](http://www.reddit.com/r/visualnovels/comments/2tc6l6/a_visual_novel_fans_opinion_on_eroge/), one of the biggest visual novel communities on the web. The response? *"Stop being so prude and selfish, If you don't like Eroge, you like the wrong medium."* So, I beg the question... What's wrong with liking [Visual Novels](http://tay.kotaku.com/the-beginners-guide-to-visual-novels-1541975662) and not liking Eroge?
 
 
 

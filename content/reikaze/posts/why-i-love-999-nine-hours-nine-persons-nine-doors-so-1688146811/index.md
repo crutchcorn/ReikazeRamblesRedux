@@ -9,9 +9,11 @@
 
 ![](./1313401717743036996.png)
 
-When trapped in a do or die situation, how do you react? How do you change when faced with a situation that forces you to evolve, and pushes you to to your absolute limits? What do you do when the darkness of death is encroaching you, and all you have is just a glimmer of hope? This is what you are faced with this in* 999: Nine Hours, Nine Persons, Nine Doors,* and I found something that I never would have without it.
+When trapped in a do or die situation, how do you react? How do you change when faced with a situation that forces you to evolve, and pushes you to to your absolute limits? What do you do when the darkness of death is encroaching you, and all you have is just a glimmer of hope? This is what you are faced with this in *999: Nine Hours, Nine Persons, Nine Doors,* and I found something that I never would have without it.
 
 ***
+
+# Writing
 
 ![](./1313401717833481796.png) ![](./1313401717895772996.jpg)
 
@@ -31,9 +33,11 @@ It manages to do this with its biggest differentiator that this story has: its a
 
 ![](./1313401718006746180.png)
 
-That being said, it’s not just how the story handles the plot, the plot itself is pretty well written as well. The characters are interesting and engaging because they are fleshed out and developed, the word choice used in the descriptions and conversations are entertaining, being funny and witty when it wants to (**RESPECT THE FUNYARINPA!) **while being serious and interesting when it needs to, and the intricate and engaging SciFi elements... just wow. With the concepts of All-ICE, Morphigenic Fields, and more, the SciFi in* 999* is one of the best handled, and the way they make it integral to the plot along with the human story of the premise is done really well here, enabling them to create the extremely strong narrative that the game creates.. and a strong narrative it is. Really, I have nothing but praise for the story, and everything about it is pretty much damn near perfect... so great.
+That being said, it’s not just how the story handles the plot, the plot itself is pretty well written as well. The characters are interesting and engaging because they are fleshed out and developed, the word choice used in the descriptions and conversations are entertaining, being funny and witty when it wants to (**RESPECT THE FUNYARINPA!**) while being serious and interesting when it needs to, and the intricate and engaging SciFi elements... just wow. With the concepts of All-ICE, Morphigenic Fields, and more, the SciFi in *999* is one of the best handled, and the way they make it integral to the plot along with the human story of the premise is done really well here, enabling them to create the extremely strong narrative that the game creates.. and a strong narrative it is. Really, I have nothing but praise for the story, and everything about it is pretty much damn near perfect... so great.
 
 ***
+
+# Gameplay
 
 ![](./1313401718069378628.png) ![](./1313401718108892484.jpg)
 
@@ -45,27 +49,33 @@ Also, while the best aspect is how each are handled together, each element is so
 
 ![](./1313401718259563588.jpg)
 
-Also, I have to mention here that when Askys ported 999 to iOS under the name *999: The Novel*, **they took out the puzzles. **While I haven’t personally played through that version, I’ve heard nothing but lukewarm to negative responses on that decision, and how it really negatively effects the game. The puzzles let you have a breather, and they manage to seamlessly transition between important story elements, some that happen while playing, so seeing this awkard transition where they flash a black screen saying they solved the puzzles is just pretty clunky, like watching a LP as you try to play the game. The original used the hardware in interesting ways, engaging you throughout... the iOS version is a port that works, but could be quite a bit better. Stick to the DS version if you can.
+Also, I have to mention here that when Askys ported 999 to iOS under the name *999: The Novel*, **they took out the puzzles.** While I haven’t personally played through that version, I’ve heard nothing but lukewarm to negative responses on that decision, and how it really negatively effects the game. The puzzles let you have a breather, and they manage to seamlessly transition between important story elements, some that happen while playing, so seeing this awkard transition where they flash a black screen saying they solved the puzzles is just pretty clunky, like watching a LP as you try to play the game. The original used the hardware in interesting ways, engaging you throughout... the iOS version is a port that works, but could be quite a bit better. Stick to the DS version if you can.
 
 ***
+
+# Visuals
 
 ![](./1313401718353272132.png) ![](./1313401718395515972.png)
 
 I guess they do the job?
 
-The Visuals of* 999 *look quite dated by having CG that feels like something that I’d find in an old PS1 game, but it’s that dated look that adds charm to the game, and makes it interesting, reminiscent of an age when adventure games like this still roamed the lands. Ignoring fidelity, it has a nice design aesthetic, but it doesn’t do that much to stand out, it tries to do what it does well. It’s definitely not the best looking game, but it gets the job done and most players shouldn’t really have any issues with it. A nice thing about the iOS port is that they up the graphics, rendering the game in a higher resolution with redrawn sprites, (which you can tell by looking at the difference between some of the screenshots in this review) but they don’t get everything and when they show the DS graphics, it looks woefully dated. Also, I quite like the look of the characters due to the fact that they are pretty well done 2d sprites and they have really unique designs that make them stand out.
+The Visuals of *999* look quite dated by having CG that feels like something that I’d find in an old PS1 game, but it’s that dated look that adds charm to the game, and makes it interesting, reminiscent of an age when adventure games like this still roamed the lands. Ignoring fidelity, it has a nice design aesthetic, but it doesn’t do that much to stand out, it tries to do what it does well. It’s definitely not the best looking game, but it gets the job done and most players shouldn’t really have any issues with it. A nice thing about the iOS port is that they up the graphics, rendering the game in a higher resolution with redrawn sprites, (which you can tell by looking at the difference between some of the screenshots in this review) but they don’t get everything and when they show the DS graphics, it looks woefully dated. Also, I quite like the look of the characters due to the fact that they are pretty well done 2d sprites and they have really unique designs that make them stand out.
 
 ***
+
+# Sound
 
 ![](./1313401718447231044.png)
 
 Remember how I said that the *Infinity* series is like a prototype to the *Zero Escape* series? Yeah, it really comes into play here: it takes the strong points of both [*Ever 17* ](/posts/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485)and [*Remember 11*](/posts/rockmandash-reviews-remember-11-the-age-of-infinity-1687285802), making a soundtrack that is one of the best, if not the best atmospheric soundtracks that are available in gaming. *999* has a soundtrack that exceeds your expectations, doing much more than you would ever hope a soundtrack to do by capturing the essence of everything the game is meant to be, with all the emotion it wants you to feel, then throwing it back at you in a way that will leave you impacted. It’s a soundtrack that wants you to feel where you are, feel what it’s like around and the stakes that are in the air just by listening to it.
 
-This is a soundtrack that will make you feel, doing all it can to manipulate you, while sounding nice in the process. While it’s mostly ambiance, it’s done relatively well by emphasizing the strong tones and melodies that really effect the sound and the mood. When you add to the fact that* 999* is the master at manipulating mood, the soundtrack amplifies this even more, making you feel all the tension as possible, moving you in ways that you wouldn’t expect. Its a soundtrack that serves a purpose, doing more than just being background music, while being some of the best background music I’ve heard.. it tells you the core of the world, the core of the situation done in a way that is to be admired.
+This is a soundtrack that will make you feel, doing all it can to manipulate you, while sounding nice in the process. While it’s mostly ambiance, it’s done relatively well by emphasizing the strong tones and melodies that really effect the sound and the mood. When you add to the fact that *999* is the master at manipulating mood, the soundtrack amplifies this even more, making you feel all the tension as possible, moving you in ways that you wouldn’t expect. Its a soundtrack that serves a purpose, doing more than just being background music, while being some of the best background music I’ve heard.. it tells you the core of the world, the core of the situation done in a way that is to be admired.
 
 This all is even more impressive when you consider that they were limited to the DS’s hardware, having to execute midi clips in a chip tune-esque manner to make such an impact, showing that soundtrack does not need to be fancy and orchestral to be effective. It’s simplicity allows its main melody to punch harder, to have a stronger effect, to affect you more, in a world where music has to be bombastic and loud, explosive and large. It’s a soundtrack that makes the most out of what it has while executing it in a way that will make it stand out in time, a soundtrack that does what most in this industry have abandoned but still showing that chip tune is still a great option. It’s just fantastic.
 
 ***
+
+# Experience
 
 ![](./1313401718520826436.png) ![](./1313401718552271172.jpg)
 
@@ -73,7 +83,7 @@ This all is even more impressive when you consider that they were limited to the
 
 ![](./1313401718594458180.png)
 
-To emphasize how impressed and hooked I was, I’d like to tell you what my first experience was like playing *999. *When I picked up the game, I had absolutely no clue what I was getting into. While I heard it was pretty good, I didn’t really know anything about it, what it was about, or what I was about to experience. What awaited me was a game that would [entrench me into my new favorite genre](https://rockmandash12.kinja.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739), a game that I view as the pinnacle of storytelling in video games, and a game that would blow my mind so much that it changed my perspective of games forever. To me, *999* was a game that was so gripping, so compelling, with an amazing atmosphere, and just amazing writing: I started the game at 7 PM, and when I finished the first route, it was 3 in the morning. It hooked me like no other game has hooked me before, and no game has hooked me since, and it did this with a compelling story, writing that makes you connect with the characters, writing that engages you with the work, writing that is both interesting SciFi and just an interesting story in general, and the way that it uses horror to control the mood and tension is one of the best out there. Everything it does fits in to make your experience with the story excellent, everything is done extremely well and the time spent playing this has completely changed who I am.
+To emphasize how impressed and hooked I was, I’d like to tell you what my first experience was like playing *999*. When I picked up the game, I had absolutely no clue what I was getting into. While I heard it was pretty good, I didn’t really know anything about it, what it was about, or what I was about to experience. What awaited me was a game that would [entrench me into my new favorite genre](https://rockmandash12.kinja.com/why-i-love-visual-novels-so-much-and-how-i-got-into-th-1571227739), a game that I view as the pinnacle of storytelling in video games, and a game that would blow my mind so much that it changed my perspective of games forever. To me, *999* was a game that was so gripping, so compelling, with an amazing atmosphere, and just amazing writing: I started the game at 7 PM, and when I finished the first route, it was 3 in the morning. It hooked me like no other game has hooked me before, and no game has hooked me since, and it did this with a compelling story, writing that makes you connect with the characters, writing that engages you with the work, writing that is both interesting SciFi and just an interesting story in general, and the way that it uses horror to control the mood and tension is one of the best out there. Everything it does fits in to make your experience with the story excellent, everything is done extremely well and the time spent playing this has completely changed who I am.
 
 
 
@@ -83,6 +93,8 @@ This is what started it all for me: the game that got me into what is now my fav
 
 ***
 
+# Conclusion
+
 ![](./1313401718667159620.png)
 
 To me, 999 is an absolute masterpiece in writing, a game I’ll adore to no end. It’s not perfect, but it’s damn near close to it and probably the closest I think I’ll ever see, unless Uchikoshi can pull it off again. It’s the game that controlled a beautiful narrative with amazing ideas and the best control of tension I’ve ever seen. The game with twists and a sense of mystery that will never be matched, the game that got me pulling all nighters because I was hooked that much. The game with the perfect atmosphere, the game that has shaped the way I’ve viewed a story. It’s everything I’ve ever wanted in a narrative, and since then has shaped my expectations of games. It’s the best game I’ve ever played and nothing will ever match up to it in my heart, as one of the few games I’ll ever give a 10/10. I plead you, pick this game up now. You will not regret it.
@@ -91,9 +103,9 @@ To me, 999 is an absolute masterpiece in writing, a game I’ll adore to no end.
 
 ***
 
-***Copyright Disclaimer:**** Under Title 17, Section 107 of United States Copyright law, reviews are protected under fair use. This is a review, and as such, all media used in this review is used for the sole purpose of review and commentary under the terms of fair use. All footage, music and images belong to the respective companies.*
+***Copyright Disclaimer:*** *Under Title 17, Section 107 of United States Copyright law, reviews are protected under fair use. This is a review, and as such, all media used in this review is used for the sole purpose of review and commentary under the terms of fair use. All footage, music and images belong to the respective companies.*
 
-*You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)* and the rest of my *[*Infinity & Zero Escape *](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)[*Marathon here*](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)*. For An explanation of my review system, *[*check this out*](http://tay.kotaku.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
+*You can see all my reviews on *[*Rockmandash Reviews*](http://tay.kotaku.com/tag/rockmandash-reviews)* and the rest of my *[*Infinity & Zero Escape*](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798) [*Marathon here*](https://rockmandash12.kinja.com/rockmandash-reviews-infinity-zero-escape-marathon-w-1664979798)*. For An explanation of my review system, *[*check this out*](http://tay.kotaku.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*.*
 
 
 

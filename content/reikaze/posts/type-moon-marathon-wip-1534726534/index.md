@@ -30,9 +30,9 @@ This post will be updated as reviews get done.
 
 # Non-Review Articles:
 
-* [Rockmandash Rambles: *Fate/Zero *Revisited](/posts/rockmandash-rambles-fate-zero-revisited-1637549445)
-* [Rockmandash Rambles: *Fate/stay night *Hype!](/posts/rockmandash-rambles-fate-stay-night-hype-1633708239)
-* [*Fate/stay night: Unlimited Blade Works *First Impressions!](/posts/fate-stay-night-unlimited-blade-works-first-impression-1642723894)
+* [Rockmandash Rambles: *Fate/Zero* Revisited](/posts/rockmandash-rambles-fate-zero-revisited-1637549445)
+* [Rockmandash Rambles: *Fate/stay night* Hype!](/posts/rockmandash-rambles-fate-stay-night-hype-1633708239)
+* [*Fate/stay night: Unlimited Blade Works* First Impressions!](/posts/fate-stay-night-unlimited-blade-works-first-impression-1642723894)
 
 # Leftovers:
 
