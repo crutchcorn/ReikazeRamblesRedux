@@ -37,47 +37,47 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 **Anime Made By:** Porter Robinson, A-1 Pictures
 
-**Genre: **Anime, Music Video
+**Genre:** Anime, Music Video
 
-**Plot Summary: ***Shelter* is a music video for the song “Shelter”, a collaborative effort of western artists Porter Robinson and Madeon. The story follows a 17 year-old girl named Rin who lives in a simulation. Each day she is able to create a world based on her imagination, and spends her time exploring her fantastical designs. Rin feels lonely because of a lack of human contact, but this all changes one day when the simulation taps into her repressed memories and reveals how she came to be in this world… - *Plot Summary from the *[*17 Anime of Autumn 2016 You Should Be Watching Article*](http://anitay.kinja.com/the-17-anime-of-autumn-2016-you-should-be-watching-1789451240) 
+**Plot Summary:** *Shelter* is a music video for the song “Shelter”, a collaborative effort of western artists Porter Robinson and Madeon. The story follows a 17 year-old girl named Rin who lives in a simulation. Each day she is able to create a world based on her imagination, and spends her time exploring her fantastical designs. Rin feels lonely because of a lack of human contact, but this all changes one day when the simulation taps into her repressed memories and reveals how she came to be in this world… - *Plot Summary from the* [*17 Anime of Autumn 2016 You Should Be Watching Article*](http://anitay.kinja.com/the-17-anime-of-autumn-2016-you-should-be-watching-1789451240) 
 
-**Justification & Thoughts:** *Shelter *is a fantastic movie video/short, one that can elicit more emotions in 5 minutes than most 24 episode feelz anime can in their entire run. It’s a short done exceedingly well, a prime example of how one should do this kind of thing and I was blown away by it, as well as many others. The reason it’s HM (no, not because I don’t think it’s an anime) is that I have a hard time comparing a short like this to full sized anime and couldn’t really place it anywhere.
-
-***
-
-## 5. *WWW.Working!!*
-
-**Anime Made By: **A-1 Pictures
-
-**Genre: **Comedy, Slice of Life
-
-**Plot Summary: **With the recent bankruptcy of his father’s company, high schooler Daisuke Higashida is forced to decide between getting a part time job to continue to pay for his train pass or ride over 15 kilometers to school everyday. Daisuke sensibly picks the more pragmatic option of getting a part time job at a local family diner. Though his new job isn’t physically as demanding as a 15km bike ride, Daisuke’s new job is mentally taxing due to his quirky co-workers. To add insult to injury, the information about the bankruptcy at his father’s business was all an elaborate ruse to get Daisuke to pay for his own amenities. - *Plot Summary from the *[*17 Anime of Autumn 2016 You Should Be Watching Article*](http://anitay.kinja.com/the-17-anime-of-autumn-2016-you-should-be-watching-1789451240) 
-
-**Justification & Thoughts: **I love the *Working! *series. It’s a great comedy show surrounding the Waganaria store, and while the main cast is gone from *WWW.Working!!*, the comedy is still here, as well as everything else that comes from this show. That is, being one of the most amusing and engaging comedy shows with wacky characters and wacky hijinks. I’d actually argue that I enjoyed *www.Working!! *even more than the original *Working!! *because of the new cast having a (personally) less frustrating dynamic than in the past. For some it can still get old, but for others, it’s definitely a fun time.
+**Justification & Thoughts:** *Shelter* is a fantastic movie video/short, one that can elicit more emotions in 5 minutes than most 24 episode feelz anime can in their entire run. It’s a short done exceedingly well, a prime example of how one should do this kind of thing and I was blown away by it, as well as many others. The reason it’s HM (no, not because I don’t think it’s an anime) is that I have a hard time comparing a short like this to full sized anime and couldn’t really place it anywhere.
 
 ***
 
-## 4. *Yuri on Ice*
+# 5. *WWW.Working!!*
 
-**Anime Made By: **MAPPA
+**Anime Made By:** A-1 Pictures
 
-**Genre: **Sports, Drama, Romance
+**Genre:** Comedy, Slice of Life
 
-**Plot Summary: **After Japanese figure skater Yuri Katsuki suffers a major defeat and embarrassment at the international Grand Prix Finale, he finds himself at a crossroads in his career. At 23, he’s not the best or the youngest athlete, but he’s not ready to give up either. Yuri returns to his hometown to try and get back in touch with why he loves skating. After a video of Yuri practicing a routine from his longtime idol, prodigy skater Viktor Niforikov, is leaked to the web, Viktor is inspired to shake up his own life and mentor his fan. With Viktor as his new coach, Yuri is challenged to find his own, bold style after a career of living cautiously. But to come out on top, he’ll have to face another Yuri - 15 year old wunderkind Yuri Plisetsky - who isn’t too happy about someone else winning Viktor’s attention. - *Plot Summary from the *[*17 Anime of Autumn 2016 You Should Be Watching Article*](http://anitay.kinja.com/the-17-anime-of-autumn-2016-you-should-be-watching-1789451240) 
+**Plot Summary:** With the recent bankruptcy of his father’s company, high schooler Daisuke Higashida is forced to decide between getting a part time job to continue to pay for his train pass or ride over 15 kilometers to school everyday. Daisuke sensibly picks the more pragmatic option of getting a part time job at a local family diner. Though his new job isn’t physically as demanding as a 15km bike ride, Daisuke’s new job is mentally taxing due to his quirky co-workers. To add insult to injury, the information about the bankruptcy at his father’s business was all an elaborate ruse to get Daisuke to pay for his own amenities. - *Plot Summary from the* [*17 Anime of Autumn 2016 You Should Be Watching Article*](http://anitay.kinja.com/the-17-anime-of-autumn-2016-you-should-be-watching-1789451240) 
 
-**Justification & Thoughts: **Ah, *Yuri on Ice*. It’s a fantastic sports show, one that tells a moving story about the skater Yuri Katsuki’s efforts to fight back into prominence. It’s a brilliantly executed show that was a briliant watch every week thanks to fantastic skate scenes, absolutely brillant timing/pacing of events, well developed relationships (that are much more than Yaoi bait, trust me), and more. I particularly enjoyed the way it handled exposition and it’s OP/EDs were great too. That being said, the animation issues it had at times and the lackluster ending definitely knocked it down a peg for me. I still really enjoyed it, and it’s definitely one of the best of the year, but not AOTS/AOTY for me.
+**Justification & Thoughts:** I love the *Working!* series. It’s a great comedy show surrounding the Waganaria store, and while the main cast is gone from *WWW.Working!!*, the comedy is still here, as well as everything else that comes from this show. That is, being one of the most amusing and engaging comedy shows with wacky characters and wacky hijinks. I’d actually argue that I enjoyed *www.Working!!* even more than the original *Working!!* because of the new cast having a (personally) less frustrating dynamic than in the past. For some it can still get old, but for others, it’s definitely a fun time.
 
 ***
 
-## 3. *Flip Flappers*
+# 4. *Yuri on Ice*
 
-**Anime Made By: **Studio 3Hz
+**Anime Made By:** MAPPA
 
-**Genre: **Sci-Fi, Fantasy, Magical Girl, Flip Flap
+**Genre:** Sports, Drama, Romance
 
-**Plot Summary: **Cocona is a reserved high-schooler who has good grades and attends a prep school, but doesn’t really have any friends. Papika is an unrestrained bundle of energy who hasn’t a care in the world. One day, the two suddenly meet, and are whisked away to the fantastical otherworld of Pure Illusion, where a treasure said to grant any wish lay hidden. - *Plot Summary from the *[*17 Anime of Autumn 2016 You Should Be Watching Article*](http://anitay.kinja.com/the-17-anime-of-autumn-2016-you-should-be-watching-1789451240) 
+**Plot Summary:** After Japanese figure skater Yuri Katsuki suffers a major defeat and embarrassment at the international Grand Prix Finale, he finds himself at a crossroads in his career. At 23, he’s not the best or the youngest athlete, but he’s not ready to give up either. Yuri returns to his hometown to try and get back in touch with why he loves skating. After a video of Yuri practicing a routine from his longtime idol, prodigy skater Viktor Niforikov, is leaked to the web, Viktor is inspired to shake up his own life and mentor his fan. With Viktor as his new coach, Yuri is challenged to find his own, bold style after a career of living cautiously. But to come out on top, he’ll have to face another Yuri - 15 year old wunderkind Yuri Plisetsky - who isn’t too happy about someone else winning Viktor’s attention. - *Plot Summary from the* [*17 Anime of Autumn 2016 You Should Be Watching Article*](http://anitay.kinja.com/the-17-anime-of-autumn-2016-you-should-be-watching-1789451240) 
 
-**Justification & Thoughts: ***WOAH. *I marathoned this one very recently after hearing members of AniTAY praise it to the moon, and even though I heasitated because Fantasy + Magical Girl aren’t really my cup of tea, what awaited me was some of the best animation of the year, some of the best storytelling you will find in anime, a cohesive experience that would constantly blow your mind, and an anime that can actually create a compelling mystery with fantastic twists. I just wish the last episode didn’t leave me like this:
+**Justification & Thoughts:** Ah, *Yuri on Ice*. It’s a fantastic sports show, one that tells a moving story about the skater Yuri Katsuki’s efforts to fight back into prominence. It’s a brilliantly executed show that was a briliant watch every week thanks to fantastic skate scenes, absolutely brillant timing/pacing of events, well developed relationships (that are much more than Yaoi bait, trust me), and more. I particularly enjoyed the way it handled exposition and it’s OP/EDs were great too. That being said, the animation issues it had at times and the lackluster ending definitely knocked it down a peg for me. I still really enjoyed it, and it’s definitely one of the best of the year, but not AOTS/AOTY for me.
+
+***
+
+# 3. *Flip Flappers*
+
+**Anime Made By:** Studio 3Hz
+
+**Genre:** Sci-Fi, Fantasy, Magical Girl, Flip Flap
+
+**Plot Summary:** Cocona is a reserved high-schooler who has good grades and attends a prep school, but doesn’t really have any friends. Papika is an unrestrained bundle of energy who hasn’t a care in the world. One day, the two suddenly meet, and are whisked away to the fantastical otherworld of Pure Illusion, where a treasure said to grant any wish lay hidden. - *Plot Summary from the* [*17 Anime of Autumn 2016 You Should Be Watching Article*](http://anitay.kinja.com/the-17-anime-of-autumn-2016-you-should-be-watching-1789451240) 
+
+**Justification & Thoughts:** *WOAH.* I marathoned this one very recently after hearing members of AniTAY praise it to the moon, and even though I heasitated because Fantasy + Magical Girl aren’t really my cup of tea, what awaited me was some of the best animation of the year, some of the best storytelling you will find in anime, a cohesive experience that would constantly blow your mind, and an anime that can actually create a compelling mystery with fantastic twists. I just wish the last episode didn’t leave me like this:
 
 ![](./gwmfm9661bkanofiydlr.jpg)
 
@@ -85,31 +85,31 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 # 2. *Haikyuu!! Season 3*
 
-**Anime Made By: **Production I.G
+**Anime Made By:** Production I.G
 
-**Genre: **Shounen, Sports
+**Genre:** Shounen, Sports
 
-**Plot Summary: **Having beaten their old rivals Aoba Jousai in the spring prefecture tournament semifinals, Karasuno finally has made it to the final match-up against the reigning undefeated prefecture champions Shiratorizawa Academy, known to be one of the top 8 teams in Japan currently with a team of exceptional powerhouses, captained by the nationally renowned Wakatoshi Ushijima. So if Karasuno’s dreams to make it to nationals is to come to reality, they will first have to face their longest, and most difficult match yet. Can these fledgling crows finally reach the heights they’ve all aspired to? - *Plot Summary from the *[*17 Anime of Autumn 2016 You Should Be Watching Article*](http://anitay.kinja.com/the-17-anime-of-autumn-2016-you-should-be-watching-1789451240) 
+**Plot Summary:** Having beaten their old rivals Aoba Jousai in the spring prefecture tournament semifinals, Karasuno finally has made it to the final match-up against the reigning undefeated prefecture champions Shiratorizawa Academy, known to be one of the top 8 teams in Japan currently with a team of exceptional powerhouses, captained by the nationally renowned Wakatoshi Ushijima. So if Karasuno’s dreams to make it to nationals is to come to reality, they will first have to face their longest, and most difficult match yet. Can these fledgling crows finally reach the heights they’ve all aspired to? - *Plot Summary from the* [*17 Anime of Autumn 2016 You Should Be Watching Article*](http://anitay.kinja.com/the-17-anime-of-autumn-2016-you-should-be-watching-1789451240) 
 
 **Justification & Thoughts:**
 
-# ***HYPEKYUU!!!!!!!!!!!!!!!!!!!!***
+***HYPEKYUU!!!!!!!!!!!!!!!!!!!!***
 
 I really love sports anime, and Haikyuu has been an integral part of my sports anime experience. Every episode being as hype as it could be with some of the best animation sequences you can think of, Haikyuu was a show to beat, one that would provide an amazing viewing experience as I watched it. This season was no exception, and I loved it to bits (even though I already knew what was gonna happen because I read the manga! yay).
 
 ***
 
-## 1. *Girlish Number*
+# 1. *Girlish Number*
 
 <iframe src="https://www.youtube.com/embed/yJ4UjVK2P64"></iframe>
 
-**Anime Made By: **Diomedea
+**Anime Made By:** Diomedea
 
-**Genre: **Comedy, Satire, Slice of Life
+**Genre:** Comedy, Satire, Slice of Life
 
-**Plot Summary: **Talent, perseverance, mental focus, professionalism, the ability to connect with fans, and luck are all key attributes to becoming successful voice actor. Fledgling voice actress Chitose Karasuma might not have any of those things, but she does have plenty of self-confidence (which may or may not be justified). After beginning her career in relative obscurity, Chitose finally catches her big break and a chance to show everyone that she is a star. The path to the top of the voice acting profession may be beset with adversity, but Chitose intends to rush down that path avoiding as much of it as she can. - *Plot Summary from the *[*17 Anime of Autumn 2016 You Should Be Watching Article*](http://anitay.kinja.com/the-17-anime-of-autumn-2016-you-should-be-watching-1789451240) 
+**Plot Summary:** Talent, perseverance, mental focus, professionalism, the ability to connect with fans, and luck are all key attributes to becoming successful voice actor. Fledgling voice actress Chitose Karasuma might not have any of those things, but she does have plenty of self-confidence (which may or may not be justified). After beginning her career in relative obscurity, Chitose finally catches her big break and a chance to show everyone that she is a star. The path to the top of the voice acting profession may be beset with adversity, but Chitose intends to rush down that path avoiding as much of it as she can. - *Plot Summary from the* [*17 Anime of Autumn 2016 You Should Be Watching Article*](http://anitay.kinja.com/the-17-anime-of-autumn-2016-you-should-be-watching-1789451240) 
 
-**Justification & Thoughts: **Girlish Number absolutely fantastic, the latest creation by *My Teen Romantic Comedy SNAFU*’s Author Wataru Watari* *but with a hint of *Shirobako *and Narcisism. It’s an absolutely amazing watch, noe that shows fascinating parts of an industry I love as well as being a wonderful character study that we would expect from Watari. Love it.
+**Justification & Thoughts:** Girlish Number absolutely fantastic, the latest creation by *My Teen Romantic Comedy SNAFU*’s Author Wataru Watari but with a hint of *Shirobako* and Narcisism. It’s an absolutely amazing watch, noe that shows fascinating parts of an industry I love as well as being a wonderful character study that we would expect from Watari. Love it.
 
 <iframe src="https://www.youtube.com/embed/TG23kENLpKk"></iframe>
 
