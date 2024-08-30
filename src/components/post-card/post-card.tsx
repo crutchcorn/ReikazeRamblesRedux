@@ -31,7 +31,7 @@ function PostCardMeta({ post, authors }: PostCardProps) {
 							<li class="text-style-body-small-bold">
 								<a
 									className={`${style.authorName}`}
-									href={`/people/${author.id}`}
+									href={`/authors/${author.id}`}
 								>
 									{author.name}
 									{i !== arr.length - 1 && <span aria-hidden="true">, </span>}

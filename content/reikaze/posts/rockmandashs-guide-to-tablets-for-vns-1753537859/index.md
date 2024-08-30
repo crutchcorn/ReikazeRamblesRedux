@@ -141,4 +141,4 @@ Now that you know what type of tablet you want, here are some specific choices t
 
 ***
 
-*Thanks for reading this article! Rockmandash is a frequent writer of Visual Novels and anime on *[*this blog*](/people/reikaze)* and the *[*AniTAY Blog*](http://anitay.kinja.com/#_ga=1.27039165.1614825977.1451878508)* as well. Come and check them out if you are interested in reviews and opinion pieces on these topics!*
+*Thanks for reading this article! Rockmandash is a frequent writer of Visual Novels and anime on *[*this blog*](/authors/reikaze)* and the *[*AniTAY Blog*](http://anitay.kinja.com/#_ga=1.27039165.1614825977.1451878508)* as well. Come and check them out if you are interested in reviews and opinion pieces on these topics!*

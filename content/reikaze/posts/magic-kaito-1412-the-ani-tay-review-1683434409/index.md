@@ -53,7 +53,7 @@ Kaito Kid isn't "Best anime evar" material, but it doesn't really need to be. Ev
 
 ***
 
-*Rockmandash is a frequent writer of Visual Novels and anime on *[*his blog*](/people/reikaze)* and AniTAY as well. Come and check them out if you are interested in reviews and opinion pieces on these topics! For an explanation of my review system, *[*check this out*](http://tay.kotaku.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*, and here's *[*my biases in reviewing*](/posts/rockmandash-rambles-my-personal-biases-in-reviewing-1688152053)*.*
+*Rockmandash is a frequent writer of Visual Novels and anime on *[*his blog*](/authors/reikaze)* and AniTAY as well. Come and check them out if you are interested in reviews and opinion pieces on these topics! For an explanation of my review system, *[*check this out*](http://tay.kotaku.com/rockmandash-rambles-an-explanation-on-my-review-system-1619265485)*, and here's *[*my biases in reviewing*](/posts/rockmandash-rambles-my-personal-biases-in-reviewing-1688152053)*.*
 
 
 

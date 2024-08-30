@@ -473,4 +473,4 @@ In conclusion, while PCs can be rather intimidating, they make for a great gamin
 
 ***
 
-*You’re reading TAY, Kotaku’s community-run blog. TAY is written by and for Kotaku readers like you. We write about games, art, culture and everything in between. Want to write with us? Check out our tutorial *[*here*](http://tay.kotaku.com/the-new-taytorial-1659855583)* and join in. If you want to read more of my writing, check out *[*AniTAY*](http://anitay.kinja.com/#_ga=1.93871646.241020698.1444271310)*, *[*RockmanDash Reviews*](/people/reikaze)* and *[*KMTech*](http://kmtech.kinja.com/)*.*
+*You’re reading TAY, Kotaku’s community-run blog. TAY is written by and for Kotaku readers like you. We write about games, art, culture and everything in between. Want to write with us? Check out our tutorial *[*here*](http://tay.kotaku.com/the-new-taytorial-1659855583)* and join in. If you want to read more of my writing, check out *[*AniTAY*](http://anitay.kinja.com/#_ga=1.93871646.241020698.1444271310)*, *[*RockmanDash Reviews*](/authors/reikaze)* and *[*KMTech*](http://kmtech.kinja.com/)*.*

@@ -34,7 +34,7 @@ export const GET = () => {
 				.map((author) => {
 					return {
 						name: author!.name,
-						link: `${siteUrl}/people/${author!.id}`,
+						link: `${siteUrl}/authors/${author!.id}`,
 					};
 				}),
 			date: new Date(post.published),

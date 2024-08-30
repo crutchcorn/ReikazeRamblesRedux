@@ -77,4 +77,4 @@ When battling against bosses like Dedede, you're not just battling against Deded
 
 ***
 
-[*Rockmandash*](/people/reikaze) *is a reader on *[*TAY*](http://tay.kotaku.com/)* that finds himself writing a lot about Visual Novels or Anime at *[*Ani-TAY*](http://anitay.kinja.com/)*, but every now and then does a regular Video Game post like this for some strange reason. You can find this game on sale at *[*Amazon*](http://www.amazon.com/Kirby-Canvas-Curse-Nintendo-DS/dp/B00095LIC0/?ascsubtag=6cd5c727624368bd559e7f4b8eb780455ee81a22\&tag=kinja-20)* here.*
+[*Rockmandash*](/authors/reikaze) *is a reader on *[*TAY*](http://tay.kotaku.com/)* that finds himself writing a lot about Visual Novels or Anime at *[*Ani-TAY*](http://anitay.kinja.com/)*, but every now and then does a regular Video Game post like this for some strange reason. You can find this game on sale at *[*Amazon*](http://www.amazon.com/Kirby-Canvas-Curse-Nintendo-DS/dp/B00095LIC0/?ascsubtag=6cd5c727624368bd559e7f4b8eb780455ee81a22\&tag=kinja-20)* here.*

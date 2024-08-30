@@ -111,6 +111,6 @@ I think that Windows tablets are really the best way to play Visual Novels, and 
 
 ***
 
-*Rockmandash is a frequent writer of Visual Novels and anime on *[*this blog*](/people/reikaze)* and the *[*AniTAY Blog*](http://anitay.kinja.com/)* as well. Come and check them out if you are interested in reviews and opinion pieces on these topics!*
+*Rockmandash is a frequent writer of Visual Novels and anime on *[*this blog*](/authors/reikaze)* and the *[*AniTAY Blog*](http://anitay.kinja.com/)* as well. Come and check them out if you are interested in reviews and opinion pieces on these topics!*
 
 *Edit 2/19/15 - Added disclaimer and CRD.*

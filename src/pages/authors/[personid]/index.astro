@@ -22,7 +22,7 @@ const posts = api.getPostsByPerson(person.id);
 		description={person.description}
 		unicornsData={[person]}
 		type="profile"
-		pathName={`/people/${person.id}`}
+		pathName={`/authors/${person.id}`}
 	/>
 	<main class="listViewContent">
 		<UnicornsPage unicorn={person} posts={posts} />
