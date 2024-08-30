@@ -3,21 +3,17 @@ import { Plugin } from "unified";
 import { CollectionInfo } from "types/CollectionInfo";
 import { RawPostInfo } from "types/PostInfo";
 import { visit } from "unist-util-visit";
-import { getPostsByCollection } from "utils/api";
-
-interface RehypeRemoveCollectionLinksOptions {
-	collection: CollectionInfo;
-}
+import { getPosts, getPostsByCollection } from "utils/api";
 
 function normalizeUrl(url: string) {
 	return url.endsWith("/") ? url.slice(0, -1) : url;
 }
 
 export const rehypeRemoveCollectionLinks: Plugin<
-	[RehypeRemoveCollectionLinksOptions],
+	[],
 	Root
-> = ({ collection }) => {
-	const posts = getPostsByCollection(collection.slug);
+> = () => {
+	const posts = getPosts();
 	return (tree) => {
 		visit(tree, "element", (node, index, parent) => {
 			if (node.tagName !== "a") {

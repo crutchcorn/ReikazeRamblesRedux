@@ -5,16 +5,12 @@ import emojiRegexFn from "emoji-regex";
 import { EPub, defaultAllowedAttributes } from "@lesjoursfr/html-to-epub";
 import { unified } from "unified";
 import { CollectionInfo, PostInfo } from "types/index";
-import {
-	getCollections,
-	getPostsByCollection,
-	getPersonById,
-} from "utils/api";
+import { getPersonById, getPosts } from "utils/api";
 import { createEpubPlugins } from "utils/markdown/createEpubPlugins";
 import { getMarkdownVFile } from "utils/markdown/getMarkdownVFile";
 import {
 	rehypeReferencePage,
-	collectionMetaRecord,
+	collectionMeta,
 } from "utils/markdown/reference-page/rehype-reference-page";
 import { escapeHtml, fetchPageHtml, getPageTitle } from "utils/fetch-page-html";
 import { rehypeRemoveCollectionLinks } from "utils/markdown/rehype-remove-collection-links";
@@ -24,16 +20,12 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const emojiRegex = emojiRegexFn();
 
 interface GetReferencePageMarkdownOptions {
-	collection: CollectionInfo;
 	collectionPosts: PostInfo[];
 }
 
 async function getReferencePageHtml({
-	collection,
 	collectionPosts,
 }: GetReferencePageMarkdownOptions) {
-	const collectionMeta = collectionMetaRecord.get(collection.slug);
-
 	const links = await Promise.all(
 		collectionMeta?.links?.map(async (link) => {
 			const srcHast = await fetchPageHtml(link.originalHref);
@@ -60,7 +52,8 @@ ${collectionPosts
 
 		if (!chapterMetaLinks?.length) {
 			return `
-<h2 id="${collection.slug}-${chapter.order}">${chapter.title.trim()}</h2>
+<!--<h2 id="${collection.slug}-${chapter.order}">${chapter.title.trim()}</h2>-->
+<h2 id="${chapter.order}">${chapter.title.trim()}</h2>
 
 <p>No links for this chapter</p>
 `.trim();
@@ -68,7 +61,8 @@ ${collectionPosts
 
 		// TODO: `<ol start="">` Blocked by: https://github.com/lesjoursfr/html-to-epub/issues/140
 		return `
-<h2 id="${collection.slug}-${chapter.order}">${chapter.title.trim()}</h2>
+<!--<h2 id="${collection.slug}-${chapter.order}">${chapter.title.trim()}</h2>-->
+<h2 id="${chapter.order}">${chapter.title.trim()}</h2>
 
 <ol start="${chapterMetaLinks[0].countWithinCollection}">
 ${chapterMetaLinks
@@ -134,23 +128,14 @@ async function generateEpubHTML({
 
 type EpubOptions = ConstructorParameters<typeof EPub>[0];
 
-async function generateCollectionEPub(
-	collection: CollectionInfo,
-	collectionPosts: PostInfo[],
-	fileLocation: string,
-) {
-	const authors = collection.authors
-		.map((id) => getPersonById(id)?.name)
-		.filter((name): name is string => !!name);
+async function generateEPub(collectionPosts: PostInfo[], fileLocation: string) {
+	const authors = [getPersonById("reikaze")].map((author) => author?.name);
 
 	const referenceTitle = "References";
 
 	const unifiedChain = createEpubPlugins(unified())
-		.use(rehypeRemoveCollectionLinks, {
-			collection,
-		})
+		.use(rehypeRemoveCollectionLinks)
 		.use(rehypeReferencePage, {
-			collection,
 			collectionPosts,
 			referenceTitle,
 		});
@@ -166,7 +151,6 @@ async function generateCollectionEPub(
 	}
 
 	const referencePageHTML = await getReferencePageHtml({
-		collection,
 		collectionPosts,
 	});
 
@@ -177,10 +161,10 @@ async function generateCollectionEPub(
 
 	const epub = new EPub(
 		{
-			title: collection.title,
+			title: "The Complete Collection of Kevin Mai's Blog Posts",
 			author: authors,
 			publisher: "Reikaze Rambles",
-			cover: collection.coverImgMeta.absoluteFSPath,
+			// cover: collection.coverImgMeta.absoluteFSPath,
 			allowedAttributes: [...defaultAllowedAttributes, "start", "colSpan"],
 			css: await fs.readFile(resolve(__dirname, "./epub.css"), "utf-8"),
 			// fonts: ['/path/to/Merriweather.ttf'],
@@ -193,15 +177,6 @@ async function generateCollectionEPub(
 	await epub.render();
 }
 
-for (const collection of getCollections()) {
-	// This should return a sorted list of posts in the correct order
-	const collectionPosts = getPostsByCollection(
-		collection.slug,
-	);
+const posts = getPosts();
 
-	generateCollectionEPub(
-		collection,
-		collectionPosts,
-		resolve(process.cwd(), `public/${collection.slug}.epub`),
-	);
-}
+generateEPub(posts, resolve(process.cwd(), `public/kevinmai.epub`));

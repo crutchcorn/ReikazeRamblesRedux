@@ -23,13 +23,13 @@ interface CollectionLinks {
 
 interface CollectionMeta {
 	links: CollectionLinks[];
-	collectionMeta: CollectionInfo;
 }
 
-export const collectionMetaRecord = new Map<string, CollectionMeta>();
+export const collectionMeta: CollectionMeta = {
+	links: [],
+};
 
 interface RehypeReferencePageOptions {
-	collection: CollectionInfo;
 	collectionPosts: PostInfo[];
 	referenceTitle: string;
 }
@@ -40,17 +40,14 @@ interface RehypeReferencePageOptions {
 export const rehypeReferencePage: Plugin<
 	[RehypeReferencePageOptions],
 	Root
-> = ({ collection, collectionPosts, referenceTitle }) => {
+> = ({ collectionPosts, referenceTitle }) => {
 	const lastPost = collectionPosts[collectionPosts.length - 1];
 	const lastPostNumber = lastPost.order!;
 
 	let linkCount = 0;
 
 	const links: CollectionLinks[] = [];
-	collectionMetaRecord.set(collection.slug, {
-		links,
-		collectionMeta: collection,
-	});
+	collectionMeta.links = links;
 
 	return (tree, file) => {
 		const rawPostInfo = file.data.frontmatterData as RawPostInfo;
@@ -60,7 +57,7 @@ export const rehypeReferencePage: Plugin<
 			}
 			const { href, ...linkProps } = node.properties as Record<string, string>;
 
-			const existingCollection = collectionMetaRecord.get(collection.slug);
+			const existingCollection = collectionMeta;
 			const existingLink = existingCollection?.links.find(
 				(link) => link.originalHref === href,
 			);
@@ -68,7 +65,8 @@ export const rehypeReferencePage: Plugin<
 			// We've already seen this link before
 			if (existingLink) {
 				// This relies on the xhtml generation from `html-to-epub` to generate the correct href
-				const newHref = `${lastPostNumber + 1}_${referenceTitle.toLowerCase()}.xhtml#${collection.slug}-${existingLink.associatedChapterOrder}`;
+				// const newHref = `${lastPostNumber + 1}_${referenceTitle.toLowerCase()}.xhtml#${collection.slug}-${existingLink.associatedChapterOrder}`;
+				const newHref = `${lastPostNumber + 1}_${referenceTitle.toLowerCase()}.xhtml#${existingLink.associatedChapterOrder}`;
 
 				if (parent?.children && index !== undefined) {
 					parent.children[index] = SuperScriptLink({
@@ -93,7 +91,8 @@ export const rehypeReferencePage: Plugin<
 			});
 
 			// This relies on the xhtml generation from `html-to-epub` to generate the correct href
-			const newHref = `${lastPostNumber + 1}_${referenceTitle.toLowerCase()}.xhtml#${collection.slug}-${rawPostInfo.order}`;
+			// const newHref = `${lastPostNumber + 1}_${referenceTitle.toLowerCase()}.xhtml#${collection.slug}-${rawPostInfo.order}`;
+			const newHref = `${lastPostNumber + 1}_${referenceTitle.toLowerCase()}.xhtml#${rawPostInfo.order}`;
 
 			if (parent?.children && index !== undefined) {
 				parent.children[index] = SuperScriptLink({
