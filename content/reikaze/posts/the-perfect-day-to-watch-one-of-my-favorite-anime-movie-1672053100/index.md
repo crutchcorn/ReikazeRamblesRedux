@@ -7,7 +7,7 @@
 }
 ---
 
-It’s Mid-December. There’s nothing special about this time... but there’s a charm to that nothing special. One may just care for it because it’s nearby the holidays, but I find that it’s the perfect time to watch one of my favorite anime films,* The Disappearance of Haruhi Suzumiya*.
+It’s Mid-December. There’s nothing special about this time... but there’s a charm to that nothing special. One may just care for it because it’s nearby the holidays, but I find that it’s the perfect time to watch one of my favorite anime films, *The Disappearance of Haruhi Suzumiya*.
 
 ![](1437033116284624675.png)
 
@@ -17,7 +17,7 @@ First of all, The reason why I think it’s great watching now is because the st
 
 ![](./1437033116437582115.png)
 
-*The Disappearance of Haruhi Suzumiya* is a movie continuation of a popular anime series called* The Melencholy of Haruhi Suzumiya*, (usually refereed to as Haruhi), but unlike the main series which is known for silly antics with an amazing cynical narration, the movie is 3 hours of absolutely brilliant character development, great atmosphere, and storytelling that gets you absorbed into the plot. It’s some of the best, most enjoyable character development I’ve ever seen, (which is surprising, coming from the Haruhi) and it makes watching the series worth it, even if you aren’t the biggest fan.
+*The Disappearance of Haruhi Suzumiya* is a movie continuation of a popular anime series called *The Melencholy of Haruhi Suzumiya*, (usually refereed to as Haruhi), but unlike the main series which is known for silly antics with an amazing cynical narration, the movie is 3 hours of absolutely brilliant character development, great atmosphere, and storytelling that gets you absorbed into the plot. It’s some of the best, most enjoyable character development I’ve ever seen, (which is surprising, coming from the Haruhi) and it makes watching the series worth it, even if you aren’t the biggest fan.
 
 ![](./1437033116537211171.jpg)
 
@@ -29,4 +29,4 @@ Kyon’s not the only character who gets character development in this movie: Th
 
 ![](./1437033116701896483.png)
 
-I love* The Disappearance of Haruhi Suzumiya* because it’s realistic, it’s engaging, it’s atmospheric, and it’s brilliant. It’s a prime example of using the media to execute a story in a powerful way: It creates a stunning atmosphere utilizing great visuals and amazing music that was engineered to make a point, but in a way that hooked me in and got me invested into the story. It puts you in a state of mind that works with great atmospheres typically do, and the reaction and growth of the characters were done in a way that felt natural while being enjoyable. There were many aspects of this story that was great, from Kyon’s breakdown and struggles, to just the solid plot itself; it’s three hours of greatness, and it’s three hours you should try to experience this holiday season.
+I love *The Disappearance of Haruhi Suzumiya* because it’s realistic, it’s engaging, it’s atmospheric, and it’s brilliant. It’s a prime example of using the media to execute a story in a powerful way: It creates a stunning atmosphere utilizing great visuals and amazing music that was engineered to make a point, but in a way that hooked me in and got me invested into the story. It puts you in a state of mind that works with great atmospheres typically do, and the reaction and growth of the characters were done in a way that felt natural while being enjoyable. There were many aspects of this story that was great, from Kyon’s breakdown and struggles, to just the solid plot itself; it’s three hours of greatness, and it’s three hours you should try to experience this holiday season.
