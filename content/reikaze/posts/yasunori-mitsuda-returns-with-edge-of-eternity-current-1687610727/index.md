@@ -7,7 +7,7 @@
 }
 ---
 
-*Midgar Studio *returns to Kickstarter with *Edge of Eternity:* a JRPG for PC and next gen consoles, utilizing an ATB battle system, a Sci-fi fantasy setting, and the reason I'm interested in it is a chance for a soundtrack by the legendary **Yasunori Mitsuda, of***** Chrono Trigger/Chrono Cross***** fame!**
+*Midgar Studio* returns to Kickstarter with *Edge of Eternity:* a JRPG for PC and next gen consoles, utilizing an ATB battle system, a Sci-fi fantasy setting, and the reason I'm interested in it is a chance for a soundtrack by the legendary **Yasunori Mitsuda**, of **Chrono Trigger/Chrono Cross** fame!
 
 > * **Active Time Battle combat system**
 > * Defeat your enemies in strategic fights powered by an ATB inspired by the best J-RPG, mixing real-time and turn-based gameplay.
