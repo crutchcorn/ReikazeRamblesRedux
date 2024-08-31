@@ -8,7 +8,7 @@
 
 I typically don’t follow an indie developer’s career, but I’ve always appreciated the games made by InvertMouse due to the consistent charm and quality from his releases. Following up on 2019’s _Clea_, the developer has released a sequel with the expected title of _Clea 2_. Aesthetically, this adventure is incredibly similar to the first and even trips up in the same areas that the original did. But, for the most part, _Clea 2_ is a largely improved experience by refining the mechanics to make it actually fun.
 
-_Clea 2_ is a side-scrolling survival horror game with an emphasis on using the atmosphere to create tension. The doll-like aesthetic adds a lot to make the game feel eerie, and its emphasis on the story is similar to games like *Another World *or walking sims.
+_Clea 2_ is a side-scrolling survival horror game with an emphasis on using the atmosphere to create tension. The doll-like aesthetic adds a lot to make the game feel eerie, and its emphasis on the story is similar to games like *Another World* or walking sims.
 
 In this title, instead of the jump scares, you are meant just to feel uneasy about the events and how they play out. If getting scared is the main reason you play a horror game, _Clea 2_ is probably not for you, but as someone who enjoys it when games focus on creating an interesting and engaging atmosphere, it worked for me.
 

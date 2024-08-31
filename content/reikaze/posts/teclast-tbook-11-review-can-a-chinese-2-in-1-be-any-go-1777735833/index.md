@@ -70,7 +70,7 @@ Really, performance has been impressive throughout, even in comparison to bay tr
 
 What you’re going to notice most in comparison to Bay Trail devices is that most Bay Trail devices packed only 2 gb of ram, and the 4gb of ram on a lot of the Cherry Trail devices is big here though, making multitasking and general use all that more smoother. While some may say that enough is enough with ram on mobile devices, as one who uses a lot of tabs and generally hits my computer hard, more the merrier I say. I’ve been impressed by the performance of this guy throughout my experience using it, it’s been rock solid throughout my experience. Also, while performance is average on windows, it’s pretty much top of the line on android, performing very well there. For those who are interested, here are some benchmarks:
 
-[Open *imgur.com*](http://imgur.com/a/dUDVC/embed)
+[Open *imgur.com*](http://imgur.com/a/dUDVC)
 
 This gallery also has battery life, which is a solid 6 hours. While it’s no king of battery life and only average in respect to most tablets and laptops nowadays, in my experience it has been great as I never had to worry about my battery life, being able to get through the day every day unless I forgot to charge it. Leaving the power cord isn’t even a big deal though, because the device uses Micro USB Type B to charge (the same as non apple phones), so usually you can find one no problem. It’s worth noting though that this tablet doesn’t come with a charging block, so you may need to buy one anyways. Overall though, a good experience in regards to battery life.
 
@@ -108,17 +108,17 @@ There was one thing about my unit that was particularly bad though, bad enough t
 
 ## Like
 
-**The display - **High resolution IPS displays are great and this is no different. Coupled with a great size and this is a solid experience.
+**The display** - High resolution IPS displays are great and this is no different. Coupled with a great size and this is a solid experience.
 
-**The build quality -**All metal build feels nice and premium, comfortable yet high end. Really great job with the build.
+**The build quality** - All metal build feels nice and premium, comfortable yet high end. Really great job with the build.
 
-**The experience as a 2 in 1 - **As good as it’s more expensive rivals, a great production experience that gives confidence in regards to replacing a laptop.
+**The experience as a 2 in 1** - As good as it’s more expensive rivals, a great production experience that gives confidence in regards to replacing a laptop.
 
 ## No Like
 
-**Weak WiFi performance - **WiFi is our world and poor connection only leads to frustration. Also has the side effect of making Android much less useful.
+**Weak WiFi performance** - WiFi is our world and poor connection only leads to frustration. Also has the side effect of making Android much less useful.
 
-**Odd keyboard decisions - **Why would you make the shift smaller for the arrows? Why doesn’t 2 finger scrolling work? Ugh.
+**Odd keyboard decisions** - Why would you make the shift smaller for the arrows? Why doesn’t 2 finger scrolling work? Ugh.
 
 **Weird things here and there -** Weird things like headphone port tightness and micro SD card slot making the experience worse...
 
