@@ -1,22 +1,17 @@
 {
-	"name": "unicorn-utterances-site",
+	"name": "reikaze-rambles-site",
 	"private": true,
-	"description": "Learning programming from magically majestic words",
-	"version": "0.3.0-alpha.1",
+	"description": "The new home for RockmanDash Reviews",
+	"version": "0.2.0",
 	"bugs": {
-		"url": "https://github.com/unicorn-utterances/unicorn-utterances/issues"
+		"url": "https://github.com/Reikaze/ReikazeRambles/issues"
 	},
-	"homepage": "https://unicorn-utterances.com",
-	"keywords": [
-		"blog",
-		"education",
-		"programming"
-	],
+	"homepage": "https://reikazerambles.com",
 	"type": "module",
 	"license": "MPL-2.0",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/unicorn-utterances/unicorn-utterances.git"
+		"url": "git+https://github.com/Reikaze/ReikazeRambles.git"
 	},
 	"packageManager": "pnpm@9.4.0",
 	"scripts": {

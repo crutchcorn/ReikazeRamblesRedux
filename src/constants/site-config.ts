@@ -7,11 +7,11 @@ const siteUrl = (() => {
 	if (!siteUrl) {
 		switch (buildMode) {
 			case "production":
-				return "https://unicorn-utterances.com";
+				return "https://reikazerambles.com";
 			case "development":
 				return "http://localhost:3000";
 			default:
-				return "https://beta.unicorn-utterances.com";
+				return "https://beta.reikazerambles.com";
 		}
 	}
 
