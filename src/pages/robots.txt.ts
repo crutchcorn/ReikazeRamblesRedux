@@ -2,7 +2,8 @@ import { buildMode, siteUrl } from "constants/site-config";
 
 export const GET = () => {
 	let body = "";
-	if (buildMode === "production") {
+	// if (buildMode === "production") {
+	if (buildMode === "asdfasdf") {
 		body = `
 # *
 User-agent: *

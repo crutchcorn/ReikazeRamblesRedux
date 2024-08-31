@@ -14,6 +14,7 @@ await symlink(path.resolve("content"), path.resolve("public/content"));
 export default defineConfig({
 	site: siteUrl,
 	output: "static",
+	base: '/ReikazeRamblesRedux',
 	integrations: [
 		icon(),
 		preact({ compat: true }),
