@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Disallow: /
+
+# Host
+Host: https://reikazerambles.com
+
+# Sitemaps
+Sitemap: https://reikazerambles.com/sitemap-index.xml
