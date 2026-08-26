@@ -1,4 +1,5 @@
 import path, { join } from "path";
+import { withBasePath } from "./base-path";
 
 /**
  * Matches:
@@ -46,6 +47,7 @@ export type ResolvedPath = {
 export function resolvePath(
 	inputPath: string,
 	relativeDir: string,
+	basePath?: string,
 ): ResolvedPath | undefined {
 	if (urlPathRegex.test(inputPath)) return undefined;
 
@@ -57,13 +59,15 @@ export function resolvePath(
 		? path.join(rootServerDir, inputPath)
 		: path.resolve(relativeDir, inputPath);
 
+	const relativeServerPath = isAbsolute
+		? // if the path is absolute, then absoluteFSPath is already inside the rootServerDir
+			"/" + path.relative(rootServerDir, absoluteFSPath)
+		: // otherwise, it should resolve relative to the rootDir to avoid "/../content/image.png"
+			"/" + path.relative(rootDir, absoluteFSPath);
+
 	return {
 		absoluteFSPath,
 		relativePath: path.relative(rootDir, absoluteFSPath),
-		relativeServerPath: isAbsolute
-			? // if the path is absolute, then absoluteFSPath is already inside the rootServerDir
-				"/" + path.relative(rootServerDir, absoluteFSPath)
-			: // otherwise, it should resolve relative to the rootDir to avoid "/../content/image.png"
-				"/" + path.relative(rootDir, absoluteFSPath),
+		relativeServerPath: withBasePath(relativeServerPath, basePath),
 	};
 }

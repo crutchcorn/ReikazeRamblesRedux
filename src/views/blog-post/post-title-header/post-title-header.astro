@@ -4,6 +4,7 @@ import { PostInfo, UnicornInfo } from "types/index";
 import { Icon } from "astro-icon/components";
 import { Chip } from "components/index";
 import dayjs from "dayjs";
+import { withBasePath } from "utils/base-path";
 
 interface PostTitleHeaderProps {
 	post: PostInfo;
@@ -46,7 +47,7 @@ const originalLinkStr = post.originalLink && new URL(post.originalLink).host;
 					{
 						authors.map((author, i) => (
 							<li class="text-style-button-regular">
-								<a href={`/authors/${author.id}`}>
+								<a href={withBasePath(`/authors/${author.id}`)}>
 									{[author.name, i + 1 < authors.length ? "," : ""]}
 								</a>
 							</li>

@@ -10,6 +10,7 @@ import "../../styles/shiki.scss";
 
 import styles from "./collection-page.module.scss";
 import { desktopSmall } from "src/tokens/breakpoints";
+import { withBasePath } from "utils/base-path";
 
 interface Props {
 	collection: CollectionInfo;
@@ -55,7 +56,7 @@ const coverImgWidth = Math.max(480, Math.ceil(720 * coverImgAspectRatio));
 					collection.buttons?.map((button, i) => (
 						<LargeButton
 							tag="a"
-							href={button.url}
+							href={withBasePath(button.url)}
 							variant={i === 0 ? "primary-emphasized" : "primary"}
 						>
 							{button.text}
@@ -70,7 +71,7 @@ const coverImgWidth = Math.max(480, Math.ceil(720 * coverImgAspectRatio));
 			>
 				{
 					authors.map((author) => {
-						const href = `/authors/${author.id}`;
+						const href = withBasePath(`/authors/${author.id}`);
 						return (
 							<li
 								class={styles.authorContainer}

@@ -4,6 +4,7 @@ import arrow_left from "../../../icons/arrow_left.svg?raw";
 import arrow_right from "../../../icons/arrow_right.svg?raw";
 import { getShortTitle } from "../series/base";
 import { getHrefContainerProps } from "utils/href-container-script";
+import { withBasePath } from "utils/base-path";
 
 type ArticleNavItemProps = {
 	post: PostInfo;
@@ -12,7 +13,7 @@ type ArticleNavItemProps = {
 };
 
 function ArticleNavItem({ post, collection, type }: ArticleNavItemProps) {
-	const href = `/posts/${post.slug}`;
+	const href = withBasePath(`/posts/${post.slug}`);
 	return (
 		<div
 			class={`${style.item} ${style[`item--${type}`]}`}

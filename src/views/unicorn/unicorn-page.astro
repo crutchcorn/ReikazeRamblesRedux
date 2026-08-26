@@ -7,6 +7,7 @@ import { Button } from "../../components";
 import styles from "./unicorn-page.module.scss";
 import * as api from "utils/api";
 import { isDefined } from "utils/is-defined";
+import { withBasePath } from "utils/base-path";
 
 interface UnicornPageProps {
 	unicorn: UnicornInfo;
@@ -40,7 +41,7 @@ const postAuthors = new Map(
 							{showPostsToggle && (
 								<Button
 									tag="a"
-									href={`/page/1`}
+									href={withBasePath("/page/1")}
 									aria-labelledby="recent-articles-header"
 								>
 									{"View all"}

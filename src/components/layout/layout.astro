@@ -2,12 +2,11 @@
 import layoutStyles from "./layout.module.scss";
 import DarkLightButton from "src/views/base/navigation/dark-light-button/dark-light-button.astro";
 import { Icon } from "astro-icon/components";
+import { isBasePath } from "utils/base-path";
 
 // const { back } = useHistory();
 
-const rootPath = `/`;
-
-const isBase = Astro.url.pathname === rootPath;
+const isBase = isBasePath(Astro.url.pathname);
 
 interface LayoutProps {
 	disableThemeToggle?: boolean;

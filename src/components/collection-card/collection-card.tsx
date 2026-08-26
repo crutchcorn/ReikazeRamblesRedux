@@ -4,6 +4,7 @@ import { CollectionInfo } from "types/CollectionInfo";
 import forward from "src/icons/arrow_right.svg?raw";
 import { Picture as UUPicture } from "components/image/picture";
 import { UnicornInfo } from "types/UnicornInfo";
+import { withBasePath } from "utils/base-path";
 
 interface CollectionCardProps {
 	collection: CollectionInfo;
@@ -49,7 +50,7 @@ export const CollectionCard = ({
 					{authors?.map((author) => (
 						<li>
 							<a
-								href={`/authors/${author.id}`}
+								href={withBasePath(`/authors/${author.id}`)}
 								className={`text-style-button-regular ${style.authorListItem}`}
 							>
 								<UUPicture
@@ -66,7 +67,7 @@ export const CollectionCard = ({
 				</ul>
 
 				<Button
-					href={`/collections/${collection.slug}`}
+					href={withBasePath(`/collections/${collection.slug}`)}
 					rightIcon={
 						<span
 							className={style.forwardIcon}

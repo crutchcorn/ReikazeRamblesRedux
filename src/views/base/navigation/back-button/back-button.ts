@@ -1,3 +1,5 @@
+import { withBasePath } from "utils/base-path";
+
 export const backButtonListener = () => {
 	const backBtn = document.querySelector("#backbtn");
 
@@ -11,7 +13,7 @@ export const backButtonListener = () => {
 	backBtn.addEventListener("click", () => {
 		if (!document.referrer) {
 			// This is the first page the user has visited on the site in this session
-			window.location.href = "/";
+			window.location.href = withBasePath("/");
 			return;
 		}
 		history.back();
@@ -19,7 +21,7 @@ export const backButtonListener = () => {
 		// User cannot go back, meaning that we're at the first page of the site session
 		setTimeout(() => {
 			if (!hasHistory) {
-				window.location.href = "/";
+				window.location.href = withBasePath("/");
 			}
 		}, 200);
 	});

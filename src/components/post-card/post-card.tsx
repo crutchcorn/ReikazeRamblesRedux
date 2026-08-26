@@ -4,6 +4,7 @@ import { Chip } from "components/index";
 import date from "src/icons/date.svg?raw";
 import authorsSvg from "src/icons/authors.svg?raw";
 import { getHrefContainerProps } from "utils/href-container-script";
+import { withBasePath } from "utils/base-path";
 
 interface PostCardProps {
 	headingTag?: "h1" | "h2" | "h3" | "h4" | "h5" | "h6";
@@ -31,7 +32,7 @@ function PostCardMeta({ post, authors }: PostCardProps) {
 							<li class="text-style-body-small-bold">
 								<a
 									className={`${style.authorName}`}
-									href={`/authors/${author.id}`}
+									href={withBasePath(`/authors/${author.id}`)}
 								>
 									{author.name}
 									{i !== arr.length - 1 && <span aria-hidden="true">, </span>}
@@ -83,12 +84,14 @@ export const PostCard = ({
 	headingTag: HeadingTag = "h2",
 	class: className = "",
 }: PostCardProps) => {
+	const postHref = withBasePath(`/posts/${post.slug}`);
+
 	return (
 		<li
-			{...getHrefContainerProps(`/posts/${post.slug}`)}
+			{...getHrefContainerProps(postHref)}
 			className={`${className} ${style.postContainer} ${style.postBase} ${style.regularPostContainer}`}
 		>
-			<a href={`/posts/${post.slug}`} className={`${style.postHeaderBase}`}>
+			<a href={postHref} className={`${style.postHeaderBase}`}>
 				<HeadingTag className={`text-style-headline-5`}>
 					{post.title}
 				</HeadingTag>

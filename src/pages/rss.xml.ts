@@ -1,26 +1,27 @@
 import { Feed } from "feed";
 import { siteUrl } from "constants/site-config";
 import { getPosts, getPersonById } from "utils/api";
+import { toSiteUrl } from "utils/base-path";
 
 export const GET = () => {
 	const feed = new Feed({
 		title: "Reikaze Rambles' RSS Feed",
 		description: "The new home for RockmanDash Reviews",
-		id: siteUrl,
-		link: siteUrl,
+		id: toSiteUrl("/", siteUrl),
+		link: toSiteUrl("/", siteUrl),
 		language: "en",
-		image: `${siteUrl}/image.png`,
-		favicon: `${siteUrl}/favicon.ico`,
+		image: toSiteUrl("/share-banner.png", siteUrl),
+		favicon: toSiteUrl("/favicon.ico", siteUrl),
 		copyright: `Contributor's rights reserved ${new Date().getFullYear()}, Reikaze Rambles`,
 		feedLinks: {
-			rss: `${siteUrl}/rss.xml`,
-			atom: `${siteUrl}/atom.xml`,
-			json: `${siteUrl}/feed.json`,
+			rss: toSiteUrl("/rss.xml", siteUrl),
+			atom: toSiteUrl("/atom.xml", siteUrl),
+			json: toSiteUrl("/feed.json", siteUrl),
 		},
 	});
 
 	getPosts().forEach((post) => {
-		const nodeUrl = `${siteUrl}/posts/${post.slug}`;
+		const nodeUrl = toSiteUrl(`/posts/${post.slug}`, siteUrl);
 
 		feed.addItem({
 			title: post.title,
@@ -34,7 +35,7 @@ export const GET = () => {
 				.map((author) => {
 					return {
 						name: author!.name,
-						link: `${siteUrl}/authors/${author!.id}`,
+						link: toSiteUrl(`/authors/${author!.id}`, siteUrl),
 					};
 				}),
 			date: new Date(post.published),

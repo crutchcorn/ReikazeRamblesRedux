@@ -1,6 +1,7 @@
 import { JSXNode, PropsWithChildren } from "../types";
 import { JSX, Ref } from "preact";
 import { forwardRef } from "preact/compat";
+import { withBasePath } from "utils/base-path";
 
 export type ButtonTag = "a" | "button" | "span" | "div";
 
@@ -60,11 +61,16 @@ const ButtonWrapperBase = forwardRef<
 	) => {
 		// eslint-disable-next-line @typescript-eslint/no-explicit-any
 		const Wrapper: any = tag;
+		const href = (props as { href?: unknown }).href;
+		const wrapperProps =
+			tag === "a" && typeof href === "string"
+				? { ...props, href: withBasePath(href) }
+				: props;
 
 		return (
 			<Wrapper
-				{...props}
-				aria-label={props["aria-label"]}
+				{...wrapperProps}
+				aria-label={wrapperProps["aria-label"]}
 				data-focus-visible={isFocusVisible}
 				class={["button", className, variant].filter((c) => !!c).join(" ")}
 				ref={ref}

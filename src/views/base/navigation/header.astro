@@ -3,9 +3,10 @@ import DarkLightButton from "./dark-light-button/dark-light-button.astro";
 import BackButton from "./back-button/back-button.astro";
 import style from "./header.module.scss";
 import logo from "src/assets/reikaze-full-logo.png?url";
+import { isBasePath, withBasePath } from "utils/base-path";
 
 const path = Astro.url.pathname;
-const isHome = path === "/";
+const isHome = isBasePath(path);
 
 const props = Astro.props as {
 	size: undefined | "l" | "xl";
@@ -22,7 +23,7 @@ const props = Astro.props as {
 
 		{
 			!isHome && (
-				<a href="/" class={`d-flex ${style.logo}`}>
+				<a href={withBasePath("/")} class={`d-flex ${style.logo}`}>
 					<img src={logo} alt={"Reikaze Rambles logo"} />
 				</a>
 			)

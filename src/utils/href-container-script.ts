@@ -1,3 +1,5 @@
+import { withBasePath } from "./base-path";
+
 /**
  * This allows items like cards to bind a click event to navigate to a path.
  *
@@ -109,6 +111,7 @@ globalThis.handleHrefContainerClick = (e: MouseEvent) => {
 export function getHrefContainerProps(href: string) {
 	// If the href is null or empty, no props should be added
 	if (!href) return {};
+	href = withBasePath(href);
 
 	// hack to detect whether the function is in an Astro or Preact environment,
 	// assuming that Preact is only used outside of a node environment

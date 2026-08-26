@@ -1,4 +1,5 @@
 import { buildMode, siteUrl } from "constants/site-config";
+import { toSiteUrl } from "utils/base-path";
 
 export const GET = () => {
 	// if (buildMode === "production") {
@@ -13,7 +14,7 @@ Allow: /
 Host: ${siteUrl}
 
 # Sitemaps
-Sitemap: ${siteUrl}/sitemap-index.xml
+Sitemap: ${toSiteUrl("/sitemap-index.xml", siteUrl)}
 				`.trim()
 			: `
 # *
@@ -24,7 +25,7 @@ Disallow: /
 Host: ${siteUrl}
 
 # Sitemaps
-Sitemap: ${siteUrl}/sitemap-index.xml
+Sitemap: ${toSiteUrl("/sitemap-index.xml", siteUrl)}
 				`.trim();
 
 	return new Response(body);

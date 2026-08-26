@@ -5,6 +5,7 @@ import { Pagination } from "components/pagination/pagination";
 import type { Page } from "astro";
 import * as api from "utils/api";
 import { isDefined } from "utils/is-defined";
+import { withBasePath } from "utils/base-path";
 
 export interface PageProps {
 	posts: PostInfo[];
@@ -34,6 +35,6 @@ const postAuthors = new Map(
 }
 <Pagination
 	page={{ currentPage: page.currentPage, lastPage: page.lastPage }}
-	rootURL="/page/"
+	rootURL={withBasePath("/page/")}
 	client:load
 />

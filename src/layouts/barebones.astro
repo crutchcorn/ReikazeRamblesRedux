@@ -1,13 +1,14 @@
 ---
 import { THEME_COLOR_DARK, THEME_COLOR_LIGHT } from "constants/theme";
+import { withBasePath } from "utils/base-path";
 ---
 
 <html lang={"en"} class="light">
 	<head>
 		<meta name="viewport" content="width=device-width" />
 		<meta charset="utf-8" />
-		<link rel="icon" href="/favicon.ico" />
-		<link rel="manifest" href="/manifest.json" />
+		<link rel="icon" href={withBasePath("/favicon.ico")} />
+		<link rel="manifest" href={withBasePath("/manifest.json")} />
 		<meta
 			name="theme-color"
 			media="(prefers-color-scheme: light)"
@@ -21,44 +22,45 @@ import { THEME_COLOR_DARK, THEME_COLOR_LIGHT } from "constants/theme";
 		<link
 			rel="apple-touch-icon"
 			sizes="48x48"
-			href="/icons/icon-48x48.png?v=2a"
+			href={withBasePath("/icons/icon-48x48.png?v=2a")}
 		/>
 		<link
 			rel="apple-touch-icon"
 			sizes="72x72"
-			href="/icons/icon-72x72.png?v=2a"
+			href={withBasePath("/icons/icon-72x72.png?v=2a")}
 		/>
 		<link
 			rel="apple-touch-icon"
 			sizes="96x96"
-			href="/icons/icon-96x96.png?v=2a"
+			href={withBasePath("/icons/icon-96x96.png?v=2a")}
 		/>
 		<link
 			rel="apple-touch-icon"
 			sizes="144x144"
-			href="/icons/icon-144x144.png?v=2a"
+			href={withBasePath("/icons/icon-144x144.png?v=2a")}
 		/>
 		<link
 			rel="apple-touch-icon"
 			sizes="192x192"
-			href="/icons/icon-192x192.png?v=2a"
+			href={withBasePath("/icons/icon-192x192.png?v=2a")}
 		/>
 		<link
 			rel="apple-touch-icon"
 			sizes="256x256"
-			href="/icons/icon-256x256.png?v=2a"
+			href={withBasePath("/icons/icon-256x256.png?v=2a")}
 		/>
 		<link
 			rel="apple-touch-icon"
 			sizes="384x384"
-			href="/icons/icon-384x384.png?v=2a"
+			href={withBasePath("/icons/icon-384x384.png?v=2a")}
 		/>
 		<link
 			rel="apple-touch-icon"
 			sizes="512x512"
-			href="/icons/icon-512x512.png?v=2a"
+			href={withBasePath("/icons/icon-512x512.png?v=2a")}
 		/>
-		<script defer src="/uninstall-sw.js" is:inline></script>
+		<script type="module" src={withBasePath("/uninstall-sw.js")} is:inline
+		></script>
 		<slot name="head" />
 	</head>
 	<body>

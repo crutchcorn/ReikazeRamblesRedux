@@ -1,5 +1,6 @@
 import { Root, Element } from "hast";
 import { visit } from "unist-util-visit";
+import { withBasePath } from "../base-path";
 import { urlPathRegex, resolvePath } from "../url-paths";
 
 import path from "path";
@@ -24,6 +25,13 @@ export const rehypeUnicornElementMap: Plugin<[], Root> = () => {
 					);
 					if (resolvedPath)
 						node.properties.src = resolvedPath.relativeServerPath;
+				}
+			}
+
+			for (const property of ["href", "src", "poster", "data-zoom-src"]) {
+				const value = node.properties[property];
+				if (typeof value === "string") {
+					node.properties[property] = withBasePath(value);
 				}
 			}
 

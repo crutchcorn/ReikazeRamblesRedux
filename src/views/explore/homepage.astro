@@ -6,6 +6,7 @@ import { SubHeader } from "../../components/subheader/subheader";
 import Hero from "../../components/hero/hero.astro";
 import * as api from "utils/api";
 import { isDefined } from "utils/is-defined";
+import { withBasePath } from "utils/base-path";
 
 export interface HomepageProps {
 	posts: PostInfo[];
@@ -24,7 +25,7 @@ const postAuthors = new Map(
 <Hero />
 <section style="margin-bottom: 2rem;">
 	<SubHeader tag="h2" text="Recent articles" id="posts-header">
-		<Button href="/page/1" aria-labelledby="posts-header">
+		<Button href={withBasePath("/page/1")} aria-labelledby="posts-header">
 			{"View all"}
 		</Button>
 	</SubHeader>

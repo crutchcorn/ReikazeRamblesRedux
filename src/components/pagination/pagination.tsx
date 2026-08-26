@@ -9,6 +9,7 @@ import {
 } from "components/pagination/types";
 import { usePagination } from "./use-pagination";
 import { onSoftNavClick } from "./on-click-base";
+import { withBasePath } from "utils/base-path";
 
 function PaginationButton({
 	pageInfo,
@@ -78,6 +79,8 @@ export const Pagination = ({
 	if (page.currentPage === 1 && page.lastPage < 2) return <></>;
 
 	const { isPreviousEnabled, isNextEnabled, pages } = usePagination(page);
+	const resolvePageHref = (pageNum: number) =>
+		withBasePath(getPageHref(pageNum));
 
 	return (
 		<>
@@ -95,7 +98,7 @@ export const Pagination = ({
 							href={
 								!isPreviousEnabled
 									? "javascript:void(0)"
-									: getPageHref(page.currentPage - 1)
+									: resolvePageHref(page.currentPage - 1)
 							}
 							onClick={
 								softNavigate
@@ -114,14 +117,14 @@ export const Pagination = ({
 								pageInfo={page}
 								pageNum={pageNum}
 								selected={pageNum === page.currentPage}
-								href={getPageHref(pageNum)}
+								href={resolvePageHref(pageNum)}
 								softNavigate={softNavigate}
 							/>
 						) : (
 							<PaginationMenuWrapper
 								key={pageNum}
 								page={page}
-								getPageHref={getPageHref}
+								getPageHref={resolvePageHref}
 								softNavigate={softNavigate}
 							/>
 						);
@@ -134,7 +137,7 @@ export const Pagination = ({
 							href={
 								!isNextEnabled
 									? "javascript:void(0)"
-									: getPageHref(page.currentPage + 1)
+									: resolvePageHref(page.currentPage + 1)
 							}
 							onClick={
 								softNavigate

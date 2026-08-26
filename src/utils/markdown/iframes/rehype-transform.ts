@@ -43,7 +43,10 @@ function fetchPageIcon(src: URL, srcHast: Root): Promise<string> {
 			file.startsWith(path.basename(iconPath)),
 		);
 		if (existingIconFile) {
-			return path.join(path.dirname(iconPath), existingIconFile);
+			return (
+				"/" +
+				path.join(path.dirname(iconPath), existingIconFile).replace(/\\/g, "/")
+			);
 		}
 
 		// <link rel="manifest" href="/manifest.json">
@@ -162,8 +165,8 @@ export async function fetchPageInfo(src: string): Promise<PageInfo | null> {
 			.then((r) => r.status === 200 && r.json())
 			.catch(() => null);
 		if (json) {
-			title = `${json.title}`;
-			thumbnail = json.thumbnail_url;
+			title = json.title ? `${json.title}` : undefined;
+			thumbnail = json.thumbnail_url ? `${json.thumbnail_url}` : undefined;
 		}
 	} else {
 		title = getPageTitle(srcHast);

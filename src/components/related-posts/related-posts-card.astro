@@ -2,6 +2,7 @@
 import style from "./related-posts-card.module.scss";
 import { getHrefContainerProps } from "utils/href-container-script";
 import { UnicornInfo } from "types/UnicornInfo";
+import { withBasePath } from "utils/base-path";
 
 interface RelatedPostsCardProps {
 	title: string;
@@ -10,19 +11,21 @@ interface RelatedPostsCardProps {
 }
 
 const { title, slug, authors } = Astro.props as RelatedPostsCardProps;
+const postHref = withBasePath(`/posts/${slug}`);
 ---
 
-<li {...getHrefContainerProps(`/posts/${slug}`)} class={style.container}>
-	<a
-		href={`/posts/${slug}`}
-		class={`text-style-body-medium-bold ${style.articleTitle}`}
+<li {...getHrefContainerProps(postHref)} class={style.container}>
+	<a href={postHref} class={`text-style-body-medium-bold ${style.articleTitle}`}
 		>{title}
 	</a>
 
 	<span class={`text-style-body-small-bold ${style.authorsList}`}>
 		{
 			authors.map((author, i) => (
-				<a href={`/authors/${author.id}`} class={style.authorName}>
+				<a
+					href={withBasePath(`/authors/${author.id}`)}
+					class={style.authorName}
+				>
 					{[author.name, i + 1 < authors.length ? "," : ""]}
 				</a>
 			))
