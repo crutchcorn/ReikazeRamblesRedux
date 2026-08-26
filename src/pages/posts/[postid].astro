@@ -29,10 +29,6 @@ const { slug } = Astro.props as {
 	slug: string;
 };
 
-const params = Astro.params as {
-	postid: string;
-};
-
 const post = api.getPostBySlug(slug)!;
 const authors = post.authors
 	.map((unicornId) => api.getPersonById(unicornId))

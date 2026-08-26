@@ -1,10 +1,10 @@
 import { JSXNode, PropsWithChildren } from "../types";
-import { AllHTMLAttributes } from "preact";
+import { JSX, Ref } from "preact";
 import { forwardRef } from "preact/compat";
 
-type AllowedTags = "a" | "button" | "span" | "div";
+export type ButtonTag = "a" | "button" | "span" | "div";
 
-type AllowedElements<Tag extends AllowedTags> = Tag extends "a"
+type AllowedElements<Tag extends ButtonTag> = Tag extends "a"
 	? HTMLAnchorElement
 	: Tag extends "div"
 		? HTMLDivElement
@@ -12,22 +12,38 @@ type AllowedElements<Tag extends AllowedTags> = Tag extends "a"
 			? HTMLSpanElement
 			: HTMLButtonElement;
 
-type ButtonProps<Tag extends AllowedTags> = PropsWithChildren<
-	{
-		tag?: Tag;
-		class?: string;
-		leftIcon?: JSXNode;
-		rightIcon?: JSXNode;
-		// For when the user is _actually_ focused on another element, like react-aria radio buttons
-		isFocusVisible?: boolean;
-		variant?:
-			"primary-emphasized" | "secondary-emphasized" | "primary" | "secondary";
-	} & AllHTMLAttributes<AllowedElements<Tag>>
+type ButtonOwnProps = {
+	class?: string;
+	leftIcon?: JSXNode;
+	rightIcon?: JSXNode;
+	// For when the user is _actually_ focused on another element, like react-aria radio buttons
+	isFocusVisible?: boolean;
+	variant?:
+		"primary-emphasized" | "secondary-emphasized" | "primary" | "secondary";
+};
+
+type ButtonPropsFor<Tag extends ButtonTag> = PropsWithChildren<
+	ButtonOwnProps &
+		(Tag extends "a" ? { tag?: Tag } : { tag: Tag }) &
+		JSX.IntrinsicElements[Tag]
 >;
 
-const ButtonWrapper = forwardRef<
-	AllowedElements<AllowedTags> | null,
-	ButtonProps<AllowedTags>
+type ButtonProps = {
+	[Tag in ButtonTag]: ButtonPropsFor<Tag>;
+}[ButtonTag];
+
+type RefProps<Tag extends ButtonTag> = { ref?: Ref<AllowedElements<Tag>> };
+
+type ButtonComponent = {
+	(props: ButtonPropsFor<"button"> & RefProps<"button">): JSX.Element;
+	(props: ButtonPropsFor<"div"> & RefProps<"div">): JSX.Element;
+	(props: ButtonPropsFor<"span"> & RefProps<"span">): JSX.Element;
+	(props: ButtonPropsFor<"a"> & RefProps<"a">): JSX.Element;
+};
+
+const ButtonWrapperBase = forwardRef<
+	AllowedElements<ButtonTag> | null,
+	ButtonProps
 >(
 	(
 		{
@@ -70,58 +86,77 @@ const ButtonWrapper = forwardRef<
 );
 
 export const Button = forwardRef<
-	AllowedElements<AllowedTags> | null,
-	ButtonProps<AllowedTags>
+	AllowedElements<ButtonTag> | null,
+	ButtonProps
 >(({ class: className = "", ...props }, ref) => {
 	return (
-		<ButtonWrapper
+		<ButtonWrapperBase
 			{...props}
 			class={`text-style-button-regular regular ${className}`}
 			ref={ref}
 		/>
 	);
-});
+}) as unknown as ButtonComponent;
 
 export const LargeButton = forwardRef<
-	AllowedElements<AllowedTags> | null,
-	ButtonProps<AllowedTags>
+	AllowedElements<ButtonTag> | null,
+	ButtonProps
 >(({ class: className = "", ...props }, ref) => {
 	return (
-		<ButtonWrapper
+		<ButtonWrapperBase
 			{...props}
 			class={`text-style-button-large large ${className}`}
 			ref={ref}
 		/>
 	);
-});
+}) as unknown as ButtonComponent;
 
-type IconOnlyButtonProps<T extends AllowedTags = "a"> = Omit<
-	ButtonProps<T>,
+export type IconOnlyButtonPropsFor<Tag extends ButtonTag> = Omit<
+	ButtonPropsFor<Tag>,
 	"leftIcon" | "rightIcon"
 >;
 
+type IconOnlyButtonProps = {
+	[Tag in ButtonTag]: IconOnlyButtonPropsFor<Tag>;
+}[ButtonTag];
+
+type IconOnlyButtonComponent = {
+	(props: IconOnlyButtonPropsFor<"button"> & RefProps<"button">): JSX.Element;
+	(props: IconOnlyButtonPropsFor<"div"> & RefProps<"div">): JSX.Element;
+	(props: IconOnlyButtonPropsFor<"span"> & RefProps<"span">): JSX.Element;
+	(props: IconOnlyButtonPropsFor<"a"> & RefProps<"a">): JSX.Element;
+};
+
 export const IconOnlyButton = forwardRef<
-	AllowedElements<AllowedTags> | null,
-	IconOnlyButtonProps<AllowedTags>
+	AllowedElements<ButtonTag> | null,
+	IconOnlyButtonProps
 >(({ class: className = "", children, ...props }, ref) => {
 	return (
-		<ButtonWrapper {...props} class={`iconOnly regular ${className}`} ref={ref}>
+		<ButtonWrapperBase
+			{...props}
+			class={`iconOnly regular ${className}`}
+			ref={ref}
+		>
 			<div class="iconOnlyButtonIcon" aria-hidden="true">
 				{children}
 			</div>
-		</ButtonWrapper>
+		</ButtonWrapperBase>
 	);
-});
+}) as unknown as IconOnlyButtonComponent;
 
 export const LargeIconOnlyButton = forwardRef<
-	AllowedElements<AllowedTags> | null,
-	IconOnlyButtonProps<AllowedTags>
+	AllowedElements<ButtonTag> | null,
+	IconOnlyButtonProps
 >(({ class: className = "", children, ...props }, ref) => {
 	return (
-		<ButtonWrapper {...props} class={`iconOnly large ${className}`} ref={ref}>
+		<ButtonWrapperBase
+			{...props}
+			class={`iconOnly large ${className}`}
+			ref={ref}
+		>
 			<div class="iconOnlyButtonIcon" aria-hidden="true">
 				{children}
 			</div>
-		</ButtonWrapper>
+		</ButtonWrapperBase>
 	);
-});
+}) as unknown as IconOnlyButtonComponent;

@@ -1,4 +1,4 @@
-import { CollectionInfo, PostInfo, RolesInfo, UnicornInfo } from "types/index";
+import { CollectionInfo, PostInfo, UnicornInfo } from "types/index";
 import { people, posts, collections } from "./data";
 import { isDefined } from "./is-defined";
 

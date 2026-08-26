@@ -3,8 +3,6 @@ import styles from "./profile-section.module.scss";
 import { Picture as UUPicture } from "components/index";
 import { UnicornInfo } from "types/index";
 import { Icon } from "astro-icon/components";
-import * as api from "utils/api";
-import { isDefined } from "utils/is-defined";
 import { desktopSmall, tabletSmall } from "src/tokens/breakpoints";
 
 interface ProfileSectionProps {
@@ -21,7 +19,7 @@ interface SocialInfo {
 	href: (socials: UnicornInfo["socials"]) => string | undefined;
 }
 
-const socials: SocialInfo[] = [
+const socialLinks: SocialInfo[] = [
 	{
 		icon: "website",
 		name: "Website",
@@ -116,7 +114,7 @@ const socials: SocialInfo[] = [
 			aria-label={`${unicorn.name} social media links`}
 		>
 			{
-				socials.map((social) => {
+				socialLinks.map((social) => {
 					const href = social.href(unicorn.socials);
 					if (!href) return [];
 					return (

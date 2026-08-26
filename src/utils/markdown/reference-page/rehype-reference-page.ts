@@ -1,6 +1,5 @@
 import { Root, Node } from "hast";
 import { Plugin } from "unified";
-import { CollectionInfo } from "types/CollectionInfo";
 import { PostInfo, RawPostInfo } from "types/PostInfo";
 import { visit } from "unist-util-visit";
 import { toString } from "hast-util-to-string";

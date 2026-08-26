@@ -5,7 +5,6 @@ import { Plugin } from "unified";
 import { visit } from "unist-util-visit";
 
 import { EMBED_MIN_HEIGHT, EMBED_SIZE } from "../constants";
-import { fromHtml } from "hast-util-from-html";
 import { find } from "unist-util-find";
 import { getLargestManifestIcon } from "../../get-largest-manifest-icon";
 import { IFramePlaceholder } from "./iframe-placeholder";
@@ -182,7 +181,7 @@ export async function fetchPageInfo(src: string): Promise<PageInfo | null> {
 export const rehypeUnicornIFrameClickToRun: Plugin<
 	[RehypeUnicornIFrameClickToRunProps | never],
 	Root
-> = ({ srcReplacements = [], ...props }) => {
+> = ({ srcReplacements = [] }) => {
 	return async (tree, file) => {
 		const iframeNodes: Element[] = [];
 		visit(tree, "element", (node: Element) => {
@@ -195,19 +194,18 @@ export const rehypeUnicornIFrameClickToRun: Plugin<
 			iframeNodes.map(async (iframeNode) => {
 				let {
 					height,
-					width,
 					src,
 					// eslint-disable-next-line prefer-const
 					dataFrameTitle,
 					// eslint-disable-next-line prefer-const
 					...propsToPreserve
 				} = iframeNode.properties;
+				delete propsToPreserve.width;
 
 				for (const replacement of srcReplacements) {
 					src = replacement(src!.toString(), file);
 				}
 
-				width = width ?? EMBED_SIZE.w;
 				height = height ?? EMBED_SIZE.h;
 				const info: PageInfo = (await fetchPageInfo(src!.toString()).catch(
 					() => null,
@@ -217,7 +215,6 @@ export const rehypeUnicornIFrameClickToRun: Plugin<
 				if (Number(heightPx) < EMBED_MIN_HEIGHT) height = EMBED_MIN_HEIGHT;
 
 				const iframeReplacement = IFramePlaceholder({
-					width: width.toString(),
 					height: height.toString(),
 					src: String(src),
 					pageTitle: String(dataFrameTitle ?? "") || info.title || "",

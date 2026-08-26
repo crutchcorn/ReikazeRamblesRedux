@@ -1,8 +1,11 @@
 import style from "./input.module.scss";
-import { ComponentProps, ComponentType, Fragment, JSX } from "preact";
+import { ComponentType, Fragment, JSX } from "preact";
 import search from "../../icons/search.svg?raw";
 import close from "../../icons/close.svg?raw";
-import { IconOnlyButton } from "components/button/button";
+import {
+	IconOnlyButton,
+	type IconOnlyButtonPropsFor,
+} from "components/button/button";
 import { useRandomId } from "utils/preact/useId";
 
 type InputProps = JSX.IntrinsicElements["input"] & {
@@ -41,8 +44,8 @@ export function Input({
 	);
 }
 
-const IconOnlyButtonButOnClick = IconOnlyButton as never as ComponentType<
-	ComponentProps<typeof IconOnlyButton> & {
+const IconOnlyButtonButOnClick = IconOnlyButton as unknown as ComponentType<
+	Omit<IconOnlyButtonPropsFor<"button">, "onclick"> & {
 		onclick?: string;
 	}
 >;

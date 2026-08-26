@@ -16,10 +16,8 @@ export function getExcerpt(markdownContent: string, maxLength: number): string {
 	const tree = unifiedChain.parse(markdownContent);
 
 	const excerptParts: string[] = [];
-	let excerptLength = 0;
 	visit(tree, "text", (node) => {
 		excerptParts.push(node.value);
-		excerptLength += node.value.length;
 
 		if (excerptParts.length < maxLength) return CONTINUE;
 		else return EXIT;

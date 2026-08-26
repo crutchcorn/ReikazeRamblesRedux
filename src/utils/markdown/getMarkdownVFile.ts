@@ -10,7 +10,7 @@ export async function getMarkdownVFile(
 		// Using import() here enables hot-reloading, but fails during astro build
 		const fileImport = await import(/* @vite-ignore */ `${data.file}?raw`);
 		fileContent = (fileImport as { default: string }).default;
-	} catch (e) {
+	} catch {
 		fileContent = await fs.readFile(data.file, "utf-8");
 	}
 

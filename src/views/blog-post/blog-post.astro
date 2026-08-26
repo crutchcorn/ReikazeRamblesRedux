@@ -3,26 +3,20 @@ import PostTitleHeader from "./post-title-header/post-title-header.astro";
 import TableOfContents from "./table-of-contents/table-of-contents.astro";
 import BlogPostLayout from "./blog-post-layout/blog-post-layout.astro";
 import HeadingLinkScript from "../base/scripts/heading-link-script.astro";
-import { Icon } from "astro-icon/components";
 
 import {
 	CollectionInfo,
-	LicenseInfo,
 	PostInfo,
 	PostHeadingInfo,
 	UnicornInfo,
 } from "types/index";
 
-import { siteMetadata } from "constants/site-config";
 import "../../styles/shiki.scss";
 import "../../styles/markdown/tabs.scss";
 import "../../styles/markdown/in-content-ads.scss";
 import SeriesToC from "./series/series-toc.astro";
 import { ArticleNav } from "./article-nav/article-nav";
 import RelatedPosts from "components/related-posts/related-posts.astro";
-import { LargeButton } from "../../components/button/button";
-
-import styles from "./blog-post.module.scss";
 
 export interface Props {
 	post: PostInfo;
@@ -30,21 +24,11 @@ export interface Props {
 	authors: UnicornInfo[];
 	collection?: CollectionInfo;
 	collectionPosts?: PostInfo[];
-	license?: LicenseInfo;
 	postHtml: string;
 }
 
-const {
-	postHtml,
-	post,
-	postHeadings,
-	authors,
-	collection,
-	collectionPosts,
-	license,
-} = Astro.props;
-
-const GHLink = `https://github.com/${siteMetadata.repoPath}/tree/main/content/${post.path}/index.md`;
+const { postHtml, post, postHeadings, authors, collection, collectionPosts } =
+	Astro.props;
 ---
 
 <script>

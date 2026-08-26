@@ -7,7 +7,6 @@ const launch = await fs.readFile("src/icons/launch.svg", "utf8");
 const play = await fs.readFile("src/icons/play.svg", "utf8");
 
 export interface IFramePlaceholderProps {
-	width: string;
 	height: string;
 	src: string;
 	propsToPreserve: string;
@@ -19,7 +18,6 @@ export interface IFramePlaceholderProps {
 /** @jsxImportSource hastscript */
 export function IFramePlaceholder({
 	height,
-	width,
 	propsToPreserve,
 	thumbnail,
 	...props

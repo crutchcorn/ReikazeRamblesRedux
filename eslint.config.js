@@ -35,15 +35,30 @@ export default tseslint.config(
 		},
 		rules: {
 			"no-mixed-spaces-and-tabs": "off",
-			"no-unused-vars": "off",
+			"no-unused-vars": [
+				"error",
+				{
+					args: "none",
+					caughtErrors: "none",
+					varsIgnorePattern: "^_",
+				},
+			],
 			"no-useless-escape": "off",
 		},
 	},
 	{
 		files: ["**/*.{ts,tsx}"],
 		rules: {
+			"no-unused-vars": "off",
 			"@typescript-eslint/no-empty-object-type": "off",
-			"@typescript-eslint/no-unused-vars": "off",
+			"@typescript-eslint/no-unused-vars": [
+				"error",
+				{
+					argsIgnorePattern: "^_",
+					caughtErrorsIgnorePattern: "^_",
+					varsIgnorePattern: "^_",
+				},
+			],
 		},
 	},
 );

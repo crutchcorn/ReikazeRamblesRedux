@@ -8,7 +8,7 @@ import {
 	type EpubOptions,
 } from "@lesjoursfr/html-to-epub";
 import { unified } from "unified";
-import { CollectionInfo, PostInfo } from "types/index";
+import { PostInfo } from "types/index";
 import { getPersonById, getPosts } from "utils/api";
 import { createEpubPlugins } from "utils/markdown/createEpubPlugins";
 import { getMarkdownVFile } from "utils/markdown/getMarkdownVFile";
@@ -81,19 +81,6 @@ ${chapterMetaLinks
 	})
 	.join("\n\n")}
 `.trim();
-}
-
-interface GenerateReferencePageHTMLOptions {
-	markdown: string;
-	unifiedChain: ReturnType<typeof createEpubPlugins>;
-}
-
-async function generateReferencePageHTML({
-	markdown,
-	unifiedChain,
-}: GenerateReferencePageHTMLOptions) {
-	const result = await unifiedChain.process(markdown);
-	return result.toString();
 }
 
 interface GenerateEpubHTMLOptions {

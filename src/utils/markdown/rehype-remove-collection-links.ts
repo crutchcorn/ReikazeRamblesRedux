@@ -1,9 +1,7 @@
 import { Root } from "hast";
 import { Plugin } from "unified";
-import { CollectionInfo } from "types/CollectionInfo";
-import { RawPostInfo } from "types/PostInfo";
 import { visit } from "unist-util-visit";
-import { getPosts, getPostsByCollection } from "utils/api";
+import { getPosts } from "utils/api";
 
 function normalizeUrl(url: string) {
 	return url.endsWith("/") ? url.slice(0, -1) : url;
@@ -12,7 +10,7 @@ function normalizeUrl(url: string) {
 export const rehypeRemoveCollectionLinks: Plugin<[], Root> = () => {
 	const posts = getPosts();
 	return (tree) => {
-		visit(tree, "element", (node, index, parent) => {
+		visit(tree, "element", (node) => {
 			if (node.tagName !== "a") {
 				return;
 			}
