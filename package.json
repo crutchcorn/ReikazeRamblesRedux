@@ -13,7 +13,10 @@
 		"type": "git",
 		"url": "git+https://github.com/Reikaze/ReikazeRambles.git"
 	},
-	"packageManager": "pnpm@9.4.0",
+	"packageManager": "pnpm@11.24.0",
+	"engines": {
+		"node": ">=24.16.0"
+	},
 	"scripts": {
 		"debug": "env-cmd -f ./src/environments/debug.env astro dev --experimental-integrations",
 		"dev": "env-cmd -f ./src/environments/dev.env astro dev --experimental-integrations",
@@ -140,11 +143,5 @@
 		"remark-lint-heading-increment": "^4.0.0",
 		"remark-stringify": "^11.0.0",
 		"uuid": "^10.0.0"
-	},
-	"pnpm": {
-		"overrides": {
-			"react": "@preact/compat@10.22.0",
-			"react-dom": "@preact/compat@10.22.0"
-		}
 	}
 }

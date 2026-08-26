@@ -1,0 +1,3 @@
+overrides:
+  react: "@preact/compat@10.22.0"
+  react-dom: "@preact/compat@10.22.0"
