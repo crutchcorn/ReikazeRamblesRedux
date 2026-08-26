@@ -2,12 +2,13 @@
 
 @font-face {
 	font-family: "PoiretOne";
-	src: url("/fonts/PoiretOne/PoiretOne-Regular.ttf") format("truetype");
+	src: url("/src/assets/fonts/PoiretOne/PoiretOne-Regular.ttf")
+		format("truetype");
 }
 
 @font-face {
 	font-family: "Figtree";
-	src: url("/fonts/Figtree/Figtree-VariableFont_wght.ttf")
+	src: url("/src/assets/fonts/Figtree/Figtree-VariableFont_wght.ttf")
 		format("truetype-variations");
 	font-weight: 1 999;
 }
@@ -15,14 +16,14 @@
 @font-face {
 	font-family: "Figtree";
 	font-style: italic;
-	src: url("/fonts/Figtree/Figtree-Italic-VariableFont_wght.ttf")
+	src: url("/src/assets/fonts/Figtree/Figtree-Italic-VariableFont_wght.ttf")
 		format("truetype-variations");
 	font-weight: 1 999;
 }
 
 @font-face {
 	font-family: "Roboto Mono";
-	src: url("/fonts/Roboto_Mono/RobotoMono-VariableFont_wght.ttf")
+	src: url("/src/assets/fonts/Roboto_Mono/RobotoMono-VariableFont_wght.ttf")
 		format("truetype-variations");
 	font-weight: 1 999;
 }
@@ -30,7 +31,7 @@
 @font-face {
 	font-family: "Roboto Mono";
 	font-style: italic;
-	src: url("/fonts/Roboto_Mono/RobotoMono-Italic-VariableFont_wght.ttf")
+	src: url("/src/assets/fonts/Roboto_Mono/RobotoMono-Italic-VariableFont_wght.ttf")
 		format("truetype-variations");
 	font-weight: 1 999;
 }

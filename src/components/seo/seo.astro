@@ -7,7 +7,8 @@ import OpenGraph from "./open-graph.astro";
 import Profile from "./profile.astro";
 import { SEOProps } from "./shared";
 import Twitter from "./twitter.astro";
-import { toSiteUrl, withBasePath } from "utils/base-path";
+import { toSiteUrl } from "utils/base-path";
+import figtreeFontUrl from "src/assets/fonts/Figtree/Figtree-VariableFont_wght.ttf?url";
 
 const {
 	description = "",
@@ -58,7 +59,7 @@ const currentPath = removeTrailingSlash(
 <meta property="keywords" content={metaKeywords} />
 <link
 	rel="preload"
-	href={withBasePath("/fonts/Figtree/Figtree-VariableFont_wght.ttf")}
+	href={figtreeFontUrl}
 	as="font"
 	type="font/ttf"
 	crossorigin
