@@ -14,7 +14,7 @@ import * as stream from "stream";
 import sharp from "sharp";
 import * as svgo from "svgo";
 import { fetchPageHtml, getPageTitle } from "utils/fetch-page-html";
-import { getIFrameSrc } from "./get-iframe-src";
+import { getIFramePlaybackSrc, getIFrameSrc } from "./get-iframe-src";
 
 interface RehypeUnicornIFrameClickToRunProps {
 	srcReplacements?: Array<(val: string, root: VFile) => string>;
@@ -163,7 +163,7 @@ export async function fetchPageInfo(src: string): Promise<PageInfo | null> {
 	url.search = ""; // remove any search params
 
 	const [srcHast, noEmbedData] = await Promise.all([
-		fetchPageHtml(url.toString()),
+		fetchPageHtml(url.toString()).catch(() => null),
 		isYouTube
 			? fetch(
 					`https://noembed.com/embed?dataType=json&url=${encodeURIComponent(src)}`,
@@ -185,9 +185,7 @@ export async function fetchPageInfo(src: string): Promise<PageInfo | null> {
 	if (isYouTube) {
 		if (noEmbedData) {
 			title =
-				typeof noEmbedData.title === "string"
-					? noEmbedData.title
-					: undefined;
+				typeof noEmbedData.title === "string" ? noEmbedData.title : undefined;
 			thumbnail =
 				typeof noEmbedData.thumbnail_url === "string"
 					? noEmbedData.thumbnail_url
@@ -239,19 +237,21 @@ export const rehypeUnicornIFrameClickToRun: Plugin<
 				for (const replacement of srcReplacements) {
 					src = replacement(src!.toString(), file);
 				}
+				const linkSrc = String(src);
 
 				height = height ?? EMBED_SIZE.h;
-				const info: PageInfo = (await fetchPageInfo(src!.toString()).catch(
+				const info: PageInfo = (await fetchPageInfo(linkSrc).catch(
 					() => null,
 				)) || { iconFile: defaultPageIcon };
+				const iframeSrc = getIFramePlaybackSrc(linkSrc, info.iframeSrc);
 
 				const [, heightPx] = /^([0-9]+)(px)?$/.exec(height + "") || [];
 				if (Number(heightPx) < EMBED_MIN_HEIGHT) height = EMBED_MIN_HEIGHT;
 
 				const iframeReplacement = IFramePlaceholder({
 					height: height.toString(),
-					src: String(src),
-					iframeSrc: info.iframeSrc,
+					linkSrc,
+					iframeSrc,
 					pageTitle: String(dataFrameTitle ?? "") || info.title || "",
 					pageIcon: info.iconFile,
 					propsToPreserve: JSON.stringify(propsToPreserve),
