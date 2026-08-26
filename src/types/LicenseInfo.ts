@@ -1,4 +1,4 @@
-export interface LicenseInfo {
+interface LicenseInfo {
 	id: string;
 	licenceType: string;
 	footerImg: string;
@@ -6,3 +6,5 @@ export interface LicenseInfo {
 	name: string;
 	displayName: string;
 }
+
+export {};

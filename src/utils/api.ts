@@ -17,7 +17,7 @@ export function getAllPosts(): PostInfo[] {
 	return [...posts];
 }
 
-export function getAllCollections(): CollectionInfo[] {
+function getAllCollections(): CollectionInfo[] {
 	return [...collections];
 }
 
@@ -62,11 +62,11 @@ export function getCollectionBySlug(slug: string): CollectionInfo | undefined {
 	return collections.find((collection) => collection.slug === slug);
 }
 
-export function getCollections(): CollectionInfo[] {
+function getCollections(): CollectionInfo[] {
 	return [...collections].filter(isDefined).sort(compareByPublished);
 }
 
-export function getCollectionsByPerson(unicornId: string): CollectionInfo[] {
+function getCollectionsByPerson(unicornId: string): CollectionInfo[] {
 	return [...collections]
 		.filter(isDefined)
 		.filter((c) => c.authors.includes(unicornId))

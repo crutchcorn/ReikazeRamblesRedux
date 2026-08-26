@@ -56,7 +56,7 @@ interface SearchInputProps {
 	hideSearchButton?: boolean;
 }
 
-export function SearchInput({
+function SearchInput({
 	class: classClass = "",
 	className = "",
 	variant = "default",

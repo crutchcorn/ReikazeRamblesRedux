@@ -40,7 +40,7 @@ export function getPageTitle(srcHast: Root) {
 	return title;
 }
 
-export function escapeHtml(unsafe: string) {
+function escapeHtml(unsafe: string) {
 	return unsafe
 		.replace(/&/g, "&amp;")
 		.replace(/</g, "&lt;")

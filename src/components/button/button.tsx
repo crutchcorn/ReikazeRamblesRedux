@@ -150,7 +150,7 @@ export const IconOnlyButton = forwardRef<
 	);
 }) as unknown as IconOnlyButtonComponent;
 
-export const LargeIconOnlyButton = forwardRef<
+const LargeIconOnlyButton = forwardRef<
 	AllowedElements<ButtonTag> | null,
 	IconOnlyButtonProps
 >(({ class: className = "", children, ...props }, ref) => {

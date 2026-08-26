@@ -1,4 +1,6 @@
-export type RolesInfo = {
+type RolesInfo = {
 	id: string;
 	prettyname: string;
 };
+
+export {};
