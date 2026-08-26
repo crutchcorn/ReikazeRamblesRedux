@@ -1,4 +1,4 @@
-@import "src/tokens/index";
+@use "src/tokens" as *;
 
 :root {
 	--achievement_padding-vertical: var(--spc-3x);

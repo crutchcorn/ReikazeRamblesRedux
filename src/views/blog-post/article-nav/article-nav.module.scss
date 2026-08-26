@@ -1,4 +1,4 @@
-@import "src/tokens/index";
+@use "src/tokens" as *;
 
 :root {
 	--article-nav_padding-vertical: var(--site-spacing);

@@ -1,4 +1,4 @@
-@import "src/tokens/index";
+@use "src/tokens" as *;
 
 :root {
 	--header_padding-horizontal: var(--site-spacing);

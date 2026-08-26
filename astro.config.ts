@@ -36,6 +36,7 @@ export default defineConfig({
 		css: {
 			preprocessorOptions: {
 				scss: {
+					fatalDeprecations: ["import", "global-builtin"],
 					loadPaths: [process.cwd()],
 				},
 			},

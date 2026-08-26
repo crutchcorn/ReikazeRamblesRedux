@@ -1,6 +1,5 @@
 @use "sass:list";
-
-@import "./vars";
+@use "./vars" as *;
 
 @function pxToRem($pxNum) {
 	@return #{calc($pxNum / 16)}rem;

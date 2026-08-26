@@ -1,4 +1,5 @@
-@import "src/styles/text-styles.scss";
+@use "src/tokens" as *;
+@use "src/styles/text-styles" as *;
 
 :root {
 	--table_padding-horizontal: var(--spc-1x);

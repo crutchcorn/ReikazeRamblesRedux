@@ -1,4 +1,4 @@
-@import "src/tokens/index";
+@use "src/tokens" as *;
 
 :root {
 	--form-label_padding: var(--spc-2x);

@@ -1,3 +1,5 @@
+@use "src/styles/text-styles" as *;
+
 :root {
 	--tooltip_padding-vertical: var(--spc-3x);
 	--tooltip_padding-start: var(--spc-3x);

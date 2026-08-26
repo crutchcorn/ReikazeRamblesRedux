@@ -1,4 +1,4 @@
-@import "src/tokens/index";
+@use "src/tokens" as *;
 
 :root {
 	--toc_header_padding-top: var(--site-spacing);
