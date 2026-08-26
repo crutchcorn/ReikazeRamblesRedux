@@ -9,6 +9,7 @@ const play = await fs.readFile("src/icons/play.svg", "utf8");
 export interface IFramePlaceholderProps {
 	height: string;
 	src: string;
+	linkSrc: string;
 	propsToPreserve: string;
 	pageTitle: string;
 	pageIcon: string;
@@ -43,15 +44,15 @@ export function IFramePlaceholder({
 						{props.pageTitle}
 					</p>
 					<a
-						href={props.src}
+						href={props.linkSrc}
 						rel="nofollow noopener noreferrer"
 						target="_blank"
 					>
-						{props.src}
+						{props.linkSrc}
 					</a>
 				</div>
 				<a
-					href={props.src}
+					href={props.linkSrc}
 					class="button regular primary text-style-button-regular"
 					rel="nofollow noopener noreferrer"
 					target="_blank"

@@ -17,7 +17,7 @@ So, What are the rules of this list, you may ask? If it aired/released this seas
 
 # **HM#2. *Rokka: Braves of the Six Flowers***
 
-<iframe src="https://www.youtube.com/embed/NBxFQkLWSg0></iframe>
+<iframe src="https://www.youtube.com/embed/NBxFQkLWSg0"></iframe>
 
 **Plot Description:** When the Majin awakes from the depths of darkness, the deity of fate selects six heroes and bequeaths them with the power to save the world. Adlet, a boy who proclaims himself the strongest man in the world, has been selected among “The Heroes of the Six Flowers”. However, as the heroes gather, they soon begin to suspect that someone amongst them is an imposter. - *Plot Summary from MAL*
 
