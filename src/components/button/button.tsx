@@ -149,20 +149,3 @@ export const IconOnlyButton = forwardRef<
 		</ButtonWrapperBase>
 	);
 }) as unknown as IconOnlyButtonComponent;
-
-const LargeIconOnlyButton = forwardRef<
-	AllowedElements<ButtonTag> | null,
-	IconOnlyButtonProps
->(({ class: className = "", children, ...props }, ref) => {
-	return (
-		<ButtonWrapperBase
-			{...props}
-			class={`iconOnly large ${className}`}
-			ref={ref}
-		>
-			<div class="iconOnlyButtonIcon" aria-hidden="true">
-				{children}
-			</div>
-		</ButtonWrapperBase>
-	);
-}) as unknown as IconOnlyButtonComponent;

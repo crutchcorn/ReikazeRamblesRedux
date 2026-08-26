@@ -17,10 +17,6 @@ export function getAllPosts(): PostInfo[] {
 	return [...posts];
 }
 
-function getAllCollections(): CollectionInfo[] {
-	return [...collections];
-}
-
 export function getPersonById(id: string): UnicornInfo | undefined {
 	return people.find((person) => person.id === id);
 }
@@ -60,15 +56,4 @@ export function getPostsByPerson(personId: string): PostInfo[] {
 
 export function getCollectionBySlug(slug: string): CollectionInfo | undefined {
 	return collections.find((collection) => collection.slug === slug);
-}
-
-function getCollections(): CollectionInfo[] {
-	return [...collections].filter(isDefined).sort(compareByPublished);
-}
-
-function getCollectionsByPerson(unicornId: string): CollectionInfo[] {
-	return [...collections]
-		.filter(isDefined)
-		.filter((c) => c.authors.includes(unicornId))
-		.sort(compareByPublished);
 }
