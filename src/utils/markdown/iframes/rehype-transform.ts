@@ -14,7 +14,6 @@ import * as stream from "stream";
 import sharp from "sharp";
 import * as svgo from "svgo";
 import { fetchPageHtml, getPageTitle } from "utils/fetch-page-html";
-import { getCanonicalIframeLink } from "./canonical-link";
 
 interface RehypeUnicornIFrameClickToRunProps {
 	srcReplacements?: Array<(val: string, root: VFile) => string>;
@@ -209,11 +208,9 @@ export const rehypeUnicornIFrameClickToRun: Plugin<
 				for (const replacement of srcReplacements) {
 					src = replacement(src!.toString(), file);
 				}
-				const iframeSrc = String(src);
-				const linkSrc = getCanonicalIframeLink(iframeSrc);
 
 				height = height ?? EMBED_SIZE.h;
-				const info: PageInfo = (await fetchPageInfo(linkSrc).catch(
+				const info: PageInfo = (await fetchPageInfo(src!.toString()).catch(
 					() => null,
 				)) || { iconFile: defaultPageIcon };
 
@@ -222,8 +219,7 @@ export const rehypeUnicornIFrameClickToRun: Plugin<
 
 				const iframeReplacement = IFramePlaceholder({
 					height: height.toString(),
-					src: iframeSrc,
-					linkSrc,
+					src: String(src),
 					pageTitle: String(dataFrameTitle ?? "") || info.title || "",
 					pageIcon: info.iconFile,
 					propsToPreserve: JSON.stringify(propsToPreserve),
