@@ -1,6 +1,14 @@
 # build output
 dist/
 
+# generated public assets
+/public/content
+/public/.ignored_*
+/public/unicorn-profile-pic-map.ts
+/public/searchIndex.js
+/public/generated/
+/public/*.epub
+
 # dependencies
 node_modules/
 .pnpm-store/
