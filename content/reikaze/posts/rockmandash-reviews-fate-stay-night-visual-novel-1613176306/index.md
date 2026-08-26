@@ -77,7 +77,7 @@ It's been 10 years. While there are parts that shine visually, overall it just l
 
 # Sound
 
-<iframe src="https://www.youtube.com/embed/3L1DEvzsftw"></iframe>
+<iframe src="https://www.youtube.com/watch?v=3L1DEvzsftw"></iframe>
 
 ![](./nfokbjcrvfemdreulysm.png)
 
@@ -107,7 +107,7 @@ Due to the fact that it's the same game, it has the same story, so we don't have
 
 About the Visuals, the improvements are mostly small touches and most of the complaints are still valid. The new CG looks solid ([F/HA quality imo](https://rockmandash12.kinja.com/rockmandash-reviews-fate-hollow-ataraxia-visual-novel-1612260148)), the improvements (effects, camera pans, etc.) help make the game more modern and it helps fit the mood of the game. The visuals are improved, but not to the level of Type-Moon's newer stuff, mostly due to the fact that RN keeps most of the original art. It's still mostly the same, so it still has the same atmosphere and style, but it's been polished up quite a bit. The best part about the visuals though has to be the fact that there's no eroge, something I wish all VN's were. All the H-Scenes are optional and replaced with the alternate scenes from RN, and I wish every VN release was like this. I really appreciated the option to just skip the H-Scenes while getting all of the context.
 
-<iframe src="https://www.youtube.com/embed/AtclrJb-D3A"></iframe>
+<iframe src="https://www.youtube.com/watch?v=AtclrJb-D3A"></iframe>
 
 The soundtrack though is really another story: the Mirror-Moon patch for the original release had the Voice Acting added in with a *Realta Nua* patch that added a some stuff from RN, but it still had the original soundtrack. The 2012 soundtrack from the vita is fantastic though; at times it's very similar, but it fits the tone and mood of the game so much more. It has a grander feel, it sounds more "full", more grand, it fits the story quite a bit better than the original and makes it feel more modern. F/HA is still my favorite Fate soundtrack, but this soundtrack closes the gap quite a bit, and fills up a lot of my complaints.
 

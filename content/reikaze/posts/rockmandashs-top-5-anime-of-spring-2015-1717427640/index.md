@@ -103,4 +103,4 @@ So exactly what’s going to happen when Hachiman Hikigaya, an isolated high sch
 
 Also, the ED is just bonkers great, one of the best I’ve seen. Listen to it now, you won’t regret it.
 
-<iframe src="https://www.youtube.com/embed/j3SlUmr_T4g"></iframe>
+<iframe src="https://www.youtube.com/watch?v=j3SlUmr_T4g"></iframe>

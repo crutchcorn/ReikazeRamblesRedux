@@ -13,7 +13,7 @@
 
 Why do I say this? Before[* 999 *](/posts/why-i-love-999-nine-hours-nine-persons-nine-doors-so-1688146811)&[ *Zero Escape: Virtue’s Last Reward*](/posts/zero-escape-virtues-last-reward-is-nearly-perfect-expe-1713427517), Kotaro Uchikoshi (The Director of *Zero Escape*) worked the *Infinity *series, a series that that shaped how many fans outside of Japan viewed the industry. This is because the second game, [*Ever 17 - The Out of Infinity*](/posts/rockmandash-reviews-ever-17-the-out-of-infinity-vis-1626111485)*, *is well known in the west because of it’s amazing story, with reviewers calling it one of the best in the genre, [myself included](/posts/rockmandashs-top-10-favorite-visual-novels-1677663938).
 
-<iframe src="https://www.youtube.com/embed/hdwKxuogBbk"></iframe>
+<iframe src="https://www.youtube.com/watch?v=hdwKxuogBbk"></iframe>
 
 Now, back to *Root Double - Before Crime\*After Days. *It’s* *a VN by Regista/Yeti which is currently being localized by Sekai Project and translated by Lemnisca translations (which probably has to be my favorite translation group out there, doing a great job on works like [*Killer Queen*](http://anitay.kinja.com/killer-queen-is-a-great-dark-thriller-1650835383) and [I/O](http://tay.kinja.com/rockmandash-reviews-i-o-visual-novel-1563212529) which was also made by Takumi Nakazawa).I have confidence this game is going to be just as great as the others because the Director of *Ever 17 *and the *Infinity *series as a whole is the person who made this which is really reassuring, and everything I’ve seen and heard about this, from the OP to other people talking about it, this game sounds great. If you’re interested, here is the plot summary:
 

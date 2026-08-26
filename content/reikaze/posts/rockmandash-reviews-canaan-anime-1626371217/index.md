@@ -43,7 +43,7 @@ I have no complaints here. The action looks good, the characters are pleasing to
 
 # Sound
 
-<iframe src="https://www.youtube.com/embed/gFbdJZCBzKw"></iframe>
+<iframe src="https://www.youtube.com/watch?v=gFbdJZCBzKw"></iframe>
 
 ![](./1248091306045399982.png)
 

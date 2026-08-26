@@ -9,4 +9,4 @@ kinjaArticle: true
 
 **Blimp** - I just finished a video review for my review of Root Double - Before Crime*After Days, go check it out! If you want to read it instead, [you can do so here](https://rockmandash12.kinja.com/rockmandash-reviews-root-double-before-crime-after-1780907573).
 
-<iframe src="https://www.youtube.com/embed/tijDZKAp_Ec"></iframe>
+<iframe src="https://www.youtube.com/watch?v=tijDZKAp_Ec"></iframe>

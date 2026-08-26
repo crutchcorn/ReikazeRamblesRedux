@@ -8,8 +8,8 @@
 }
 ---
 
-<iframe src="https://www.youtube.com/embed/5SxT_mmTiYM"></iframe>
+<iframe src="https://www.youtube.com/watch?v=5SxT_mmTiYM"></iframe>
 
 Because us over at FuwaFM have a podcast! 2, in fact! One of them is a Fate/stay night review which has both me and [Grex](https://kinja.com/grex) on board, and another about H-Scenes in VNs! (which nobody from AniTAY was in, but is worth looking into regardless. Fuwa’s resident H-scene guy Ryechu was on it!)
 
-<iframe src="https://www.youtube.com/embed/m0cQ0NwG6JI"></iframe>
+<iframe src="https://www.youtube.com/watch?v=m0cQ0NwG6JI"></iframe>

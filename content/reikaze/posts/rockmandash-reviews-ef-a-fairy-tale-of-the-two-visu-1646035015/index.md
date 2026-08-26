@@ -95,7 +95,7 @@ Really, I cannot state this enough: *ef - a fairy tale of the two* has great art
 
 ***
 
-<iframe src="https://www.youtube.com/embed/tPmDKb836eo"></iframe>
+<iframe src="https://www.youtube.com/watch?v=tPmDKb836eo"></iframe>
 
 Continuing the trend of emphasizing how beautiful this game is, we have the absolutely amazing and unbelievably beautiful score done by Tenmon, the composer for most of the Shinkai works. It’s really amazing, and one of the most beautiful soundtracks in a game. It’s so good that you could leave running in background and not realize it’s a soundtrack for a game, with almost every song in the soundtrack being pleasing to the ear. It’s the type of soundtrack that you chuck into your iPod/phone without hesitation. Even though it has a clear bias for classical music, there is a surprisingly large range of variety here with everything from happy go lucky generic VN music to some really amazing violin. Everything is well composed, leading to some really beautiful tracks and some amazing songs that will blow you away.
 

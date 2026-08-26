@@ -11,7 +11,7 @@
 
 Today’s March 31st... which means that it’s April Fools in Japan. Key, like everyone else and like they normally do, have made some movie “announcements”, but inside their joke could have actually be holding a real announcement... a *Planetarian* movie.
 
-<iframe src="https://www.youtube.com/embed/u_uy1yrP7gI"></iframe>
+<iframe src="https://www.youtube.com/watch?v=u_uy1yrP7gI"></iframe>
 
 [On Key’s website today](http://key.visualarts.gr.jp/), they announced such jems like *Mahou no Daisan Wakusei” Creamy☆Kagarin! (Rewrite Joke), Masato － The Raging Muscle of Death (Little Busters)*, and *Chibimoth’s heartful hide and seek (Rewrite)*, but inside this announcement was a little window to *Planetarian*, and unlike the others, that’s clickable. It leads to a video clip of a full legit 45 second PV for a presumed anime movie of *Planetarian*.
 

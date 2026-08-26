@@ -65,7 +65,7 @@ That being said, even the anime hasn’t aged perfectly and there are elements w
 
 # Sound
 
-<iframe src="https://www.youtube.com/embed/vdk_76z38bA"></iframe>
+<iframe src="https://www.youtube.com/watch?v=vdk_76z38bA"></iframe>
 
 ![](./1533533614098355373.png)
 

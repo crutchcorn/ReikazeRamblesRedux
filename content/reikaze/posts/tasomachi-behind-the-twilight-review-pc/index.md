@@ -8,7 +8,7 @@
 
 There was a time that the 3D Platformer genre appeared to be dead, but it feels like we’ve hit a bit of a Renaissance in recent years. The newest entry in the genre is _Tasomachi: Behind the Twilight_ – a charming adventure collectathon made by a single developer, nocras. This happens to be a truly beautiful game and succeeds in its goal of presenting this genre to the modern era, but it’s marred by technical issues, leaving me feeling like it isn’t ready for prime time.
 
-<iframe src="https://www.youtube.com/embed/eAdyU0Hynj8"></iframe>
+<iframe src="https://www.youtube.com/watch?v=eAdyU0Hynj8"></iframe>
 
 _Tasomachi_’s visuals and its world immediately stand out. The art direction is striking, and the environments are incredibly unique. The levels are inspired by East Asian architecture and are visually stunning, especially at night. The general layout makes them fun to explore, which is the most appealing part of these games.
 

@@ -13,7 +13,7 @@ I decided i'd finally get to posting my reviews that I wrote before I joined TAY
 
 Edit: I forgot that I even made a video review of this lol:
 
-<iframe src="https://www.youtube.com/embed/SPrRBJzTWDA"></iframe>
+<iframe src="https://www.youtube.com/watch?v=SPrRBJzTWDA"></iframe>
 
 # Plot & Characters
 

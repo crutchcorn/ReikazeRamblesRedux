@@ -17,7 +17,7 @@ So, What are the rules of this list, you may ask? If it aired/released this seas
 
 # **HM#2. *Rokka: Braves of the Six Flowers***
 
-<iframe src="https://www.youtube.com/embed/NBxFQkLWSg0"></iframe>
+<iframe src="https://www.youtube.com/watch?v=NBxFQkLWSg0"></iframe>
 
 **Plot Description:** When the Majin awakes from the depths of darkness, the deity of fate selects six heroes and bequeaths them with the power to save the world. Adlet, a boy who proclaims himself the strongest man in the world, has been selected among “The Heroes of the Six Flowers”. However, as the heroes gather, they soon begin to suspect that someone amongst them is an imposter. - *Plot Summary from MAL*
 
@@ -31,7 +31,7 @@ A beautiful world. An Amazing atmosphere. A great opening. An interesting premis
 
 # HM#2. *Ranpo Kitan: Game of Laplace*
 
-<iframe src="https://www.youtube.com/embed/765kDM0jrBU"></iframe>
+<iframe src="https://www.youtube.com/watch?v=765kDM0jrBU"></iframe>
 
 **Plot Description:** *Ranpo Kitan* is inspired by the works of pioneer mystery fiction author Edogawa Ranpo, and was also created as a tribute to the 50th anniversary of his death. Though it may not seem very apparent that this anime is based on Showa era stories, one of the main characters pays homage to Edogawa’s famous detective Kogoro Akechi (and yeah, the real Ranpo did actually write about human chairs). The anime follows events through the perspective of Kobayashi, an intelligent but jaded middle school student who is thrust into a murder investigation and decides solving heinous crimes is just the thing to break the monotony. He teams up with another wunderkind, 17 year old investigator Akechi, to solve various and gruesome murders. - *Plot Description written by Morie from the Anime You Should Be Watching Article*
 
@@ -43,7 +43,7 @@ A beautiful world. An Amazing atmosphere. A great opening. An interesting premis
 
 # 5. *Working!!!*
 
-<iframe src="https://www.youtube.com/embed/1R3LpZXXjC0"></iframe>
+<iframe src="https://www.youtube.com/watch?v=1R3LpZXXjC0"></iframe>
 
 **Plot Description:** So a former delinquent, her sword-wielding flunkie, a chain-smoking chef, and a sadistic manipulator walk into a family restaurant. They are greeted by a girl afraid of guys, a guy afraid of grown women, a girl pretending to be missing, and a high schooler that looks like an elementary student. Is this the beginning of a convoluted joke? Well, yes, but it’s also just the usual afternoon shift reporting in at Wagnaria. - *Plot Description by Raitzeno from the Anime You Should Be Watching Article*
 
@@ -57,7 +57,7 @@ Having progress in a comedy show that spent two seasons pandering and just being
 
 # **4. *School-Live!***
 
-<iframe src="https://www.youtube.com/embed/UNjHxhljAck"></iframe>
+<iframe src="https://www.youtube.com/watch?v=UNjHxhljAck"></iframe>
 
 **Plot Description:** Yuki Takeya and her three friends Kurumi, Yuri and Miki make up the Magurigaoka High School School Living Club. Supervised by Megumi Sakura, Megu-nee for short, these four girls and their dog named Taroumaru live at Magurigaoka and spend their time working to make the school a better place for everyone. Yuki is ever upbeat and in spite of being one of the older members of the club it is the other three that have to work to keep Yuki from getting into trouble or breaking the club rules, especially that one about not leaving the school grounds, ever. - *Plot Description by from the Anime You Should Be Watching Article*
 
@@ -89,7 +89,7 @@ Having progress in a comedy show that spent two seasons pandering and just being
 
 # 1. *Non Non Biyori Repeat*
 
-<iframe src="https://www.youtube.com/embed/liniqGHdXbM"></iframe>
+<iframe src="https://www.youtube.com/watch?v=liniqGHdXbM"></iframe>
 
 **Plot Description:** *Non Non Biyori Repeat* continues following the lives of four girls: the first-grader Renge Miyauchi, the fifth-grader Hotaru Ichijo, the seventh-grader Natsumi Koshigaya, and the eighth-grader Komari Koshigaya, as they attend school and kill boredom in the village of Asahigaoka in the Japanese countryside. *- Plot Description by Koda from the Anime You Should Be Watching Article*
 

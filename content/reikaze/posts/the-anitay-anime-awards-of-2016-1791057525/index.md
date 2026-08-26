@@ -41,7 +41,7 @@ Here’s what the authors of AniTAY have to say! We here at AniTAY are an opinio
 
 **Author’s Pick for Best ED: *Flip Flappers***
 
-<iframe src="https://www.youtube.com/embed/WMu50SruIeM"></iframe>
+<iframe src="https://www.youtube.com/watch?v=WMu50SruIeM"></iframe>
 
 ***
 

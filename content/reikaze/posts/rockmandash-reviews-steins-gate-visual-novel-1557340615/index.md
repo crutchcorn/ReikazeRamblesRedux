@@ -71,7 +71,7 @@ Steins;Gate is an experience that nobody should miss. This is an amazing game th
 
 Video Review -
 
-<iframe src="https://www.youtube.com/embed/KdUCiI6lf7k"></iframe>
+<iframe src="https://www.youtube.com/watch?v=KdUCiI6lf7k"></iframe>
 
 ***
 

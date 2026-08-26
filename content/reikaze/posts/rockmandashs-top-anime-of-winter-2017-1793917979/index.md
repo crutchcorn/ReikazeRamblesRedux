@@ -65,7 +65,7 @@ Season 2 however, is a passable show, and is one that actual humans can enjoy! T
 
 # 5. ***ACCA: 13-Territory Inspection Dept.***
 
-<iframe src="https://www.youtube.com/embed/pITNm95Sd1k"></iframe>
+<iframe src="https://www.youtube.com/watch?v=pITNm95Sd1k"></iframe>
 
 **Anime Made By:** Madhouse
 
@@ -93,7 +93,7 @@ Season 2 however, is a passable show, and is one that actual humans can enjoy! T
 
 # 3. *Saga of Tanya the Evil*
 
-<iframe src="https://www.youtube.com/embed/CMwlVyfy3m4"></iframe>
+<iframe src="https://www.youtube.com/watch?v=CMwlVyfy3m4"></iframe>
 
 **Anime Made By:** NUT
 
@@ -107,7 +107,7 @@ Season 2 however, is a passable show, and is one that actual humans can enjoy! T
 
 # 2. ***Shouwa Genroku Rakugo Shinjuu Season 2***
 
-<iframe src="https://www.youtube.com/embed/vGx7u3hMCOA"></iframe>
+<iframe src="https://www.youtube.com/watch?v=vGx7u3hMCOA"></iframe>
 
 **Anime Made By:** Studio Deen
 

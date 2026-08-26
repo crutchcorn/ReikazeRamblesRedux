@@ -61,7 +61,7 @@ To be specific, the backgrounds of LeMu were pretty solid, the special CG for im
 
 There are aspects that haven’t aged so well however; the sprites and the fonts have not aged that well. The sprites at times can look unnatural in the environments they are in, and the font just looks old. Really though, these won’t inhibit your enjoyment of the game at all, so it’s nothing to worry about.
 
-<iframe src="https://www.youtube.com/embed/8biltdXfwvo?si=8v3quLB5DOzkO7KA"> </iframe>
+<iframe src="https://www.youtube.com/watch?v=8biltdXfwvo"> </iframe>
 
 > *Yes, the gif was just a snippet of this OP. Deal with it.*
 
@@ -79,13 +79,13 @@ The soundtrack in *Ever 17* is one of my favorite soundtracks out there: it’s 
 
 The soundtrack itself overall isn’t particularly mind blowing, with most of it composed of atmospheric pieces, but it does have some standouts like Karma. The atmospheric nature is also an aspect of why the soundtrack is so good though; it’s the atmosphere, a mood, and uses its music very well. In my opinion, music in media is made to manipulate the emotions, and along with the visuals, create a feeling of existence in the world. Due to the fact that we do not exist in these experiences, these works have to try absorbing us into the world by creating an atmosphere that is engaging and a mood that interests the viewer. *Ever 17* has a soundtrack that does this atmosphere building to near perfection, and this soundtrack is a big part of that process. It really takes the writing and story up by a few levels, and creating a soundtrack like this is what every work should strive for.
 
-<iframe src="https://www.youtube.com/embed/5K5PsF5Y2dM"> </iframe>
+<iframe src="https://www.youtube.com/watch?v=5K5PsF5Y2dM"> </iframe>
 
 One of the best parts of this soundtrack is how it fits with the themes of the game, with a smooth, watery feel that helps make this soundtrack blend into the location. The happy and upbeat tracks like [Lemurianishce Ruine ](https://www.youtube.com/watch?v=h99YYncmzeY)sound bubbly and entertaining, the more normal tracks like [Hologramm ](https://www.youtube.com/watch?v=5K5PsF5Y2dM)sound smooth, the tracks like [Karma](https://www.youtube.com/watch?v=zkvQte7JWpw) have a serene and calming feel, yet have the feelings it intends, and the intense tracks like [IBF Notfall](https://www.youtube.com/watch?v=hMiO3ZbyxQY) are like water flooding in, with all the swiftness and dread that comes with it. Really, it’s a phenomenal soundtrack, and it’s very pleasing to the ear.
 
 Considering the age of *Ever 17,* you probably wouldn’t expect voice acting, but it’s here and it’s pretty good! The voice actors do a pretty good job portraying the characters and the emotions that come with them, which I really appreciate. The sound clips seem like they have low sampling rates and are compressed a bit, but it doesn’t really get in the way of your experience.
 
-<iframe src="https://www.youtube.com/embed/pHIJz0Op6sc"> </iframe>
+<iframe src="https://www.youtube.com/watch?v=pHIJz0Op6sc"> </iframe>
 
 When 5pb decided to remake *Ever 17* in 2011, they also decided to remake the soundtrack... and it’s hit and miss. Some aspects are better, with more instruments, and cleaner sound... but a lot of the charm and smoothness from the original soundtrack is gone, which causes some tracks to sound worse in comparison (Insel null is a great example of this: [360](https://www.youtube.com/watch?v=BjVzqA41neg\&list=PL3E52C022C271E4DD\&index=1) vs [PC](https://www.youtube.com/watch?v=mmuLlROPVLo))
 

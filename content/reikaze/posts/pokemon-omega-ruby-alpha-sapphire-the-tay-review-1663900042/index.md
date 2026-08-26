@@ -83,7 +83,7 @@ I had a lot of fun playing through ORAS. While X and Y were also a lot of fun, I
 
 # Sounds solid, most of the time
 
-<iframe src="https://www.youtube.com/embed/HZJxV7ifKoc"></iframe>
+<iframe src="https://www.youtube.com/watch?v=HZJxV7ifKoc"></iframe>
 
 I've always been a fan of soundtracks in Pokémon games, as they were always pleasing to the ear, fitting to the location they were aiming for and invigorating when necessary. That being said, Ruby and Sapphire's soundtrack was never something I've been the biggest fan of, and it didn't stand up in comparison to some other soundtracks in my opinion. ORAS tries to change that, and it has mild degrees of success, but I wouldn't say it's one of the best Pokémon soundtracks out there.
 

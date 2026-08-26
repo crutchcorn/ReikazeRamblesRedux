@@ -23,7 +23,7 @@ We all have those moments where we see a show and wonder... Where was it in my l
 
 For one thing, it’s done extremely well, and you’d expect it to be done really well given the talent here. it’s written by the extremely talented Mamoru Oshii, the director of the Ghost in the Shell series, it’s animated by the wonderful production IG and composed by the amazing Yoko Kanno. It’s the trifecta that made *GITS* so wonderful and it’s equally as amazing here. It’s done so great, and it’s so good... :)
 
-<iframe src="https://www.youtube.com/embed/tmmoBsMw5w0"></iframe>
+<iframe src="https://www.youtube.com/watch?v=tmmoBsMw5w0"></iframe>
 
 I need to really emphasize that point: it’s animated really well and it sounds great. Yoko Kanno does such great work and IG knocked did a fantastic job with it as well. If this trailer can’t convince you otherwise, nothing will be able to convince you.. the atmosphere from the soundtrack is just amazing and the realistic art style is seriously impressive.
 

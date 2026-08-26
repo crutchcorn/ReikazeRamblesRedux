@@ -24,4 +24,4 @@ In case you missed it, [check out our review of *Muv-Luv Unlimited: The Day Afte
 
 You can watch the entire stream below:
 
-<iframe src="https://www.youtube.com/embed/F-AKwGDr0Zs"></iframe>
+<iframe src="https://www.youtube.com/watch?v=F-AKwGDr0Zs"></iframe>

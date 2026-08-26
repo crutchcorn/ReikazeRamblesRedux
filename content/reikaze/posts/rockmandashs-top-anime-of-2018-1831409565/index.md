@@ -71,7 +71,7 @@ This anime is still *Steins;Gate* so the strengths like the enjoyable cast, the 
 
 # 9. *Liz and the Blue Bird*
 
-<iframe src="https://www.youtube.com/embed/yyysLf1FkvE"></iframe>
+<iframe src="https://www.youtube.com/watch?v=yyysLf1FkvE"></iframe>
 
 **Anime Made By:** Kyoto Animation
 
@@ -160,7 +160,7 @@ With his new power, Akira must fight to protect humanity and his loved ones agai
 
 # 3. *Night Is Short, Walk On Girl*
 
-<iframe src="https://www.youtube.com/embed/RGHXqjCbyEQ"></iframe>
+<iframe src="https://www.youtube.com/watch?v=RGHXqjCbyEQ"></iframe>
 
 **Anime Made By:** Science Saru (Masaaki Yuasa)
 

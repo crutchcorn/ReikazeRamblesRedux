@@ -39,7 +39,7 @@ It looks great, sounds great, and will probably have a great story. Under The Do
 
 What Creative Intelligence Arts is trying to get funded is not an anime series, but an episode that represents a pitch. You might be asking then... why are they asking all this money, and why are they even asking for money in the first place when they are industry experts? Most people don't really realize this, but anime is really really expensive. Not just to buy, but to make. For something to look good, someone has to be payed to make it.... and the process of getting an anime funded and to make.... is insane. This is explained at the bottom of the kickstarter page, but most people didn't really read that much of it. Here's a video by Digibro that explains this very well.
 
-<iframe src="https://www.youtube.com/embed/-AHo-_XEV6E"></iframe>
+<iframe src="https://www.youtube.com/watch?v=-AHo-_XEV6E"></iframe>
 
 > In Japan, it is very difficult to obtain independent funding since the anime industry heavily relies on what is known as "seisaku iinkai" or "production committees." This committee requires buy-in from multiple major corporations that combine their efforts to help carry the load of the production costs and thereby minimize the financial risk for each individual company. One company could take on animation, another music, another advertising, another distribution, and so on. It can also drive down the costs of production due to companies willing to take an initial loss with the hopes of turning a profit over the course of several years as the anime and any licensing deals run their course (music, toys, manga, etc.).
 >

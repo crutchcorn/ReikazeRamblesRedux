@@ -61,7 +61,7 @@ Key cannot screw up music. If they ever released a game with bad music, it would
 
 **Sound - 10/10**
 
-<iframe src="https://www.youtube.com/embed/FNQTQlflYA8"></iframe>
+<iframe src="https://www.youtube.com/watch?v=FNQTQlflYA8"></iframe>
 
 # Enjoyment
 

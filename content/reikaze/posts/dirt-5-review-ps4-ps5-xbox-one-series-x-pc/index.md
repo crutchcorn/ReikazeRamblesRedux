@@ -8,7 +8,7 @@
 
 With _Dirt 4_ and _Dirt Rally_, Codemasters has carved a niche for themselves in hardcore rally racing. While those games appealed to a handful of fans, how do you attract new players alienated by the simulation difficulty and want a more arcadey racing game? To grab the attention of the general racing audience, the developer shows off a more traditional formula with* Dirt 5, *which packs in tons of variety. Still, it might leave the hardcore players wanting more.
 
-<iframe src="https://www.youtube.com/embed/k7bsUQ0DY5E?feature=oembed"></iframe>
+<iframe src="https://www.youtube.com/watch?v=k7bsUQ0DY5E"></iframe>
 
 Before we get started by talking about the gameplay, we have to talk about graphics. Being a launch title for the next-generation consoles, a lot rides on the visual presentation of this entry. However, this may be unfair, seeing how the series has never focused on hyper-realistic graphics. Still, I should mention that the environments and effects appear plain, the skybox isn’t impressive, and the textures appear low res.
 

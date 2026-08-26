@@ -8,7 +8,7 @@
 
 The _Muv-Luv_ series is considered to be some of the most highly regarded visual novel’s to come west, with _Muv-Luv Alternative,_ in particular being the highest-rated one of the highest ranted on [VNDB](https://vndb.org/v92). The series manages these feats with a combination of an immersive world, compelling narratives, and lovable characters. For those who can’t help but want to be with these characters for a little bit longer, _Muv-Luv photonmelodies_ is here with some additional stories to supplement your cravings.
 
-<iframe src="https://www.youtube.com/embed/ZEilWoAfORQ?feature=oembed"></iframe>
+<iframe src="https://www.youtube.com/watch?v=ZEilWoAfORQ"></iframe>
 
 _Muv-Luv_ is a series that finds a way to immerses the reader in its narrative through a profoundly rooted plot and alternative timelines (In the past, I[ wrote an opinion piece](https://rockmandash12.kinja.com/rockmandash-rambles-why-i-loved-muv-luv-but-you-might-1566859006) on what makes the series great). Both fandisc collections, *photonflowers\* and photonmelodies,* expand on the relationships within the series with added context and sub-plots.
 

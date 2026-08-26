@@ -13,7 +13,7 @@ I've always believed the ideal place for a romance series is near by the coast i
 
 Video Review here:
 
-<iframe src="https://www.youtube.com/embed/o9vNjnknN_I?si=u85KYCWmNL5qfJwI"></iframe>
+<iframe src="https://www.youtube.com/watch?v=o9vNjnknN_I"></iframe>
 
 # Writing
 
@@ -51,7 +51,7 @@ I don't really know what to think about the visuals on this game. It's water col
 
 The music is pretty charming, and calming. It's charming, but it suffers through the same problems that plagues this whole game: There's not enough of it, and it doesn't try to stand out, thus it doesn't really stand out.
 
-<iframe src="https://www.youtube.com/embed/rN1L9Z6DIus"></iframe>
+<iframe src="https://www.youtube.com/watch?v=rN1L9Z6DIus"></iframe>
 
 **Sound - 6.5/10**
 

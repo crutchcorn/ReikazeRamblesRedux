@@ -8,7 +8,7 @@
 
 It’s so easy to let our preconceived notions and generalizations shape the decisions we make. As a result, though: we can dismiss excellence these labels might deter us from. On paper, _Genshin Impact_ seems like a free-to-play, Gacha _Breath of the Wild_ clone. Many people might overlook it for that, but to think of _Genshin Impact_ like this is doing both it and ourselves a great disservice. _Genshin Impact_ is too good to ignore. In fact, I’ll come out say that it’s a fun and frenetic action-adventure RPG that’s become one of my favorite games this year.
 
-<iframe src="https://www.youtube.com/embed/zRyWr-SclJs?feature=oembed"></iframe>
+<iframe src="https://www.youtube.com/watch?v=zRyWr-SclJs"></iframe>
 
 To begin this review, let’s attack those labels: Gacha game and _Breath of the Wild_ clone. _Genshin Impact_ bucks many of the negative gacha trends that would deter people from playing the game. I’ve never really been a huge fan of the gacha mechanics found in mobile titles solely based on their design. In some instances, you’ll feel like missed out on events and characters if you don’t put money in, but even if you do, you might not pull what you’re looking for.
 

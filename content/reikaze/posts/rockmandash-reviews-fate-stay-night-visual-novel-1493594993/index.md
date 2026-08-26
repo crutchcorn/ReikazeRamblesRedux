@@ -9,7 +9,7 @@
 
 I guess i'll start off by saying HELLO TO TAY! I've been doing anime reviews and game reviews for a while now, and after seeing Dex's wonderful reviews, and the amazing reaction to them, I thought that I would start posting my own content onto TAY. This post is kinda like a pilot in that aspect, as it's a test run to see if I will get any sort of feedback on my stuff. I must note that I wrote and uploaded this before, so it might not be Similar to Kotaku's reviewing style like Dex's Review and you might have seen this before, if you are one of the 3 people who know who i am lol. So... here it is... My Fate Stay Night visual novel review.
 
-BTW- If you like video reviews, here is my [Video Review](http://www.youtube.com/watch?v=7bfVwJ5KSik), and here's my[ New Review](https://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1613176306).
+BTW- If you like video reviews, here is my [Video Review](https://www.youtube.com/watch?v=7bfVwJ5KSik), and here's my[ New Review](https://rockmandash12.kinja.com/rockmandash-reviews-fate-stay-night-visual-novel-1613176306).
 
 
 

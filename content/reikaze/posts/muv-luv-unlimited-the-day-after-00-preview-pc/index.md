@@ -8,7 +8,7 @@
 
 I eagerly await every new release of _Muv-Luv_, but out of all the titles Anchor has been releasing, _Muv Luv Unlimited: The Day After_ is probably the one I have been looking forward to the most. This is partly because it was started by Alternative Project but never finished. After all, they went legit. But another reason was that I thought that _Muv Luv Unlimited: The Day After_ is an exceptionally great part of _Muv-Luv_ that no one should miss.
 
-<iframe src="https://www.youtube.com/embed/b2OZHWjxR94?feature=oembed"></iframe>
+<iframe src="https://www.youtube.com/watch?v=b2OZHWjxR94"></iframe>
 
 My _Muv-Luv Unlimited: The Day After 00_ impressions will assume that you have played through at least the original _Muv-Luv_ (the _Extra_ and _Unlimited_ arcs) since there are inherent spoilers that cannot be avoided. So please play those first or read our review on them before you continue with this one.
 

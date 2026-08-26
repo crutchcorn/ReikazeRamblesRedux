@@ -10,4 +10,4 @@
 
 **AniTAY’s Response to this Shaqsanity:**
 
-<iframe src="https://www.youtube.com/embed/gLCRsUzEtQg"></iframe>
+<iframe src="https://www.youtube.com/watch?v=gLCRsUzEtQg"></iframe>

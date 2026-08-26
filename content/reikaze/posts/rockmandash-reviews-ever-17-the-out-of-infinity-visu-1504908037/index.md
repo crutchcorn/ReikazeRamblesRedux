@@ -17,7 +17,7 @@ To those who came and found this from google or something, Please check out my [
 
 Welcome to Rockmandash Reviews and this is actually one of my very first reviews I've wrote and did, so coming back to this in a review for TAY is quite interesting. This game is Ever 17, a PC Sci-fi visual novel game from the now defunct KID. The game is written by the same writer as 999, and Zero Escape: Virtue's Last Reward. I love this game, and it's in my top 10 favorite games of all time. This one is overlooked by many people, and I'm here to change that.
 
-<iframe src="https://www.youtube.com/embed/xINxrJM2YRk?si=M6HAqIAKB1e0wWAB"></iframe>
+<iframe src="https://www.youtube.com/watch?v=xINxrJM2YRk"></iframe>
 
 # Plot and Charecters:
 

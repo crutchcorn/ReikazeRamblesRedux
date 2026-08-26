@@ -10,4 +10,4 @@
 
 I found this while strolling through youtube.... and wow. Jajnov Music really captures the essence of the original song, while doing an interesting cover... with string! So far, He only has pretty new stuff, but I'm going to be following this guy. Pretty neat stuff.
 
-<iframe src="https://www.youtube.com/embed/--jahuwSz8M"></iframe>
+<iframe src="https://www.youtube.com/watch?v=--jahuwSz8M"></iframe>

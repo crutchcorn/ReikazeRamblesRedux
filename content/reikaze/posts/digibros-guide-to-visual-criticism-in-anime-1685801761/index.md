@@ -8,7 +8,7 @@
 }
 ---
 
-<iframe src="https://www.youtube.com/embed/wLd8KPp7TB8"></iframe>
+<iframe src="https://www.youtube.com/watch?v=wLd8KPp7TB8"></iframe>
 
 If you didn't know, I'm a pretty big fan of[ Digibro](https://www.youtube.com/channel/UCHhnf3RgHabfk5f2gUX6EVQ), as his anime analysis just is leagues ahead of people like the peasant anime reviewers like myself. Once again he does his magic, focusing on the way people analyze and grade visuals so if you do any anime reviewing, you deserve it to yourself to check it out, as all of his points are once again rock solid.\
 \

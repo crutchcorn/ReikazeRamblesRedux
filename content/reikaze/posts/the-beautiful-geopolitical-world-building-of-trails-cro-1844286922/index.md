@@ -21,7 +21,7 @@ Also, I’d just like to shout out [Geofront](https://geofront.esterior.net/) - 
 \
 One more also: I made a video verison of this article! Feel free to check it out:
 
-<iframe src="https://www.youtube.com/embed/GjLbKxs4cgs"></iframe>
+<iframe src="https://www.youtube.com/watch?v=GjLbKxs4cgs"></iframe>
 
 ***
 

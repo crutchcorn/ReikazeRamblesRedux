@@ -35,7 +35,7 @@ That being said, there were some damn great movies that came out in 2017, and I 
 
 # Honorable Mention: *Ancient Magus Bride*
 
-<iframe src="https://www.youtube.com/embed/zuW_qSQXFx0"></iframe>
+<iframe src="https://www.youtube.com/watch?v=zuW_qSQXFx0"></iframe>
 
 **Anime Made By:** Wit Studio
 
@@ -81,7 +81,7 @@ While at the beginning Season 2 seemed like more of *Best Girl: The Animation* w
 
 # 6. *Fate/stay night Heaven’s Feel Presage Flower*
 
-<iframe src="https://www.youtube.com/embed/AMr5pXzpvP0"></iframe>
+<iframe src="https://www.youtube.com/watch?v=AMr5pXzpvP0"></iframe>
 
 **Anime Made By:** Ufotable
 
@@ -97,7 +97,7 @@ In my opinion, while none of the other *Fate/stay night* anime managed to do eit
 
 # 5. *Saga of Tanya the Evil*
 
-<iframe src="https://www.youtube.com/embed/CMwlVyfy3m4"></iframe>
+<iframe src="https://www.youtube.com/watch?v=CMwlVyfy3m4"></iframe>
 
 **Anime Made By:** NUT
 
@@ -111,7 +111,7 @@ In my opinion, while none of the other *Fate/stay night* anime managed to do eit
 
 # 4. *Silent Voice*
 
-<iframe src="https://www.youtube.com/embed/nfK6UgLra7g"></iframe>
+<iframe src="https://www.youtube.com/watch?v=nfK6UgLra7g"></iframe>
 
 **Anime Made By:** Kyoto Animation
 
@@ -131,7 +131,7 @@ For me, the pinnacle of a movie experience is being immersed in a human story, a
 
 # 3. *Descending Stories: Showa Genroku Rakugo Shinju S2*
 
-<iframe src="https://www.youtube.com/embed/vGx7u3hMCOA"></iframe>
+<iframe src="https://www.youtube.com/watch?v=vGx7u3hMCOA"></iframe>
 
 **Anime Made By:** Studio Deen\
 \
@@ -159,7 +159,7 @@ Season 2 was more of *Rakugo* Season 1 which is great, but Season 2 made a funda
 
 # 1. *Girls’ Last Tour*
 
-<iframe src="https://www.youtube.com/embed/mF5MKNwbRhg"></iframe>
+<iframe src="https://www.youtube.com/watch?v=mF5MKNwbRhg"></iframe>
 
 **Anime Made By:** White Fox
 

@@ -34,7 +34,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 # Honorable Mention: ***Fate/kaleid liner Prisma☆Illya 3rei!!*** 
 
-<iframe src="https://www.youtube.com/embed/pNzi-3NG1Rk"></iframe>
+<iframe src="https://www.youtube.com/watch?v=pNzi-3NG1Rk"></iframe>
 
 **Anime Made By:** Silver Link
 
@@ -50,7 +50,7 @@ This is the world where Miyu was born and raised. - *Plot Summary from MAL*
 
 # 7. *Planetarian*
 
-<iframe src="https://www.youtube.com/embed/u_uy1yrP7gI"></iframe>
+<iframe src="https://www.youtube.com/watch?v=u_uy1yrP7gI"></iframe>
 
 **Anime Made By:** David Productions
 
@@ -76,7 +76,7 @@ This is the world where Miyu was born and raised. - *Plot Summary from MAL*
 
 # 5. *New Game!*
 
-<iframe src="https://www.youtube.com/embed/XvWD1Cqx4X8"></iframe>
+<iframe src="https://www.youtube.com/watch?v=XvWD1Cqx4X8"></iframe>
 
 **Anime Made By:** Doga Kobo
 

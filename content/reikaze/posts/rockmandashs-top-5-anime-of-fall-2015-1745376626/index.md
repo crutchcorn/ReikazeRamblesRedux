@@ -39,7 +39,7 @@ Just an FYI, the placement of the show in the list is mostly based on my experie
 
 # ***3. Noragami Aragoto***
 
-<iframe src="https://www.youtube.com/embed/3oFTHxkOzjE"></iframe>
+<iframe src="https://www.youtube.com/watch?v=3oFTHxkOzjE"></iframe>
 
 **Plot Description:** In the second season of *Noragami,* the main focus is on Bishamon, god of war. She has many shinki due to her being unable to abandon spirits attacked by Ayakashi. She has a large group of shinki with her as leader, causing her trouble as she sometimes cannot tend to all of them properly, especially when one of them gets sick or is in pain. She has a strong hate for Yato, as a dark past binds the two of them. How will the horrifying events dated hundreds of years ago in combination with current evil happenings affect Yato and Yukine? - *Plot Description from MAL*
 
@@ -73,7 +73,7 @@ For *Haikyuu* - After losing against Aoba Jousai, the whole Karasuno team feels 
 
 Because of the nature of the show, making fun of a really popular and easy to watch show, *One Punch Man* is also easily accessible, and when combined with the fact it’s extremely hilarious, *One Punch Man* is the popular show of the year, an engaging show that I and many others had a blast with. Unlike other shows though, it earns it’s popularity with some of the most engaging action scenes anime has to offer, tons of fluidity in the animation which makes it look great, hilarious interactions, etc. It’s a show that is a joy to experience, and it’s one I loved, definitely a must watch in the year and one of my favorites. It’s a show that maintains a high level of quality, one that makes for a blast to watch at all times. Plus, how the hell do you say no to something with a JAM Project opening like this?
 
-<iframe src="https://www.youtube.com/embed/QImBolnTVH8"></iframe>
+<iframe src="https://www.youtube.com/watch?v=QImBolnTVH8"></iframe>
 
 **If interested, you should also check out** [Koda’s review on AniTAY](http://anitay.kinja.com/one-punch-man-the-ani-tay-review-1749225072).
 
