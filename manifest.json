@@ -1,7 +1,7 @@
 {
 	"name": "Reikaze Rambles",
 	"short_name": "Reikaze Rambles",
-	"start_url": "/",
+	"start_url": ".",
 	"background_color": "#ffffff",
 	"theme_color": "#127db3",
 	"display": "minimal-ui",

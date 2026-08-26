@@ -1,0 +1,1 @@
+var e=()=>{let e=new IntersectionObserver(([e])=>{e.target.dataset.sticky=e.intersectionRatio<1?`pinned`:``},{threshold:[1]});document.querySelectorAll(`[data-sticky-observer]`).forEach(t=>e.observe(t))};export{e as t};

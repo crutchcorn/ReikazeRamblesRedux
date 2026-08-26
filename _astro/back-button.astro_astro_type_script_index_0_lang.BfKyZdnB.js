@@ -1,0 +1,1 @@
+import{t as e}from"./base-path.DaXAi6_o.js";(()=>{let t=document.querySelector(`#backbtn`);if(!t)return;let n=!1;window.addEventListener(`beforeunload`,()=>{n=!0}),t.addEventListener(`click`,()=>{if(!document.referrer){window.location.href=e(`/`);return}history.back(),setTimeout(()=>{n||(window.location.href=e(`/`))},200)})})();

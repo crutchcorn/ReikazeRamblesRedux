@@ -1,0 +1,1 @@
+function e(){return`/ReikazeRamblesRedux`}function t(e){let t=e.trim().replace(/^\/+|\/+$/g,``);return t?`/${t}`:``}function n(n,r=e()){if(!n.startsWith(`/`)||n.startsWith(`//`))return n;let i=t(r);return!i||n===i||n.startsWith(`${i}/`)||n.startsWith(`${i}?`)||n.startsWith(`${i}#`)?n:`${i}${n}`}export{n as t};
