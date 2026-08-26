@@ -1,5 +1,6 @@
 import type { JSX } from "preact";
 import type { ImageMetadata } from "astro";
+import { withBasePath } from "./base-path";
 
 export interface GetPictureSizes {
 	[size: number]: {
@@ -43,31 +44,27 @@ function getSupportedWidth(width: number) {
 const isDev = Boolean(import.meta.env?.DEV);
 
 function getSource(src: string, width: number) {
-	if (isDev) {
-		// If the dev server is running, we can use the /_image endpoint
-		return `/_image?${new URLSearchParams({
-			href: src,
-			w: String(width),
-			q: "100",
-		})}`;
-	} else {
-		// Otherwise, use Vercel's Image Optimization API
-		return `/_vercel/image?${new URLSearchParams({
-			url: src,
-			w: String(width),
-			q: "100",
-		})}`;
-	}
+	return `${withBasePath("/_image")}?${new URLSearchParams({
+		href: src,
+		w: String(width),
+		q: "100",
+	})}`;
 }
 
 export function getPictureUrls(options: GetPictureOptions): GetPictureUrls {
+	// The production site is fully static, so it has no runtime image optimizer.
+	// In production the original image is rendered directly by getPictureAttrs.
+	if (!isDev) return {};
+
 	const formats = options.formats ?? ["avif", "webp", "png"];
 	const widths = options.sizes
 		? Object.keys(options.sizes).map(Number).concat([options.width])
 		: [options.width];
 
 	const src =
-		typeof options.src === "object" ? options.src.src : (options.src ?? 2000);
+		typeof options.src === "object"
+			? options.src.src
+			: withBasePath(options.src);
 
 	const urls: GetPictureUrls = {};
 
@@ -87,6 +84,10 @@ export function getPictureAttrs(
 	options: GetPictureOptions,
 	urls: GetPictureUrls,
 ): GetPictureResult {
+	const src =
+		typeof options.src === "object"
+			? options.src.src
+			: withBasePath(options.src);
 	const sizeMap = options.sizes || {};
 
 	const widths = Object.keys(sizeMap)
@@ -120,6 +121,7 @@ export function getPictureAttrs(
 	return {
 		urls,
 		image: {
+			src,
 			width: Math.round(options.width),
 			height: Math.round(options.height),
 			decoding: "async",
