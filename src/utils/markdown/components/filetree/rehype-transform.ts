@@ -20,7 +20,7 @@
  */
 import { toString } from "hast-util-to-string";
 import type { Child as HChild } from "hastscript";
-import { Element } from "hast";
+import type { Element } from "hast";
 import { visit } from "unist-util-visit";
 import JSON5 from "json5";
 import { FileList, Directory, File } from "./file-list";

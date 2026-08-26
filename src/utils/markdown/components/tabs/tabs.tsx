@@ -1,6 +1,6 @@
 /** @jsxRuntime automatic */
 import classNames from "classnames";
-import { Node, Element } from "hast";
+import type { Node, Element } from "hast";
 
 export interface TabInfo {
 	slug: string;

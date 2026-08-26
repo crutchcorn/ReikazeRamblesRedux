@@ -1,4 +1,4 @@
-import { Root, Element } from "hast";
+import type { Root, Element } from "hast";
 import { VFile } from "vfile";
 import { Plugin } from "unified";
 

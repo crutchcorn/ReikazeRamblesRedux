@@ -1,5 +1,5 @@
 /** @jsxRuntime automatic */
-import { Element } from "hast";
+import type { Element } from "hast";
 import { fromHtml } from "hast-util-from-html";
 import fs from "fs/promises";
 

@@ -1,6 +1,6 @@
 import { visit } from "unist-util-visit";
 import { is } from "unist-util-is";
-import { Root, Parent, Element } from "hast";
+import type { Root, Parent, Element } from "hast";
 import { unified, Plugin } from "unified";
 import { RehypeFunctionComponent } from "./types";
 import rehypeParse from "rehype-parse";

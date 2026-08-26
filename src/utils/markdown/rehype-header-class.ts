@@ -1,7 +1,7 @@
 import { headingRank } from "hast-util-heading-rank";
 import { hasProperty } from "hast-util-has-property";
 import { toString } from "hast-util-to-string";
-import { Root, Parent } from "hast";
+import type { Root, Parent } from "hast";
 import { visit } from "unist-util-visit";
 import { isMarkdownVFile } from "./types";
 import { Plugin } from "unified";

@@ -1,5 +1,5 @@
 import { getHeaderNodeId, slugs } from "rehype-slug-custom-id";
-import { Element, Node, Parent, Text } from "hast";
+import type { Element, Node, Parent, Text } from "hast";
 import { TabInfo, Tabs } from "./tabs";
 import { toString } from "hast-util-to-string";
 import { RehypeFunctionComponent } from "../types";

@@ -1,4 +1,4 @@
-import { Element, Root } from "hast";
+import type { Element, Root } from "hast";
 import { fromHtml } from "hast-util-from-html";
 import { find } from "unist-util-find";
 

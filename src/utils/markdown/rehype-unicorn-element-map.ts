@@ -1,4 +1,4 @@
-import { Root, Element } from "hast";
+import type { Root, Element } from "hast";
 import { visit } from "unist-util-visit";
 import { withBasePath } from "../base-path";
 import { urlPathRegex, resolvePath } from "../url-paths";

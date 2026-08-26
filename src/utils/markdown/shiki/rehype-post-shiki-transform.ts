@@ -1,4 +1,4 @@
-import { Root, Element } from "hast";
+import type { Root, Element } from "hast";
 import { Plugin } from "unified";
 import { SKIP, visit } from "unist-util-visit";
 

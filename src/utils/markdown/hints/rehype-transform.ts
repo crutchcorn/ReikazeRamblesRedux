@@ -1,7 +1,7 @@
-import { Root } from "hast";
+import type { Root } from "hast";
 import { visit } from "unist-util-visit";
 import { Plugin } from "unified";
-import { Element, Node } from "hast";
+import type { Element, Node } from "hast";
 import { Hint } from "./hints";
 import { toString } from "hast-util-to-string";
 

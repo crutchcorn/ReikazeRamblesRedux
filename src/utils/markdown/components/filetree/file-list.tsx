@@ -1,5 +1,5 @@
 /** @jsxRuntime automatic */
-import { Element } from "hast";
+import type { Element } from "hast";
 import type { Child as HChild } from "hastscript";
 import { fromHtml } from "hast-util-from-html";
 import { getIcon } from "./file-tree-icons";
