@@ -14,6 +14,7 @@ import * as stream from "stream";
 import sharp from "sharp";
 import * as svgo from "svgo";
 import { fetchPageHtml, getPageTitle } from "utils/fetch-page-html";
+import { getIFrameSrc } from "./get-iframe-src";
 
 interface RehypeUnicornIFrameClickToRunProps {
 	srcReplacements?: Array<(val: string, root: VFile) => string>;
@@ -144,31 +145,59 @@ function fetchPageIcon(src: URL, srcHast: Root): Promise<string> {
 type PageInfo = {
 	title?: string;
 	thumbnail?: string;
+	iframeSrc?: string;
 	iconFile: string;
+};
+
+type NoEmbedResponse = {
+	title?: unknown;
+	thumbnail_url?: unknown;
+	html?: unknown;
 };
 
 export async function fetchPageInfo(src: string): Promise<PageInfo | null> {
 	// fetch origin url, catch any connection timeout errors
 	const url = new URL(src);
+	const isYouTube =
+		url.hostname === "www.youtube.com" || url.hostname === "youtube.com";
 	url.search = ""; // remove any search params
 
-	const srcHast = await fetchPageHtml(url.toString());
-	if (!srcHast) return null;
+	const [srcHast, noEmbedData] = await Promise.all([
+		fetchPageHtml(url.toString()),
+		isYouTube
+			? fetch(
+					`https://noembed.com/embed?dataType=json&url=${encodeURIComponent(src)}`,
+				)
+					.then(async (response): Promise<NoEmbedResponse | null> =>
+						response.status === 200
+							? ((await response.json()) as NoEmbedResponse)
+							: null,
+					)
+					.catch(() => null)
+			: Promise.resolve(null),
+	]);
+	if (!srcHast && !noEmbedData) return null;
 
 	let title: string | undefined;
 	let thumbnail: string | undefined;
+	let iframeSrc: string | undefined;
 
-	if (url.hostname === "www.youtube.com" || url.hostname === "youtube.com") {
-		const json = await fetch(
-			`https://noembed.com/embed?dataType=json&url=${encodeURIComponent(src)}`,
-		)
-			.then((r) => r.status === 200 && r.json())
-			.catch(() => null);
-		if (json) {
-			title = json.title ? `${json.title}` : undefined;
-			thumbnail = json.thumbnail_url ? `${json.thumbnail_url}` : undefined;
+	if (isYouTube) {
+		if (noEmbedData) {
+			title =
+				typeof noEmbedData.title === "string"
+					? noEmbedData.title
+					: undefined;
+			thumbnail =
+				typeof noEmbedData.thumbnail_url === "string"
+					? noEmbedData.thumbnail_url
+					: undefined;
+			iframeSrc =
+				typeof noEmbedData.html === "string"
+					? getIFrameSrc(noEmbedData.html)
+					: undefined;
 		}
-	} else {
+	} else if (srcHast) {
 		title = getPageTitle(srcHast);
 	}
 
@@ -176,8 +205,10 @@ export async function fetchPageInfo(src: string): Promise<PageInfo | null> {
 		console.log(`[iframes] found title for ${src}: "${title}"`);
 
 	// find the page favicon (cache by page origin)
-	const iconFile = await fetchPageIcon(url, srcHast);
-	return { title, iconFile, thumbnail };
+	const iconFile = srcHast
+		? await fetchPageIcon(url, srcHast)
+		: defaultPageIcon;
+	return { title, iconFile, thumbnail, iframeSrc };
 }
 
 // TODO: Add switch/case and dedicated files ala "Components"
@@ -220,6 +251,7 @@ export const rehypeUnicornIFrameClickToRun: Plugin<
 				const iframeReplacement = IFramePlaceholder({
 					height: height.toString(),
 					src: String(src),
+					iframeSrc: info.iframeSrc,
 					pageTitle: String(dataFrameTitle ?? "") || info.title || "",
 					pageIcon: info.iconFile,
 					propsToPreserve: JSON.stringify(propsToPreserve),
