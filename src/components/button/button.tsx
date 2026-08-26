@@ -1,6 +1,6 @@
 import { JSXNode, PropsWithChildren } from "../types";
-import { JSX } from "preact";
-import { ForwardedRef, forwardRef } from "preact/compat";
+import { AllHTMLAttributes } from "preact";
+import { forwardRef } from "preact/compat";
 
 type AllowedTags = "a" | "button" | "span" | "div";
 
@@ -21,11 +21,8 @@ type ButtonProps<Tag extends AllowedTags> = PropsWithChildren<
 		// For when the user is _actually_ focused on another element, like react-aria radio buttons
 		isFocusVisible?: boolean;
 		variant?:
-			| "primary-emphasized"
-			| "secondary-emphasized"
-			| "primary"
-			| "secondary";
-	} & JSX.HTMLAttributes<AllowedElements<Tag>>
+			"primary-emphasized" | "secondary-emphasized" | "primary" | "secondary";
+	} & AllHTMLAttributes<AllowedElements<Tag>>
 >;
 
 const ButtonWrapper = forwardRef<

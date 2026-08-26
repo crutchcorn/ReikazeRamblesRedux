@@ -24,8 +24,8 @@ export interface GetPictureOptions {
 
 export interface GetPictureResult {
 	urls: GetPictureUrls;
-	image: JSX.HTMLAttributes<HTMLImageElement>;
-	sources: JSX.HTMLAttributes<HTMLSourceElement>[];
+	image: JSX.IntrinsicElements["img"];
+	sources: JSX.IntrinsicElements["source"][];
 }
 
 export const SUPPORTED_IMAGE_SIZES = [
@@ -67,7 +67,7 @@ export function getPictureUrls(options: GetPictureOptions): GetPictureUrls {
 		: [options.width];
 
 	const src =
-		typeof options.src === "object" ? options.src.src : options.src ?? 2000;
+		typeof options.src === "object" ? options.src.src : (options.src ?? 2000);
 
 	const urls: GetPictureUrls = {};
 

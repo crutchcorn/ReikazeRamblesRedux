@@ -31,15 +31,12 @@ function setColorsByTheme() {
 		"COLOR_MODE_STORAGE_KEY",
 	);
 
-	let colorMode = "light";
-
-	const hasUsedToggle = typeof prefersDarkFromLocalStorage === "string";
-
-	if (hasUsedToggle) {
-		colorMode = prefersDarkFromLocalStorage;
-	} else {
-		colorMode = prefersDarkFromMQ ? "dark" : "light";
-	}
+	const colorMode =
+		typeof prefersDarkFromLocalStorage === "string"
+			? prefersDarkFromLocalStorage
+			: prefersDarkFromMQ
+				? "dark"
+				: "light";
 
 	let root = document.documentElement;
 

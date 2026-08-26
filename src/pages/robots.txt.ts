@@ -1,10 +1,10 @@
 import { buildMode, siteUrl } from "constants/site-config";
 
 export const GET = () => {
-	let body = "";
 	// if (buildMode === "production") {
-	if (buildMode === "asdfasdf") {
-		body = `
+	const body =
+		buildMode === "asdfasdf"
+			? `
 # *
 User-agent: *
 Allow: /
@@ -14,9 +14,8 @@ Host: ${siteUrl}
 
 # Sitemaps
 Sitemap: ${siteUrl}/sitemap-index.xml
-`.trim();
-	} else {
-		body = `
+				`.trim()
+			: `
 # *
 User-agent: *
 Disallow: /
@@ -26,7 +25,7 @@ Host: ${siteUrl}
 
 # Sitemaps
 Sitemap: ${siteUrl}/sitemap-index.xml
-        `.trim();
-	}
+				`.trim();
+
 	return new Response(body);
 };

@@ -5,8 +5,7 @@ import { getPosts, getPersonById } from "utils/api";
 export const GET = () => {
 	const feed = new Feed({
 		title: "Reikaze Rambles' RSS Feed",
-		description:
-			"The new home for RockmanDash Reviews",
+		description: "The new home for RockmanDash Reviews",
 		id: siteUrl,
 		link: siteUrl,
 		language: "en",
@@ -25,6 +24,7 @@ export const GET = () => {
 
 		feed.addItem({
 			title: post.title,
+			id: nodeUrl,
 			guid: nodeUrl,
 			link: nodeUrl,
 			description: post.description,

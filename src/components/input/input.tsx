@@ -3,13 +3,12 @@ import { ComponentProps, ComponentType, Fragment, JSX } from "preact";
 import search from "../../icons/search.svg?raw";
 import close from "../../icons/close.svg?raw";
 import { IconOnlyButton } from "components/button/button";
-import { HTMLAttributes } from "preact/compat";
 import { useRandomId } from "utils/preact/useId";
 
-interface InputProps extends HTMLAttributes<HTMLInputElement> {
+type InputProps = JSX.IntrinsicElements["input"] & {
 	label?: string;
 	containerClass?: string;
-}
+};
 
 export function Input({
 	class: className = "",

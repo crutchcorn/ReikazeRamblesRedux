@@ -16,7 +16,7 @@ const { post, postSeries, collection } = Astro.props as SeriesTocProps;
 
 const activePostsMeta = findActivePost(post, postSeries);
 
-const showMoreText = "" + activePostsMeta.length
+const showMoreText = "" + activePostsMeta.length;
 ---
 
 <div class={styles.seriesTableOfContent}>
@@ -90,7 +90,7 @@ const showMoreText = "" + activePostsMeta.length
 <script
 	define:vars={{
 		showMoreText: showMoreText,
-		showLessText: "action.view_less_chapters"
+		showLessText: "action.view_less_chapters",
 	}}
 >
 	const showMore = document.querySelector("#toggleAllButton");
@@ -100,7 +100,7 @@ const showMoreText = "" + activePostsMeta.length
 
 	let expanded = false;
 
-	showMore &&
+	if (showMore) {
 		showMore.addEventListener("click", () => {
 			if (!expanded) {
 				showHideChapters.forEach((chapter) => {
@@ -115,4 +115,5 @@ const showMoreText = "" + activePostsMeta.length
 			}
 			expanded = !expanded;
 		});
+	}
 </script>

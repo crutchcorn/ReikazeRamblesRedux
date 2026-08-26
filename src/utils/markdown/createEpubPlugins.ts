@@ -5,10 +5,10 @@ import {
 	remarkProcessFrontmatter,
 } from "./remark-process-frontmatter";
 import remarkGfm from "remark-gfm";
-import remarkUnwrapImages from "remark-unwrap-images";
 import remarkToRehype from "remark-rehype";
 import rehypeSlug from "rehype-slug-custom-id";
 import rehypeRaw from "rehype-raw";
+import rehypeUnwrapImages from "rehype-unwrap-images";
 import {
 	rehypeMakeHrefPathsAbsolute,
 	rehypeMakeImagePathsAbsolute,
@@ -31,8 +31,8 @@ export function createEpubPlugins(unified: Processor) {
 			} as never)
 			.use(remarkProcessFrontmatter)
 			.use(remarkGfm)
-			.use(remarkUnwrapImages)
 			.use(remarkToRehype, { allowDangerousHtml: true })
+			.use(rehypeUnwrapImages)
 			// This is required to handle unsafe HTML embedded into Markdown
 			.use(rehypeRaw, { passThrough: ["mdxjsEsm"] } as never)
 			// When generating an epub, any relative paths need to be made absolute

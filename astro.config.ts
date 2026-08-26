@@ -1,20 +1,20 @@
-import { defineConfig, AstroUserConfig } from "astro/config";
+import { defineConfig } from "astro/config";
 
 import preact from "@astrojs/preact";
 import sitemap from "@astrojs/sitemap";
 import icon from "astro-icon";
 import { EnumChangefreq as ChangeFreq } from "sitemap";
 import { siteUrl } from "./src/constants/site-config";
-import symlink from "symlink-dir";
+import { symlinkDir } from "symlink-dir";
 import * as path from "path";
 import { astroIntegrationCopyGenerated } from "./src/utils/markdown/astro-integration-copy-generated";
 
-await symlink(path.resolve("content"), path.resolve("public/content"));
+await symlinkDir(path.resolve("content"), path.resolve("public/content"));
 
 export default defineConfig({
 	site: siteUrl,
 	output: "static",
-	base: '/ReikazeRamblesRedux',
+	base: "/ReikazeRamblesRedux",
 	integrations: [
 		icon(),
 		preact({ compat: true }),
@@ -33,6 +33,13 @@ export default defineConfig({
 		astroIntegrationCopyGenerated(),
 	],
 	vite: {
+		css: {
+			preprocessorOptions: {
+				scss: {
+					loadPaths: [process.cwd()],
+				},
+			},
+		},
 		optimizeDeps: {
 			exclude: ["msw", "msw/node", "sharp"],
 		},
@@ -47,5 +54,4 @@ export default defineConfig({
 			],
 		},
 	},
-	markdown: {} as AstroUserConfig["markdown"] as never,
 });

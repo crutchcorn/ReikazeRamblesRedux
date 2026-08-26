@@ -47,12 +47,11 @@ export const enableTabs = () => {
 
 			// Scroll onto screen in order to avoid jumping page locations
 			setTimeout(() => {
-				tab.scrollIntoView &&
-					tab.scrollIntoView({
-						behavior: "auto",
-						block: "center",
-						inline: "center",
-					});
+				tab.scrollIntoView?.({
+					behavior: "auto",
+					block: "center",
+					inline: "center",
+				});
 			}, 0);
 		}
 	}
@@ -67,12 +66,11 @@ export const enableTabs = () => {
 		if (shouldScrollToTab) {
 			// Scroll onto screen in order to avoid jumping page locations
 			setTimeout(() => {
-				target.scrollIntoView &&
-					target.scrollIntoView({
-						behavior: "auto",
-						block: "center",
-						inline: "center",
-					});
+				target.scrollIntoView?.({
+					behavior: "auto",
+					block: "center",
+					inline: "center",
+				});
 			}, 0);
 		}
 	}

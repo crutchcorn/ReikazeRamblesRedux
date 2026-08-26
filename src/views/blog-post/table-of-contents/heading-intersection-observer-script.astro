@@ -98,12 +98,12 @@ const { headingsToDisplaySlugs } = Astro.props as {
 
 		let activeLinkId: string = linkRefs[0]?.id || "";
 
-		const handleObserver = (entries: any) => {
+		const handleObserver = (entries: IntersectionObserverEntry[]) => {
 			// find the first link that matches a visible heading
 			for (const linkRef of linkRefs) {
 				// find any heading entry that corresponds to the linkRef
 				const entry = entries.find(
-					(entry: any) => entry.target.getAttribute("id") === linkRef.id,
+					(entry) => entry.target.getAttribute("id") === linkRef.id,
 				);
 
 				// determine if the link should be active
@@ -147,16 +147,14 @@ const { headingsToDisplaySlugs } = Astro.props as {
 		});
 
 		// use headingsToDisplaySlugs prop to observe all heading elements on the page
-		const headingsEls: HTMLElement[] = (
-			window as any
-		).headingsToDisplaySlugs.map((headingToDisplay: string) => {
-			return document.getElementById(headingToDisplay);
-		});
+		const headingsEls = (
+			window as typeof window & { headingsToDisplaySlugs: string[] }
+		).headingsToDisplaySlugs
+			.map((headingToDisplay) => document.getElementById(headingToDisplay))
+			.filter((heading): heading is HTMLElement => heading !== null);
 
-		headingsEls
-			.filter((a) => a)
-			.forEach((heading) => {
-				observer.observe(heading);
-			});
+		headingsEls.forEach((heading) => {
+			observer.observe(heading);
+		});
 	};
 </script>

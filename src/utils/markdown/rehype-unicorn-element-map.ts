@@ -32,7 +32,7 @@ export const rehypeUnicornElementMap: Plugin<[], Root> = () => {
 				const isExternalLink = urlPathRegex.test(href?.toString() || "");
 				if (isExternalLink) {
 					node.properties.target = "_blank";
-					node.properties.rel = "nofollow noopener noreferrer";
+					node.properties.rel = ["nofollow", "noopener", "noreferrer"];
 				}
 			}
 

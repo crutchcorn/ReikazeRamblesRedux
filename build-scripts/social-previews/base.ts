@@ -3,7 +3,6 @@ import { FunctionComponent } from "preact";
 
 export type ComponentProps = {
 	post: PostInfo;
-	postHtml: string;
 	height: number;
 	width: number;
 	authorImageMap: Record<string, string>;

@@ -5,7 +5,7 @@ import { MarkdownFileInfo, MarkdownVFile } from "./types";
 export async function getMarkdownVFile(
 	data: MarkdownFileInfo,
 ): Promise<MarkdownVFile> {
-	let fileContent: string | null = null;
+	let fileContent: string;
 	try {
 		// Using import() here enables hot-reloading, but fails during astro build
 		const fileImport = await import(/* @vite-ignore */ `${data.file}?raw`);

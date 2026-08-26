@@ -2,7 +2,11 @@ import { dirname, resolve } from "path";
 import { promises as fs } from "fs";
 import { fileURLToPath } from "url";
 import emojiRegexFn from "emoji-regex";
-import { EPub, defaultAllowedAttributes } from "@lesjoursfr/html-to-epub";
+import {
+	EPub,
+	defaultAllowedAttributes,
+	type EpubOptions,
+} from "@lesjoursfr/html-to-epub";
 import { unified } from "unified";
 import { CollectionInfo, PostInfo } from "types/index";
 import { getPersonById, getPosts } from "utils/api";
@@ -52,7 +56,6 @@ ${collectionPosts
 
 		if (!chapterMetaLinks?.length) {
 			return `
-<!--<h2 id="${collection.slug}-${chapter.order}">${chapter.title.trim()}</h2>-->
 <h2 id="${chapter.order}">${chapter.title.trim()}</h2>
 
 <p>No links for this chapter</p>
@@ -61,7 +64,6 @@ ${collectionPosts
 
 		// TODO: `<ol start="">` Blocked by: https://github.com/lesjoursfr/html-to-epub/issues/140
 		return `
-<!--<h2 id="${collection.slug}-${chapter.order}">${chapter.title.trim()}</h2>-->
 <h2 id="${chapter.order}">${chapter.title.trim()}</h2>
 
 <ol start="${chapterMetaLinks[0].countWithinCollection}">
@@ -126,10 +128,10 @@ async function generateEpubHTML({
 	return html.replace(emojiRegex, "");
 }
 
-type EpubOptions = ConstructorParameters<typeof EPub>[0];
-
 async function generateEPub(collectionPosts: PostInfo[], fileLocation: string) {
-	const authors = [getPersonById("reikaze")].map((author) => author?.name);
+	const authors = [getPersonById("reikaze")?.name].filter(
+		(author): author is string => author !== undefined,
+	);
 
 	const referenceTitle = "References";
 
@@ -159,20 +161,21 @@ async function generateEPub(collectionPosts: PostInfo[], fileLocation: string) {
 		data: referencePageHTML.replace(emojiRegex, ""),
 	});
 
-	const epub = new EPub(
-		{
-			title: "The Complete Collection of Kevin Mai's Blog Posts",
-			author: authors,
-			publisher: "Reikaze Rambles",
-			// cover: collection.coverImgMeta.absoluteFSPath,
-			allowedAttributes: [...defaultAllowedAttributes, "start", "colSpan"],
-			css: await fs.readFile(resolve(__dirname, "./epub.css"), "utf-8"),
-			// fonts: ['/path/to/Merriweather.ttf'],
-			lang: "en",
-			content: contents,
-		} as Partial<EpubOptions> as EpubOptions,
-		fileLocation,
-	);
+	const epubOptions = {
+		title: "The Complete Collection of Kevin Mai's Blog Posts",
+		description:
+			"The complete collection of Kevin Mai's blog posts published on Reikaze Rambles.",
+		author: authors,
+		publisher: "Reikaze Rambles",
+		// cover: collection.coverImgMeta.absoluteFSPath,
+		allowedAttributes: [...defaultAllowedAttributes, "start", "colSpan"],
+		css: await fs.readFile(resolve(__dirname, "./epub.css"), "utf-8"),
+		// fonts: ['/path/to/Merriweather.ttf'],
+		lang: "en",
+		content: contents,
+	} satisfies EpubOptions;
+
+	const epub = new EPub(epubOptions, fileLocation);
 
 	await epub.render();
 }
