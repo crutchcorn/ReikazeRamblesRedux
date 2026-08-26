@@ -1,5 +1,4 @@
 import type { Root, Element } from "hast";
-import { VFile } from "vfile";
 import { Plugin } from "unified";
 
 import { visit } from "unist-util-visit";
@@ -15,10 +14,6 @@ import sharp from "sharp";
 import * as svgo from "svgo";
 import { fetchPageHtml, getPageTitle } from "utils/fetch-page-html";
 import { getIFramePlaybackSrc, getIFrameSrc } from "./get-iframe-src";
-
-interface RehypeUnicornIFrameClickToRunProps {
-	srcReplacements?: Array<(val: string, root: VFile) => string>;
-}
 
 // default icon, used if a frame's favicon cannot be resolved
 const defaultPageIcon = "/link.png";
@@ -210,11 +205,8 @@ export async function fetchPageInfo(src: string): Promise<PageInfo | null> {
 }
 
 // TODO: Add switch/case and dedicated files ala "Components"
-export const rehypeUnicornIFrameClickToRun: Plugin<
-	[RehypeUnicornIFrameClickToRunProps | never],
-	Root
-> = ({ srcReplacements = [] }) => {
-	return async (tree, file) => {
+export const rehypeUnicornIFrameClickToRun: Plugin<[], Root> = () => {
+	return async (tree) => {
 		const iframeNodes: Element[] = [];
 		visit(tree, "element", (node: Element) => {
 			if (node.tagName === "iframe") {
@@ -224,22 +216,17 @@ export const rehypeUnicornIFrameClickToRun: Plugin<
 
 		await Promise.all(
 			iframeNodes.map(async (iframeNode) => {
-				let {
-					height,
+				const {
+					height: originalHeight,
 					src,
-					// eslint-disable-next-line prefer-const
 					dataFrameTitle,
-					// eslint-disable-next-line prefer-const
 					...propsToPreserve
 				} = iframeNode.properties;
 				delete propsToPreserve.width;
 
-				for (const replacement of srcReplacements) {
-					src = replacement(src!.toString(), file);
-				}
 				const linkSrc = String(src);
 
-				height = height ?? EMBED_SIZE.h;
+				let height = originalHeight ?? EMBED_SIZE.h;
 				const info: PageInfo = (await fetchPageInfo(linkSrc).catch(
 					() => null,
 				)) || { iconFile: defaultPageIcon };
