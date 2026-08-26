@@ -9,10 +9,7 @@ function normalizeUrl(url: string) {
 	return url.endsWith("/") ? url.slice(0, -1) : url;
 }
 
-export const rehypeRemoveCollectionLinks: Plugin<
-	[],
-	Root
-> = () => {
+export const rehypeRemoveCollectionLinks: Plugin<[], Root> = () => {
 	const posts = getPosts();
 	return (tree) => {
 		visit(tree, "element", (node, index, parent) => {

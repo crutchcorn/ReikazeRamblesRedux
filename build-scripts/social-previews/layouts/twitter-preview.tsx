@@ -8,17 +8,13 @@ const unicornUtterancesHead = Buffer.from(
 	await fs.readFile("src/assets/reikaze-full-logo.png"),
 ).toString("base64");
 
-const TwitterLargeCard = ({
-	post,
-	width,
-	authorImageMap,
-}: ComponentProps) => {
+const TwitterLargeCard = ({ post, width, authorImageMap }: ComponentProps) => {
 	return (
 		<>
 			<div className="absoluteFill codeScreenOverlay" />
 			<div className="absoluteFill backgroundColor content">
 				<img
-					style={{position: "absolute", left: 64, top: 64}}
+					style={{ position: "absolute", left: 64, top: 64 }}
 					width={400}
 					src={`data:image/png;charset=utf-8;base64,${unicornUtterancesHead}`}
 				/>

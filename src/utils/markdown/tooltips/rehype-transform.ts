@@ -24,19 +24,17 @@ export const rehypeTooltips: Plugin<[], Root> = () => {
 			if (node.tagName !== "blockquote") return;
 
 			const firstParagraph = node.children.find((e) => e.type === "element");
-			if (
-				!(firstParagraph?.type === "element" && firstParagraph.tagName === "p")
-			)
+			if (!(
+				firstParagraph?.type === "element" && firstParagraph.tagName === "p"
+			))
 				return;
 
 			const firstText = firstParagraph.children[0];
-			if (
-				!(
-					firstText?.type === "element" &&
-					["strong", "em"].includes(firstText.tagName) &&
-					toString(firstText as never).endsWith(":")
-				)
-			)
+			if (!(
+				firstText?.type === "element" &&
+				["strong", "em"].includes(firstText.tagName) &&
+				toString(firstText as never).endsWith(":")
+			))
 				return;
 
 			// remove `firstText` from children nodes

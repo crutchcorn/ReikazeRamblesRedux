@@ -9,14 +9,8 @@ type Props = Pick<SEOProps, "title" | "unicornsData"> & {
 	siteMetadata: { title: string };
 };
 
-const {
-	currentPath,
-	siteMetadata,
-	title,
-	metaDescription,
-	metaImage,
-	ogType,
-} = Astro.props as Props;
+const { currentPath, siteMetadata, title, metaDescription, metaImage, ogType } =
+	Astro.props as Props;
 ---
 
 {/* Open Graph SEO */}

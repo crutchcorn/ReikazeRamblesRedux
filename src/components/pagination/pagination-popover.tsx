@@ -110,8 +110,10 @@ function PopupContents(
 	);
 }
 
-interface PaginationPopoverProps
-	extends Pick<PaginationProps, "page" | "getPageHref" | "softNavigate"> {
+interface PaginationPopoverProps extends Pick<
+	PaginationProps,
+	"page" | "getPageHref" | "softNavigate"
+> {
 	triggerRef: RefObject<Element>;
 	state: OverlayTriggerState;
 	overlayProps: DOMProps;

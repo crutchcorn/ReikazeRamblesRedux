@@ -33,8 +33,7 @@ const siteMetadata = {
 	siteUrl,
 	repoPath: "reikaze/ReikazeRambles",
 	relativeToPosts: "/content/blog",
-	keywords:
-		"anime,manga,reviews,game reviews,gaming",
+	keywords: "anime,manga,reviews,game reviews,gaming",
 	twitterHandle: "@reikazerambles",
 };
 
