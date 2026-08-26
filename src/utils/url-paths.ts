@@ -15,7 +15,7 @@ export const urlPathRegex = /^(?:[a-z]+:)?\/\//;
  */
 export const absolutePathRegex = /^\/[^\/]/;
 
-function isURL(str: string) {
+export function isURL(str: string) {
 	return urlPathRegex.test(str);
 }
 
