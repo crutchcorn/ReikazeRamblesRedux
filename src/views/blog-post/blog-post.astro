@@ -12,8 +12,6 @@ import {
 } from "types/index";
 
 import "../../styles/shiki.scss";
-import "../../styles/markdown/tabs.scss";
-import "../../styles/markdown/in-content-ads.scss";
 import SeriesToC from "./series/series-toc.astro";
 import { ArticleNav } from "./article-nav/article-nav";
 import RelatedPosts from "components/related-posts/related-posts.astro";
@@ -35,10 +33,6 @@ const { postHtml, post, postHeadings, authors, collection, collectionPosts } =
 	import mediumZoom from "medium-zoom";
 
 	mediumZoom(".post-body img:not([data-nozoom])");
-</script>
-<script>
-	import { enableTabs } from "../../utils/markdown/components/tabs/tabs-script";
-	enableTabs();
 </script>
 <script>
 	import { enableShikiTabindex } from "../../utils/markdown/shiki/shiki-tabindex-script";

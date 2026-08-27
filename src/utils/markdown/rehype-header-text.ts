@@ -17,11 +17,8 @@ export const rehypeHeaderText: Plugin<[], Root> = () => {
 			: [];
 
 		visit(tree, "element", (node: Parent["children"][number]) => {
-			// Don't descend into tab containers or collapsible <details> elements
-			if (
-				"properties" in node &&
-				(node.properties["role"] === "tabpanel" || node.tagName === "details")
-			) {
+			// Don't descend into collapsible <details> elements
+			if ("properties" in node && node.tagName === "details") {
 				return SKIP;
 			}
 

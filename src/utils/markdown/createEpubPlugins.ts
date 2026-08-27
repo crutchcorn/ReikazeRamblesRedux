@@ -18,7 +18,6 @@ import type { Processor } from "unified";
 import rehypeStringify from "rehype-stringify";
 import { rehypeExpandDetailsAndSummary } from "./rehype-expand-details-summary";
 import { rehypeShikiUU } from "./shiki/rehype-transform";
-import { rehypeTransformComponents } from "./components";
 import { rehypePostShikiTransform } from "./shiki/rehype-post-shiki-transform";
 
 export function createEpubPlugins(unified: Processor) {
@@ -39,15 +38,6 @@ export function createEpubPlugins(unified: Processor) {
 			.use(rehypeFixTwoSlashXHTML)
 			.use(rehypeMakeImagePathsAbsolute)
 			.use(rehypeMakeHrefPathsAbsolute)
-			.use(rehypeTransformComponents, {
-				components: {
-					filetree: ({ children }) => children,
-					["in-content-ad"]: ({ children }) => children,
-					["no-ebook"]: () => [],
-					["only-ebook"]: ({ children }) => children,
-					tabs: ({ children }) => children,
-				},
-			})
 			.use(rehypeExpandDetailsAndSummary)
 			.use(rehypeSlug as never, {
 				maintainCase: true,

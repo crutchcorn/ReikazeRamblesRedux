@@ -24,12 +24,6 @@ import { rehypeShikiUU } from "./shiki/rehype-transform";
 import rehypeStringify from "rehype-stringify";
 import { rehypeCodeblockMeta } from "./shiki/rehype-codeblock-meta";
 import { rehypePostShikiTransform } from "./shiki/rehype-post-shiki-transform";
-import {
-	rehypeTransformComponents,
-	transformFileTree,
-	transformInContentAd,
-	transformTabs,
-} from "./components";
 
 const remarkEmbedderDefault =
 	(remarkEmbedder as never as { default: typeof remarkEmbedder }).default ??
@@ -75,17 +69,7 @@ export function createHtmlPlugins(unified: Processor) {
 			.use(rehypeTooltips)
 			.use(rehypeAstroImageMd)
 			.use(rehypeUnicornIFrameClickToRun)
-			.use(rehypeTransformComponents, {
-				components: {
-					filetree: transformFileTree,
-					["in-content-ad"]: transformInContentAd,
-					["no-ebook"]: ({ children }) => children,
-					["only-ebook"]: () => [],
-					tabs: transformTabs,
-				},
-			})
 			.use(rehypeUnicornElementMap)
-			// rehypeHeaderText must occur AFTER rehypeTransformComponents to correctly ignore headings in role="tabpanel" and <details> elements
 			.use(rehypeHeaderText)
 			.use(rehypeHeaderClass, {
 				// the page starts at h3 (under {title} -> "Post content")

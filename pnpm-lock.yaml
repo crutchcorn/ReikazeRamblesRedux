@@ -178,9 +178,6 @@ importers:
       prettier-plugin-astro:
         specifier: ^0.14.1
         version: 0.14.1
-      rehype-parse:
-        specifier: 9.0.1
-        version: 9.0.1
       rehype-raw:
         specifier: ^7.0.0
         version: 7.0.0
@@ -241,9 +238,6 @@ importers:
       unist-util-find:
         specifier: ^3.0.0
         version: 3.0.0
-      unist-util-is:
-        specifier: ^6.0.1
-        version: 6.0.1
       unist-util-visit:
         specifier: ^5.1.0
         version: 5.1.0
