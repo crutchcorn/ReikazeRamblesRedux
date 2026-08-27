@@ -1,0 +1,31 @@
+{
+	"$schema": "https://unpkg.com/knip@6/schema-jsonc.json",
+	"workspaces": {
+		".": {
+			"project": [
+				"src/**/*.{astro,js,jsx,mdx,sass,scss,ts,tsx}",
+				"build-scripts/**/*.{js,jsx,ts,tsx}",
+				"public/{sw,uninstall-sw}.js",
+			],
+			"entry": [
+				"src/pages/**/*.{astro,js,jsx,ts,tsx}",
+				"build-scripts/social-previews/{index,live-server}.ts",
+				"build-scripts/epubs/generate-epubs.ts",
+				"public/{sw,uninstall-sw}.js",
+			],
+			// Knip does not resolve Sass load-path aliases. These partials are
+			// loaded through `@use "src/tokens"` throughout the application.
+			"ignoreFiles": [
+				"src/tokens/_breakpoints.scss",
+				"src/tokens/_index.scss",
+				"src/tokens/_utils.scss",
+				"src/tokens/_vars.scss",
+			],
+			"ignoreExportsUsedInFile": true,
+			"includeEntryExports": false,
+			"vitest": {
+				"entry": ["src/**/*.test.{ts,tsx}", "vitest.setup.ts"],
+			},
+		},
+	},
+}
